@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>The 100 — Books, Movies, Games, TV</title>
+<title>Ranked — Books, Movies, Games, TV, Anime</title>
 <meta name="description" content="Books, movies and games ranked by a volume-weighted score built from three audience rating sites each, split into modern and classic.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -221,7 +221,7 @@ footer{padding:28px 0 48px;color:var(--muted);font-size:13px}
 <body>
 <header class="top">
   <div class="wrap topbar">
-    <div class="brand"><span class="logo">The 100</span><span class="sub" id="sub"></span></div>
+    <div class="brand"><span class="logo">Ranked</span><span class="sub" id="sub"></span></div>
     <button class="theme" id="theme" type="button" aria-label="Switch colour theme">Theme</button>
   </div>
 </header>
@@ -286,7 +286,7 @@ footer{padding:28px 0 48px;color:var(--muted);font-size:13px}
     <h2>Refresh this list next year</h2>
     <p>Paste this prompt into a new conversation with Claude, along with this page&#x27;s index.html, to update every rating and add new releases and awards.</p>
     <div class="bar"><button class="copy" id="copyPrompt" type="button">Copy prompt</button><span class="done" id="copyDone" aria-live="polite"></span></div>
-    <pre id="prompt" tabindex="0">Update the page &quot;The 100&quot; (the attached index.html) for this year. Read the current version first and keep its design, tabs and features. It must stay a single self-contained HTML file.
+    <pre id="prompt" tabindex="0">Update the page &quot;Ranked&quot; (the attached index.html) for this year. Read the current version first and keep its design, tabs and features. It must stay a single self-contained HTML file.
 
 1. Refresh every rating. For every title in all ten lists (Books, Movies, Games, TV Series and Anime, each Modern and Classics), re-read the rating and rating count from the same sources:
    - Books: Goodreads, Amazon (book search), Audible.
@@ -298,7 +298,7 @@ footer{padding:28px 0 48px;color:var(--muted);font-size:13px}
 
    Then rebuild the Current lists (the third option next to Modern and Classics) from scratch: titles released in the six months before the update date (for TV, shows with new episodes in that window; for anime, the two most recent seasons). Take the best-rated 25–30 per tab with at least two sources. A series with a new entry in that window goes in with all its entries, ranked by its best one, and its new entries are tagged &quot;New&quot;. Watch for wrong matches: editions, translations, study guides, remakes vs originals, and titles that start with the same words (e.g. every &quot;Harry Potter and the...&quot; book). Harry Potter uses the Jim Dale Audible recordings.
 
-2. Add new releases. Add widely loved titles released since the last update to the Modern lists and drop the weakest so each list stays around 100. Classics cutoffs stay the same: books before 1970, movies before 1980, games before 2005, TV series before 1999, anime before 2000. Group titles only when they tell one continuing story with the same main characters, the kind you'd go through in order. Franchises of standalone stories (Zelda, Mario, Silent Hill, Resident Evil, Dark Souls) stay separate. When a new entry joins an existing series, add it and check the series is complete.
+2. Add new releases. Add widely loved titles released since the last update to the Modern lists. There is no fixed list size, so keep existing titles unless they no longer meet the rules. Classics cutoffs stay the same: books before 1970, movies before 1980, games before 2005, TV series before 1999, anime before 2000. Group titles only when they tell one continuing story with the same main characters, the kind you'd go through in order. Franchises of standalone stories (Zelda, Mario, Silent Hill, Resident Evil, Dark Souls) stay separate. When a new entry joins an existing series, add it and check the series is complete.
 
 3. Keep the scoring the same. Each rating is converted to a 5-point scale, adjusted toward that site&#x27;s typical score with the same thresholds (shown in &quot;How the ranking works&quot;), then blended with the same weights and per-tab starting point. A series sits in the list of its first entry and is ranked by its best-scoring entry.
 
@@ -396,21 +396,21 @@ const COLORS=['var(--s1)','var(--s2)','var(--s3)'];
 const st={m:'books',e:'N',q:'',g:'',sort:'rank',dec:'',saved:false,series:false,aw:false};
 try{const h=location.hash.slice(1).split('/');if(CFG[h[0]])st.m=h[0];if(h[1]==='classics')st.e='C';if(h[1]==='modern')st.e='M';}catch(e){}
 
-const KEY='the100.saved';
+const KEY='ranked.saved';
 let saved=new Set();
-try{saved=new Set(JSON.parse(localStorage.getItem(KEY)||'[]'));if(!saved.size){JSON.parse(localStorage.getItem('audio100.saved')||'[]').forEach(t=>saved.add('books|'+t));}}catch(e){}
+try{saved=new Set(JSON.parse(localStorage.getItem(KEY)||'[]'));}catch(e){}
 const sk=x=>st.m+'|'+x.t;
 function persist(){try{localStorage.setItem(KEY,JSON.stringify([...saved]));}catch(e){}updSaved();}
 function updSaved(){document.getElementById('savedN').textContent=[...saved].filter(k=>k.startsWith(st.m+'|')).length;}
 
 (function(){
   const root=document.documentElement;let t=null;
-  try{t=localStorage.getItem('audio100.theme');}catch(e){}
+  try{t=localStorage.getItem('ranked.theme');}catch(e){}
   if(t)root.dataset.theme=t;
   document.getElementById('theme').addEventListener('click',()=>{
     const dark=root.dataset.theme?root.dataset.theme==='dark':matchMedia('(prefers-color-scheme: dark)').matches;
     root.dataset.theme=dark?'light':'dark';
-    try{localStorage.setItem('audio100.theme',root.dataset.theme);}catch(e){}
+    try{localStorage.setItem('ranked.theme',root.dataset.theme);}catch(e){}
   });
 })();
 
@@ -538,9 +538,9 @@ function render(){
   try{history.replaceState(null,'','#'+st.m+({C:'/classics',M:'/modern'}[st.e]||''));}catch(e){}
 }
 function fActive(){return [st.q,st.g,st.dec,st.saved,st.series,st.aw,st.sort!=='rank'].filter(Boolean).length;}
-function setFilters(open){const f=document.getElementById('filters'),b=document.getElementById('ftoggle');f.hidden=!open;b.setAttribute('aria-expanded',open);try{localStorage.setItem('the100.filters',open?'1':'0');}catch(e){}}
+function setFilters(open){const f=document.getElementById('filters'),b=document.getElementById('ftoggle');f.hidden=!open;b.setAttribute('aria-expanded',open);try{localStorage.setItem('ranked.filters',open?'1':'0');}catch(e){}}
 document.getElementById('ftoggle').addEventListener('click',()=>{const open=document.getElementById('filters').hidden;setFilters(open);if(open)document.getElementById('q').focus({preventScroll:true});});
-try{if(localStorage.getItem('the100.filters')==='1')setFilters(true);}catch(e){}
+try{if(localStorage.getItem('ranked.filters')==='1')setFilters(true);}catch(e){}
 function full(){setupControls();render();}
 
 document.getElementById('tabs').addEventListener('click',e=>{const t=e.target.closest('.tab');if(!t||t.dataset.m===st.m)return;st.m=t.dataset.m;Object.assign(st,{q:'',g:'',dec:'',sort:'rank',saved:false,series:false,aw:false});document.getElementById('q').value='';full();});
