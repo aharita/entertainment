@@ -1,0 +1,3207 @@
+{
+ "current": {
+  "from": "2026-04-03",
+  "to": "2026-10-03",
+  "about": "Released 3 April – 3 October 2026"
+ },
+ "works": {
+  "the-shawshank-redemption-1994": {
+   "t": "The Shawshank Redemption",
+   "y": 1994,
+   "by": "Frank Darabont",
+   "g": "Drama",
+   "sum": "A banker serving life for a murder he says he didn't commit forms a decades-long friendship inside a brutal prison.",
+   "img": "m0",
+   "aw": ["7 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0111161"
+   },
+   "s": {
+    "imdb": [9.3, 3246980, "2026-10-03"],
+    "lbx": [4.6, 3153021, "2026-10-03"],
+    "rt": [98, 181955, "2026-10-03"]
+   }
+  },
+  "schindler-s-list-1993": {
+   "t": "Schindler's List",
+   "y": 1993,
+   "by": "Steven Spielberg",
+   "g": "Biography / Drama",
+   "sum": "A German industrialist in occupied Poland risks everything to save more than a thousand Jewish workers.",
+   "img": "m2",
+   "aw": ["Won 7 Oscars of 12 nominations"],
+   "ids": {
+    "imdb": "tt0108052"
+   },
+   "s": {
+    "imdb": [9, 1606529, "2026-10-03"],
+    "lbx": [4.55, 1534927, "2026-10-03"],
+    "rt": [97, 86181, "2026-10-03"]
+   }
+  },
+  "pulp-fiction-1994": {
+   "t": "Pulp Fiction",
+   "y": 1994,
+   "by": "Quentin Tarantino",
+   "g": "Crime / Drama",
+   "sum": "Hitmen, a boxer, a gangster's wife and two diner robbers collide in Tarantino's jumbled-up LA crime stories.",
+   "img": "m4",
+   "aw": ["Won 1 Oscar of 7 nominations"],
+   "ids": {
+    "imdb": "tt0110912"
+   },
+   "s": {
+    "imdb": [8.8, 2472485, "2026-10-03"],
+    "lbx": [4.23, 4613671, "2026-10-03"],
+    "rt": [96, 240301, "2026-10-03"]
+   }
+  },
+  "forrest-gump-1994": {
+   "t": "Forrest Gump",
+   "y": 1994,
+   "by": "Robert Zemeckis",
+   "g": "Drama / Romance",
+   "sum": "A kind man with a low IQ drifts through decades of American history while waiting for his childhood love.",
+   "img": "m6",
+   "aw": ["Won 6 Oscars of 13 nominations"],
+   "ids": {
+    "imdb": "tt0109830"
+   },
+   "s": {
+    "imdb": [8.8, 2540698, "2026-10-03"],
+    "lbx": [4.19, 4330353, "2026-10-03"],
+    "rt": [95, 179588, "2026-10-03"]
+   }
+  },
+  "fight-club-1999": {
+   "t": "Fight Club",
+   "y": 1999,
+   "by": "David Fincher",
+   "g": "Crime / Drama",
+   "sum": "An insomniac office worker and a reckless soap salesman start an underground fight club that grows into something darker.",
+   "img": "m7",
+   "aw": ["1 Oscar nomination"],
+   "ids": {
+    "imdb": "tt0137523"
+   },
+   "s": {
+    "imdb": [8.8, 2668228, "2026-10-03"],
+    "lbx": [4.27, 6137345, "2026-10-03"],
+    "rt": [96, 262074, "2026-10-03"]
+   }
+  },
+  "inception-2010": {
+   "t": "Inception",
+   "y": 2010,
+   "by": "Christopher Nolan",
+   "g": "Adventure / Sci-Fi",
+   "sum": "A thief who steals secrets from dreams is hired for the reverse: planting an idea in someone's mind.",
+   "img": "m9",
+   "aw": ["Won 4 Oscars of 8 nominations"],
+   "ids": {
+    "imdb": "tt1375666"
+   },
+   "s": {
+    "imdb": [8.8, 2875479, "2026-10-03"],
+    "lbx": [4.24, 4495335, "2026-10-03"],
+    "rt": [91, 184397, "2026-10-03"]
+   }
+  },
+  "the-matrix-1999": {
+   "t": "The Matrix",
+   "y": 1999,
+   "by": "Lana & Lilly Wachowski",
+   "g": "Action / Sci-Fi",
+   "sum": "A hacker learns that the world he knows is a simulation, and that he may be the one to end it.",
+   "img": "m10",
+   "aw": ["Won 4 Oscars"],
+   "ids": {
+    "imdb": "tt0133093"
+   },
+   "s": {
+    "imdb": [8.7, 2283197, "2026-10-03"],
+    "lbx": [4.18, 3123868, "2026-10-03"],
+    "rt": [85, 167410, "2026-10-03"]
+   }
+  },
+  "goodfellas-1990": {
+   "t": "Goodfellas",
+   "y": 1990,
+   "by": "Martin Scorsese",
+   "g": "Biography / Crime",
+   "sum": "The true story of Henry Hill's rise and fall over three decades in the New York mob.",
+   "img": "m11",
+   "aw": ["Won 1 Oscar of 6 nominations"],
+   "ids": {
+    "imdb": "tt0099685"
+   },
+   "s": {
+    "imdb": [8.7, 1416528, "2026-10-03"],
+    "lbx": [4.46, 2374850, "2026-10-03"],
+    "rt": [97, 122506, "2026-10-03"]
+   }
+  },
+  "interstellar-2014": {
+   "t": "Interstellar",
+   "y": 2014,
+   "by": "Christopher Nolan",
+   "g": "Adventure / Sci-Fi",
+   "sum": "With Earth dying, a former pilot leads a mission through a wormhole to find humanity a new home.",
+   "img": "m12",
+   "aw": ["Won 1 Oscar of 5 nominations"],
+   "ids": {
+    "imdb": "tt0816692"
+   },
+   "s": {
+    "imdb": [8.7, 2615508, "2026-10-03"],
+    "lbx": [4.46, 6479917, "2026-10-03"],
+    "rt": [87, 107502, "2026-10-03"]
+   }
+  },
+  "se7en-1995": {
+   "t": "Se7en",
+   "y": 1995,
+   "by": "David Fincher",
+   "g": "Crime / Drama",
+   "sum": "Two detectives hunt a serial killer who stages each murder around one of the seven deadly sins.",
+   "img": "m14",
+   "aw": ["1 Oscar nomination"],
+   "ids": {
+    "imdb": "tt0114369"
+   },
+   "s": {
+    "imdb": [8.6, 2064803, "2026-10-03"],
+    "lbx": [4.39, 4026695, "2026-10-03"],
+    "rt": [95, 109361, "2026-10-03"]
+   }
+  },
+  "the-silence-of-the-lambs-1991": {
+   "t": "The Silence of the Lambs",
+   "y": 1991,
+   "by": "Jonathan Demme",
+   "g": "Crime / Drama",
+   "sum": "An FBI trainee seeks help from imprisoned cannibal Hannibal Lecter to catch another killer.",
+   "img": "m15",
+   "aw": ["Won 5 Oscars of 7 nominations"],
+   "ids": {
+    "imdb": "tt0102926"
+   },
+   "s": {
+    "imdb": [8.6, 1754173, "2026-10-03"],
+    "lbx": [4.34, 3390654, "2026-10-03"],
+    "rt": [95, 91796, "2026-10-03"]
+   }
+  },
+  "saving-private-ryan-1998": {
+   "t": "Saving Private Ryan",
+   "y": 1998,
+   "by": "Steven Spielberg",
+   "g": "Drama / War",
+   "sum": "After D-Day, a squad of soldiers is sent behind enemy lines to bring one paratrooper home.",
+   "img": "m16",
+   "aw": ["Won 5 Oscars of 11 nominations"],
+   "ids": {
+    "imdb": "tt0120815"
+   },
+   "s": {
+    "imdb": [8.6, 1665499, "2026-10-03"],
+    "lbx": [4.26, 1613458, "2026-10-03"],
+    "rt": [95, 120834, "2026-10-03"]
+   }
+  },
+  "the-green-mile-1999": {
+   "t": "The Green Mile",
+   "y": 1999,
+   "by": "Frank Darabont",
+   "g": "Crime / Drama",
+   "sum": "A death-row guard in 1930s Louisiana comes to believe one of his gentle giant prisoners has a miraculous gift.",
+   "img": "m17",
+   "aw": ["4 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0120689"
+   },
+   "s": {
+    "imdb": [8.6, 1589021, "2026-10-03"],
+    "lbx": [4.3, 1501677, "2026-10-03"],
+    "rt": [94, 99777, "2026-10-03"]
+   }
+  },
+  "parasite-2019": {
+   "t": "Parasite",
+   "y": 2019,
+   "by": "Bong Joon Ho",
+   "g": "Drama / Thriller",
+   "sum": "A poor family schemes its way into jobs with a wealthy household, until a hidden secret upends everything.",
+   "img": "m19",
+   "aw": ["Won 4 Oscars of 6 nominations"],
+   "ids": {
+    "imdb": "tt6751668"
+   },
+   "s": {
+    "imdb": [8.5, 1200026, "2026-10-03"],
+    "lbx": [4.52, 5897979, "2026-10-03"],
+    "rt": [90, 7538, "2026-10-03"]
+   }
+  },
+  "leon-the-professional-1994": {
+   "t": "Léon: The Professional",
+   "y": 1994,
+   "by": "Luc Besson",
+   "g": "Action / Crime",
+   "sum": "A solitary hitman reluctantly takes in a twelve-year-old girl after her family is murdered by a corrupt cop.",
+   "img": "m20",
+   "ids": {
+    "imdb": "tt0110413"
+   },
+   "s": {
+    "imdb": [8.5, 1368148, "2026-10-03"],
+    "lbx": [4, 1518079, "2026-10-03"],
+    "rt": [95, 55977, "2026-10-03"]
+   }
+  },
+  "the-usual-suspects-1995": {
+   "t": "The Usual Suspects",
+   "y": 1995,
+   "by": "Bryan Singer",
+   "g": "Crime / Drama",
+   "sum": "The lone survivor of a deadly heist tells police the twisting story of a legendary, unseen crime boss.",
+   "img": "m21",
+   "aw": ["Won 2 Oscars"],
+   "ids": {
+    "imdb": "tt0114814"
+   },
+   "s": {
+    "imdb": [8.5, 1256674, "2026-10-03"],
+    "lbx": [4.08, 1131256, "2026-10-03"],
+    "rt": [96, 97558, "2026-10-03"]
+   }
+  },
+  "the-lion-king-1994": {
+   "t": "The Lion King",
+   "y": 1994,
+   "by": "Roger Allers, Rob Minkoff",
+   "g": "Animation / Adventure",
+   "sum": "A lion cub flees his kingdom after his father's death and must return to claim his place.",
+   "img": "m22",
+   "aw": ["Won 2 Oscars of 4 nominations"],
+   "ids": {
+    "imdb": "tt0110357"
+   },
+   "s": {
+    "imdb": [8.5, 1280208, "2026-10-03"],
+    "lbx": [4.23, 2278012, "2026-10-03"],
+    "rt": [93, 128660, "2026-10-03"]
+   }
+  },
+  "the-prestige-2006": {
+   "t": "The Prestige",
+   "y": 2006,
+   "by": "Christopher Nolan",
+   "g": "Drama / Mystery",
+   "sum": "Two rival stage magicians in Victorian London become obsessed with outdoing each other's greatest trick.",
+   "img": "m23",
+   "aw": ["2 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0482571"
+   },
+   "s": {
+    "imdb": [8.5, 1630791, "2026-10-03"],
+    "lbx": [4.31, 2212532, "2026-10-03"],
+    "rt": [92, 114496, "2026-10-03"]
+   }
+  },
+  "gladiator-2000": {
+   "t": "Gladiator",
+   "y": 2000,
+   "by": "Ridley Scott",
+   "g": "Action / Adventure",
+   "sum": "A betrayed Roman general is sold into slavery and fights his way through the arena toward revenge.",
+   "img": "m24",
+   "aw": ["Won 5 Oscars of 12 nominations"],
+   "ids": {
+    "imdb": "tt0172495"
+   },
+   "s": {
+    "imdb": [8.5, 1885965, "2026-10-03"],
+    "lbx": [4.2, 2337885, "2026-10-03"],
+    "rt": [87, 194939, "2026-10-03"]
+   }
+  },
+  "the-departed-2006": {
+   "t": "The Departed",
+   "y": 2006,
+   "by": "Martin Scorsese",
+   "g": "Crime / Drama",
+   "sum": "An undercover cop inside the Boston mob and a mob mole inside the police race to expose each other.",
+   "img": "m25",
+   "aw": ["Won 4 Oscars of 5 nominations"],
+   "ids": {
+    "imdb": "tt0407887"
+   },
+   "s": {
+    "imdb": [8.5, 1582205, "2026-10-03"],
+    "lbx": [4.35, 1760268, "2026-10-03"],
+    "rt": [94, 175985, "2026-10-03"]
+   }
+  },
+  "whiplash-2014": {
+   "t": "Whiplash",
+   "y": 2014,
+   "by": "Damien Chazelle",
+   "g": "Drama / Music",
+   "sum": "A young jazz drummer is pushed to breaking point by a ruthless, abusive conservatory teacher.",
+   "img": "m26",
+   "aw": ["Won 3 Oscars of 5 nominations"],
+   "ids": {
+    "imdb": "tt2582802"
+   },
+   "s": {
+    "imdb": [8.5, 1185001, "2026-10-03"],
+    "lbx": [4.42, 4844696, "2026-10-03"],
+    "rt": [94, 42657, "2026-10-03"]
+   }
+  },
+  "back-to-the-future-1985": {
+   "t": "Back to the Future",
+   "y": 1985,
+   "by": "Robert Zemeckis",
+   "g": "Adventure / Comedy",
+   "sum": "A teenager accidentally travels to 1955 in a time-machine DeLorean and has to make sure his parents fall in love.",
+   "img": "m27",
+   "aw": ["Won 1 Oscar of 4 nominations"],
+   "ids": {
+    "imdb": "tt0088763"
+   },
+   "s": {
+    "imdb": [8.5, 1479414, "2026-10-03"],
+    "lbx": [4.22, 2976018, "2026-10-03"],
+    "rt": [95, 114930, "2026-10-03"]
+   }
+  },
+  "terminator-2-judgment-day-1991": {
+   "t": "Terminator 2: Judgment Day",
+   "y": 1991,
+   "by": "James Cameron",
+   "g": "Action / Adventure",
+   "sum": "A reprogrammed Terminator is sent back to protect young John Connor from a deadlier shape-shifting killer.",
+   "img": "m28",
+   "aw": ["Won 4 Oscars of 6 nominations"],
+   "ids": {
+    "imdb": "tt0103064"
+   },
+   "s": {
+    "imdb": [8.6, 1304162, "2026-10-03"],
+    "lbx": [4.3, 1101443, "2026-10-03"],
+    "rt": [95, 68214, "2026-10-03"]
+   }
+  },
+  "the-pianist-2002": {
+   "t": "The Pianist",
+   "y": 2002,
+   "by": "Roman Polanski",
+   "g": "Biography / Drama",
+   "sum": "A Jewish pianist struggles to survive the destruction of the Warsaw ghetto in WWII.",
+   "img": "m29",
+   "aw": ["Won 3 Oscars of 7 nominations"],
+   "ids": {
+    "imdb": "tt0253474"
+   },
+   "s": {
+    "imdb": [8.5, 1027133, "2026-10-03"],
+    "lbx": [4.41, 1380071, "2026-10-03"],
+    "rt": [96, 50626, "2026-10-03"]
+   }
+  },
+  "american-history-x-1998": {
+   "t": "American History X",
+   "y": 1998,
+   "by": "Tony Kaye",
+   "g": "Crime / Drama",
+   "sum": "A former neo-Nazi leaves prison a changed man and tries to stop his younger brother following his path.",
+   "img": "m30",
+   "aw": ["1 Oscar nomination"],
+   "ids": {
+    "imdb": "tt0120586"
+   },
+   "s": {
+    "imdb": [8.5, 1288765, "2026-10-03"],
+    "lbx": [4.17, 1004756, "2026-10-03"],
+    "rt": [96, 128393, "2026-10-03"]
+   }
+  },
+  "django-unchained-2012": {
+   "t": "Django Unchained",
+   "y": 2012,
+   "by": "Quentin Tarantino",
+   "g": "Drama / Western",
+   "sum": "A freed slave turned bounty hunter sets out with a German dentist to rescue his wife from a Mississippi plantation.",
+   "img": "m35",
+   "aw": ["Won 2 Oscars of 5 nominations"],
+   "ids": {
+    "imdb": "tt1853728"
+   },
+   "s": {
+    "imdb": [8.5, 1917704, "2026-10-03"],
+    "lbx": [4.34, 3532999, "2026-10-03"],
+    "rt": [92, 136554, "2026-10-03"]
+   }
+  },
+  "wall-e-2008": {
+   "t": "WALL·E",
+   "y": 2008,
+   "by": "Andrew Stanton",
+   "g": "Animation / Adventure",
+   "sum": "A lonely trash-compacting robot left on an abandoned Earth follows a sleek probe robot into space.",
+   "img": "m37",
+   "aw": ["Won 1 Oscar of 6 nominations"],
+   "ids": {
+    "imdb": "tt0910970"
+   },
+   "s": {
+    "imdb": [8.4, 1344344, "2026-10-03"],
+    "lbx": [4.25, 2956321, "2026-10-03"],
+    "rt": [90, 151064, "2026-10-03"]
+   }
+  },
+  "coco-2017": {
+   "t": "Coco",
+   "y": 2017,
+   "by": "Lee Unkrich, Adrian Molina",
+   "g": "Animation / Adventure",
+   "sum": "A boy who dreams of music crosses into the Land of the Dead to uncover his family's history.",
+   "img": "m38",
+   "aw": ["Won 2 Oscars"],
+   "ids": {
+    "imdb": "tt2380307"
+   },
+   "s": {
+    "imdb": [8.4, 729194, "2026-10-03"],
+    "lbx": [4.13, 3326182, "2026-10-03"],
+    "rt": [94, 17393, "2026-10-03"]
+   }
+  },
+  "oppenheimer-2023": {
+   "t": "Oppenheimer",
+   "y": 2023,
+   "by": "Christopher Nolan",
+   "g": "Biography / Drama",
+   "sum": "The story of J. Robert Oppenheimer, the physicist who led the creation of the atomic bomb, and its fallout.",
+   "img": "m39",
+   "aw": ["Won 7 Oscars of 13 nominations"],
+   "ids": {
+    "imdb": "tt15398776"
+   },
+   "s": {
+    "imdb": [8.2, 1102171, "2026-10-03"],
+    "lbx": [4.16, 4661268, "2026-10-03"],
+    "rt": [91, 15588, "2026-10-03"]
+   }
+  },
+  "joker-2019": {
+   "t": "Joker",
+   "y": 2019,
+   "by": "Todd Phillips",
+   "g": "Drama",
+   "sum": "A failed comedian in a decaying Gotham spirals into violence and becomes an icon of chaos.",
+   "img": "m41",
+   "aw": ["Won 2 Oscars of 11 nominations"],
+   "ids": {
+    "imdb": "tt7286456"
+   },
+   "s": {
+    "imdb": [8.3, 1729020, "2026-10-03"],
+    "lbx": [3.85, 4939084, "2026-10-03"],
+    "rt": [89, 66601, "2026-10-03"]
+   }
+  },
+  "raiders-of-the-lost-ark-1981": {
+   "t": "Raiders of the Lost Ark",
+   "y": 1981,
+   "by": "Steven Spielberg",
+   "g": "Adventure",
+   "sum": "Archaeologist Indiana Jones races Nazi agents to find the Ark of the Covenant.",
+   "img": "m43",
+   "aw": ["Won 4 Oscars of 8 nominations"],
+   "ids": {
+    "imdb": "tt0082971"
+   },
+   "s": {
+    "imdb": [8.4, 1122443, "2026-10-03"],
+    "lbx": [4.16, 1378668, "2026-10-03"],
+    "rt": [96, 81424, "2026-10-03"]
+   }
+  },
+  "the-shining-1980": {
+   "t": "The Shining",
+   "y": 1980,
+   "by": "Stanley Kubrick",
+   "g": "Drama / Horror",
+   "sum": "A writer takes a winter caretaker job at an isolated hotel, and its malevolent presence takes hold of him.",
+   "img": "m44",
+   "ids": {
+    "imdb": "tt0081505"
+   },
+   "s": {
+    "imdb": [8.4, 1245881, "2026-10-03"],
+    "lbx": [4.21, 3428638, "2026-10-03"],
+    "rt": [93, 88044, "2026-10-03"]
+   }
+  },
+  "amadeus-1984": {
+   "t": "Amadeus",
+   "y": 1984,
+   "by": "Miloš Forman",
+   "g": "Biography / Drama",
+   "sum": "The composer Salieri recounts his envy-fuelled rivalry with the young genius Mozart.",
+   "img": "m45",
+   "aw": ["Won 8 Oscars of 11 nominations"],
+   "ids": {
+    "imdb": "tt0086879"
+   },
+   "s": {
+    "imdb": [8.4, 474139, "2026-10-03"],
+    "lbx": [4.37, 594292, "2026-10-03"],
+    "rt": [95, 25710, "2026-10-03"]
+   }
+  },
+  "good-will-hunting-1997": {
+   "t": "Good Will Hunting",
+   "y": 1997,
+   "by": "Gus Van Sant",
+   "g": "Drama / Romance",
+   "sum": "A gifted janitor at MIT is pushed by a therapist to face his past and his potential.",
+   "img": "m46",
+   "aw": ["Won 2 Oscars of 9 nominations"],
+   "ids": {
+    "imdb": "tt0119217"
+   },
+   "s": {
+    "imdb": [8.4, 1245706, "2026-10-03"],
+    "lbx": [4.39, 3638602, "2026-10-03"],
+    "rt": [94, 68321, "2026-10-03"]
+   }
+  },
+  "toy-story-1995": {
+   "t": "Toy Story",
+   "y": 1995,
+   "img": "m47",
+   "aw": ["3 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0114709"
+   },
+   "s": {
+    "imdb": [8.3, 1201672, "2026-10-03"],
+    "lbx": [4.11, 2772208, "2026-10-03"],
+    "rt": [92, 81277, "2026-10-03"]
+   }
+  },
+  "toy-story-2-1999": {
+   "t": "Toy Story 2",
+   "y": 1999,
+   "img": "cm24",
+   "aw": ["1 Oscar nomination"],
+   "ids": {
+    "imdb": "tt0120363"
+   },
+   "s": {
+    "imdb": [7.9, 685823, "2026-10-03"],
+    "lbx": [3.94, 1819917, "2026-10-03"],
+    "rt": [87, 62466, "2026-10-03"]
+   }
+  },
+  "toy-story-3-2010": {
+   "t": "Toy Story 3",
+   "y": 2010,
+   "img": "cm25",
+   "aw": ["Won 2 Oscars of 5 nominations"],
+   "ids": {
+    "imdb": "tt0435761"
+   },
+   "s": {
+    "imdb": [8.3, 992563, "2026-10-03"],
+    "lbx": [4.06, 1931115, "2026-10-03"],
+    "rt": [90, 178435, "2026-10-03"]
+   }
+  },
+  "toy-story-4-2019": {
+   "t": "Toy Story 4",
+   "y": 2019,
+   "img": "cm26",
+   "aw": ["Won 1 Oscar of 2 nominations"],
+   "ids": {
+    "imdb": "tt1979376"
+   },
+   "s": {
+    "imdb": [7.6, 331117, "2026-10-03"],
+    "lbx": [3.29, 1456245, "2026-10-03"],
+    "rt": [94, 53247, "2026-10-03"]
+   }
+  },
+  "toy-story-5-2026": {
+   "t": "Toy Story 5",
+   "y": 2026,
+   "img": "cm14",
+   "ids": {
+    "imdb": "tt29355505"
+   },
+   "s": {
+    "imdb": [7.3, 93470, "2026-10-03"],
+    "lbx": [3.63, 1169705, "2026-10-03"],
+    "rt": [94, 10641, "2026-10-03"]
+   }
+  },
+  "up-2009": {
+   "t": "Up",
+   "y": 2009,
+   "by": "Pete Docter",
+   "g": "Animation / Adventure",
+   "sum": "A grieving widower ties thousands of balloons to his house and flies to South America, with a stowaway scout.",
+   "img": "m48",
+   "aw": ["Won 2 Oscars of 5 nominations"],
+   "ids": {
+    "imdb": "tt1049413"
+   },
+   "s": {
+    "imdb": [8.3, 1258397, "2026-10-03"],
+    "lbx": [4.1, 3321504, "2026-10-03"],
+    "rt": [90, 126622, "2026-10-03"]
+   }
+  },
+  "inglourious-basterds-2009": {
+   "t": "Inglourious Basterds",
+   "y": 2009,
+   "by": "Quentin Tarantino",
+   "g": "Drama / War",
+   "sum": "A squad of Jewish-American soldiers and a vengeful cinema owner plot against the Nazi leadership in occupied France.",
+   "img": "m49",
+   "aw": ["Won 1 Oscar of 8 nominations"],
+   "ids": {
+    "imdb": "tt0361748"
+   },
+   "s": {
+    "imdb": [8.4, 1821826, "2026-10-03"],
+    "lbx": [4.37, 3990858, "2026-10-03"],
+    "rt": [88, 113753, "2026-10-03"]
+   }
+  },
+  "memento-2000": {
+   "t": "Memento",
+   "y": 2000,
+   "by": "Christopher Nolan",
+   "g": "Mystery / Thriller",
+   "sum": "A man with no short-term memory hunts his wife's killer using notes, photos and tattoos, told in reverse order.",
+   "img": "m50",
+   "aw": ["2 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0209144"
+   },
+   "s": {
+    "imdb": [8.4, 1461634, "2026-10-03"],
+    "lbx": [4.18, 2208158, "2026-10-03"],
+    "rt": [94, 103087, "2026-10-03"]
+   }
+  },
+  "eternal-sunshine-of-the-spotless-mind-2004": {
+   "t": "Eternal Sunshine of the Spotless Mind",
+   "y": 2004,
+   "by": "Michel Gondry",
+   "g": "Drama / Romance",
+   "sum": "After a painful breakup, a man undergoes a procedure to erase his ex from his memory, then changes his mind.",
+   "img": "m51",
+   "aw": ["Won 1 Oscar of 2 nominations"],
+   "ids": {
+    "imdb": "tt0338013"
+   },
+   "s": {
+    "imdb": [8.3, 1198286, "2026-10-03"],
+    "lbx": [4.24, 3838525, "2026-10-03"],
+    "rt": [94, 163933, "2026-10-03"]
+   }
+  },
+  "requiem-for-a-dream-2000": {
+   "t": "Requiem for a Dream",
+   "y": 2000,
+   "by": "Darren Aronofsky",
+   "g": "Drama",
+   "sum": "Four people in Coney Island chase their dreams and spiral into addiction.",
+   "img": "m52",
+   "aw": ["1 Oscar nomination"],
+   "ids": {
+    "imdb": "tt0180093"
+   },
+   "s": {
+    "imdb": [8.3, 986551, "2026-10-03"],
+    "lbx": [4.11, 1806952, "2026-10-03"],
+    "rt": [93, 99132, "2026-10-03"]
+   }
+  },
+  "reservoir-dogs-1992": {
+   "t": "Reservoir Dogs",
+   "y": 1992,
+   "by": "Quentin Tarantino",
+   "g": "Crime / Thriller",
+   "sum": "After a botched diamond heist, the surviving robbers suspect one of them is an undercover cop.",
+   "img": "m53",
+   "ids": {
+    "imdb": "tt0105236"
+   },
+   "s": {
+    "imdb": [8.2, 1183528, "2026-10-03"],
+    "lbx": [4.14, 1732982, "2026-10-03"],
+    "rt": [94, 117991, "2026-10-03"]
+   }
+  },
+  "braveheart-1995": {
+   "t": "Braveheart",
+   "y": 1995,
+   "by": "Mel Gibson",
+   "g": "Drama / War",
+   "sum": "William Wallace leads a Scottish uprising against English rule in the 13th century.",
+   "img": "m54",
+   "aw": ["Won 5 Oscars of 10 nominations"],
+   "ids": {
+    "imdb": "tt0112573"
+   },
+   "s": {
+    "imdb": [8.3, 1173764, "2026-10-03"],
+    "lbx": [3.93, 558539, "2026-10-03"],
+    "rt": [85, 149095, "2026-10-03"]
+   }
+  },
+  "heat-1995": {
+   "t": "Heat",
+   "y": 1995,
+   "by": "Michael Mann",
+   "g": "Action / Crime",
+   "sum": "A meticulous LA crew of thieves and an obsessive detective circle each other toward a final showdown.",
+   "img": "m55",
+   "ids": {
+    "imdb": "tt0113277"
+   },
+   "s": {
+    "imdb": [8.3, 820225, "2026-10-03"],
+    "lbx": [4.32, 1310804, "2026-10-03"],
+    "rt": [94, 40861, "2026-10-03"]
+   }
+  },
+  "cinema-paradiso-1988": {
+   "t": "Cinema Paradiso",
+   "y": 1988,
+   "by": "Giuseppe Tornatore",
+   "g": "Drama / Romance",
+   "sum": "A famous director returns to his Sicilian village and remembers the projectionist who taught him to love films.",
+   "img": "m59",
+   "aw": ["Won 1 Oscar"],
+   "ids": {
+    "imdb": "tt0095765"
+   },
+   "s": {
+    "imdb": [8.5, 321469, "2026-10-03"],
+    "lbx": [4.52, 561299, "2026-10-03"],
+    "rt": [96, 18987, "2026-10-03"]
+   }
+  },
+  "life-is-beautiful-1997": {
+   "t": "Life Is Beautiful",
+   "y": 1997,
+   "by": "Roberto Benigni",
+   "g": "Comedy / Drama",
+   "sum": "A Jewish-Italian father uses humour and imagination to shield his young son inside a Nazi camp.",
+   "img": "m60",
+   "aw": ["Won 3 Oscars of 7 nominations"],
+   "ids": {
+    "imdb": "tt0118799"
+   },
+   "s": {
+    "imdb": [8.6, 824489, "2026-10-03"],
+    "lbx": [4.42, 854246, "2026-10-03"],
+    "rt": [96, 58834, "2026-10-03"]
+   }
+  },
+  "city-of-god-2002": {
+   "t": "City of God",
+   "y": 2002,
+   "by": "Fernando Meirelles, Kátia Lund",
+   "g": "Crime / Drama",
+   "sum": "A boy who wants to be a photographer grows up amid the gang wars of a Rio de Janeiro favela.",
+   "img": "m61",
+   "aw": ["4 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0317248"
+   },
+   "s": {
+    "imdb": [8.6, 883736, "2026-10-03"],
+    "lbx": [4.58, 1306558, "2026-10-03"],
+    "rt": [97, 62727, "2026-10-03"]
+   }
+  },
+  "oldboy-2003": {
+   "t": "Oldboy",
+   "y": 2003,
+   "by": "Park Chan-wook",
+   "g": "Action / Drama",
+   "sum": "A man imprisoned in a room for fifteen years without explanation is suddenly released and hunts for answers.",
+   "img": "m62",
+   "ids": {
+    "imdb": "tt0364569"
+   },
+   "s": {
+    "imdb": [8.3, 734375, "2026-10-03"],
+    "lbx": [4.36, 1730878, "2026-10-03"],
+    "rt": [94, 39688, "2026-10-03"]
+   }
+  },
+  "the-intouchables-2011": {
+   "t": "The Intouchables",
+   "y": 2011,
+   "by": "Olivier Nakache, Éric Toledano",
+   "g": "Comedy / Drama",
+   "sum": "A wealthy quadriplegic hires a streetwise young man from the projects as his carer, and they become close friends.",
+   "img": "m63",
+   "ids": {
+    "imdb": "tt1675434"
+   },
+   "s": {
+    "imdb": [8.5, 1044315, "2026-10-03"],
+    "lbx": [4.16, 1021008, "2026-10-03"],
+    "rt": [93, 19240, "2026-10-03"]
+   }
+  },
+  "amelie-2001": {
+   "t": "Amélie",
+   "y": 2001,
+   "by": "Jean-Pierre Jeunet",
+   "g": "Comedy / Romance",
+   "sum": "A shy Parisian waitress secretly sets out to improve the lives of the people around her.",
+   "img": "m64",
+   "aw": ["5 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0211915"
+   },
+   "s": {
+    "imdb": [8.2, 848158, "2026-10-03"],
+    "lbx": [4.2, 1464421, "2026-10-03"],
+    "rt": [95, 135390, "2026-10-03"]
+   }
+  },
+  "pan-s-labyrinth-2006": {
+   "t": "Pan's Labyrinth",
+   "y": 2006,
+   "by": "Guillermo del Toro",
+   "g": "Drama / Fantasy",
+   "sum": "In fascist Spain in 1944, a young girl escapes her brutal stepfather into a dark fairy-tale world.",
+   "img": "m65",
+   "aw": ["Won 3 Oscars of 6 nominations"],
+   "ids": {
+    "imdb": "tt0457430"
+   },
+   "s": {
+    "imdb": [8.2, 754004, "2026-10-03"],
+    "lbx": [4.15, 1071438, "2026-10-03"],
+    "rt": [91, 146926, "2026-10-03"]
+   }
+  },
+  "no-country-for-old-men-2007": {
+   "t": "No Country for Old Men",
+   "y": 2007,
+   "by": "Joel & Ethan Coen",
+   "g": "Crime / Drama",
+   "sum": "A hunter takes a bag of drug money from a desert shootout, and a remorseless killer follows him.",
+   "img": "m66",
+   "aw": ["Won 4 Oscars of 8 nominations"],
+   "ids": {
+    "imdb": "tt0477348"
+   },
+   "s": {
+    "imdb": [8.2, 1216359, "2026-10-03"],
+    "lbx": [4.3, 2426641, "2026-10-03"],
+    "rt": [86, 144612, "2026-10-03"]
+   }
+  },
+  "there-will-be-blood-2007": {
+   "t": "There Will Be Blood",
+   "y": 2007,
+   "by": "Paul Thomas Anderson",
+   "g": "Drama",
+   "sum": "A ruthless oilman builds his fortune in early 20th-century California, at a terrible personal cost.",
+   "img": "m67",
+   "aw": ["Won 2 Oscars of 8 nominations"],
+   "ids": {
+    "imdb": "tt0469494"
+   },
+   "s": {
+    "imdb": [8.2, 720686, "2026-10-03"],
+    "lbx": [4.46, 1421881, "2026-10-03"],
+    "rt": [86, 85871, "2026-10-03"]
+   }
+  },
+  "mad-max-fury-road-2015": {
+   "t": "Mad Max: Fury Road",
+   "y": 2015,
+   "by": "George Miller",
+   "g": "Action / Adventure",
+   "sum": "In a desert wasteland, a rebel warrior and a drifter flee a tyrant across the sand in an armoured war rig.",
+   "img": "m68",
+   "aw": ["Won 6 Oscars of 10 nominations"],
+   "ids": {
+    "imdb": "tt1392190"
+   },
+   "s": {
+    "imdb": [8.1, 1223065, "2026-10-03"],
+    "lbx": [4.17, 2282836, "2026-10-03"],
+    "rt": [86, 84783, "2026-10-03"]
+   }
+  },
+  "everything-everywhere-all-at-once-2022": {
+   "t": "Everything Everywhere All at Once",
+   "y": 2022,
+   "by": "Daniel Kwan, Daniel Scheinert",
+   "g": "Action / Adventure",
+   "sum": "A laundromat owner being audited discovers she must connect with versions of herself across the multiverse.",
+   "img": "m71",
+   "aw": ["Won 7 Oscars of 11 nominations"],
+   "ids": {
+    "imdb": "tt6710474"
+   },
+   "s": {
+    "imdb": [7.7, 662842, "2026-10-03"],
+    "lbx": [4.24, 4166103, "2026-10-03"],
+    "rt": [79, 22946, "2026-10-03"]
+   }
+  },
+  "top-gun-maverick-2022": {
+   "t": "Top Gun: Maverick",
+   "y": 2022,
+   "by": "Joseph Kosinski",
+   "g": "Action / Drama",
+   "sum": "After thirty years, Maverick returns to train a new generation of fighter pilots for a near-impossible mission.",
+   "img": "m72",
+   "aw": ["Won 1 Oscar of 6 nominations"],
+   "ids": {
+    "imdb": "tt1745960"
+   },
+   "s": {
+    "imdb": [8.2, 907898, "2026-10-03"],
+    "lbx": [3.98, 2419312, "2026-10-03"],
+    "rt": [99, 64243, "2026-10-03"]
+   }
+  },
+  "the-truman-show-1998": {
+   "t": "The Truman Show",
+   "y": 1998,
+   "by": "Peter Weir",
+   "g": "Comedy / Drama",
+   "sum": "An insurance salesman slowly realises his whole life is a TV show broadcast to the world.",
+   "img": "m73",
+   "aw": ["3 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0120382"
+   },
+   "s": {
+    "imdb": [8.2, 1410345, "2026-10-03"],
+    "lbx": [4.22, 5374395, "2026-10-03"],
+    "rt": [89, 60585, "2026-10-03"]
+   }
+  },
+  "jurassic-park-1993": {
+   "t": "Jurassic Park",
+   "y": 1993,
+   "by": "Steven Spielberg",
+   "g": "Adventure / Sci-Fi",
+   "sum": "Cloned dinosaurs escape at a theme park island during a preview tour.",
+   "img": "m74",
+   "aw": ["Won 3 Oscars"],
+   "ids": {
+    "imdb": "tt0107290"
+   },
+   "s": {
+    "imdb": [8.2, 1201518, "2026-10-03"],
+    "lbx": [4.13, 2478765, "2026-10-03"],
+    "rt": [91, 93231, "2026-10-03"]
+   }
+  },
+  "die-hard-1988": {
+   "t": "Die Hard",
+   "y": 1988,
+   "by": "John McTiernan",
+   "g": "Action / Thriller",
+   "sum": "An off-duty NYPD cop is trapped in an LA skyscraper taken over by armed robbers on Christmas Eve.",
+   "img": "m75",
+   "aw": ["4 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0095016"
+   },
+   "s": {
+    "imdb": [8.2, 1041398, "2026-10-03"],
+    "lbx": [4.06, 1279662, "2026-10-03"],
+    "rt": [94, 83651, "2026-10-03"]
+   }
+  },
+  "titanic-1997": {
+   "t": "Titanic",
+   "y": 1997,
+   "by": "James Cameron",
+   "g": "Drama / Romance",
+   "sum": "A young aristocrat and a penniless artist fall in love aboard the doomed ocean liner.",
+   "img": "m76",
+   "aw": ["Won 11 Oscars of 14 nominations"],
+   "ids": {
+    "imdb": "tt0120338"
+   },
+   "s": {
+    "imdb": [8, 1415385, "2026-10-03"],
+    "lbx": [3.84, 3502779, "2026-10-03"],
+    "rt": [69, 426012, "2026-10-03"]
+   }
+  },
+  "the-social-network-2010": {
+   "t": "The Social Network",
+   "y": 2010,
+   "by": "David Fincher",
+   "g": "Biography / Drama",
+   "sum": "The founding of Facebook, and the lawsuits and broken friendships that came with it.",
+   "img": "m77",
+   "aw": ["Won 3 Oscars of 8 nominations"],
+   "ids": {
+    "imdb": "tt1285016"
+   },
+   "s": {
+    "imdb": [7.8, 830887, "2026-10-03"],
+    "lbx": [3.92, 2865708, "2026-10-03"],
+    "rt": [87, 95093, "2026-10-03"]
+   }
+  },
+  "gone-girl-2014": {
+   "t": "Gone Girl",
+   "y": 2014,
+   "by": "David Fincher",
+   "g": "Drama / Mystery",
+   "sum": "On their fifth anniversary a wife vanishes, and the media turn her husband into the prime suspect.",
+   "img": "m78",
+   "aw": ["1 Oscar nomination"],
+   "ids": {
+    "imdb": "tt2267998"
+   },
+   "s": {
+    "imdb": [8.1, 1190329, "2026-10-03"],
+    "lbx": [4.07, 3340487, "2026-10-03"],
+    "rt": [87, 73825, "2026-10-03"]
+   }
+  },
+  "prisoners-2013": {
+   "t": "Prisoners",
+   "y": 2013,
+   "by": "Denis Villeneuve",
+   "g": "Crime / Drama",
+   "sum": "When his daughter goes missing, a desperate father takes matters into his own hands while a detective hunts for her.",
+   "img": "m79",
+   "aw": ["1 Oscar nomination"],
+   "ids": {
+    "imdb": "tt1392214"
+   },
+   "s": {
+    "imdb": [8.2, 961770, "2026-10-03"],
+    "lbx": [4.34, 2508880, "2026-10-03"],
+    "rt": [87, 50363, "2026-10-03"]
+   }
+  },
+  "shutter-island-2010": {
+   "t": "Shutter Island",
+   "y": 2010,
+   "by": "Martin Scorsese",
+   "g": "Mystery / Thriller",
+   "sum": "A US marshal investigates a patient's disappearance from an island hospital for the criminally insane.",
+   "img": "m80",
+   "ids": {
+    "imdb": "tt1130884"
+   },
+   "s": {
+    "imdb": [8.2, 1688385, "2026-10-03"],
+    "lbx": [4.2, 3818781, "2026-10-03"],
+    "rt": [77, 92658, "2026-10-03"]
+   }
+  },
+  "the-wolf-of-wall-street-2013": {
+   "t": "The Wolf of Wall Street",
+   "y": 2013,
+   "by": "Martin Scorsese",
+   "g": "Biography / Comedy",
+   "sum": "The true story of stockbroker Jordan Belfort's rise through fraud, excess and corruption.",
+   "img": "m81",
+   "aw": ["5 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0993846"
+   },
+   "s": {
+    "imdb": [8.2, 1829808, "2026-10-03"],
+    "lbx": [4, 4405097, "2026-10-03"],
+    "rt": [83, 85540, "2026-10-03"]
+   }
+  },
+  "the-grand-budapest-hotel-2014": {
+   "t": "The Grand Budapest Hotel",
+   "y": 2014,
+   "by": "Wes Anderson",
+   "g": "Comedy / Drama",
+   "sum": "A legendary concierge and his young lobby boy are caught up in the theft of a priceless painting.",
+   "img": "m82",
+   "aw": ["Won 4 Oscars of 9 nominations"],
+   "ids": {
+    "imdb": "tt2278388"
+   },
+   "s": {
+    "imdb": [8.1, 988458, "2026-10-03"],
+    "lbx": [4.24, 3491541, "2026-10-03"],
+    "rt": [87, 52315, "2026-10-03"]
+   }
+  },
+  "inside-out-2015": {
+   "t": "Inside Out",
+   "y": 2015,
+   "by": "Pete Docter",
+   "g": "Animation / Adventure",
+   "sum": "The emotions inside an 11-year-old girl's head struggle to guide her through a move to a new city.",
+   "img": "m83",
+   "aw": ["Won 1 Oscar of 2 nominations"],
+   "ids": {
+    "imdb": "tt2096673"
+   },
+   "s": {
+    "imdb": [8.1, 934731, "2026-10-03"],
+    "lbx": [3.82, 3462309, "2026-10-03"],
+    "rt": [89, 70606, "2026-10-03"]
+   }
+  },
+  "ratatouille-2007": {
+   "t": "Ratatouille",
+   "y": 2007,
+   "by": "Brad Bird",
+   "g": "Animation / Adventure",
+   "sum": "A rat with a gift for cooking teams up with a hapless kitchen worker in a famous Paris restaurant.",
+   "img": "m84",
+   "aw": ["Won 1 Oscar of 5 nominations"],
+   "ids": {
+    "imdb": "tt0382932"
+   },
+   "s": {
+    "imdb": [8.1, 968289, "2026-10-03"],
+    "lbx": [4.23, 4073930, "2026-10-03"],
+    "rt": [87, 180265, "2026-10-03"]
+   }
+  },
+  "finding-nemo-2003": {
+   "t": "Finding Nemo",
+   "y": 2003,
+   "by": "Andrew Stanton",
+   "g": "Animation / Adventure",
+   "sum": "An overprotective clownfish crosses the ocean to find his son, who was captured by a diver.",
+   "img": "m85",
+   "aw": ["Won 1 Oscar of 4 nominations"],
+   "ids": {
+    "imdb": "tt0266543"
+   },
+   "s": {
+    "imdb": [8.2, 1227252, "2026-10-03"],
+    "lbx": [4.02, 2623231, "2026-10-03"],
+    "rt": [86, 319558, "2026-10-03"]
+   }
+  },
+  "monsters-inc-2001": {
+   "t": "Monsters, Inc.",
+   "y": 2001,
+   "by": "Pete Docter",
+   "g": "Animation / Adventure",
+   "sum": "Two monsters who scare children for a living find a human girl loose in their world.",
+   "img": "m86",
+   "aw": ["Won 1 Oscar of 4 nominations"],
+   "ids": {
+    "imdb": "tt0198781"
+   },
+   "s": {
+    "imdb": [8.1, 1093539, "2026-10-03"],
+    "lbx": [4.08, 2597888, "2026-10-03"],
+    "rt": [90, 103168, "2026-10-03"]
+   }
+  },
+  "how-to-train-your-dragon-2010": {
+   "t": "How to Train Your Dragon",
+   "y": 2010,
+   "by": "Dean DeBlois, Chris Sanders",
+   "g": "Animation / Action",
+   "sum": "A Viking teenager befriends the injured dragon he was supposed to kill.",
+   "img": "m87",
+   "aw": ["2 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0892769"
+   },
+   "s": {
+    "imdb": [8.1, 910473, "2026-10-03"],
+    "lbx": [4.16, 2118501, "2026-10-03"],
+    "rt": [91, 89187, "2026-10-03"]
+   }
+  },
+  "hacksaw-ridge-2016": {
+   "t": "Hacksaw Ridge",
+   "y": 2016,
+   "by": "Mel Gibson",
+   "g": "Biography / Drama",
+   "sum": "A conscientious objector serves as an army medic at Okinawa and saves dozens of men without firing a shot.",
+   "img": "m88",
+   "aw": ["Won 2 Oscars of 6 nominations"],
+   "ids": {
+    "imdb": "tt2119532"
+   },
+   "s": {
+    "imdb": [8.1, 698743, "2026-10-03"],
+    "lbx": [4.07, 1254873, "2026-10-03"],
+    "rt": [92, 27301, "2026-10-03"]
+   }
+  },
+  "1917-2019": {
+   "t": "1917",
+   "y": 2019,
+   "by": "Sam Mendes",
+   "g": "Drama / War",
+   "sum": "Two young British soldiers race across enemy territory to deliver a message that could save 1,600 men.",
+   "img": "m89",
+   "aw": ["Won 3 Oscars of 10 nominations"],
+   "ids": {
+    "imdb": "tt8579674"
+   },
+   "s": {
+    "imdb": [8.2, 787999, "2026-10-03"],
+    "lbx": [4.13, 2014436, "2026-10-03"],
+    "rt": [88, 30623, "2026-10-03"]
+   }
+  },
+  "ford-v-ferrari-2019": {
+   "t": "Ford v Ferrari",
+   "y": 2019,
+   "by": "James Mangold",
+   "g": "Action / Biography",
+   "sum": "A car designer and a hot-headed driver build a Ford to beat Ferrari at Le Mans in 1966.",
+   "img": "m90",
+   "aw": ["Won 2 Oscars of 4 nominations"],
+   "ids": {
+    "imdb": "tt1950186"
+   },
+   "s": {
+    "imdb": [8.1, 588519, "2026-10-03"],
+    "lbx": [4.06, 1141747, "2026-10-03"],
+    "rt": [98, 24198, "2026-10-03"]
+   }
+  },
+  "the-sixth-sense-1999": {
+   "t": "The Sixth Sense",
+   "y": 1999,
+   "by": "M. Night Shyamalan",
+   "g": "Drama / Mystery",
+   "sum": "A child psychologist tries to help a frightened boy who says he sees dead people.",
+   "img": "m91",
+   "aw": ["6 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0167404"
+   },
+   "s": {
+    "imdb": [8.2, 1167061, "2026-10-03"],
+    "lbx": [4.11, 1617332, "2026-10-03"],
+    "rt": [90, 79693, "2026-10-03"]
+   }
+  },
+  "catch-me-if-you-can-2002": {
+   "t": "Catch Me If You Can",
+   "y": 2002,
+   "by": "Steven Spielberg",
+   "g": "Biography / Crime",
+   "sum": "A teenage con artist poses as a pilot, doctor and lawyer while an FBI agent chases him.",
+   "img": "m92",
+   "aw": ["2 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0264464"
+   },
+   "s": {
+    "imdb": [8.1, 1267764, "2026-10-03"],
+    "lbx": [4.06, 2710895, "2026-10-03"],
+    "rt": [89, 68424, "2026-10-03"]
+   }
+  },
+  "a-beautiful-mind-2001": {
+   "t": "A Beautiful Mind",
+   "y": 2001,
+   "by": "Ron Howard",
+   "g": "Biography / Drama",
+   "sum": "Brilliant mathematician John Nash struggles with schizophrenia as his career takes off.",
+   "img": "m93",
+   "aw": ["Won 4 Oscars of 8 nominations"],
+   "ids": {
+    "imdb": "tt0268978"
+   },
+   "s": {
+    "imdb": [8.2, 1065259, "2026-10-03"],
+    "lbx": [3.88, 679633, "2026-10-03"],
+    "rt": [93, 88609, "2026-10-03"]
+   }
+  },
+  "spotlight-2015": {
+   "t": "Spotlight",
+   "y": 2015,
+   "by": "Tom McCarthy",
+   "g": "Biography / Crime",
+   "sum": "Boston Globe reporters uncover the Catholic Church's cover-up of child abuse.",
+   "img": "m94",
+   "aw": ["Won 2 Oscars of 6 nominations"],
+   "ids": {
+    "imdb": "tt1895587"
+   },
+   "s": {
+    "imdb": [8.1, 541734, "2026-10-03"],
+    "lbx": [4.13, 649826, "2026-10-03"],
+    "rt": [93, 33737, "2026-10-03"]
+   }
+  },
+  "arrival-2016": {
+   "t": "Arrival",
+   "y": 2016,
+   "by": "Denis Villeneuve",
+   "g": "Drama / Sci-Fi",
+   "sum": "A linguist races to decode an alien language before mistrust between nations turns to war.",
+   "img": "m95",
+   "aw": ["Won 1 Oscar of 8 nominations"],
+   "ids": {
+    "imdb": "tt2543164"
+   },
+   "s": {
+    "imdb": [7.9, 881850, "2026-10-03"],
+    "lbx": [4.14, 2748015, "2026-10-03"],
+    "rt": [83, 47533, "2026-10-03"]
+   }
+  },
+  "groundhog-day-1993": {
+   "t": "Groundhog Day",
+   "y": 1993,
+   "by": "Harold Ramis",
+   "g": "Comedy / Drama",
+   "sum": "A cynical TV weatherman is stuck reliving the same day in a small town, over and over.",
+   "img": "m97",
+   "ids": {
+    "imdb": "tt0107048"
+   },
+   "s": {
+    "imdb": [8, 741692, "2026-10-03"],
+    "lbx": [3.81, 949010, "2026-10-03"],
+    "rt": [88, 37117, "2026-10-03"]
+   }
+  },
+  "the-thing-1982": {
+   "t": "The Thing",
+   "y": 1982,
+   "by": "John Carpenter",
+   "g": "Horror / Mystery",
+   "sum": "Researchers in Antarctica are hunted by a shape-shifting alien that can imitate any of them.",
+   "img": "m98",
+   "ids": {
+    "imdb": "tt0084787"
+   },
+   "s": {
+    "imdb": [8.2, 537038, "2026-10-03"],
+    "lbx": [4.35, 1442212, "2026-10-03"],
+    "rt": [92, 28230, "2026-10-03"]
+   }
+  },
+  "stand-by-me-1986": {
+   "t": "Stand by Me",
+   "y": 1986,
+   "by": "Rob Reiner",
+   "g": "Adventure / Drama",
+   "sum": "In 1959, four boys set off on a weekend hike to find the body of a missing kid.",
+   "img": "m99",
+   "aw": ["1 Oscar nomination"],
+   "ids": {
+    "imdb": "tt0092005"
+   },
+   "s": {
+    "imdb": [8.1, 496012, "2026-10-03"],
+    "lbx": [4.2, 1382388, "2026-10-03"],
+    "rt": [94, 40952, "2026-10-03"]
+   }
+  },
+  "the-lord-of-the-rings-the-fellowship-of-the-ring-2001": {
+   "t": "The Lord of the Rings: The Fellowship of the Ring",
+   "y": 2001,
+   "img": "m5",
+   "aw": ["Won 4 Oscars of 13 nominations"],
+   "ids": {
+    "imdb": "tt0120737"
+   },
+   "s": {
+    "imdb": [8.9, 2241687, "2026-10-03"],
+    "lbx": [4.39, 3294199, "2026-10-03"],
+    "rt": [95, 176022, "2026-10-03"]
+   }
+  },
+  "the-lord-of-the-rings-the-two-towers-2002": {
+   "t": "The Lord of the Rings: The Two Towers",
+   "y": 2002,
+   "img": "m8",
+   "aw": ["Won 2 Oscars of 6 nominations"],
+   "ids": {
+    "imdb": "tt0167261"
+   },
+   "s": {
+    "imdb": [8.8, 1987937, "2026-10-03"],
+    "lbx": [4.44, 2453640, "2026-10-03"],
+    "rt": [95, 159555, "2026-10-03"]
+   }
+  },
+  "the-lord-of-the-rings-the-return-of-the-king-2003": {
+   "t": "The Lord of the Rings: The Return of the King",
+   "y": 2003,
+   "img": "m3",
+   "aw": ["Won 11 Oscars"],
+   "ids": {
+    "imdb": "tt0167260"
+   },
+   "s": {
+    "imdb": [9, 2197829, "2026-10-03"],
+    "lbx": [4.56, 2506560, "2026-10-03"],
+    "rt": [86, 224859, "2026-10-03"]
+   }
+  },
+  "batman-begins-2005": {
+   "t": "Batman Begins",
+   "y": 2005,
+   "img": "xm0",
+   "aw": ["1 Oscar nomination"],
+   "ids": {
+    "imdb": "tt0372784"
+   },
+   "s": {
+    "imdb": [8.2, 1747535, "2026-10-03"],
+    "lbx": [3.85, 2399892, "2026-10-03"],
+    "rt": [94, 183004, "2026-10-03"]
+   }
+  },
+  "the-dark-knight-2008": {
+   "t": "The Dark Knight",
+   "y": 2008,
+   "img": "m1",
+   "aw": ["Won 2 Oscars of 8 nominations"],
+   "ids": {
+    "imdb": "tt0468569"
+   },
+   "s": {
+    "imdb": [9.1, 3234485, "2026-10-03"],
+    "lbx": [4.5, 4886959, "2026-10-03"],
+    "rt": [94, 524110, "2026-10-03"]
+   }
+  },
+  "the-dark-knight-rises-2012": {
+   "t": "The Dark Knight Rises",
+   "y": 2012,
+   "img": "m36",
+   "ids": {
+    "imdb": "tt1345836"
+   },
+   "s": {
+    "imdb": [8.4, 2031102, "2026-10-03"],
+    "lbx": [3.83, 2296939, "2026-10-03"],
+    "rt": [90, 332106, "2026-10-03"]
+   }
+  },
+  "spider-man-into-the-spider-verse-2018": {
+   "t": "Spider-Man: Into the Spider-Verse",
+   "y": 2018,
+   "img": "m32",
+   "aw": ["Won 1 Oscar"],
+   "ids": {
+    "imdb": "tt4633694"
+   },
+   "s": {
+    "imdb": [8.4, 819138, "2026-10-03"],
+    "lbx": [4.4, 5032748, "2026-10-03"],
+    "rt": [93, 24637, "2026-10-03"]
+   }
+  },
+  "spider-man-across-the-spider-verse-2023": {
+   "t": "Spider-Man: Across the Spider-Verse",
+   "y": 2023,
+   "img": "m31",
+   "aw": ["1 Oscar nomination"],
+   "ids": {
+    "imdb": "tt9362722"
+   },
+   "s": {
+    "imdb": [8.5, 556197, "2026-10-03"],
+    "lbx": [4.4, 4137184, "2026-10-03"],
+    "rt": [95, 15580, "2026-10-03"]
+   }
+  },
+  "the-avengers-2012": {
+   "t": "The Avengers",
+   "y": 2012,
+   "img": "xm3",
+   "aw": ["1 Oscar nomination"],
+   "ids": {
+    "imdb": "tt0848228"
+   },
+   "s": {
+    "imdb": [8, 1586114, "2026-10-03"],
+    "lbx": [3.78, 3053954, "2026-10-03"],
+    "rt": [91, 315482, "2026-10-03"]
+   }
+  },
+  "avengers-age-of-ultron-2015": {
+   "t": "Avengers: Age of Ultron",
+   "y": 2015,
+   "img": "xm4",
+   "ids": {
+    "imdb": "tt2395427"
+   },
+   "s": {
+    "imdb": [7.3, 1024713, "2026-10-03"],
+    "lbx": [3.33, 2333038, "2026-10-03"],
+    "rt": [82, 101718, "2026-10-03"]
+   }
+  },
+  "avengers-infinity-war-2018": {
+   "t": "Avengers: Infinity War",
+   "y": 2018,
+   "img": "m34",
+   "aw": ["1 Oscar nomination"],
+   "ids": {
+    "imdb": "tt4154756"
+   },
+   "s": {
+    "imdb": [8.4, 1414689, "2026-10-03"],
+    "lbx": [4.09, 4062211, "2026-10-03"],
+    "rt": [92, 48208, "2026-10-03"]
+   }
+  },
+  "avengers-endgame-2019": {
+   "t": "Avengers: Endgame",
+   "y": 2019,
+   "img": "m33",
+   "aw": ["1 Oscar nomination"],
+   "ids": {
+    "imdb": "tt4154796"
+   },
+   "s": {
+    "imdb": [8.4, 1494990, "2026-10-03"],
+    "lbx": [4.03, 4091706, "2026-10-03"],
+    "rt": [96, 3443, "2026-10-03"]
+   }
+  },
+  "dune-part-one-2021": {
+   "t": "Dune: Part One",
+   "y": 2021,
+   "img": "xm2",
+   "aw": ["Won 6 Oscars of 10 nominations"],
+   "ids": {
+    "imdb": "tt1160419"
+   },
+   "s": {
+    "imdb": [8, 1093581, "2026-10-03"],
+    "lbx": [3.89, 4495485, "2026-10-03"],
+    "rt": [90, 7121, "2026-10-03"]
+   }
+  },
+  "dune-part-two-2024": {
+   "t": "Dune: Part Two",
+   "y": 2024,
+   "img": "m40",
+   "aw": ["Won 2 Oscars of 5 nominations"],
+   "ids": {
+    "imdb": "tt15239678"
+   },
+   "s": {
+    "imdb": [8.4, 796839, "2026-10-03"],
+    "lbx": [4.38, 3685818, "2026-10-03"],
+    "rt": [95, 7880, "2026-10-03"]
+   }
+  },
+  "blade-runner-1982": {
+   "t": "Blade Runner",
+   "y": 1982,
+   "img": "m69",
+   "aw": ["2 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0083658"
+   },
+   "s": {
+    "imdb": [8.1, 892851, "2026-10-03"],
+    "lbx": [4.09, 1549133, "2026-10-03"],
+    "rt": [91, 85233, "2026-10-03"]
+   }
+  },
+  "blade-runner-2049-2017": {
+   "t": "Blade Runner 2049",
+   "y": 2017,
+   "img": "m70",
+   "aw": ["Won 2 Oscars of 5 nominations"],
+   "ids": {
+    "imdb": "tt1856101"
+   },
+   "s": {
+    "imdb": [8, 770702, "2026-10-03"],
+    "lbx": [4.1, 2357317, "2026-10-03"],
+    "rt": [88, 4043, "2026-10-03"]
+   }
+  },
+  "12-angry-men-1957": {
+   "t": "12 Angry Men",
+   "y": 1957,
+   "by": "Sidney Lumet",
+   "g": "Crime / Drama",
+   "sum": "A lone juror tries to convince eleven others to reconsider a murder verdict.",
+   "img": "m102",
+   "aw": ["3 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0050083"
+   },
+   "s": {
+    "imdb": [9, 1005842, "2026-10-03"],
+    "lbx": [4.63, 1756663, "2026-10-03"],
+    "rt": [97, 29369, "2026-10-03"]
+   }
+  },
+  "the-good-the-bad-and-the-ugly-1966": {
+   "t": "The Good, the Bad and the Ugly",
+   "y": 1966,
+   "by": "Sergio Leone",
+   "g": "Western",
+   "sum": "Three gunslingers compete to find a buried fortune in Confederate gold during the Civil War.",
+   "img": "m103",
+   "ids": {
+    "imdb": "tt0060196"
+   },
+   "s": {
+    "imdb": [8.8, 903028, "2026-10-03"],
+    "lbx": [4.51, 831238, "2026-10-03"],
+    "rt": [97, 38997, "2026-10-03"]
+   }
+  },
+  "seven-samurai-1954": {
+   "t": "Seven Samurai",
+   "y": 1954,
+   "by": "Akira Kurosawa",
+   "g": "Action / Drama",
+   "sum": "A poor farming village hires seven masterless samurai to defend it from bandits.",
+   "img": "m104",
+   "aw": ["2 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0047478"
+   },
+   "s": {
+    "imdb": [8.6, 406489, "2026-10-03"],
+    "lbx": [4.6, 475349, "2026-10-03"],
+    "rt": [97, 25659, "2026-10-03"]
+   }
+  },
+  "one-flew-over-the-cuckoo-s-nest-1975": {
+   "t": "One Flew Over the Cuckoo's Nest",
+   "y": 1975,
+   "by": "Miloš Forman",
+   "g": "Drama",
+   "sum": "A charismatic convict feigns insanity and takes on a tyrannical nurse in a psychiatric ward.",
+   "img": "m106",
+   "aw": ["Won 5 Oscars of 9 nominations"],
+   "ids": {
+    "imdb": "tt0073486"
+   },
+   "s": {
+    "imdb": [8.6, 1169179, "2026-10-03"],
+    "lbx": [4.37, 1051853, "2026-10-03"],
+    "rt": [96, 64903, "2026-10-03"]
+   }
+  },
+  "it-s-a-wonderful-life-1946": {
+   "t": "It's a Wonderful Life",
+   "y": 1946,
+   "by": "Frank Capra",
+   "g": "Drama / Family",
+   "sum": "On Christmas Eve, an angel shows a despairing man what his town would be like if he'd never lived.",
+   "img": "m107",
+   "aw": ["5 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0038650"
+   },
+   "s": {
+    "imdb": [8.6, 560646, "2026-10-03"],
+    "lbx": [4.45, 794798, "2026-10-03"],
+    "rt": [95, 37324, "2026-10-03"]
+   }
+  },
+  "psycho-1960": {
+   "t": "Psycho",
+   "y": 1960,
+   "by": "Alfred Hitchcock",
+   "g": "Drama / Horror",
+   "sum": "A secretary on the run checks into a remote motel run by a strange young man and his mother.",
+   "img": "m108",
+   "aw": ["4 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0054215"
+   },
+   "s": {
+    "imdb": [8.5, 795670, "2026-10-03"],
+    "lbx": [4.31, 1465431, "2026-10-03"],
+    "rt": [95, 35499, "2026-10-03"]
+   }
+  },
+  "casablanca-1942": {
+   "t": "Casablanca",
+   "y": 1942,
+   "by": "Michael Curtiz",
+   "g": "Drama / Romance",
+   "sum": "A cynical nightclub owner in wartime Morocco must choose between love and helping his ex escape the Nazis.",
+   "img": "m109",
+   "aw": ["Won 3 Oscars of 8 nominations"],
+   "ids": {
+    "imdb": "tt0034583"
+   },
+   "s": {
+    "imdb": [8.5, 662050, "2026-10-03"],
+    "lbx": [4.28, 888606, "2026-10-03"],
+    "rt": [95, 61767, "2026-10-03"]
+   }
+  },
+  "rear-window-1954": {
+   "t": "Rear Window",
+   "y": 1954,
+   "by": "Alfred Hitchcock",
+   "g": "Drama / Mystery",
+   "sum": "A photographer laid up with a broken leg becomes convinced a neighbour across the courtyard committed murder.",
+   "img": "m110",
+   "aw": ["4 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0047396"
+   },
+   "s": {
+    "imdb": [8.4, 574888, "2026-10-03"],
+    "lbx": [4.36, 895663, "2026-10-03"],
+    "rt": [95, 36323, "2026-10-03"]
+   }
+  },
+  "vertigo-1958": {
+   "t": "Vertigo",
+   "y": 1958,
+   "by": "Alfred Hitchcock",
+   "g": "Mystery / Romance",
+   "sum": "A retired detective with a fear of heights becomes obsessed with the woman he's hired to follow.",
+   "img": "m111",
+   "aw": ["2 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0052357"
+   },
+   "s": {
+    "imdb": [8.2, 463556, "2026-10-03"],
+    "lbx": [4.21, 873194, "2026-10-03"],
+    "rt": [92, 28149, "2026-10-03"]
+   }
+  },
+  "city-lights-1931": {
+   "t": "City Lights",
+   "y": 1931,
+   "by": "Charles Chaplin",
+   "g": "Comedy / Drama",
+   "sum": "Chaplin's Tramp falls for a blind flower seller and tries to raise money for an operation to restore her sight.",
+   "img": "m112",
+   "ids": {
+    "imdb": "tt0021749"
+   },
+   "s": {
+    "imdb": [8.5, 218576, "2026-10-03"],
+    "lbx": [4.31, 198937, "2026-10-03"],
+    "rt": [95, 7039, "2026-10-03"]
+   }
+  },
+  "modern-times-1936": {
+   "t": "Modern Times",
+   "y": 1936,
+   "by": "Charles Chaplin",
+   "g": "Comedy / Drama",
+   "sum": "The Tramp struggles to survive in an industrialised world of factories and machines.",
+   "img": "m113",
+   "ids": {
+    "imdb": "tt0027977"
+   },
+   "s": {
+    "imdb": [8.5, 288254, "2026-10-03"],
+    "lbx": [4.24, 296068, "2026-10-03"],
+    "rt": [95, 9270, "2026-10-03"]
+   }
+  },
+  "the-great-dictator-1940": {
+   "t": "The Great Dictator",
+   "y": 1940,
+   "by": "Charles Chaplin",
+   "g": "Comedy / Drama",
+   "sum": "Chaplin's satire of Hitler, in which a Jewish barber is mistaken for a ruthless dictator.",
+   "img": "m114",
+   "aw": ["5 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0032553"
+   },
+   "s": {
+    "imdb": [8.4, 260707, "2026-10-03"],
+    "lbx": [4.33, 206773, "2026-10-03"],
+    "rt": [95, 8100, "2026-10-03"]
+   }
+  },
+  "sunset-boulevard-1950": {
+   "t": "Sunset Boulevard",
+   "y": 1950,
+   "by": "Billy Wilder",
+   "g": "Drama / Film-Noir",
+   "sum": "A struggling screenwriter gets entangled with a faded silent-film star planning her comeback.",
+   "img": "m115",
+   "aw": ["Won 3 Oscars of 11 nominations"],
+   "ids": {
+    "imdb": "tt0043014"
+   },
+   "s": {
+    "imdb": [8.4, 264208, "2026-10-03"],
+    "lbx": [4.44, 387284, "2026-10-03"],
+    "rt": [95, 13280, "2026-10-03"]
+   }
+  },
+  "dr-strangelove-1964": {
+   "t": "Dr. Strangelove",
+   "y": 1964,
+   "by": "Stanley Kubrick",
+   "g": "Comedy / War",
+   "sum": "A rogue general launches a nuclear strike on the USSR, and leaders scramble to stop it, in a pitch-black comedy.",
+   "img": "m116",
+   "aw": ["4 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0057012"
+   },
+   "s": {
+    "imdb": [8.3, 555205, "2026-10-03"],
+    "lbx": [4.3, 663776, "2026-10-03"],
+    "rt": [94, 39829, "2026-10-03"]
+   }
+  },
+  "2001-a-space-odyssey-1968": {
+   "t": "2001: A Space Odyssey",
+   "y": 1968,
+   "by": "Stanley Kubrick",
+   "g": "Adventure / Sci-Fi",
+   "sum": "From the dawn of humanity to a mission to Jupiter, a mysterious black monolith shapes human evolution.",
+   "img": "m117",
+   "aw": ["Won 1 Oscar of 4 nominations"],
+   "ids": {
+    "imdb": "tt0062622"
+   },
+   "s": {
+    "imdb": [8.3, 794208, "2026-10-03"],
+    "lbx": [4.23, 1618003, "2026-10-03"],
+    "rt": [88, 52583, "2026-10-03"]
+   }
+  },
+  "apocalypse-now-1979": {
+   "t": "Apocalypse Now",
+   "y": 1979,
+   "by": "Francis Ford Coppola",
+   "g": "Drama / War",
+   "sum": "During the Vietnam War, a captain is sent upriver into Cambodia to kill a renegade colonel.",
+   "img": "m118",
+   "aw": ["Won 2 Oscars of 8 nominations"],
+   "ids": {
+    "imdb": "tt0078788"
+   },
+   "s": {
+    "imdb": [8.4, 779333, "2026-10-03"],
+    "lbx": [4.43, 1073652, "2026-10-03"],
+    "rt": [94, 68112, "2026-10-03"]
+   }
+  },
+  "taxi-driver-1976": {
+   "t": "Taxi Driver",
+   "y": 1976,
+   "by": "Martin Scorsese",
+   "g": "Crime / Drama",
+   "sum": "A lonely Vietnam veteran working as a night-shift cabbie in New York slides toward violence.",
+   "img": "m120",
+   "aw": ["4 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0075314"
+   },
+   "s": {
+    "imdb": [8.2, 1044224, "2026-10-03"],
+    "lbx": [4.1, 2578300, "2026-10-03"],
+    "rt": [93, 64513, "2026-10-03"]
+   }
+  },
+  "lawrence-of-arabia-1962": {
+   "t": "Lawrence of Arabia",
+   "y": 1962,
+   "by": "David Lean",
+   "g": "Adventure / Biography",
+   "sum": "A British officer helps unite Arab tribes against the Ottoman Empire during WWI.",
+   "img": "m121",
+   "aw": ["Won 7 Oscars of 10 nominations"],
+   "ids": {
+    "imdb": "tt0056172"
+   },
+   "s": {
+    "imdb": [8.3, 346844, "2026-10-03"],
+    "lbx": [4.42, 420200, "2026-10-03"],
+    "rt": [93, 20637, "2026-10-03"]
+   }
+  },
+  "singin-in-the-rain-1952": {
+   "t": "Singin' in the Rain",
+   "y": 1952,
+   "by": "Stanley Donen, Gene Kelly",
+   "g": "Comedy / Musical",
+   "sum": "A silent-film star struggles to make the leap to talking pictures in this joyful musical.",
+   "img": "m122",
+   "aw": ["2 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0045152"
+   },
+   "s": {
+    "imdb": [8.3, 286317, "2026-10-03"],
+    "lbx": [4.35, 692879, "2026-10-03"],
+    "rt": [94, 23160, "2026-10-03"]
+   }
+  },
+  "some-like-it-hot-1959": {
+   "t": "Some Like It Hot",
+   "y": 1959,
+   "by": "Billy Wilder",
+   "g": "Comedy",
+   "sum": "Two musicians who witnessed a mob hit disguise themselves as women in an all-female band.",
+   "img": "m123",
+   "aw": ["Won 1 Oscar of 6 nominations"],
+   "ids": {
+    "imdb": "tt0053291"
+   },
+   "s": {
+    "imdb": [8.2, 307823, "2026-10-03"],
+    "lbx": [4.28, 424783, "2026-10-03"],
+    "rt": [94, 19182, "2026-10-03"]
+   }
+  },
+  "north-by-northwest-1959": {
+   "t": "North by Northwest",
+   "y": 1959,
+   "by": "Alfred Hitchcock",
+   "g": "Adventure / Thriller",
+   "sum": "An advertising man is mistaken for a spy and chased across America.",
+   "img": "m124",
+   "aw": ["3 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0053125"
+   },
+   "s": {
+    "imdb": [8.2, 372165, "2026-10-03"],
+    "lbx": [4.2, 363145, "2026-10-03"],
+    "rt": [94, 23875, "2026-10-03"]
+   }
+  },
+  "once-upon-a-time-in-the-west-1968": {
+   "t": "Once Upon a Time in the West",
+   "y": 1968,
+   "by": "Sergio Leone",
+   "g": "Western",
+   "sum": "A mysterious harmonica player helps a widow defend her land from a ruthless railroad hitman.",
+   "img": "m125",
+   "ids": {
+    "imdb": "tt0064116"
+   },
+   "s": {
+    "imdb": [8.5, 388318, "2026-10-03"],
+    "lbx": [4.39, 310478, "2026-10-03"],
+    "rt": [94, 17995, "2026-10-03"]
+   }
+  },
+  "paths-of-glory-1957": {
+   "t": "Paths of Glory",
+   "y": 1957,
+   "by": "Stanley Kubrick",
+   "g": "Drama / War",
+   "sum": "A French colonel defends three soldiers court-martialled for cowardice after a suicidal WWI attack.",
+   "img": "m126",
+   "ids": {
+    "imdb": "tt0050825"
+   },
+   "s": {
+    "imdb": [8.4, 243102, "2026-10-03"],
+    "lbx": [4.45, 343136, "2026-10-03"],
+    "rt": [95, 8163, "2026-10-03"]
+   }
+  },
+  "the-apartment-1960": {
+   "t": "The Apartment",
+   "y": 1960,
+   "by": "Billy Wilder",
+   "g": "Comedy / Drama",
+   "sum": "An insurance clerk lends his apartment to executives for their affairs, until he falls for one's mistress.",
+   "img": "m127",
+   "aw": ["Won 5 Oscars of 10 nominations"],
+   "ids": {
+    "imdb": "tt0053604"
+   },
+   "s": {
+    "imdb": [8.3, 223497, "2026-10-03"],
+    "lbx": [4.43, 414051, "2026-10-03"],
+    "rt": [94, 9091, "2026-10-03"]
+   }
+  },
+  "witness-for-the-prosecution-1957": {
+   "t": "Witness for the Prosecution",
+   "y": 1957,
+   "by": "Billy Wilder",
+   "g": "Crime / Drama",
+   "sum": "An ageing barrister defends a man accused of murder, and the case hinges on the man's wife.",
+   "img": "m128",
+   "aw": ["6 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0051201"
+   },
+   "s": {
+    "imdb": [8.4, 164865, "2026-10-03"],
+    "lbx": [4.41, 143482, "2026-10-03"],
+    "rt": [95, 3006, "2026-10-03"]
+   }
+  },
+  "double-indemnity-1944": {
+   "t": "Double Indemnity",
+   "y": 1944,
+   "by": "Billy Wilder",
+   "g": "Crime / Film-Noir",
+   "sum": "An insurance salesman and a seductive housewife plot to kill her husband for the payout.",
+   "img": "m129",
+   "aw": ["7 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0036775"
+   },
+   "s": {
+    "imdb": [8.3, 183541, "2026-10-03"],
+    "lbx": [4.26, 238869, "2026-10-03"],
+    "rt": [95, 7841, "2026-10-03"]
+   }
+  },
+  "citizen-kane-1941": {
+   "t": "Citizen Kane",
+   "y": 1941,
+   "by": "Orson Welles",
+   "g": "Drama / Mystery",
+   "sum": "Reporters piece together the life of a newspaper tycoon from his mysterious last word.",
+   "img": "m130",
+   "aw": ["Won 1 Oscar of 9 nominations"],
+   "ids": {
+    "imdb": "tt0033467"
+   },
+   "s": {
+    "imdb": [8.2, 497352, "2026-10-03"],
+    "lbx": [4.19, 690338, "2026-10-03"],
+    "rt": [98, 107, "2026-10-03"]
+   }
+  },
+  "the-wizard-of-oz-1939": {
+   "t": "The Wizard of Oz",
+   "y": 1939,
+   "by": "Victor Fleming",
+   "g": "Adventure / Family",
+   "sum": "A Kansas girl swept away by a tornado follows the yellow brick road to find a way home.",
+   "img": "m131",
+   "aw": ["Won 2 Oscars of 5 nominations"],
+   "ids": {
+    "imdb": "tt0032138"
+   },
+   "s": {
+    "imdb": [8.1, 473360, "2026-10-03"],
+    "lbx": [3.91, 1004899, "2026-10-03"],
+    "rt": [89, 54221, "2026-10-03"]
+   }
+  },
+  "gone-with-the-wind-1939": {
+   "t": "Gone with the Wind",
+   "y": 1939,
+   "by": "Victor Fleming",
+   "g": "Drama / Romance",
+   "sum": "A headstrong Southern belle fights to survive the Civil War and its aftermath.",
+   "img": "m132",
+   "aw": ["Won 8 Oscars of 13 nominations"],
+   "ids": {
+    "imdb": "tt0031381"
+   },
+   "s": {
+    "imdb": [8.2, 359211, "2026-10-03"],
+    "lbx": [3.86, 281075, "2026-10-03"],
+    "rt": [92, 47862, "2026-10-03"]
+   }
+  },
+  "to-kill-a-mockingbird-1962": {
+   "t": "To Kill a Mockingbird",
+   "y": 1962,
+   "by": "Robert Mulligan",
+   "g": "Crime / Drama",
+   "sum": "A lawyer in the Depression-era South defends a Black man falsely accused of rape, seen through his daughter's eyes.",
+   "img": "m133",
+   "aw": ["Won 3 Oscars of 8 nominations"],
+   "ids": {
+    "imdb": "tt0056592"
+   },
+   "s": {
+    "imdb": [8.2, 353671, "2026-10-03"],
+    "lbx": [4.12, 281572, "2026-10-03"],
+    "rt": [93, 19662, "2026-10-03"]
+   }
+  },
+  "the-sound-of-music-1965": {
+   "t": "The Sound of Music",
+   "y": 1965,
+   "by": "Robert Wise",
+   "g": "Biography / Musical",
+   "sum": "A young governess brings music to a widowed naval captain's family as the Nazis take over Austria.",
+   "img": "m134",
+   "aw": ["Won 5 Oscars of 10 nominations"],
+   "ids": {
+    "imdb": "tt0059742"
+   },
+   "s": {
+    "imdb": [8.1, 295823, "2026-10-03"],
+    "lbx": [4.26, 737497, "2026-10-03"],
+    "rt": [99, 552, "2026-10-03"]
+   }
+  },
+  "jaws-1975": {
+   "t": "Jaws",
+   "y": 1975,
+   "by": "Steven Spielberg",
+   "g": "Adventure / Thriller",
+   "sum": "A police chief, a marine biologist and a shark hunter go after a great white terrorising a beach town.",
+   "img": "m135",
+   "aw": ["Won 3 Oscars of 4 nominations"],
+   "ids": {
+    "imdb": "tt0073195"
+   },
+   "s": {
+    "imdb": [8.1, 751276, "2026-10-03"],
+    "lbx": [3.91, 1850098, "2026-10-03"],
+    "rt": [98, 2044, "2026-10-03"]
+   }
+  },
+  "rocky-1976": {
+   "t": "Rocky",
+   "y": 1976,
+   "by": "John G. Avildsen",
+   "g": "Drama / Sport",
+   "sum": "A small-time Philadelphia boxer gets a once-in-a-lifetime shot at the heavyweight title.",
+   "img": "m136",
+   "aw": ["Won 3 Oscars of 10 nominations"],
+   "ids": {
+    "imdb": "tt0075148"
+   },
+   "s": {
+    "imdb": [8.1, 703112, "2026-10-03"],
+    "lbx": [4.12, 1095008, "2026-10-03"],
+    "rt": [69, 108040, "2026-10-03"]
+   }
+  },
+  "a-clockwork-orange-1971": {
+   "t": "A Clockwork Orange",
+   "y": 1971,
+   "by": "Stanley Kubrick",
+   "g": "Crime / Sci-Fi",
+   "sum": "A violent young gang leader undergoes an experimental treatment designed to cure him of violence.",
+   "img": "m137",
+   "aw": ["4 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0066921"
+   },
+   "s": {
+    "imdb": [8.2, 946276, "2026-10-03"],
+    "lbx": [4.09, 1574061, "2026-10-03"],
+    "rt": [93, 109676, "2026-10-03"]
+   }
+  },
+  "the-sting-1973": {
+   "t": "The Sting",
+   "y": 1973,
+   "by": "George Roy Hill",
+   "g": "Comedy / Crime",
+   "sum": "Two con men in 1930s Chicago set up an elaborate scheme to swindle a mob boss.",
+   "img": "m138",
+   "aw": ["Won 7 Oscars of 10 nominations"],
+   "ids": {
+    "imdb": "tt0070735"
+   },
+   "s": {
+    "imdb": [8.2, 306483, "2026-10-03"],
+    "lbx": [4.21, 230357, "2026-10-03"],
+    "rt": [95, 13142, "2026-10-03"]
+   }
+  },
+  "chinatown-1974": {
+   "t": "Chinatown",
+   "y": 1974,
+   "by": "Roman Polanski",
+   "g": "Drama / Mystery",
+   "sum": "A private eye hired in an adultery case uncovers a conspiracy over Los Angeles's water supply.",
+   "img": "m139",
+   "aw": ["Won 1 Oscar of 11 nominations"],
+   "ids": {
+    "imdb": "tt0071315"
+   },
+   "s": {
+    "imdb": [8.1, 380759, "2026-10-03"],
+    "lbx": [4.3, 526255, "2026-10-03"],
+    "rt": [93, 24363, "2026-10-03"]
+   }
+  },
+  "network-1976": {
+   "t": "Network",
+   "y": 1976,
+   "by": "Sidney Lumet",
+   "g": "Drama",
+   "sum": "A news anchor's on-air breakdown becomes a ratings hit that his network ruthlessly exploits.",
+   "img": "m140",
+   "aw": ["Won 4 Oscars of 10 nominations"],
+   "ids": {
+    "imdb": "tt0074958"
+   },
+   "s": {
+    "imdb": [8, 188272, "2026-10-03"],
+    "lbx": [4.26, 257487, "2026-10-03"],
+    "rt": [93, 9860, "2026-10-03"]
+   }
+  },
+  "annie-hall-1977": {
+   "t": "Annie Hall",
+   "y": 1977,
+   "by": "Woody Allen",
+   "g": "Comedy / Romance",
+   "sum": "A neurotic New York comedian looks back at the rise and fall of his relationship with Annie.",
+   "img": "m141",
+   "aw": ["Won 4 Oscars of 5 nominations"],
+   "ids": {
+    "imdb": "tt0075686"
+   },
+   "s": {
+    "imdb": [7.9, 292990, "2026-10-03"],
+    "lbx": [4, 378995, "2026-10-03"],
+    "rt": [92, 25870, "2026-10-03"]
+   }
+  },
+  "rashomon-1950": {
+   "t": "Rashomon",
+   "y": 1950,
+   "by": "Akira Kurosawa",
+   "g": "Crime / Drama",
+   "sum": "Four witnesses give contradictory accounts of a samurai's death in a forest.",
+   "img": "m142",
+   "aw": ["1 Oscar nomination"],
+   "ids": {
+    "imdb": "tt0042876"
+   },
+   "s": {
+    "imdb": [8.1, 199072, "2026-10-03"],
+    "lbx": [4.19, 316305, "2026-10-03"],
+    "rt": [93, 11834, "2026-10-03"]
+   }
+  },
+  "ikiru-1952": {
+   "t": "Ikiru",
+   "y": 1952,
+   "by": "Akira Kurosawa",
+   "g": "Drama",
+   "sum": "A dull bureaucrat diagnosed with cancer searches for meaning in his final months.",
+   "img": "m143",
+   "ids": {
+    "imdb": "tt0044741"
+   },
+   "s": {
+    "imdb": [8.3, 104212, "2026-10-03"],
+    "lbx": [4.52, 213447, "2026-10-03"],
+    "rt": [96, 4706, "2026-10-03"]
+   }
+  },
+  "bicycle-thieves-1948": {
+   "t": "Bicycle Thieves",
+   "y": 1948,
+   "by": "Vittorio De Sica",
+   "g": "Drama",
+   "sum": "In postwar Rome, a poor man and his son search the city for his stolen bicycle, which he needs for work.",
+   "img": "m144",
+   "aw": ["1 Oscar nomination"],
+   "ids": {
+    "imdb": "tt0040522"
+   },
+   "s": {
+    "imdb": [8.2, 193603, "2026-10-03"],
+    "lbx": [4.28, 294185, "2026-10-03"],
+    "rt": [94, 8542, "2026-10-03"]
+   }
+  },
+  "tokyo-story-1953": {
+   "t": "Tokyo Story",
+   "y": 1953,
+   "by": "Yasujirō Ozu",
+   "g": "Drama",
+   "sum": "An elderly couple visit their grown children in Tokyo, who are too busy to make time for them.",
+   "img": "m145",
+   "ids": {
+    "imdb": "tt0046438"
+   },
+   "s": {
+    "imdb": [8.1, 79011, "2026-10-03"],
+    "lbx": [4.43, 157117, "2026-10-03"],
+    "rt": [93, 3564, "2026-10-03"]
+   }
+  },
+  "the-bridge-on-the-river-kwai-1957": {
+   "t": "The Bridge on the River Kwai",
+   "y": 1957,
+   "by": "David Lean",
+   "g": "Adventure / War",
+   "sum": "British POWs are forced to build a railway bridge for their Japanese captors in WWII Burma.",
+   "img": "m146",
+   "aw": ["Won 7 Oscars of 8 nominations"],
+   "ids": {
+    "imdb": "tt0050212"
+   },
+   "s": {
+    "imdb": [8.1, 251657, "2026-10-03"],
+    "lbx": [4.25, 129588, "2026-10-03"],
+    "rt": [93, 8678, "2026-10-03"]
+   }
+  },
+  "ben-hur-1959": {
+   "t": "Ben-Hur",
+   "y": 1959,
+   "by": "William Wyler",
+   "g": "Adventure / Drama",
+   "sum": "A Jewish prince betrayed by his Roman friend is sold into slavery and seeks revenge, leading to a legendary chariot race.",
+   "img": "m147",
+   "aw": ["Won 11 Oscars of 12 nominations"],
+   "ids": {
+    "imdb": "tt0052618"
+   },
+   "s": {
+    "imdb": [8.1, 273922, "2026-10-03"],
+    "lbx": [4.12, 148491, "2026-10-03"],
+    "rt": [90, 12544, "2026-10-03"]
+   }
+  },
+  "the-deer-hunter-1978": {
+   "t": "The Deer Hunter",
+   "y": 1978,
+   "by": "Michael Cimino",
+   "g": "Drama / War",
+   "sum": "Three steelworker friends from Pennsylvania are changed forever by the Vietnam War.",
+   "img": "m148",
+   "aw": ["Won 5 Oscars of 9 nominations"],
+   "ids": {
+    "imdb": "tt0077416"
+   },
+   "s": {
+    "imdb": [8.1, 390177, "2026-10-03"],
+    "lbx": [4.22, 328390, "2026-10-03"],
+    "rt": [91, 23646, "2026-10-03"]
+   }
+  },
+  "the-third-man-1949": {
+   "t": "The Third Man",
+   "y": 1949,
+   "by": "Carol Reed",
+   "g": "Drama / Film-Noir",
+   "sum": "An American writer arrives in postwar Vienna to find his friend dead under suspicious circumstances.",
+   "img": "m149",
+   "aw": ["Won 1 Oscar of 3 nominations"],
+   "ids": {
+    "imdb": "tt0041959"
+   },
+   "s": {
+    "imdb": [8.1, 197649, "2026-10-03"],
+    "lbx": [4.24, 208710, "2026-10-03"],
+    "rt": [93, 13311, "2026-10-03"]
+   }
+  },
+  "metropolis-1927": {
+   "t": "Metropolis",
+   "y": 1927,
+   "by": "Fritz Lang",
+   "g": "Drama / Sci-Fi",
+   "sum": "In a futuristic city divided between rich thinkers and underground workers, a revolution brews.",
+   "img": "m150",
+   "ids": {
+    "imdb": "tt0017136"
+   },
+   "s": {
+    "imdb": [8.2, 203418, "2026-10-03"],
+    "lbx": [4.24, 285593, "2026-10-03"],
+    "rt": [91, 14127, "2026-10-03"]
+   }
+  },
+  "the-godfather-1972": {
+   "t": "The Godfather",
+   "y": 1972,
+   "img": "m100",
+   "aw": ["Won 3 Oscars of 11 nominations"],
+   "ids": {
+    "imdb": "tt0068646"
+   },
+   "s": {
+    "imdb": [9.2, 2261421, "2026-10-03"],
+    "lbx": [4.51, 2966632, "2026-10-03"],
+    "rt": [98, 170170, "2026-10-03"]
+   }
+  },
+  "the-godfather-part-ii-1974": {
+   "t": "The Godfather Part II",
+   "y": 1974,
+   "img": "m101",
+   "aw": ["Won 6 Oscars of 11 nominations"],
+   "ids": {
+    "imdb": "tt0071562"
+   },
+   "s": {
+    "imdb": [9, 1516633, "2026-10-03"],
+    "lbx": [4.59, 1553129, "2026-10-03"],
+    "rt": [97, 89568, "2026-10-03"]
+   }
+  },
+  "the-godfather-part-iii-1990": {
+   "t": "The Godfather Part III",
+   "y": 1990,
+   "img": "xm1",
+   "aw": ["7 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0099674"
+   },
+   "s": {
+    "imdb": [7.5, 461465, "2026-10-03"],
+    "lbx": [3.5, 523302, "2026-10-03"],
+    "rt": [68, 1134, "2026-10-03"]
+   }
+  },
+  "star-wars-1977": {
+   "t": "Star Wars",
+   "y": 1977,
+   "img": "m105",
+   "aw": ["Won 6 Oscars of 10 nominations"],
+   "ids": {
+    "imdb": "tt0076759"
+   },
+   "s": {
+    "imdb": [8.6, 1591689, "2026-10-03"],
+    "lbx": [4.16, 2860916, "2026-10-03"],
+    "rt": [96, 124514, "2026-10-03"]
+   }
+  },
+  "the-empire-strikes-back-1980": {
+   "t": "The Empire Strikes Back",
+   "y": 1980,
+   "img": "m13",
+   "aw": ["Won 1 Oscar of 3 nominations"],
+   "ids": {
+    "imdb": "tt0080684"
+   },
+   "s": {
+    "imdb": [8.7, 1526751, "2026-10-03"],
+    "lbx": [4.4, 2441468, "2026-10-03"],
+    "rt": [97, 128630, "2026-10-03"]
+   }
+  },
+  "return-of-the-jedi-1983": {
+   "t": "Return of the Jedi",
+   "y": 1983,
+   "img": "m96",
+   "aw": ["4 Oscar nominations"],
+   "ids": {
+    "imdb": "tt0086190"
+   },
+   "s": {
+    "imdb": [8.3, 1225799, "2026-10-03"],
+    "lbx": [4.11, 2014007, "2026-10-03"],
+    "rt": [94, 105612, "2026-10-03"]
+   }
+  },
+  "alien-1979": {
+   "t": "Alien",
+   "y": 1979,
+   "img": "m119",
+   "aw": ["Won 1 Oscar of 2 nominations"],
+   "ids": {
+    "imdb": "tt0078748"
+   },
+   "s": {
+    "imdb": [8.4, 1078719, "2026-10-03"],
+    "lbx": [4.25, 2026448, "2026-10-03"],
+    "rt": [94, 79692, "2026-10-03"]
+   }
+  },
+  "aliens-1986": {
+   "t": "Aliens",
+   "y": 1986,
+   "img": "m42",
+   "aw": ["Won 2 Oscars of 7 nominations"],
+   "ids": {
+    "imdb": "tt0090605"
+   },
+   "s": {
+    "imdb": [8.4, 849592, "2026-10-03"],
+    "lbx": [4.12, 966816, "2026-10-03"],
+    "rt": [94, 74127, "2026-10-03"]
+   }
+  },
+  "alien3-1992": {
+   "t": "Alien³",
+   "y": 1992,
+   "img": "xm5",
+   "aw": ["1 Oscar nomination"],
+   "ids": {
+    "imdb": "tt0103644"
+   },
+   "s": {
+    "imdb": [6.4, 356164, "2026-10-03"],
+    "lbx": [2.84, 443277, "2026-10-03"],
+    "rt": [46, 24056, "2026-10-03"]
+   }
+  },
+  "alien-resurrection-1997": {
+   "t": "Alien Resurrection",
+   "y": 1997,
+   "img": "xm6",
+   "ids": {
+    "imdb": "tt0118583"
+   },
+   "s": {
+    "imdb": [6.2, 294929, "2026-10-03"],
+    "lbx": [2.63, 325733, "2026-10-03"],
+    "rt": [39, 19769, "2026-10-03"]
+   }
+  },
+  "the-odyssey-2026": {
+   "t": "The Odyssey",
+   "y": 2026,
+   "by": "Christopher Nolan",
+   "g": "Action / Adventure",
+   "sum": "After the Trojan War, Odysseus fights his way home to Ithaca past monsters, gods and temptations, while rivals circle his wife and son.",
+   "img": "cm0",
+   "ids": {
+    "imdb": "tt33764258"
+   },
+   "s": {
+    "imdb": [8.4, 517820, "2026-10-03"],
+    "lbx": [4.35, 4500729, "2026-10-03"],
+    "rt": [96, 34247, "2026-10-03"]
+   }
+  },
+  "spider-man-homecoming-2017": {
+   "t": "Spider-Man: Homecoming",
+   "y": 2017,
+   "img": "cm27",
+   "ids": {
+    "imdb": "tt2250912"
+   },
+   "s": {
+    "imdb": [7.4, 840709, "2026-10-03"],
+    "lbx": [3.51, 3434196, "2026-10-03"],
+    "rt": [87, 53278, "2026-10-03"]
+   }
+  },
+  "spider-man-far-from-home-2019": {
+   "t": "Spider-Man: Far From Home",
+   "y": 2019,
+   "img": "cm28",
+   "ids": {
+    "imdb": "tt6320628"
+   },
+   "s": {
+    "imdb": [7.3, 678306, "2026-10-03"],
+    "lbx": [3.42, 3075305, "2026-10-03"],
+    "rt": [95, 69542, "2026-10-03"]
+   }
+  },
+  "spider-man-no-way-home-2021": {
+   "t": "Spider-Man: No Way Home",
+   "y": 2021,
+   "img": "cm29",
+   "aw": ["1 Oscar nomination"],
+   "ids": {
+    "imdb": "tt10872600"
+   },
+   "s": {
+    "imdb": [8.1, 1078676, "2026-10-03"],
+    "lbx": [3.86, 4273257, "2026-10-03"],
+    "rt": [97, 50223, "2026-10-03"]
+   }
+  },
+  "spider-man-brand-new-day-2026": {
+   "t": "Spider-Man: Brand New Day",
+   "y": 2026,
+   "img": "cm1",
+   "ids": {
+    "imdb": "tt22084616"
+   },
+   "s": {
+    "imdb": [8, 317734, "2026-10-03"],
+    "lbx": [4.04, 4310839, "2026-10-03"],
+    "rt": [97, 35662, "2026-10-03"]
+   }
+  },
+  "punjab-95-2026": {
+   "t": "Punjab '95",
+   "y": 2026,
+   "by": "Honey Trehan",
+   "g": "Biography / Crime",
+   "sum": "The true story of human rights activist Jaswant Singh Khalra, who uncovered thousands of secret cremations during the Punjab insurgency.",
+   "img": "cm2",
+   "ids": {
+    "imdb": "tt28089784"
+   },
+   "s": {
+    "imdb": [8.8, 106790, "2026-10-03"],
+    "lbx": [4.2, 8857, "2026-10-03"],
+    "rt": [76, 237, "2026-10-03"]
+   }
+  },
+  "coyote-vs-acme-2026": {
+   "t": "Coyote vs. Acme",
+   "y": 2026,
+   "by": "Dave Green",
+   "g": "Animation / Comedy",
+   "sum": "After years of exploding products, Wile E. Coyote teams up with a personal injury lawyer to sue the Acme Corporation.",
+   "img": "cm3",
+   "ids": {},
+   "s": {
+    "imdb": [7.4, 37087, "2026-10-03"],
+    "lbx": [3.83, 566881, "2026-10-03"],
+    "rt": [94, 3895, "2026-10-03"]
+   }
+  },
+  "resident-evil-2026": {
+   "t": "Resident Evil",
+   "y": 2026,
+   "by": "Zach Cregger",
+   "g": "Horror",
+   "sum": "A hapless courier sent to deliver a package to a remote hospital finds himself trapped in the middle of a deadly outbreak.",
+   "img": "cm4",
+   "ids": {},
+   "s": {
+    "imdb": [7.6, 82501, "2026-10-03"],
+    "lbx": [3.77, 1186722, "2026-10-03"],
+    "rt": [91, 8366, "2026-10-03"]
+   }
+  },
+  "the-sheep-detectives-2026": {
+   "t": "The Sheep Detectives",
+   "y": 2026,
+   "by": "Kyle Balda",
+   "g": "Comedy / Family",
+   "sum": "When the shepherd who reads them murder mysteries every night is found dead, his flock sets out to solve the case.",
+   "img": "cm5",
+   "ids": {
+    "imdb": "tt32565993"
+   },
+   "s": {
+    "imdb": [7.4, 118516, "2026-10-03"],
+    "lbx": [3.78, 1078740, "2026-10-03"],
+    "rt": [96, 3884, "2026-10-03"]
+   }
+  },
+  "michael-2026": {
+   "t": "Michael",
+   "y": 2026,
+   "by": "Antoine Fuqua",
+   "g": "Biography / Drama",
+   "sum": "The life of Michael Jackson, from the Jackson 5 to the ambition that made him the biggest star in the world.",
+   "img": "cm6",
+   "ids": {
+    "imdb": "tt11378946"
+   },
+   "s": {
+    "imdb": [7.3, 191619, "2026-10-03"],
+    "lbx": [3.6, 1871323, "2026-10-03"],
+    "rt": [97, 29738, "2026-10-03"]
+   }
+  },
+  "tony-2026": {
+   "t": "Tony",
+   "y": 2026,
+   "by": "Matt Johnson",
+   "g": "Biography / Comedy",
+   "sum": "A 19-year-old Anthony Bourdain spends a chaotic summer in a Provincetown restaurant kitchen that shapes the rest of his life.",
+   "img": "cm7",
+   "ids": {
+    "imdb": "tt33095251"
+   },
+   "s": {
+    "imdb": [7.4, 15196, "2026-10-03"],
+    "lbx": [3.82, 331587, "2026-10-03"],
+    "rt": [93, 971, "2026-10-03"]
+   }
+  },
+  "main-vaapas-aaunga-2026": {
+   "t": "Main Vaapas Aaunga",
+   "y": 2026,
+   "by": "Imtiaz Ali",
+   "g": "Comedy / Drama",
+   "sum": "A story of love, memory and longing for home, rooted in the families torn apart by the Partition of India.",
+   "img": "cm8",
+   "ids": {
+    "imdb": "tt37333137"
+   },
+   "s": {
+    "imdb": [8, 13751, "2026-10-03"],
+    "lbx": [3.98, 31701, "2026-10-03"],
+    "rt": [92, 64, "2026-10-03"]
+   }
+  },
+  "remarkably-bright-creatures-2026": {
+   "t": "Remarkably Bright Creatures",
+   "y": 2026,
+   "by": "Olivia Newman",
+   "g": "Comedy / Drama",
+   "sum": "A widow working night shifts at an aquarium forms an unlikely friendship with a very clever octopus, who helps her uncover a family secret.",
+   "img": "cm9",
+   "ids": {
+    "imdb": "tt33100314"
+   },
+   "s": {
+    "imdb": [7.6, 53138, "2026-10-03"],
+    "lbx": [3.8, 265843, "2026-10-03"],
+    "rt": [90, 1478, "2026-10-03"]
+   }
+  },
+  "batman-knightfall-part-1-2026": {
+   "t": "Batman: Knightfall – Part 1",
+   "y": 2026,
+   "by": "Jeff Wamester",
+   "g": "Animation / Action",
+   "sum": "Bane frees every villain in Arkham Asylum, pushing an exhausted Batman to his breaking point.",
+   "img": "cm10",
+   "ids": {},
+   "s": {
+    "imdb": [7.8, 8732, "2026-10-03"],
+    "lbx": [3.93, 49616, "2026-10-03"],
+    "rt": [94, 222, "2026-10-03"]
+   }
+  },
+  "hanuman-ansh-2026": {
+   "t": "Hanuman Ansh",
+   "y": 2026,
+   "by": "Vishal Chaturvedi",
+   "g": "Biography / Drama",
+   "sum": "A grieving boy searching for God to meet his late mother learns to serve others with love, food and quiet miracles.",
+   "img": "cm11",
+   "ids": {
+    "imdb": "tt39390582"
+   },
+   "s": {
+    "imdb": [8.6, 11863, "2026-10-03"],
+    "lbx": [3.12, 3671, "2026-10-03"],
+    "rt": [97, 146, "2026-10-03"]
+   }
+  },
+  "mandaadi-2026": {
+   "t": "Mandaadi",
+   "y": 2026,
+   "by": "Pugazhendhi Mathimaran",
+   "g": "Action / Drama",
+   "sum": "A fishing captain leads a six-person crew in a fierce traditional boat race along the Tamil Nadu coast.",
+   "img": "cm12",
+   "ids": {},
+   "s": {
+    "imdb": [9, 9448, "2026-10-03"],
+    "lbx": [3.47, 13862, "2026-10-03"],
+    "rt": [66, 61, "2026-10-03"]
+   }
+  },
+  "avatar-aang-the-last-airbender-2026": {
+   "t": "Avatar Aang: The Last Airbender",
+   "y": 2026,
+   "by": "Steve Ahn, William Mata",
+   "g": "Animation / Action",
+   "sum": "Grown-up Aang and his friends set out on a new adventure when he learns of an ancient power that could save the Air Nomads.",
+   "img": "cm13",
+   "ids": {
+    "imdb": "tt18259538"
+   },
+   "s": {
+    "imdb": [7.7, 28902, "2026-10-03"],
+    "lbx": [3.72, 279448, "2026-10-03"],
+    "rt": [99, 96, "2026-10-03"]
+   }
+  },
+  "dc-2026": {
+   "t": "DC",
+   "y": 2026,
+   "by": "Arun Matheswaran",
+   "g": "Action / Crime",
+   "sum": "A rebel and a dangerous woman form a turbulent alliance in a violent underworld where loyalty is tested in blood.",
+   "img": "cm15",
+   "ids": {
+    "imdb": "tt37501035"
+   },
+   "s": {
+    "imdb": [7.9, 8475, "2026-10-03"],
+    "lbx": [3.7, 48395, "2026-10-03"],
+    "rt": [92, 143, "2026-10-03"]
+   }
+  },
+  "primetime-2026": {
+   "t": "Primetime",
+   "y": 2026,
+   "by": "Lance Oppenheim",
+   "g": "Biography / Crime",
+   "sum": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, whatever it costs.",
+   "img": "cm16",
+   "ids": {},
+   "s": {
+    "imdb": [7.2, 11914, "2026-10-03"],
+    "lbx": [3.7, 446459, "2026-10-03"],
+    "rt": [79, 1754, "2026-10-03"]
+   }
+  },
+  "pressure-2026": {
+   "t": "Pressure",
+   "y": 2026,
+   "by": "Anthony Maras",
+   "g": "Drama / History",
+   "sum": "In the 72 hours before D-Day, Eisenhower and his chief meteorologist must decide whether the weather will allow the invasion to go ahead.",
+   "img": "cm17",
+   "ids": {
+    "imdb": "tt32547691"
+   },
+   "s": {
+    "imdb": [7.3, 36298, "2026-10-03"],
+    "lbx": [3.54, 124235, "2026-10-03"],
+    "rt": [95, 2049, "2026-10-03"]
+   }
+  },
+  "teenage-sex-and-death-at-camp-miasma-2026": {
+   "t": "Teenage Sex and Death at Camp Miasma",
+   "y": 2026,
+   "by": "Jane Schoenbrun",
+   "g": "Comedy / Horror",
+   "sum": "A director remaking a cult slasher becomes obsessed with casting the original film's final girl, pulling them both into something strange.",
+   "img": "cm18",
+   "ids": {},
+   "s": {
+    "imdb": [6.6, 18000, "2026-10-03"],
+    "lbx": [3.68, 384244, "2026-10-03"],
+    "rt": [79, 551, "2026-10-03"]
+   }
+  },
+  "dacoit-a-love-story-2026": {
+   "t": "Dacoit: A Love Story",
+   "y": 2026,
+   "by": "Shaneil Deo",
+   "g": "Action / Drama",
+   "sum": "An angry convict sets out for revenge against the former girlfriend who betrayed him.",
+   "img": "cm19",
+   "ids": {
+    "imdb": "tt30413898"
+   },
+   "s": {
+    "imdb": [7.4, 10331, "2026-10-03"],
+    "lbx": [2.69, 12190, "2026-10-03"],
+    "rt": [51, 63, "2026-10-03"]
+   }
+  },
+  "facing-el-chapo-2026": {
+   "t": "Facing El Chapo",
+   "y": 2026,
+   "by": "Chava Cartas",
+   "g": "Action / Crime",
+   "sum": "Two police officers on a routine traffic stop find themselves face to face with the world's most wanted drug lord.",
+   "img": "cm20",
+   "ids": {
+    "imdb": "tt39390497"
+   },
+   "s": {
+    "imdb": [6.7, 8774, "2026-10-03"],
+    "lbx": [3.11, 22404, "2026-10-03"],
+    "rt": [79, 121, "2026-10-03"]
+   }
+  },
+  "heart-of-the-beast-2026": {
+   "t": "Heart of the Beast",
+   "y": 2026,
+   "by": "David Ayer",
+   "g": "Action / Adventure",
+   "sum": "After a plane crash, a Special Forces veteran and his combat dog must survive the Alaskan wilderness together.",
+   "img": "cm21",
+   "ids": {},
+   "s": {
+    "imdb": [7.3, 16210, "2026-10-03"],
+    "lbx": [3.3, 91189, "2026-10-03"],
+    "rt": [94, 2056, "2026-10-03"]
+   }
+  },
+  "vishwanath-and-sons-2026": {
+   "t": "Vishwanath and Sons",
+   "y": 2026,
+   "by": "Venky Atluri",
+   "g": "Drama / Family",
+   "sum": "An ageing international shooting champion faces family duties, an unexpected romance and the end of his career.",
+   "img": "cm22",
+   "ids": {
+    "imdb": "tt35836025"
+   },
+   "s": {
+    "imdb": [7.2, 8230, "2026-10-03"],
+    "lbx": [3.09, 40966, "2026-10-03"],
+    "rt": [89, 175, "2026-10-03"]
+   }
+  },
+  "voicemails-for-isabelle-2026": {
+   "t": "Voicemails for Isabelle",
+   "y": 2026,
+   "by": "Leah McKendrick",
+   "g": "Comedy / Drama",
+   "sum": "A woman keeps leaving voicemails for her late sister, not knowing a stranger in Austin is receiving them.",
+   "img": "cm23",
+   "ids": {
+    "imdb": "tt10375624"
+   },
+   "s": {
+    "imdb": [7.3, 55704, "2026-10-03"],
+    "lbx": [3.48, 809373, "2026-10-03"],
+    "rt": [86, 1102, "2026-10-03"]
+   }
+  }
+ },
+ "series": {
+  "toy-story": {
+   "t": "Toy Story",
+   "by": "Pixar",
+   "g": "Animation / Adventure",
+   "sum": "Woody, Buzz and the rest of Andy's toys keep finding new ways to stay together, from the first rivalry to the newest threat: a tablet.",
+   "members": [
+    {
+     "w": "toy-story-1995",
+     "no": "#1"
+    },
+    {
+     "w": "toy-story-2-1999",
+     "no": "#2"
+    },
+    {
+     "w": "toy-story-3-2010",
+     "no": "#3"
+    },
+    {
+     "w": "toy-story-4-2019",
+     "no": "#4"
+    },
+    {
+     "w": "toy-story-5-2026",
+     "no": "#5 · New"
+    }
+   ]
+  },
+  "the-lord-of-the-rings": {
+   "t": "The Lord of the Rings",
+   "by": "Peter Jackson",
+   "g": "Adventure / Drama",
+   "sum": "A hobbit inherits a ring of terrible power and sets out with a small fellowship to destroy it before its maker can reclaim it.",
+   "members": [
+    {
+     "w": "the-lord-of-the-rings-the-fellowship-of-the-ring-2001",
+     "no": "#1"
+    },
+    {
+     "w": "the-lord-of-the-rings-the-two-towers-2002",
+     "no": "#2"
+    },
+    {
+     "w": "the-lord-of-the-rings-the-return-of-the-king-2003",
+     "no": "#3"
+    }
+   ]
+  },
+  "the-dark-knight-trilogy": {
+   "t": "The Dark Knight Trilogy",
+   "by": "Christopher Nolan",
+   "g": "Crime / Thriller",
+   "sum": "Bruce Wayne becomes Batman, faces the Joker's chaos, and returns years later for a final battle for Gotham.",
+   "members": [
+    {
+     "w": "batman-begins-2005",
+     "no": "#1"
+    },
+    {
+     "w": "the-dark-knight-2008",
+     "no": "#2"
+    },
+    {
+     "w": "the-dark-knight-rises-2012",
+     "no": "#3"
+    }
+   ]
+  },
+  "spider-verse": {
+   "t": "Spider-Verse",
+   "by": "Sony Pictures Animation",
+   "g": "Animation / Action",
+   "sum": "Brooklyn teen Miles Morales becomes Spider-Man and is pulled into a multiverse full of other Spider-People.",
+   "members": [
+    {
+     "w": "spider-man-into-the-spider-verse-2018",
+     "no": "#1"
+    },
+    {
+     "w": "spider-man-across-the-spider-verse-2023",
+     "no": "#2"
+    }
+   ]
+  },
+  "the-avengers": {
+   "t": "The Avengers",
+   "by": "Joss Whedon; Anthony & Joe Russo",
+   "g": "Action / Adventure",
+   "sum": "Earth's mightiest heroes assemble, fracture, and finally face Thanos across four team-up films.",
+   "members": [
+    {
+     "w": "the-avengers-2012",
+     "no": "#1"
+    },
+    {
+     "w": "avengers-age-of-ultron-2015",
+     "no": "#2"
+    },
+    {
+     "w": "avengers-infinity-war-2018",
+     "no": "#3"
+    },
+    {
+     "w": "avengers-endgame-2019",
+     "no": "#4"
+    }
+   ]
+  },
+  "dune": {
+   "t": "Dune",
+   "by": "Denis Villeneuve",
+   "g": "Action / Adventure",
+   "sum": "The heir of House Atreides is betrayed on the desert planet Arrakis and joins the Fremen to strike back.",
+   "members": [
+    {
+     "w": "dune-part-one-2021",
+     "no": "#1"
+    },
+    {
+     "w": "dune-part-two-2024",
+     "no": "#2"
+    }
+   ]
+  },
+  "blade-runner": {
+   "t": "Blade Runner",
+   "by": "Ridley Scott; Denis Villeneuve",
+   "g": "Sci-Fi / Drama",
+   "sum": "Blade runners hunt synthetic humans in a rain-soaked future Los Angeles, and thirty years later a new one uncovers a buried secret.",
+   "members": [
+    {
+     "w": "blade-runner-1982",
+     "no": "#1"
+    },
+    {
+     "w": "blade-runner-2049-2017",
+     "no": "#2"
+    }
+   ]
+  },
+  "the-godfather-trilogy": {
+   "t": "The Godfather Trilogy",
+   "by": "Francis Ford Coppola",
+   "g": "Crime / Drama",
+   "sum": "The Corleone crime family across three generations, as Michael rises from reluctant son to ruthless don.",
+   "members": [
+    {
+     "w": "the-godfather-1972",
+     "no": "#1"
+    },
+    {
+     "w": "the-godfather-part-ii-1974",
+     "no": "#2"
+    },
+    {
+     "w": "the-godfather-part-iii-1990",
+     "no": "#3"
+    }
+   ]
+  },
+  "star-wars-the-original-trilogy": {
+   "t": "Star Wars: The Original Trilogy",
+   "by": "George Lucas",
+   "g": "Action / Adventure",
+   "sum": "A farm boy, a princess and a smuggler join the Rebellion against the Empire, and Luke learns the truth about Darth Vader.",
+   "members": [
+    {
+     "w": "star-wars-1977",
+     "no": "#1"
+    },
+    {
+     "w": "the-empire-strikes-back-1980",
+     "no": "#2"
+    },
+    {
+     "w": "return-of-the-jedi-1983",
+     "no": "#3"
+    }
+   ]
+  },
+  "alien": {
+   "t": "Alien",
+   "by": "Ridley Scott, James Cameron and others",
+   "g": "Sci-Fi / Horror",
+   "sum": "Ellen Ripley survives one encounter after another with a deadly alien species, from a commercial ship to a Marine mission and beyond.",
+   "members": [
+    {
+     "w": "alien-1979",
+     "no": "#1"
+    },
+    {
+     "w": "aliens-1986",
+     "no": "#2"
+    },
+    {
+     "w": "alien3-1992",
+     "no": "#3"
+    },
+    {
+     "w": "alien-resurrection-1997",
+     "no": "#4"
+    }
+   ]
+  },
+  "spider-man-tom-holland-films": {
+   "t": "Spider-Man (Tom Holland films)",
+   "by": "Jon Watts, Destin Daniel Cretton",
+   "g": "Action / Adventure",
+   "sum": "Peter Parker grows from a Queens teenager eager to impress the Avengers into a hero the world has forgotten, carrying the cost alone.",
+   "members": [
+    {
+     "w": "spider-man-homecoming-2017",
+     "no": "#1"
+    },
+    {
+     "w": "spider-man-far-from-home-2019",
+     "no": "#2"
+    },
+    {
+     "w": "spider-man-no-way-home-2021",
+     "no": "#3"
+    },
+    {
+     "w": "spider-man-brand-new-day-2026",
+     "no": "#4 · New"
+    }
+   ]
+  }
+ },
+ "lists": {
+  "M": ["the-shawshank-redemption-1994", "schindler-s-list-1993", "pulp-fiction-1994", "forrest-gump-1994", "fight-club-1999", "inception-2010", "the-matrix-1999", "goodfellas-1990", "interstellar-2014", "se7en-1995", "the-silence-of-the-lambs-1991", "saving-private-ryan-1998", "the-green-mile-1999", "parasite-2019", "leon-the-professional-1994", "the-usual-suspects-1995", "the-lion-king-1994", "the-prestige-2006", "gladiator-2000", "the-departed-2006", "whiplash-2014", "back-to-the-future-1985", "terminator-2-judgment-day-1991", "the-pianist-2002", "american-history-x-1998", "django-unchained-2012", "wall-e-2008", "coco-2017", "oppenheimer-2023", "joker-2019", "raiders-of-the-lost-ark-1981", "the-shining-1980", "amadeus-1984", "good-will-hunting-1997", "toy-story", "up-2009", "inglourious-basterds-2009", "memento-2000", "eternal-sunshine-of-the-spotless-mind-2004", "requiem-for-a-dream-2000", "reservoir-dogs-1992", "braveheart-1995", "heat-1995", "cinema-paradiso-1988", "life-is-beautiful-1997", "city-of-god-2002", "oldboy-2003", "the-intouchables-2011", "amelie-2001", "pan-s-labyrinth-2006", "no-country-for-old-men-2007", "there-will-be-blood-2007", "mad-max-fury-road-2015", "everything-everywhere-all-at-once-2022", "top-gun-maverick-2022", "the-truman-show-1998", "jurassic-park-1993", "die-hard-1988", "titanic-1997", "the-social-network-2010", "gone-girl-2014", "prisoners-2013", "shutter-island-2010", "the-wolf-of-wall-street-2013", "the-grand-budapest-hotel-2014", "inside-out-2015", "ratatouille-2007", "finding-nemo-2003", "monsters-inc-2001", "how-to-train-your-dragon-2010", "hacksaw-ridge-2016", "1917-2019", "ford-v-ferrari-2019", "the-sixth-sense-1999", "catch-me-if-you-can-2002", "a-beautiful-mind-2001", "spotlight-2015", "arrival-2016", "groundhog-day-1993", "the-thing-1982", "stand-by-me-1986", "the-lord-of-the-rings", "the-dark-knight-trilogy", "spider-verse", "the-avengers", "dune", "blade-runner"],
+  "C": ["12-angry-men-1957", "the-good-the-bad-and-the-ugly-1966", "seven-samurai-1954", "one-flew-over-the-cuckoo-s-nest-1975", "it-s-a-wonderful-life-1946", "psycho-1960", "casablanca-1942", "rear-window-1954", "vertigo-1958", "city-lights-1931", "modern-times-1936", "the-great-dictator-1940", "sunset-boulevard-1950", "dr-strangelove-1964", "2001-a-space-odyssey-1968", "apocalypse-now-1979", "taxi-driver-1976", "lawrence-of-arabia-1962", "singin-in-the-rain-1952", "some-like-it-hot-1959", "north-by-northwest-1959", "once-upon-a-time-in-the-west-1968", "paths-of-glory-1957", "the-apartment-1960", "witness-for-the-prosecution-1957", "double-indemnity-1944", "citizen-kane-1941", "the-wizard-of-oz-1939", "gone-with-the-wind-1939", "to-kill-a-mockingbird-1962", "the-sound-of-music-1965", "jaws-1975", "rocky-1976", "a-clockwork-orange-1971", "the-sting-1973", "chinatown-1974", "network-1976", "annie-hall-1977", "rashomon-1950", "ikiru-1952", "bicycle-thieves-1948", "tokyo-story-1953", "the-bridge-on-the-river-kwai-1957", "ben-hur-1959", "the-deer-hunter-1978", "the-third-man-1949", "metropolis-1927", "the-godfather-trilogy", "star-wars-the-original-trilogy", "alien"],
+  "N": ["the-odyssey-2026", "spider-man-tom-holland-films", "punjab-95-2026", "coyote-vs-acme-2026", "resident-evil-2026", "the-sheep-detectives-2026", "michael-2026", "tony-2026", "main-vaapas-aaunga-2026", "remarkably-bright-creatures-2026", "batman-knightfall-part-1-2026", "hanuman-ansh-2026", "mandaadi-2026", "avatar-aang-the-last-airbender-2026", "toy-story", "dc-2026", "primetime-2026", "pressure-2026", "teenage-sex-and-death-at-camp-miasma-2026", "dacoit-a-love-story-2026", "facing-el-chapo-2026", "heart-of-the-beast-2026", "vishwanath-and-sons-2026", "voicemails-for-isabelle-2026"]
+ }
+}

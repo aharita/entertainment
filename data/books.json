@@ -1,0 +1,2983 @@
+{
+ "current": {
+  "from": "2026-04-03",
+  "to": "2026-10-03",
+  "about": "Books published April–September 2026, or a series with a new book in that time"
+ },
+ "works": {
+  "dungeon-crawler-carl-2021": {
+   "t": "Dungeon Crawler Carl",
+   "y": 2021,
+   "img": "b15143022",
+   "ids": {},
+   "s": {
+    "gr": [4.42, 655755, "2026-10-03"],
+    "amz": [4.7, 118427, "2026-10-03"],
+    "aud": [4.8, 70760, "2026-10-03"]
+   }
+  },
+  "carl-s-doomsday-scenario-2021": {
+   "t": "Carl's Doomsday Scenario",
+   "y": 2021,
+   "img": "b11702962",
+   "ids": {},
+   "s": {
+    "gr": [4.47, 436155, "2026-10-03"],
+    "amz": [4.7, 96773, "2026-10-03"],
+    "aud": [4.9, 40293, "2026-10-03"]
+   }
+  },
+  "the-dungeon-anarchist-s-cookbook-2021": {
+   "t": "The Dungeon Anarchist's Cookbook",
+   "y": 2021,
+   "img": "b15258910",
+   "ids": {},
+   "s": {
+    "gr": [4.37, 356203, "2026-10-03"],
+    "amz": [4.6, 89028, "2026-10-03"],
+    "aud": [4.9, 38696, "2026-10-03"]
+   }
+  },
+  "the-gate-of-the-feral-gods-2021": {
+   "t": "The Gate of the Feral Gods",
+   "y": 2021,
+   "img": "b15258911",
+   "ids": {},
+   "s": {
+    "gr": [4.52, 292397, "2026-10-03"],
+    "amz": [4.7, 68358, "2026-10-03"],
+    "aud": [4.9, 31933, "2026-10-03"]
+   }
+  },
+  "the-butcher-s-masquerade-2022": {
+   "t": "The Butcher's Masquerade",
+   "y": 2022,
+   "img": "b15258912",
+   "ids": {},
+   "s": {
+    "gr": [4.68, 250360, "2026-10-03"],
+    "amz": [4.8, 61609, "2026-10-03"],
+    "aud": [4.9, 34469, "2026-10-03"]
+   }
+  },
+  "the-eye-of-the-bedlam-bride-2023": {
+   "t": "The Eye of the Bedlam Bride",
+   "y": 2023,
+   "img": "b15258913",
+   "ids": {},
+   "s": {
+    "gr": [4.63, 212886, "2026-10-03"],
+    "amz": [4.8, 63190, "2026-10-03"],
+    "aud": [4.9, 24629, "2026-10-03"]
+   }
+  },
+  "this-inevitable-ruin-2025": {
+   "t": "This Inevitable Ruin",
+   "y": 2025,
+   "img": "b15142977",
+   "ids": {},
+   "s": {
+    "gr": [4.66, 175525, "2026-10-03"],
+    "amz": [4.8, 51639, "2026-10-03"],
+    "aud": [4.9, 30995, "2026-10-03"]
+   }
+  },
+  "a-parade-of-horribles-2026": {
+   "t": "A Parade of Horribles",
+   "y": 2026,
+   "img": "b15221497",
+   "ids": {},
+   "s": {
+    "gr": [4.6, 125166, "2026-10-03"],
+    "amz": [4.8, 37102, "2026-10-03"],
+    "aud": [4.9, 30200, "2026-10-03"]
+   }
+  },
+  "harry-potter-and-the-sorcerer-s-stone-1997": {
+   "t": "Harry Potter and the Sorcerer's Stone",
+   "y": 1997,
+   "img": "b15159585",
+   "ids": {},
+   "s": {
+    "gr": [4.47, 11850444, "2026-10-03"],
+    "amz": [4.8, 160543, "2026-10-03"],
+    "aud": [4.9, 204127, "2026-10-03"]
+   }
+  },
+  "harry-potter-and-the-chamber-of-secrets-1998": {
+   "t": "Harry Potter and the Chamber of Secrets",
+   "y": 1998,
+   "img": "b15156791",
+   "ids": {},
+   "s": {
+    "gr": [4.43, 4682795, "2026-10-03"],
+    "amz": [4.8, 122985, "2026-10-03"],
+    "aud": [4.9, 141237, "2026-10-03"]
+   }
+  },
+  "harry-potter-and-the-prisoner-of-azkaban-1999": {
+   "t": "Harry Potter and the Prisoner of Azkaban",
+   "y": 1999,
+   "img": "b15156789",
+   "ids": {},
+   "s": {
+    "gr": [4.58, 5062211, "2026-10-03"],
+    "amz": [4.8, 117822, "2026-10-03"],
+    "aud": [4.9, 131235, "2026-10-03"]
+   }
+  },
+  "harry-potter-and-the-goblet-of-fire-2000": {
+   "t": "Harry Potter and the Goblet of Fire",
+   "y": 2000,
+   "img": "b15158355",
+   "aw": ["Hugo Award for Best Novel 2001"],
+   "ids": {},
+   "s": {
+    "gr": [4.57, 4364718, "2026-10-03"],
+    "amz": [4.8, 106184, "2026-10-03"],
+    "aud": [4.9, 126139, "2026-10-03"]
+   }
+  },
+  "harry-potter-and-the-order-of-the-phoenix-2003": {
+   "t": "Harry Potter and the Order of the Phoenix",
+   "y": 2003,
+   "img": "b15158666",
+   "ids": {},
+   "s": {
+    "gr": [4.5, 3937677, "2026-10-03"],
+    "amz": [4.8, 103631, "2026-10-03"],
+    "aud": [4.9, 117797, "2026-10-03"]
+   }
+  },
+  "harry-potter-and-the-half-blood-prince-2005": {
+   "t": "Harry Potter and the Half-Blood Prince",
+   "y": 2005,
+   "img": "b10716273",
+   "ids": {},
+   "s": {
+    "gr": [4.58, 3787638, "2026-10-03"],
+    "amz": [4.8, 87134, "2026-10-03"],
+    "aud": [4.9, 109887, "2026-10-03"]
+   }
+  },
+  "harry-potter-and-the-deathly-hallows-2007": {
+   "t": "Harry Potter and the Deathly Hallows",
+   "y": 2007,
+   "img": "b15158660",
+   "ids": {},
+   "s": {
+    "gr": [4.62, 4242356, "2026-10-03"],
+    "amz": [4.9, 111801, "2026-10-03"],
+    "aud": [5, 151365, "2026-10-03"]
+   }
+  },
+  "the-assassin-s-blade-2014": {
+   "t": "The Assassin's Blade",
+   "y": 2014,
+   "img": "b14836780",
+   "ids": {},
+   "s": {
+    "gr": [4.2, 1372263, "2026-10-03"],
+    "amz": [4.4, 99069, "2026-10-03"],
+    "aud": [4.7, 16335, "2026-10-03"]
+   }
+  },
+  "throne-of-glass-2012": {
+   "t": "Throne of Glass",
+   "y": 2012,
+   "img": "b13271151",
+   "ids": {},
+   "s": {
+    "gr": [4.18, 2713312, "2026-10-03"],
+    "amz": [4.4, 199089, "2026-10-03"],
+    "aud": [4.6, 29647, "2026-10-03"]
+   }
+  },
+  "crown-of-midnight-2013": {
+   "t": "Crown of Midnight",
+   "y": 2013,
+   "img": "b14348029",
+   "ids": {},
+   "s": {
+    "gr": [4.36, 2004175, "2026-10-03"],
+    "amz": [4.6, 174035, "2026-10-03"],
+    "aud": [4.8, 24084, "2026-10-03"]
+   }
+  },
+  "heir-of-fire-2014": {
+   "t": "Heir of Fire",
+   "y": 2014,
+   "img": "b9318480",
+   "ids": {},
+   "s": {
+    "gr": [4.44, 1784726, "2026-10-03"],
+    "amz": [4.6, 163303, "2026-10-03"],
+    "aud": [4.8, 22616, "2026-10-03"]
+   }
+  },
+  "queen-of-shadows-2015": {
+   "t": "Queen of Shadows",
+   "y": 2015,
+   "img": "b7994583",
+   "aw": ["Goodreads Choice: Young Adult Fantasy 2015"],
+   "ids": {},
+   "s": {
+    "gr": [4.62, 1614711, "2026-10-03"],
+    "amz": [4.8, 171787, "2026-10-03"],
+    "aud": [4.8, 22453, "2026-10-03"]
+   }
+  },
+  "empire-of-storms-2016": {
+   "t": "Empire of Storms",
+   "y": 2016,
+   "img": "b15254084",
+   "ids": {},
+   "s": {
+    "gr": [4.63, 1418041, "2026-10-03"],
+    "amz": [4.8, 148853, "2026-10-03"],
+    "aud": [4.8, 34142, "2026-10-03"]
+   }
+  },
+  "tower-of-dawn-2017": {
+   "t": "Tower of Dawn",
+   "y": 2017,
+   "img": "b8506737",
+   "ids": {},
+   "s": {
+    "gr": [4.28, 1236768, "2026-10-03"],
+    "amz": [4.6, 123165, "2026-10-03"],
+    "aud": [4.8, 28726, "2026-10-03"]
+   }
+  },
+  "kingdom-of-ash-2018": {
+   "t": "Kingdom of Ash",
+   "y": 2018,
+   "img": "b8465438",
+   "aw": ["Goodreads Choice: Young Adult Fantasy 2018"],
+   "ids": {},
+   "s": {
+    "gr": [4.71, 1266126, "2026-10-03"],
+    "amz": [4.8, 168723, "2026-10-03"],
+    "aud": [4.9, 43143, "2026-10-03"]
+   }
+  },
+  "fourth-wing-2023": {
+   "t": "Fourth Wing",
+   "y": 2023,
+   "img": "b14407898",
+   "aw": ["Goodreads Choice: Romantasy 2023"],
+   "ids": {},
+   "s": {
+    "gr": [4.56, 3986062, "2026-10-03"],
+    "amz": [4.8, 536516, "2026-10-03"],
+    "aud": [4.7, 58013, "2026-10-03"]
+   }
+  },
+  "iron-flame-2023": {
+   "t": "Iron Flame",
+   "y": 2023,
+   "img": "b14405746",
+   "ids": {},
+   "s": {
+    "gr": [4.36, 2910118, "2026-10-03"],
+    "amz": [4.7, 440889, "2026-10-03"],
+    "aud": [4.8, 47407, "2026-10-03"]
+   }
+  },
+  "onyx-storm-2025": {
+   "t": "Onyx Storm",
+   "y": 2025,
+   "img": "b14826089",
+   "aw": ["Goodreads Choice: Romantasy 2025"],
+   "ids": {},
+   "s": {
+    "gr": [4.22, 1954051, "2026-10-03"],
+    "amz": [4.6, 332994, "2026-10-03"],
+    "aud": [4.7, 39925, "2026-10-03"]
+   }
+  },
+  "the-hunger-games-2008": {
+   "t": "The Hunger Games",
+   "y": 2008,
+   "img": "b12646537",
+   "ids": {},
+   "s": {
+    "gr": [4.36, 10301024, "2026-10-03"],
+    "amz": [4.7, 108338, "2026-10-03"],
+    "aud": [4.9, 17491, "2026-10-03"]
+   }
+  },
+  "catching-fire-2009": {
+   "t": "Catching Fire",
+   "y": 2009,
+   "img": "b15261622",
+   "ids": {},
+   "s": {
+    "gr": [4.36, 4345092, "2026-10-03"],
+    "amz": [4.7, 87153, "2026-10-03"],
+    "aud": [4.9, 16950, "2026-10-03"]
+   }
+  },
+  "mockingjay-2010": {
+   "t": "Mockingjay",
+   "y": 2010,
+   "img": "b12646688",
+   "ids": {},
+   "s": {
+    "gr": [4.13, 3884631, "2026-10-03"],
+    "amz": [4.6, 100778, "2026-10-03"],
+    "aud": [4.9, 17204, "2026-10-03"]
+   }
+  },
+  "project-hail-mary-2021": {
+   "t": "Project Hail Mary",
+   "y": 2021,
+   "by": "Andy Weir",
+   "g": "Science Fiction",
+   "sum": "A science teacher wakes alone on a spaceship with no memory, and slowly works out he's humanity's last chance against a dying sun.",
+   "img": "b11200092",
+   "aw": ["Goodreads Choice: Science Fiction 2021"],
+   "ids": {},
+   "s": {
+    "gr": [4.51, 1891907, "2026-10-03"],
+    "amz": [4.7, 282792, "2026-10-03"],
+    "aud": [4.9, 313878, "2026-10-03"]
+   }
+  },
+  "can-t-hurt-me-2018": {
+   "t": "Can't Hurt Me",
+   "y": 2018,
+   "by": "David Goggins",
+   "g": "Personal Development",
+   "sum": "A former Navy SEAL recounts his abusive, impoverished childhood and the mental discipline he used to remake himself.",
+   "img": "b8305903",
+   "ids": {},
+   "s": {
+    "gr": [4.3, 335446, "2026-10-03"],
+    "amz": [4.8, 106710, "2026-10-03"],
+    "aud": [4.9, 207833, "2026-10-03"]
+   }
+  },
+  "becoming-2018": {
+   "t": "Becoming",
+   "y": 2018,
+   "by": "Michelle Obama",
+   "g": "Memoir",
+   "sum": "Michelle Obama's memoir, from a South Side Chicago childhood to her years as First Lady.",
+   "img": "b8824664",
+   "aw": ["Grammy, Best Spoken Word Album 2020"],
+   "ids": {},
+   "s": {
+    "gr": [4.43, 1247663, "2026-10-03"],
+    "amz": [4.8, 198458, "2026-10-03"],
+    "aud": [4.9, 183762, "2026-10-03"]
+   }
+  },
+  "atomic-habits-2018": {
+   "t": "Atomic Habits",
+   "y": 2018,
+   "by": "James Clear",
+   "g": "Personal Development",
+   "sum": "A practical guide to building good habits and breaking bad ones through small, 1% changes that compound over time.",
+   "img": "b12539702",
+   "ids": {},
+   "s": {
+    "gr": [4.31, 1429697, "2026-10-03"],
+    "amz": [4.8, 150069, "2026-10-03"],
+    "aud": [4.8, 149266, "2026-10-03"]
+   }
+  },
+  "born-a-crime-2016": {
+   "t": "Born a Crime",
+   "y": 2016,
+   "by": "Trevor Noah",
+   "g": "Memoir",
+   "sum": "Trevor Noah's funny, sharp memoir of growing up mixed-race in apartheid South Africa, when his very existence was illegal.",
+   "img": "b8294078",
+   "aw": ["Thurber Prize for American Humor 2017"],
+   "ids": {},
+   "s": {
+    "gr": [4.48, 851060, "2026-10-03"],
+    "amz": [4.7, 113794, "2026-10-03"],
+    "aud": [4.8, 4347, "2026-10-03"]
+   }
+  },
+  "greenlights-2020": {
+   "t": "Greenlights",
+   "y": 2020,
+   "by": "Matthew McConaughey",
+   "g": "Memoir",
+   "sum": "Matthew McConaughey's memoir in stories, journal entries and life lessons about catching life's green lights.",
+   "img": "b10512439",
+   "ids": {},
+   "s": {
+    "gr": [4.19, 493413, "2026-10-03"],
+    "amz": [4.6, 75759, "2026-10-03"],
+    "aud": [4.8, 186617, "2026-10-03"]
+   }
+  },
+  "the-martian-2011": {
+   "t": "The Martian",
+   "y": 2011,
+   "by": "Andy Weir",
+   "g": "Science Fiction",
+   "sum": "Stranded on Mars and presumed dead, an astronaut has to science his way to survival until a rescue can reach him.",
+   "img": "b11447888",
+   "aw": ["Goodreads Choice: Science Fiction 2014"],
+   "ids": {},
+   "s": {
+    "gr": [4.42, 1385292, "2026-10-03"],
+    "amz": [4.6, 187705, "2026-10-03"],
+    "aud": [4.8, 46054, "2026-10-03"]
+   }
+  },
+  "where-the-crawdads-sing-2018": {
+   "t": "Where the Crawdads Sing",
+   "y": 2018,
+   "by": "Delia Owens",
+   "g": "Historical Fiction",
+   "sum": "A girl abandoned in the North Carolina marshes grows up alone, and years later becomes the prime suspect in a local man's death.",
+   "img": "b8362947",
+   "ids": {},
+   "s": {
+    "gr": [4.37, 3804378, "2026-10-03"],
+    "amz": [4.7, 641030, "2026-10-03"],
+    "aud": [4.8, 297898, "2026-10-03"]
+   }
+  },
+  "the-midnight-library-2020": {
+   "t": "The Midnight Library",
+   "y": 2020,
+   "by": "Matt Haig",
+   "g": "Fiction",
+   "sum": "Between life and death, a woman finds a library where each book lets her live one of the lives she could have chosen.",
+   "img": "b10313767",
+   "aw": ["Goodreads Choice: Fiction 2020"],
+   "ids": {},
+   "s": {
+    "gr": [3.97, 2690496, "2026-10-03"],
+    "amz": [4.4, 291812, "2026-10-03"],
+    "aud": [4.6, 71343, "2026-10-03"]
+   }
+  },
+  "i-m-glad-my-mom-died-2022": {
+   "t": "I'm Glad My Mom Died",
+   "y": 2022,
+   "by": "Jennette McCurdy",
+   "g": "Memoir",
+   "sum": "The former iCarly actor's darkly funny memoir about a controlling stage mother, child stardom and recovery.",
+   "img": "b12855985",
+   "aw": ["Goodreads Choice: Memoir 2022"],
+   "ids": {},
+   "s": {
+    "gr": [4.42, 1631521, "2026-10-03"],
+    "amz": [4.6, 96166, "2026-10-03"],
+    "aud": [4.9, 126728, "2026-10-03"]
+   }
+  },
+  "the-nightingale-2015": {
+   "t": "The Nightingale",
+   "y": 2015,
+   "by": "Kristin Hannah",
+   "g": "Historical Fiction",
+   "sum": "Two very different sisters in Nazi-occupied France resist the occupation in their own ways, one at home and one in the Resistance.",
+   "img": "b8314147",
+   "aw": ["Goodreads Choice: Historical Fiction 2015"],
+   "ids": {},
+   "s": {
+    "gr": [4.65, 2398055, "2026-10-03"],
+    "amz": [4.7, 424282, "2026-10-03"],
+    "aud": [4.8, 120806, "2026-10-03"]
+   }
+  },
+  "house-of-earth-and-blood-2020": {
+   "t": "House of Earth and Blood",
+   "y": 2020,
+   "by": "Sarah J. Maas",
+   "g": "Fantasy Romance",
+   "sum": "A half-fae party girl in a modern magical city teams up with a fallen angel to hunt the killer who murdered her best friend.",
+   "img": "b9289603",
+   "aw": ["Goodreads Choice: Fantasy 2020"],
+   "ids": {},
+   "s": {
+    "gr": [4.45, 1345578, "2026-10-03"],
+    "amz": [4.7, 178814, "2026-10-03"],
+    "aud": [4.8, 42801, "2026-10-03"]
+   }
+  },
+  "theo-of-golden-2025": {
+   "t": "Theo of Golden",
+   "y": 2025,
+   "by": "Allen Levi",
+   "g": "Fiction",
+   "sum": "A mysterious elderly stranger arrives in a Southern town and starts buying the portraits on a café wall to hand them back to their subjects.",
+   "img": "b15205233",
+   "ids": {},
+   "s": {
+    "gr": [4.42, 660582, "2026-10-03"],
+    "amz": [4.7, 195221, "2026-10-03"],
+    "aud": [4.8, 35944, "2026-10-03"]
+   }
+  },
+  "the-correspondent-2025": {
+   "t": "The Correspondent",
+   "y": 2025,
+   "by": "Virginia Evans",
+   "g": "Fiction",
+   "sum": "Told through letters, a retired lawyer writes to friends, family and strangers, and slowly faces the regrets of her life.",
+   "img": "b15254278",
+   "ids": {},
+   "s": {
+    "gr": [4.42, 933679, "2026-10-03"],
+    "amz": [4.6, 171294, "2026-10-03"],
+    "aud": [4.8, 31712, "2026-10-03"]
+   }
+  },
+  "the-seven-husbands-of-evelyn-hugo-2017": {
+   "t": "The Seven Husbands of Evelyn Hugo",
+   "y": 2017,
+   "by": "Taylor Jenkins Reid",
+   "g": "Historical Fiction",
+   "sum": "A reclusive Hollywood legend picks an unknown journalist to finally tell the truth about her glamorous, scandalous life.",
+   "img": "b8354226",
+   "ids": {},
+   "s": {
+    "gr": [4.39, 4455258, "2026-10-03"],
+    "amz": [4.6, 304834, "2026-10-03"],
+    "aud": [4.6, 99105, "2026-10-03"]
+   }
+  },
+  "lessons-in-chemistry-2022": {
+   "t": "Lessons in Chemistry",
+   "y": 2022,
+   "by": "Bonnie Garmus",
+   "g": "Fiction",
+   "sum": "In the early 1960s, a brilliant chemist pushed out of her lab becomes the unlikely star of a TV cooking show.",
+   "img": "b12725772",
+   "aw": ["Goodreads Choice: Debut Novel 2022"],
+   "ids": {},
+   "s": {
+    "gr": [4.28, 1910299, "2026-10-03"],
+    "amz": [4.6, 317550, "2026-10-03"],
+    "aud": [4.7, 39097, "2026-10-03"]
+   }
+  },
+  "a-court-of-thorns-and-roses-2015": {
+   "t": "A Court of Thorns and Roses",
+   "y": 2015,
+   "by": "Sarah J. Maas",
+   "g": "Fantasy Romance",
+   "sum": "A huntress who kills a wolf in the woods is taken as payment to a faerie lord's estate across the wall.",
+   "img": "b15254465",
+   "ids": {},
+   "s": {
+    "gr": [4.14, 4619045, "2026-10-03"],
+    "amz": [4.6, 350569, "2026-10-03"],
+    "aud": [4.6, 79553, "2026-10-03"]
+   }
+  },
+  "verity-2019": {
+   "t": "Verity",
+   "y": 2019,
+   "by": "Colleen Hoover",
+   "g": "Thriller",
+   "sum": "A struggling writer hired to finish a famous author's thrillers finds an unfinished autobiography with chilling confessions.",
+   "img": "b8747160",
+   "ids": {},
+   "s": {
+    "gr": [4.28, 4226282, "2026-10-03"],
+    "amz": [4.6, 410832, "2026-10-03"],
+    "aud": [4.5, 145530, "2026-10-03"]
+   }
+  },
+  "the-invisible-life-of-addie-larue-2020": {
+   "t": "The Invisible Life of Addie LaRue",
+   "y": 2020,
+   "by": "V. E. Schwab",
+   "g": "Fantasy",
+   "sum": "A woman in 1714 France makes a bargain to live forever but is cursed to be forgotten by everyone she meets.",
+   "img": "b10092261",
+   "ids": {},
+   "s": {
+    "gr": [4.16, 1634826, "2026-10-03"],
+    "amz": [4.4, 127703, "2026-10-03"],
+    "aud": [4.6, 42498, "2026-10-03"]
+   }
+  },
+  "all-the-light-we-cannot-see-2014": {
+   "t": "All the Light We Cannot See",
+   "y": 2014,
+   "by": "Anthony Doerr",
+   "g": "Historical Fiction",
+   "sum": "A blind French girl and a German orphan with a gift for radios move toward each other through the Second World War.",
+   "img": "b14559680",
+   "aw": ["Pulitzer Prize for Fiction 2015", "Goodreads Choice: Historical Fiction 2014"],
+   "ids": {},
+   "s": {
+    "gr": [4.3, 2075085, "2026-10-03"],
+    "amz": [4.5, 175325, "2026-10-03"],
+    "aud": [4.5, 66446, "2026-10-03"]
+   }
+  },
+  "the-let-them-theory-2024": {
+   "t": "The Let Them Theory",
+   "y": 2024,
+   "by": "Mel Robbins",
+   "g": "Personal Development",
+   "sum": "Mel Robbins argues that letting other people do what they'll do, and focusing on your own response, frees up your life.",
+   "img": "b15164500",
+   "ids": {},
+   "s": {
+    "gr": [3.99, 357354, "2026-10-03"],
+    "amz": [4.6, 48706, "2026-10-03"],
+    "aud": [4.6, 29759, "2026-10-03"]
+   }
+  },
+  "the-four-winds-2021": {
+   "t": "The Four Winds",
+   "y": 2021,
+   "by": "Kristin Hannah",
+   "g": "Historical Fiction",
+   "sum": "A Texas mother fights to keep her children alive through the Dust Bowl and the journey west to California.",
+   "img": "b10675593",
+   "ids": {},
+   "s": {
+    "gr": [4.3, 1101709, "2026-10-03"],
+    "amz": [4.6, 199723, "2026-10-03"],
+    "aud": [4.7, 38963, "2026-10-03"]
+   }
+  },
+  "the-love-hypothesis-2021": {
+   "t": "The Love Hypothesis",
+   "y": 2021,
+   "by": "Ali Hazelwood",
+   "g": "Romance",
+   "sum": "A PhD student fakes a relationship with a notoriously prickly young professor to convince her best friend she's moved on.",
+   "img": "b10601402",
+   "ids": {},
+   "s": {
+    "gr": [4.09, 2172184, "2026-10-03"],
+    "amz": [4.5, 87682, "2026-10-03"],
+    "aud": [4.6, 13673, "2026-10-03"]
+   }
+  },
+  "malibu-rising-2021": {
+   "t": "Malibu Rising",
+   "y": 2021,
+   "by": "Taylor Jenkins Reid",
+   "g": "Fiction",
+   "sum": "Four famous siblings throw their legendary end-of-summer party in 1983 Malibu, and long-buried family secrets surface by morning.",
+   "img": "b11246702",
+   "aw": ["Goodreads Choice: Historical Fiction 2021"],
+   "ids": {},
+   "s": {
+    "gr": [4.02, 1378787, "2026-10-03"],
+    "amz": [4.2, 87905, "2026-10-03"],
+    "aud": [4.5, 22774, "2026-10-03"]
+   }
+  },
+  "the-great-alone-2018": {
+   "t": "The Great Alone",
+   "y": 2018,
+   "by": "Kristin Hannah",
+   "g": "Historical Fiction",
+   "sum": "A former POW moves his family to the Alaskan wilderness, where the land and his volatile temper are equally dangerous.",
+   "img": "b8315368",
+   "aw": ["Goodreads Choice: Historical Fiction 2018"],
+   "ids": {},
+   "s": {
+    "gr": [4.46, 1364728, "2026-10-03"],
+    "amz": [4.6, 216402, "2026-10-03"],
+    "aud": [4.7, 60909, "2026-10-03"]
+   }
+  },
+  "the-women-2024": {
+   "t": "The Women",
+   "y": 2024,
+   "by": "Kristin Hannah",
+   "g": "Historical Fiction",
+   "sum": "A young nursing student joins the Army Nurse Corps in Vietnam and comes home to a country that won't acknowledge her service.",
+   "img": "b14603756",
+   "aw": ["Goodreads Choice: Historical Fiction 2024"],
+   "ids": {},
+   "s": {
+    "gr": [4.58, 1837572, "2026-10-03"],
+    "amz": [4.7, 353940, "2026-10-03"],
+    "aud": [4.8, 59896, "2026-10-03"]
+   }
+  },
+  "remarkably-bright-creatures-2022": {
+   "t": "Remarkably Bright Creatures",
+   "y": 2022,
+   "by": "Shelby Van Pelt",
+   "g": "Fiction",
+   "sum": "A widowed night cleaner at an aquarium forms an unlikely friendship with a clever, grumpy octopus who knows more than she does.",
+   "img": "b12019989",
+   "ids": {},
+   "s": {
+    "gr": [4.35, 1596490, "2026-10-03"],
+    "amz": [4.6, 160191, "2026-10-03"],
+    "aud": [4.8, 71252, "2026-10-03"]
+   }
+  },
+  "daisy-jones-and-the-six-2019": {
+   "t": "Daisy Jones & The Six",
+   "y": 2019,
+   "by": "Taylor Jenkins Reid",
+   "g": "Historical Fiction",
+   "sum": "An oral history of a 1970s rock band's rise and sudden breakup, told by the people who were there.",
+   "img": "b8742674",
+   "aw": ["Goodreads Choice: Historical Fiction 2019"],
+   "ids": {},
+   "s": {
+    "gr": [4.19, 1956123, "2026-10-03"],
+    "amz": [4.4, 99442, "2026-10-03"],
+    "aud": [4.6, 42448, "2026-10-03"]
+   }
+  },
+  "the-7-habits-of-highly-effective-people-1989": {
+   "t": "The 7 Habits of Highly Effective People",
+   "y": 1989,
+   "by": "Stephen R. Covey",
+   "g": "Personal Development",
+   "sum": "Stephen Covey's classic framework of seven principles for personal and professional effectiveness.",
+   "img": "b10079937",
+   "ids": {},
+   "s": {
+    "gr": [4.16, 845684, "2026-10-03"],
+    "amz": [4.6, 20579, "2026-10-03"],
+    "aud": [4.6, 40362, "2026-10-03"]
+   }
+  },
+  "educated-2018": {
+   "t": "Educated",
+   "y": 2018,
+   "by": "Tara Westover",
+   "g": "Memoir",
+   "sum": "Tara Westover grew up in a survivalist Idaho family with no school, and taught herself her way to a Cambridge PhD.",
+   "img": "b8314077",
+   "aw": ["Goodreads Choice: Memoir 2018"],
+   "ids": {},
+   "s": {
+    "gr": [4.46, 1981871, "2026-10-03"],
+    "amz": [4.6, 232467, "2026-10-03"],
+    "aud": [4.8, 129247, "2026-10-03"]
+   }
+  },
+  "the-song-of-achilles-2011": {
+   "t": "The Song of Achilles",
+   "y": 2011,
+   "by": "Madeline Miller",
+   "g": "Historical Fantasy",
+   "sum": "The story of Achilles told by Patroclus, the companion who loves him, from boyhood to the Trojan War.",
+   "img": "b7098465",
+   "aw": ["Orange Prize for Fiction 2012"],
+   "ids": {},
+   "s": {
+    "gr": [4.3, 2192725, "2026-10-03"],
+    "amz": [4.5, 135166, "2026-10-03"],
+    "aud": [4.6, 42349, "2026-10-03"]
+   }
+  },
+  "circe-2018": {
+   "t": "Circe",
+   "y": 2018,
+   "by": "Madeline Miller",
+   "g": "Mythological Fantasy",
+   "sum": "The witch from the Odyssey, banished to an island, tells her own story of gods, monsters and mortal visitors.",
+   "img": "b8739376",
+   "aw": ["Goodreads Choice: Fantasy 2018"],
+   "ids": {},
+   "s": {
+    "gr": [4.22, 1484786, "2026-10-03"],
+    "amz": [4.5, 99592, "2026-10-03"],
+    "aud": [4.7, 59695, "2026-10-03"]
+   }
+  },
+  "the-book-thief-2005": {
+   "t": "The Book Thief",
+   "y": 2005,
+   "by": "Markus Zusak",
+   "g": "Historical Fiction",
+   "sum": "Narrated by Death, a foster girl in Nazi Germany steals books and shares them while her family hides a Jewish man.",
+   "img": "b8153054",
+   "ids": {},
+   "s": {
+    "gr": [4.39, 2984986, "2026-10-03"],
+    "amz": [4.6, 77287, "2026-10-03"],
+    "aud": [4.6, 35274, "2026-10-03"]
+   }
+  },
+  "the-help-2009": {
+   "t": "The Help",
+   "y": 2009,
+   "by": "Kathryn Stockett",
+   "g": "Historical Fiction",
+   "sum": "In 1960s Mississippi, a young white writer and two Black maids secretly write a book about working in white homes.",
+   "img": "b8387264",
+   "ids": {},
+   "s": {
+    "gr": [4.47, 3102842, "2026-10-03"],
+    "amz": [4.8, 38571, "2026-10-03"],
+    "aud": [4.8, 47205, "2026-10-03"]
+   }
+  },
+  "the-dutch-house-2019": {
+   "t": "The Dutch House",
+   "y": 2019,
+   "by": "Ann Patchett",
+   "g": "Fiction",
+   "sum": "Two siblings exiled from their grand childhood home spend decades circling back to it and the stepmother who threw them out.",
+   "img": "b8788823",
+   "ids": {},
+   "s": {
+    "gr": [4.1, 604747, "2026-10-03"],
+    "amz": [4.4, 92534, "2026-10-03"],
+    "aud": [4.6, 59481, "2026-10-03"]
+   }
+  },
+  "cloud-cuckoo-land-2021": {
+   "t": "Cloud Cuckoo Land",
+   "y": 2021,
+   "by": "Anthony Doerr",
+   "g": "Historical Fiction",
+   "sum": "Characters in fifteenth-century Constantinople, modern Idaho and a future spaceship are linked by one ancient Greek story.",
+   "img": "b13253465",
+   "ids": {},
+   "s": {
+    "gr": [4.24, 286034, "2026-10-03"],
+    "amz": [4.5, 36133, "2026-10-03"],
+    "aud": [4.6, 9618, "2026-10-03"]
+   }
+  },
+  "the-vanishing-half-2020": {
+   "t": "The Vanishing Half",
+   "y": 2020,
+   "by": "Brit Bennett",
+   "g": "Historical Fiction",
+   "sum": "Identical twins run away from their small Black Southern town, and one of them secretly lives the rest of her life as white.",
+   "img": "b10095692",
+   "aw": ["Goodreads Choice: Historical Fiction 2020"],
+   "ids": {},
+   "s": {
+    "gr": [4.11, 885731, "2026-10-03"],
+    "amz": [4.4, 129630, "2026-10-03"],
+    "aud": [4.4, 26617, "2026-10-03"]
+   }
+  },
+  "anxious-people-2020": {
+   "t": "Anxious People",
+   "y": 2020,
+   "by": "Fredrik Backman",
+   "g": "Fiction",
+   "sum": "A bungled bank robbery turns into a hostage situation at an apartment viewing full of strangers with their own troubles.",
+   "img": "b10087939",
+   "ids": {},
+   "s": {
+    "gr": [4.16, 887525, "2026-10-03"],
+    "amz": [4.4, 93746, "2026-10-03"],
+    "aud": [4.5, 28542, "2026-10-03"]
+   }
+  },
+  "the-lincoln-highway-2021": {
+   "t": "The Lincoln Highway",
+   "y": 2021,
+   "by": "Amor Towles",
+   "g": "Historical Fiction",
+   "sum": "In 1954, a young man released from a juvenile work farm plans a fresh start, until two escaped friends hijack the trip.",
+   "img": "b10648601",
+   "ids": {},
+   "s": {
+    "gr": [4.21, 327950, "2026-10-03"],
+    "amz": [4.4, 89034, "2026-10-03"],
+    "aud": [4.6, 23987, "2026-10-03"]
+   }
+  },
+  "tomorrow-and-tomorrow-and-tomorrow-2022": {
+   "t": "Tomorrow, and Tomorrow, and Tomorrow",
+   "y": 2022,
+   "by": "Gabrielle Zevin",
+   "g": "Fiction",
+   "sum": "Two childhood friends become video game design partners, and the book follows thirty years of their creative and personal ties.",
+   "img": "b12859975",
+   "aw": ["Goodreads Choice: Fiction 2022"],
+   "ids": {},
+   "s": {
+    "gr": [4.1, 1474656, "2026-10-03"],
+    "amz": [4.4, 136337, "2026-10-03"],
+    "aud": [4.4, 17572, "2026-10-03"]
+   }
+  },
+  "demon-copperhead-2022": {
+   "t": "Demon Copperhead",
+   "y": 2022,
+   "by": "Barbara Kingsolver",
+   "g": "Historical Fiction",
+   "sum": "A boy born to a single teenage mother in Appalachia survives foster care, child labour and the opioid crisis; a retelling of David Copperfield.",
+   "img": "b13141227",
+   "aw": ["Pulitzer Prize for Fiction 2023", "Women's Prize for Fiction 2023"],
+   "ids": {},
+   "s": {
+    "gr": [4.46, 911803, "2026-10-03"],
+    "amz": [4.6, 157601, "2026-10-03"],
+    "aud": [4.8, 36223, "2026-10-03"]
+   }
+  },
+  "carrie-soto-is-back-2022": {
+   "t": "Carrie Soto Is Back",
+   "y": 2022,
+   "by": "Taylor Jenkins Reid",
+   "g": "Fiction",
+   "sum": "A retired tennis champion returns at 37 to defend her record against a younger rival, coached by her father.",
+   "img": "b12900643",
+   "aw": ["Goodreads Choice: Historical Fiction 2022"],
+   "ids": {},
+   "s": {
+    "gr": [4.19, 785825, "2026-10-03"],
+    "amz": [4.4, 49642, "2026-10-03"],
+    "aud": [4.4, 8560, "2026-10-03"]
+   }
+  },
+  "the-rose-code-2021": {
+   "t": "The Rose Code",
+   "y": 2021,
+   "by": "Kate Quinn",
+   "g": "Historical Fiction",
+   "sum": "Three very different women break codes at Bletchley Park in WWII, then reunite years later to unmask a traitor.",
+   "img": "b10331561",
+   "ids": {},
+   "s": {
+    "gr": [4.44, 410112, "2026-10-03"],
+    "amz": [4.6, 65848, "2026-10-03"],
+    "aud": [4.8, 25908, "2026-10-03"]
+   }
+  },
+  "the-alice-network-2017": {
+   "t": "The Alice Network",
+   "y": 2017,
+   "by": "Kate Quinn",
+   "g": "Historical Fiction",
+   "sum": "A pregnant American in 1947 teams up with a burned-out former WWI spy to search for her missing cousin in France.",
+   "img": "b9260189",
+   "ids": {},
+   "s": {
+    "gr": [4.32, 680267, "2026-10-03"],
+    "amz": [4.6, 100211, "2026-10-03"],
+    "aud": [4.6, 52020, "2026-10-03"]
+   }
+  },
+  "the-tattooist-of-auschwitz-2018": {
+   "t": "The Tattooist of Auschwitz",
+   "y": 2018,
+   "by": "Heather Morris",
+   "g": "Historical Fiction",
+   "sum": "Based on a true story, the prisoner who tattooed numbers at Auschwitz falls in love with a woman he marks.",
+   "img": "b8572962",
+   "ids": {},
+   "s": {
+    "gr": [4.32, 1222080, "2026-10-03"],
+    "amz": [4.6, 179708, "2026-10-03"],
+    "aud": [4.8, 32536, "2026-10-03"]
+   }
+  },
+  "a-promised-land-2020": {
+   "t": "A Promised Land",
+   "y": 2020,
+   "by": "Barack Obama",
+   "g": "Memoir",
+   "sum": "Barack Obama's memoir of his political rise and first presidential term.",
+   "img": "b10449357",
+   "aw": ["Goodreads Choice: Memoir 2020"],
+   "ids": {},
+   "s": {
+    "gr": [4.31, 288272, "2026-10-03"],
+    "amz": [4.9, 127832, "2026-10-03"],
+    "aud": [4.9, 56308, "2026-10-03"]
+   }
+  },
+  "caste-2020": {
+   "t": "Caste",
+   "y": 2020,
+   "by": "Isabel Wilkerson",
+   "g": "History / Social Science",
+   "sum": "Isabel Wilkerson argues that America's racial hierarchy works as a caste system, comparing it with India and Nazi Germany.",
+   "img": "b10201429",
+   "aw": ["Goodreads Choice: History & Biography 2020"],
+   "ids": {},
+   "s": {
+    "gr": [4.52, 168702, "2026-10-03"],
+    "amz": [4.8, 47865, "2026-10-03"],
+    "aud": [4.8, 21341, "2026-10-03"]
+   }
+  },
+  "sapiens-2011": {
+   "t": "Sapiens",
+   "y": 2011,
+   "by": "Yuval Noah Harari",
+   "g": "History",
+   "sum": "A sweeping history of humankind, from the cognitive revolution through farming, money and empires to today.",
+   "img": "b8634250",
+   "ids": {},
+   "s": {
+    "gr": [4.32, 1333399, "2026-10-03"],
+    "amz": [4.6, 133803, "2026-10-03"],
+    "aud": [4.7, 57630, "2026-10-03"]
+   }
+  },
+  "the-psychology-of-money-2020": {
+   "t": "The Psychology of Money",
+   "y": 2020,
+   "by": "Morgan Housel",
+   "g": "Personal Finance",
+   "sum": "Short stories and lessons on how behaviour, not maths, decides how well people handle money.",
+   "img": "b10389354",
+   "ids": {},
+   "s": {
+    "gr": [4.27, 367660, "2026-10-03"],
+    "amz": [4.7, 74652, "2026-10-03"],
+    "aud": [4.7, 25634, "2026-10-03"]
+   }
+  },
+  "the-power-of-habit-2012": {
+   "t": "The Power of Habit",
+   "y": 2012,
+   "by": "Charles Duhigg",
+   "g": "Personal Development",
+   "sum": "How habits form in the brain, in companies and in societies, and how to change them.",
+   "img": "b9078085",
+   "note": "Only a newer Audible listing with few ratings turned up.",
+   "ids": {},
+   "s": {
+    "gr": [4.13, 578295, "2026-10-03"],
+    "amz": [4.6, 40355, "2026-10-03"],
+    "aud": [4.6, 121, "2026-10-03"]
+   }
+  },
+  "shoe-dog-2016": {
+   "t": "Shoe Dog",
+   "y": 2016,
+   "by": "Phil Knight",
+   "g": "Business Memoir",
+   "sum": "Nike co-founder Phil Knight's candid memoir of building the company from a car-trunk business.",
+   "img": "b8858487",
+   "ids": {},
+   "s": {
+    "gr": [4.45, 391505, "2026-10-03"],
+    "amz": [4.7, 63792, "2026-10-03"],
+    "aud": [4.9, 53901, "2026-10-03"]
+   }
+  },
+  "bad-blood-2018": {
+   "t": "Bad Blood",
+   "y": 2018,
+   "by": "John Carreyrou",
+   "g": "Business / True Crime",
+   "sum": "The reporter who broke the story tells how blood-testing startup Theranos fooled investors and patients.",
+   "img": "b12735651",
+   "aw": ["FT Business Book of the Year 2018"],
+   "ids": {},
+   "s": {
+    "gr": [4.4, 290804, "2026-10-03"],
+    "amz": [4.7, 33941, "2026-10-03"],
+    "aud": [4.8, 39471, "2026-10-03"]
+   }
+  },
+  "empire-of-pain-2021": {
+   "t": "Empire of Pain",
+   "y": 2021,
+   "by": "Patrick Radden Keefe",
+   "g": "History / True Crime",
+   "sum": "How the Sackler family built a fortune on OxyContin and helped fuel the opioid crisis.",
+   "img": "b10678221",
+   "aw": ["Baillie Gifford Prize 2021", "Goodreads Choice: History & Biography 2021"],
+   "ids": {},
+   "s": {
+    "gr": [4.53, 152724, "2026-10-03"],
+    "amz": [4.6, 14170, "2026-10-03"],
+    "aud": [4.9, 9618, "2026-10-03"]
+   }
+  },
+  "the-wager-2023": {
+   "t": "The Wager",
+   "y": 2023,
+   "by": "David Grann",
+   "g": "History",
+   "sum": "A British warship wrecks off Patagonia in 1741, and the survivors return with wildly conflicting stories of mutiny.",
+   "img": "b13245246",
+   "aw": ["Goodreads Choice: History & Biography 2023"],
+   "ids": {},
+   "s": {
+    "gr": [4.16, 242676, "2026-10-03"],
+    "amz": [4.4, 42958, "2026-10-03"],
+    "aud": [4.4, 7142, "2026-10-03"]
+   }
+  },
+  "killers-of-the-flower-moon-2017": {
+   "t": "Killers of the Flower Moon",
+   "y": 2017,
+   "by": "David Grann",
+   "g": "True Crime / History",
+   "sum": "In the 1920s, members of the oil-rich Osage Nation are murdered one by one, and the young FBI takes the case.",
+   "img": "b8055064",
+   "ids": {},
+   "s": {
+    "gr": [4.14, 472467, "2026-10-03"],
+    "amz": [4.4, 82623, "2026-10-03"],
+    "aud": [4.4, 23740, "2026-10-03"]
+   }
+  },
+  "the-boys-in-the-boat-2013": {
+   "t": "The Boys in the Boat",
+   "y": 2013,
+   "by": "Daniel James Brown",
+   "g": "History / Sports",
+   "sum": "Nine working-class University of Washington rowers race for gold at the 1936 Berlin Olympics.",
+   "img": "b12722394",
+   "ids": {},
+   "s": {
+    "gr": [4.39, 372359, "2026-10-03"],
+    "amz": [4.6, 92355, "2026-10-03"],
+    "aud": [4.8, 43768, "2026-10-03"]
+   }
+  },
+  "unbroken-2010": {
+   "t": "Unbroken",
+   "y": 2010,
+   "by": "Laura Hillenbrand",
+   "g": "Biography / History",
+   "sum": "An Olympic runner turned WWII bomber survives a crash at sea, weeks adrift and years in Japanese prison camps.",
+   "img": "b6668103",
+   "ids": {},
+   "s": {
+    "gr": [4.39, 1019695, "2026-10-03"],
+    "amz": [4.7, 77322, "2026-10-03"],
+    "aud": [4.8, 51732, "2026-10-03"]
+   }
+  },
+  "the-immortal-life-of-henrietta-lacks-2010": {
+   "t": "The Immortal Life of Henrietta Lacks",
+   "y": 2010,
+   "by": "Rebecca Skloot",
+   "g": "Biography / Science",
+   "sum": "The Black woman whose cells, taken without consent in 1951, became one of medicine's most important tools.",
+   "img": "b8364866",
+   "ids": {},
+   "s": {
+    "gr": [4.13, 830526, "2026-10-03"],
+    "amz": [4.6, 31439, "2026-10-03"],
+    "aud": [4.6, 17137, "2026-10-03"]
+   }
+  },
+  "the-glass-castle-2005": {
+   "t": "The Glass Castle",
+   "y": 2005,
+   "by": "Jeannette Walls",
+   "g": "Memoir",
+   "sum": "Jeannette Walls's memoir of a brilliant, chaotic childhood with parents who wouldn't or couldn't settle down.",
+   "img": "b11517692",
+   "ids": {},
+   "s": {
+    "gr": [4.33, 1413914, "2026-10-03"],
+    "amz": [4.6, 49774, "2026-10-03"],
+    "aud": [4.6, 18835, "2026-10-03"]
+   }
+  },
+  "when-breath-becomes-air-2016": {
+   "t": "When Breath Becomes Air",
+   "y": 2016,
+   "by": "Paul Kalanithi",
+   "g": "Memoir",
+   "sum": "A young neurosurgeon diagnosed with terminal lung cancer reflects on what makes a life worth living.",
+   "img": "b11463139",
+   "aw": ["Goodreads Choice: Memoir 2016"],
+   "ids": {},
+   "s": {
+    "gr": [4.41, 856181, "2026-10-03"],
+    "amz": [4.7, 119653, "2026-10-03"],
+    "aud": [4.7, 30475, "2026-10-03"]
+   }
+  },
+  "outlive-2023": {
+   "t": "Outlive",
+   "y": 2023,
+   "by": "Peter Attia, MD",
+   "g": "Health / Science",
+   "sum": "Physician Peter Attia's guide to living longer and better by preventing the chronic diseases of ageing.",
+   "img": "b13191259",
+   "ids": {},
+   "s": {
+    "gr": [4.29, 105227, "2026-10-03"],
+    "amz": [4.6, 21377, "2026-10-03"],
+    "aud": [4.7, 8722, "2026-10-03"]
+   }
+  },
+  "why-we-sleep-2017": {
+   "t": "Why We Sleep",
+   "y": 2017,
+   "by": "Matthew Walker",
+   "g": "Science / Health",
+   "sum": "A neuroscientist explains what sleep does for the brain and body, and what we lose without it.",
+   "img": "b8814155",
+   "ids": {},
+   "s": {
+    "gr": [4.36, 239343, "2026-10-03"],
+    "amz": [4.7, 34584, "2026-10-03"],
+    "aud": [4.8, 17539, "2026-10-03"]
+   }
+  },
+  "the-subtle-art-of-not-giving-a-f-ck-2016": {
+   "t": "The Subtle Art of Not Giving a F*ck",
+   "y": 2016,
+   "by": "Mark Manson",
+   "g": "Personal Development",
+   "sum": "A blunt self-help book about choosing what's worth caring about and accepting life's limits.",
+   "img": "b8231990",
+   "ids": {},
+   "s": {
+    "gr": [3.86, 1492737, "2026-10-03"],
+    "amz": [4.5, 162194, "2026-10-03"],
+    "aud": [4.5, 177956, "2026-10-03"]
+   }
+  },
+  "gone-girl-2012": {
+   "t": "Gone Girl",
+   "y": 2012,
+   "by": "Gillian Flynn",
+   "g": "Thriller",
+   "sum": "On their fifth anniversary a wife vanishes, and the husband's odd behaviour makes him the obvious suspect.",
+   "img": "b8368314",
+   "aw": ["Goodreads Choice: Mystery & Thriller 2012"],
+   "ids": {},
+   "s": {
+    "gr": [4.15, 3565037, "2026-10-03"],
+    "amz": [4.1, 169703, "2026-10-03"],
+    "aud": [4.4, 60087, "2026-10-03"]
+   }
+  },
+  "the-girl-on-the-train-2015": {
+   "t": "The Girl on the Train",
+   "y": 2015,
+   "by": "Paula Hawkins",
+   "g": "Thriller",
+   "sum": "A woman who watches the same couple from her daily train sees something shocking, then the wife disappears.",
+   "img": "b7350360",
+   "aw": ["Goodreads Choice: Mystery & Thriller 2015"],
+   "ids": {},
+   "s": {
+    "gr": [3.96, 3396493, "2026-10-03"],
+    "amz": [4.1, 496226, "2026-10-03"],
+    "aud": [4.4, 141062, "2026-10-03"]
+   }
+  },
+  "big-little-lies-2014": {
+   "t": "Big Little Lies",
+   "y": 2014,
+   "by": "Liane Moriarty",
+   "g": "Fiction",
+   "sum": "Rivalries among mothers at a beach-town primary school build to a death at the school's trivia night.",
+   "img": "b7352410",
+   "ids": {},
+   "s": {
+    "gr": [4.31, 1157219, "2026-10-03"],
+    "amz": [4.4, 166936, "2026-10-03"],
+    "aud": [4.6, 55795, "2026-10-03"]
+   }
+  },
+  "the-silent-patient-2019": {
+   "t": "The Silent Patient",
+   "y": 2019,
+   "by": "Alex Michaelides",
+   "g": "Thriller",
+   "sum": "A painter shoots her husband and never speaks again; a psychotherapist becomes obsessed with making her talk.",
+   "img": "b9407338",
+   "aw": ["Goodreads Choice: Mystery & Thriller 2019"],
+   "ids": {},
+   "s": {
+    "gr": [4.16, 3637759, "2026-10-03"],
+    "amz": [4.4, 429380, "2026-10-03"],
+    "aud": [4.5, 90006, "2026-10-03"]
+   }
+  },
+  "the-maid-2022": {
+   "t": "The Maid",
+   "y": 2022,
+   "by": "Nita Prose",
+   "g": "Mystery",
+   "sum": "A literal-minded hotel maid finds a wealthy guest dead and becomes the prime suspect.",
+   "img": "b11199954",
+   "aw": ["Goodreads Choice: Mystery & Thriller 2022"],
+   "ids": {},
+   "s": {
+    "gr": [3.74, 742027, "2026-10-03"],
+    "amz": [4.2, 104178, "2026-10-03"],
+    "aud": [4.4, 22164, "2026-10-03"]
+   }
+  },
+  "the-housemaid-2022": {
+   "t": "The Housemaid",
+   "y": 2022,
+   "by": "Freida McFadden",
+   "g": "Thriller",
+   "sum": "A woman with a past takes a live-in job with a wealthy family, and soon learns the house hides worse secrets than hers.",
+   "img": "b15105883",
+   "ids": {},
+   "s": {
+    "gr": [4.26, 4000706, "2026-10-03"],
+    "amz": [4.5, 733372, "2026-10-03"],
+    "aud": [4.6, 45683, "2026-10-03"]
+   }
+  },
+  "none-of-this-is-true-2023": {
+   "t": "None of This Is True",
+   "y": 2023,
+   "by": "Lisa Jewell",
+   "g": "Thriller",
+   "sum": "A podcaster meets a stranger who shares her birthday, and agrees to make her the subject of her next show.",
+   "img": "b13300169",
+   "ids": {},
+   "s": {
+    "gr": [4.06, 1221708, "2026-10-03"],
+    "amz": [4.2, 123638, "2026-10-03"],
+    "aud": [4.5, 16657, "2026-10-03"]
+   }
+  },
+  "the-guest-list-2020": {
+   "t": "The Guest List",
+   "y": 2020,
+   "by": "Lucy Foley",
+   "g": "Mystery / Thriller",
+   "sum": "A celebrity wedding on a remote Irish island goes wrong, and by night's end one of the guests is dead.",
+   "img": "b10096112",
+   "aw": ["Goodreads Choice: Mystery & Thriller 2020"],
+   "ids": {},
+   "s": {
+    "gr": [3.79, 1365584, "2026-10-03"],
+    "amz": [4.2, 119711, "2026-10-03"],
+    "aud": [4.3, 30513, "2026-10-03"]
+   }
+  },
+  "the-paris-apartment-2022": {
+   "t": "The Paris Apartment",
+   "y": 2022,
+   "by": "Lucy Foley",
+   "g": "Mystery / Thriller",
+   "sum": "A woman arrives in Paris to stay with her half-brother, but he's missing and his neighbours aren't talking.",
+   "img": "b11541298",
+   "ids": {},
+   "s": {
+    "gr": [3.64, 764061, "2026-10-03"],
+    "amz": [4, 59776, "2026-10-03"],
+    "aud": [4.3, 12623, "2026-10-03"]
+   }
+  },
+  "the-thursday-murder-club-2020": {
+   "t": "The Thursday Murder Club",
+   "y": 2020,
+   "by": "Richard Osman",
+   "g": "Mystery",
+   "sum": "Four retirees who meet weekly to discuss cold cases find a real murder on their doorstep.",
+   "img": "b10201431",
+   "ids": {},
+   "s": {
+    "gr": [3.85, 868361, "2026-10-03"],
+    "amz": [4.3, 184874, "2026-10-03"],
+    "aud": [4.4, 10196, "2026-10-03"]
+   }
+  },
+  "magpie-murders-2016": {
+   "t": "Magpie Murders",
+   "y": 2016,
+   "by": "Anthony Horowitz",
+   "g": "Mystery",
+   "sum": "An editor reading a famous crime writer's final manuscript finds the last chapter missing and the author dead.",
+   "img": "b8189045",
+   "ids": {},
+   "s": {
+    "gr": [3.94, 180392, "2026-10-03"],
+    "amz": [4.2, 36988, "2026-10-03"],
+    "aud": [4.4, 13306, "2026-10-03"]
+   }
+  },
+  "the-lincoln-lawyer-2005": {
+   "t": "The Lincoln Lawyer",
+   "y": 2005,
+   "by": "Michael Connelly",
+   "g": "Legal Thriller",
+   "sum": "A defence lawyer who works out of his Lincoln takes on a wealthy client who may be guilty of more than he admits.",
+   "img": "b499937",
+   "ids": {},
+   "s": {
+    "gr": [4.23, 266324, "2026-10-03"],
+    "amz": [4.6, 28195, "2026-10-03"],
+    "aud": [4.6, 20247, "2026-10-03"]
+   }
+  },
+  "atmosphere-2025": {
+   "t": "Atmosphere",
+   "y": 2025,
+   "by": "Taylor Jenkins Reid",
+   "g": "Historical Fiction",
+   "sum": "In the early 1980s, a woman training as a NASA astronaut falls for a fellow trainee as the shuttle program takes off.",
+   "img": "b15098710",
+   "aw": ["Goodreads Choice: Historical Fiction 2025"],
+   "ids": {},
+   "s": {
+    "gr": [4.31, 1058352, "2026-10-03"],
+    "amz": [4.5, 91861, "2026-10-03"],
+    "aud": [4.7, 24677, "2026-10-03"]
+   }
+  },
+  "the-calamity-club-2026": {
+   "t": "The Calamity Club",
+   "y": 2026,
+   "by": "Kathryn Stockett",
+   "g": "Historical Fiction",
+   "sum": "In Depression-era Oxford, Mississippi, a band of women on society's edges team up to fight for what they're owed.",
+   "img": "b15236189",
+   "ids": {},
+   "s": {
+    "gr": [4.61, 434725, "2026-10-03"],
+    "amz": [4.7, 83948, "2026-10-03"],
+    "aud": [4.9, 26953, "2026-10-03"]
+   }
+  },
+  "mad-mabel-2026": {
+   "t": "Mad Mabel",
+   "y": 2026,
+   "by": "Sally Hepworth",
+   "g": "Mystery / Thriller",
+   "sum": "An 81-year-old in suburban Melbourne becomes the talk of the street when a neighbour dies and her own past resurfaces.",
+   "img": "b15149022",
+   "ids": {},
+   "s": {
+    "gr": [4.37, 341324, "2026-10-03"],
+    "amz": [4.6, 60054, "2026-10-03"],
+    "aud": [4.8, 15563, "2026-10-03"]
+   }
+  },
+  "yesteryear-2026": {
+   "t": "Yesteryear",
+   "y": 2026,
+   "by": "Caro Claire Burke",
+   "g": "Fiction",
+   "sum": "A wealthy 'tradwife' influencer wakes up to find the old-fashioned life she performed online has become terrifyingly real.",
+   "img": "b15234864",
+   "ids": {},
+   "s": {
+    "gr": [3.85, 1013055, "2026-10-03"],
+    "amz": [4.2, 126559, "2026-10-03"],
+    "aud": [4.1, 19215, "2026-10-03"]
+   }
+  },
+  "hollow-bones-2026": {
+   "t": "Hollow Bones",
+   "y": 2026,
+   "by": "Jodi Picoult",
+   "g": "Fiction",
+   "sum": "A young woman whose mother died on 9/11 grows up braced for disaster, and the novel tests how far she'll go to protect those she loves.",
+   "img": "fx0",
+   "ids": {},
+   "s": {
+    "gr": [4.5, 16835, "2026-10-03"],
+    "amz": [4.6, 4145, "2026-10-03"],
+    "aud": [4.7, 672, "2026-10-03"]
+   }
+  },
+  "the-french-illusion-2026": {
+   "t": "The French Illusion",
+   "y": 2026,
+   "by": "John Grisham",
+   "g": "Legal Thriller",
+   "sum": "A newlywed couple are kidnapped on their Paris honeymoon, and the hunt for them reveals they aren't the first victims.",
+   "img": "fx1",
+   "ids": {},
+   "s": {
+    "gr": [4.25, 1205, "2026-10-03"],
+    "amz": [4.4, 454, "2026-10-03"],
+    "aud": [4.3, 157, "2026-10-03"]
+   }
+  },
+  "a-man-called-ove-2012": {
+   "t": "A Man Called Ove",
+   "y": 2012,
+   "by": "Fredrik Backman",
+   "g": "Fiction",
+   "sum": "A grumpy, rule-obsessed widower's plans are upended by the chaotic young family that moves in next door.",
+   "img": "nb0",
+   "ids": {},
+   "s": {
+    "gr": [4.38, 1285699, "2026-10-03"],
+    "amz": [4.6, 206385, "2026-10-03"],
+    "aud": [4.8, 21934, "2026-10-03"]
+   }
+  },
+  "the-kite-runner-2003": {
+   "t": "The Kite Runner",
+   "y": 2003,
+   "by": "Khaled Hosseini",
+   "g": "Historical Fiction",
+   "sum": "A wealthy boy in Kabul betrays his loyal friend, and decades later returns to a Taliban-ruled Afghanistan to make amends.",
+   "img": "nb1",
+   "ids": {},
+   "s": {
+    "gr": [4.36, 3618630, "2026-10-03"],
+    "amz": [4.7, 6425, "2026-10-03"],
+    "aud": [4.6, 21402, "2026-10-03"]
+   }
+  },
+  "a-thousand-splendid-suns-2007": {
+   "t": "A Thousand Splendid Suns",
+   "y": 2007,
+   "by": "Khaled Hosseini",
+   "g": "Historical Fiction",
+   "sum": "Two Afghan women a generation apart are bound together by marriage to the same man through decades of war.",
+   "img": "nb2",
+   "ids": {},
+   "s": {
+    "gr": [4.46, 1824708, "2026-10-03"],
+    "amz": [4.7, 59476, "2026-10-03"],
+    "aud": [4.6, 15516, "2026-10-03"]
+   }
+  },
+  "pachinko-2017": {
+   "t": "Pachinko",
+   "y": 2017,
+   "by": "Min Jin Lee",
+   "g": "Historical Fiction",
+   "sum": "Four generations of a Korean family make a life in Japan through the twentieth century, facing prejudice at every turn.",
+   "img": "nb3",
+   "ids": {},
+   "s": {
+    "gr": [4.34, 697300, "2026-10-03"],
+    "amz": [4.5, 89655, "2026-10-03"],
+    "aud": [4.6, 2378, "2026-10-03"]
+   }
+  },
+  "the-covenant-of-water-2023": {
+   "t": "The Covenant of Water",
+   "y": 2023,
+   "by": "Abraham Verghese",
+   "g": "Historical Fiction",
+   "sum": "Three generations of a family in South India are haunted by a mysterious condition: someone drowns in every generation.",
+   "img": "nb4",
+   "ids": {},
+   "s": {
+    "gr": [4.4, 353985, "2026-10-03"],
+    "amz": [4.6, 99589, "2026-10-03"],
+    "aud": [4.7, 11798, "2026-10-03"]
+   }
+  },
+  "lonesome-dove-1985": {
+   "t": "Lonesome Dove",
+   "y": 1985,
+   "by": "Larry McMurtry",
+   "g": "Historical Fiction",
+   "sum": "Two retired Texas Rangers lead a cattle drive from Texas to Montana in an epic of the American West.",
+   "img": "nb5",
+   "aw": ["Pulitzer Prize for Fiction 1986"],
+   "ids": {},
+   "s": {
+    "gr": [4.6, 291252, "2026-10-03"],
+    "amz": [4.8, 32227, "2026-10-03"],
+    "aud": [4.8, 1580, "2026-10-03"]
+   }
+  },
+  "hamnet-2020": {
+   "t": "Hamnet",
+   "y": 2020,
+   "by": "Maggie O'Farrell",
+   "g": "Historical Fiction",
+   "sum": "The story of Shakespeare's wife and the death of their eleven-year-old son, told as a portrait of grief.",
+   "img": "nb6",
+   "aw": ["Women's Prize for Fiction 2020"],
+   "ids": {},
+   "s": {
+    "gr": [4.2, 519511, "2026-10-03"],
+    "amz": [4.4, 80204, "2026-10-03"],
+    "aud": [4.6, 11180, "2026-10-03"]
+   }
+  },
+  "the-road-2006": {
+   "t": "The Road",
+   "y": 2006,
+   "by": "Cormac McCarthy",
+   "g": "Fiction",
+   "sum": "A father and son walk through a burned, post-apocalyptic America, carrying everything they own.",
+   "img": "nb7",
+   "aw": ["Pulitzer Prize for Fiction 2007"],
+   "ids": {},
+   "s": {
+    "gr": [4, 1091905, "2026-10-03"],
+    "amz": [4.4, 39466, "2026-10-03"],
+    "aud": [4.4, 24542, "2026-10-03"]
+   }
+  },
+  "life-of-pi-2001": {
+   "t": "Life of Pi",
+   "y": 2001,
+   "by": "Yann Martel",
+   "g": "Fiction",
+   "sum": "A teenage boy survives 227 days in a lifeboat on the Pacific with a Bengal tiger.",
+   "img": "nb8",
+   "aw": ["Booker Prize 2002"],
+   "ids": {},
+   "s": {
+    "gr": [3.95, 1789993, "2026-10-03"],
+    "amz": [4.4, 23097, "2026-10-03"],
+    "aud": [4.7, 3656, "2026-10-03"]
+   }
+  },
+  "just-mercy-2014": {
+   "t": "Just Mercy",
+   "y": 2014,
+   "by": "Bryan Stevenson",
+   "g": "Memoir",
+   "sum": "Lawyer Bryan Stevenson's account of defending people on death row, including a man wrongly convicted of murder.",
+   "img": "nb9",
+   "aw": ["Carnegie Medal for Nonfiction 2015"],
+   "ids": {},
+   "s": {
+    "gr": [4.62, 272911, "2026-10-03"],
+    "amz": [4.8, 40505, "2026-10-03"],
+    "aud": [4.9, 18640, "2026-10-03"]
+   }
+  },
+  "the-body-keeps-the-score-2014": {
+   "t": "The Body Keeps the Score",
+   "y": 2014,
+   "by": "Bessel van der Kolk",
+   "g": "Science / Health",
+   "sum": "A psychiatrist explains how trauma reshapes the brain and body, and the treatments that help people recover.",
+   "img": "nb10",
+   "ids": {},
+   "s": {
+    "gr": [4.33, 311411, "2026-10-03"],
+    "amz": [4.8, 85217, "2026-10-03"],
+    "aud": [4.8, 14181, "2026-10-03"]
+   }
+  },
+  "thinking-fast-and-slow-2011": {
+   "t": "Thinking, Fast and Slow",
+   "y": 2011,
+   "by": "Daniel Kahneman",
+   "g": "Science / Psychology",
+   "sum": "Nobel-winning psychologist Daniel Kahneman explains the two systems of thought behind our judgments and mistakes.",
+   "img": "nb11",
+   "ids": {},
+   "s": {
+    "gr": [4.16, 618883, "2026-10-03"],
+    "amz": [4.6, 48731, "2026-10-03"],
+    "aud": [4.4, 20059, "2026-10-03"]
+   }
+  },
+  "into-thin-air-1997": {
+   "t": "Into Thin Air",
+   "y": 1997,
+   "by": "Jon Krakauer",
+   "g": "History / Adventure",
+   "sum": "A journalist's account of the 1996 Everest disaster, when a storm killed eight climbers in a single day.",
+   "img": "nb12",
+   "ids": {},
+   "s": {
+    "gr": [4.27, 592271, "2026-10-03"],
+    "amz": [4.6, 26062, "2026-10-03"],
+    "aud": [4.7, 13812, "2026-10-03"]
+   }
+  },
+  "the-pillars-of-the-earth-1989": {
+   "t": "The Pillars of the Earth",
+   "y": 1989,
+   "by": "Ken Follett",
+   "g": "Historical Fiction",
+   "sum": "The building of a cathedral in 12th-century England, and the lives, wars and rivalries that surround it.",
+   "img": "nb13",
+   "ids": {},
+   "s": {
+    "gr": [4.35, 860689, "2026-10-03"],
+    "amz": [4.6, 58301, "2026-10-03"],
+    "aud": [4.6, 36541, "2026-10-03"]
+   }
+  },
+  "threshing-day-2026": {
+   "t": "Threshing Day",
+   "y": 2026,
+   "by": "Rebecca Yarros",
+   "g": "Fantasy Romance",
+   "sum": "A companion story set in the world of the Empyrean, Rebecca Yarros's dragon-rider series.",
+   "img": "fx2",
+   "ids": {},
+   "s": {
+    "gr": [4.62, 110660, "2026-10-03"],
+    "amz": [4.8, 13659, "2026-10-03"],
+    "aud": [4.9, 4194, "2026-10-03"]
+   }
+  },
+  "the-ballad-of-songbirds-and-snakes-2020": {
+   "t": "The Ballad of Songbirds and Snakes",
+   "y": 2020,
+   "by": "Suzanne Collins",
+   "g": "Young Adult / Dystopian",
+   "sum": "Decades before Katniss, a young Coriolanus Snow mentors a girl from District 12 in the tenth Hunger Games.",
+   "img": "b14421833",
+   "ids": {},
+   "s": {
+    "gr": [4, 1310671, "2026-10-03"],
+    "amz": [4.5, 110367, "2026-10-03"],
+    "aud": [4.5, 36632, "2026-10-03"]
+   }
+  },
+  "sunrise-on-the-reaping-2025": {
+   "t": "Sunrise on the Reaping",
+   "y": 2025,
+   "by": "Suzanne Collins",
+   "g": "Young Adult / Dystopian",
+   "sum": "Sixteen-year-old Haymitch Abernathy is reaped for the brutal 50th Hunger Games, the Second Quarter Quell.",
+   "img": "b14847912",
+   "aw": ["Goodreads Choice: Young Adult Fantasy 2025"],
+   "ids": {},
+   "s": {
+    "gr": [4.49, 1328744, "2026-10-03"],
+    "amz": [4.7, 102926, "2026-10-03"],
+    "aud": [4.8, 37063, "2026-10-03"]
+   }
+  },
+  "the-fellowship-of-the-ring-1954": {
+   "t": "The Fellowship of the Ring",
+   "y": 1954,
+   "img": "b15173637",
+   "ids": {},
+   "s": {
+    "gr": [4.41, 3243104, "2026-10-03"],
+    "amz": [4.8, 29533, "2026-10-03"],
+    "aud": [4.8, 67412, "2026-10-03"]
+   }
+  },
+  "the-two-towers-1954": {
+   "t": "The Two Towers",
+   "y": 1954,
+   "img": "b14349269",
+   "ids": {},
+   "s": {
+    "gr": [4.51, 1184078, "2026-10-03"],
+    "amz": [4.8, 19181, "2026-10-03"],
+    "aud": [4.9, 50256, "2026-10-03"]
+   }
+  },
+  "the-return-of-the-king-1955": {
+   "t": "The Return of the King",
+   "y": 1955,
+   "img": "b14627062",
+   "ids": {},
+   "s": {
+    "gr": [4.59, 1093131, "2026-10-03"],
+    "amz": [4.9, 15241, "2026-10-03"],
+    "aud": [4.9, 28359, "2026-10-03"]
+   }
+  },
+  "how-to-win-friends-and-influence-people-1936": {
+   "t": "How to Win Friends and Influence People",
+   "y": 1936,
+   "by": "Dale Carnegie",
+   "g": "Personal Development",
+   "sum": "Dale Carnegie's 1936 classic on getting along with people, persuading them and winning them over.",
+   "img": "b14548395",
+   "ids": {},
+   "s": {
+    "gr": [4.21, 1197586, "2026-10-03"],
+    "amz": [4.7, 106633, "2026-10-03"],
+    "aud": [4.7, 102012, "2026-10-03"]
+   }
+  },
+  "man-s-search-for-meaning-1946": {
+   "t": "Man's Search for Meaning",
+   "y": 1946,
+   "by": "Viktor E. Frankl",
+   "g": "Memoir / Psychology",
+   "sum": "A psychiatrist's account of surviving Nazi concentration camps, and his theory that meaning is what keeps people going.",
+   "img": "b11203708",
+   "ids": {},
+   "s": {
+    "gr": [4.37, 942531, "2026-10-03"],
+    "amz": [4.7, 100585, "2026-10-03"],
+    "aud": [4.7, 2415, "2026-10-03"]
+   }
+  },
+  "endurance-1959": {
+   "t": "Endurance",
+   "y": 1959,
+   "by": "Alfred Lansing",
+   "g": "History",
+   "sum": "Shackleton's crew is stranded when their ship is crushed by Antarctic ice, beginning an epic fight to get home.",
+   "img": "b542833",
+   "ids": {},
+   "s": {
+    "gr": [4.47, 180971, "2026-10-03"],
+    "amz": [4.8, 27541, "2026-10-03"],
+    "aud": [4.8, 27540, "2026-10-03"]
+   }
+  },
+  "night-1956": {
+   "t": "Night",
+   "y": 1956,
+   "by": "Elie Wiesel",
+   "g": "Memoir",
+   "sum": "Elie Wiesel's short, devastating memoir of surviving Auschwitz and Buchenwald as a teenager.",
+   "img": "b6781796",
+   "ids": {},
+   "s": {
+    "gr": [4.38, 1405913, "2026-10-03"],
+    "amz": [4.7, 23756, "2026-10-03"],
+    "aud": [4.7, 11129, "2026-10-03"]
+   }
+  },
+  "think-and-grow-rich-1937": {
+   "t": "Think and Grow Rich",
+   "y": 1937,
+   "by": "Napoleon Hill",
+   "g": "Personal Development",
+   "sum": "Napoleon Hill's 1937 classic on the mindset and habits he says lie behind wealth and success.",
+   "img": "b14542536",
+   "ids": {},
+   "s": {
+    "gr": [4.16, 396448, "2026-10-03"],
+    "amz": [4.6, 75450, "2026-10-03"],
+    "aud": [4.6, 32887, "2026-10-03"]
+   }
+  },
+  "dune-1965": {
+   "t": "Dune",
+   "y": 1965,
+   "by": "Frank Herbert",
+   "g": "Science Fiction",
+   "sum": "The heir to a noble house is sent to a desert planet that supplies the universe's most valuable substance.",
+   "img": "b11481354",
+   "aw": ["Hugo Award 1966", "Nebula Award 1965"],
+   "ids": {},
+   "s": {
+    "gr": [4.29, 1714648, "2026-10-03"],
+    "amz": [4.7, 104143, "2026-10-03"],
+    "aud": [4.7, 127163, "2026-10-03"]
+   }
+  },
+  "the-hobbit-1937": {
+   "t": "The Hobbit",
+   "y": 1937,
+   "by": "J.R.R. Tolkien",
+   "g": "Fantasy",
+   "sum": "A home-loving hobbit is swept into a quest with thirteen dwarves to reclaim their mountain from a dragon.",
+   "img": "b14627509",
+   "ids": {},
+   "s": {
+    "gr": [4.3, 4643113, "2026-10-03"],
+    "amz": [4.7, 82254, "2026-10-03"],
+    "aud": [4.8, 66962, "2026-10-03"]
+   }
+  },
+  "dracula-2026": {
+   "t": "Dracula",
+   "y": 2026,
+   "by": "Bram Stoker",
+   "g": "Horror",
+   "sum": "An Audible Original adaptation of the classic vampire tale, told through letters, diaries and recordings.",
+   "img": "b12216503",
+   "note": "Audible rating is for the Audible Original adaptation.",
+   "audQ": "Bram Stoker's Dracula",
+   "ids": {},
+   "s": {
+    "gr": [4.03, 1546842, "2026-10-03"],
+    "amz": [4.4, 31787, "2026-10-03"],
+    "aud": [4.7, 725, "2026-10-03"]
+   }
+  },
+  "pride-and-prejudice-1813": {
+   "t": "Pride and Prejudice",
+   "y": 1813,
+   "by": "Jane Austen",
+   "g": "Classic Fiction",
+   "sum": "Witty Elizabeth Bennet and proud Mr Darcy misjudge each other in a comedy of manners about marriage and money.",
+   "img": "nb14",
+   "ids": {},
+   "s": {
+    "gr": [4.3, 5022157, "2026-10-03"],
+    "amz": [4.6, 39274, "2026-10-03"],
+    "aud": [4.8, 43955, "2026-10-03"]
+   }
+  },
+  "jane-eyre-1847": {
+   "t": "Jane Eyre",
+   "y": 1847,
+   "by": "Charlotte Brontë",
+   "g": "Classic Fiction",
+   "sum": "An orphaned governess falls for her brooding employer, Mr Rochester, whose house hides a terrible secret.",
+   "img": "nb15",
+   "ids": {},
+   "s": {
+    "gr": [4.16, 2420451, "2026-10-03"],
+    "amz": [4.6, 30325, "2026-10-03"],
+    "aud": [4.8, 22103, "2026-10-03"]
+   }
+  },
+  "wuthering-heights-1847": {
+   "t": "Wuthering Heights",
+   "y": 1847,
+   "by": "Emily Brontë",
+   "g": "Classic Fiction",
+   "sum": "The destructive passion between Catherine and the foundling Heathcliff consumes two families on the Yorkshire moors.",
+   "img": "nb16",
+   "ids": {},
+   "s": {
+    "gr": [3.89, 2300809, "2026-10-03"],
+    "amz": [4.1, 37153, "2026-10-03"],
+    "aud": [4.4, 8650, "2026-10-03"]
+   }
+  },
+  "frankenstein-1818": {
+   "t": "Frankenstein",
+   "y": 1818,
+   "by": "Mary Shelley",
+   "g": "Classic Horror",
+   "sum": "A young scientist brings a creature to life, then abandons it, with devastating consequences for them both.",
+   "img": "nb17",
+   "ids": {},
+   "s": {
+    "gr": [3.92, 2010469, "2026-10-03"],
+    "amz": [4.4, 30947, "2026-10-03"],
+    "aud": [4.5, 23254, "2026-10-03"]
+   }
+  },
+  "moby-dick-1851": {
+   "t": "Moby-Dick",
+   "y": 1851,
+   "by": "Herman Melville",
+   "g": "Classic Fiction",
+   "sum": "Ishmael signs on to a whaling ship whose captain is obsessed with hunting the white whale that took his leg.",
+   "img": "nb18",
+   "ids": {},
+   "s": {
+    "gr": [3.57, 636598, "2026-10-03"],
+    "amz": [4.3, 16795, "2026-10-03"],
+    "aud": [4.2, 6572, "2026-10-03"]
+   }
+  },
+  "great-expectations-1861": {
+   "t": "Great Expectations",
+   "y": 1861,
+   "by": "Charles Dickens",
+   "g": "Classic Fiction",
+   "sum": "Orphan Pip receives a fortune from a mysterious benefactor and sets out to become a gentleman.",
+   "img": "nb19",
+   "ids": {},
+   "s": {
+    "gr": [3.8, 896696, "2026-10-03"],
+    "amz": [4.4, 13016, "2026-10-03"],
+    "aud": [4.6, 5984, "2026-10-03"]
+   }
+  },
+  "les-miserables-1862": {
+   "t": "Les Misérables",
+   "y": 1862,
+   "by": "Victor Hugo",
+   "g": "Classic Fiction",
+   "sum": "An ex-convict seeking redemption is hunted by a relentless police inspector through decades of French history.",
+   "img": "nb20",
+   "ids": {},
+   "s": {
+    "gr": [4.22, 866901, "2026-10-03"],
+    "amz": [4.6, 3683, "2026-10-03"],
+    "aud": [4.6, 3677, "2026-10-03"]
+   }
+  },
+  "the-count-of-monte-cristo-1844": {
+   "t": "The Count of Monte Cristo",
+   "y": 1844,
+   "by": "Alexandre Dumas",
+   "g": "Classic Adventure",
+   "sum": "A sailor wrongly imprisoned for fourteen years escapes, finds a hidden fortune and plots his revenge.",
+   "img": "nb21",
+   "ids": {},
+   "s": {
+    "gr": [4.34, 1087647, "2026-10-03"],
+    "amz": [4.6, 12507, "2026-10-03"],
+    "aud": [4.8, 21378, "2026-10-03"]
+   }
+  },
+  "little-women-1868": {
+   "t": "Little Women",
+   "y": 1868,
+   "by": "Louisa May Alcott",
+   "g": "Classic Fiction",
+   "sum": "Four sisters grow up in Civil War-era Massachusetts, each pursuing her own idea of a good life.",
+   "img": "nb22",
+   "ids": {},
+   "s": {
+    "gr": [4.18, 2547569, "2026-10-03"],
+    "amz": [4.5, 21964, "2026-10-03"],
+    "aud": [4.7, 5624, "2026-10-03"]
+   }
+  },
+  "crime-and-punishment-1866": {
+   "t": "Crime and Punishment",
+   "y": 1866,
+   "by": "Fyodor Dostoevsky",
+   "g": "Classic Fiction",
+   "sum": "A poor ex-student in St Petersburg commits a murder and is tormented by guilt and a shrewd investigator.",
+   "img": "nb23",
+   "ids": {},
+   "s": {
+    "gr": [4.29, 1163549, "2026-10-03"],
+    "amz": [4.4, 16192, "2026-10-03"],
+    "aud": [4.6, 2092, "2026-10-03"]
+   }
+  },
+  "anna-karenina-1877": {
+   "t": "Anna Karenina",
+   "y": 1877,
+   "by": "Leo Tolstoy",
+   "g": "Classic Fiction",
+   "sum": "A married aristocrat's affair with a cavalry officer scandalises Russian high society.",
+   "img": "nb24",
+   "ids": {},
+   "s": {
+    "gr": [4.11, 970593, "2026-10-03"],
+    "amz": [4.2, 13336, "2026-10-03"],
+    "aud": [4.5, 14607, "2026-10-03"]
+   }
+  },
+  "the-picture-of-dorian-gray-1890": {
+   "t": "The Picture of Dorian Gray",
+   "y": 1890,
+   "by": "Oscar Wilde",
+   "g": "Classic Fiction",
+   "sum": "A beautiful young man stays forever young while his portrait ages and shows his corruption.",
+   "img": "nb25",
+   "ids": {},
+   "s": {
+    "gr": [4.13, 2012040, "2026-10-03"],
+    "amz": [4.3, 27567, "2026-10-03"],
+    "aud": [4.5, 9385, "2026-10-03"]
+   }
+  },
+  "the-great-gatsby-1925": {
+   "t": "The Great Gatsby",
+   "y": 1925,
+   "by": "F. Scott Fitzgerald",
+   "g": "Classic Fiction",
+   "sum": "A mysterious millionaire throws lavish parties in 1920s Long Island to win back the woman he loves.",
+   "img": "nb26",
+   "ids": {},
+   "s": {
+    "gr": [3.93, 6155473, "2026-10-03"],
+    "amz": [4.4, 16360, "2026-10-03"],
+    "aud": [4.5, 23912, "2026-10-03"]
+   }
+  },
+  "to-kill-a-mockingbird-1960": {
+   "t": "To Kill a Mockingbird",
+   "y": 1960,
+   "by": "Harper Lee",
+   "g": "Classic Fiction",
+   "sum": "In a Depression-era Alabama town, a girl watches her father defend a Black man falsely accused of rape.",
+   "img": "nb27",
+   "aw": ["Pulitzer Prize for Fiction 1961"],
+   "ids": {},
+   "s": {
+    "gr": [4.26, 7136698, "2026-10-03"],
+    "amz": [4.7, 149313, "2026-10-03"],
+    "aud": [4.8, 49551, "2026-10-03"]
+   }
+  },
+  "1984-1949": {
+   "t": "1984",
+   "y": 1949,
+   "by": "George Orwell",
+   "g": "Classic Dystopian",
+   "sum": "In a totalitarian state where Big Brother watches everyone, a minor party official dares to rebel.",
+   "img": "nb28",
+   "ids": {},
+   "s": {
+    "gr": [4.21, 5783067, "2026-10-03"],
+    "amz": [4.6, 126242, "2026-10-03"],
+    "aud": [4.6, 1309, "2026-10-03"]
+   }
+  },
+  "animal-farm-1945": {
+   "t": "Animal Farm",
+   "y": 1945,
+   "by": "George Orwell",
+   "g": "Classic Fiction",
+   "sum": "Farm animals overthrow their human owner, only for the pigs in charge to become the new tyrants.",
+   "img": "nb29",
+   "ids": {},
+   "s": {
+    "gr": [4.03, 4825191, "2026-10-03"],
+    "amz": [4.6, 94900, "2026-10-03"],
+    "aud": [4.7, 44140, "2026-10-03"]
+   }
+  },
+  "brave-new-world-1932": {
+   "t": "Brave New World",
+   "y": 1932,
+   "by": "Aldous Huxley",
+   "g": "Classic Dystopian",
+   "sum": "In a future World State where people are engineered and kept happy with drugs, one outsider questions everything.",
+   "img": "nb30",
+   "ids": {},
+   "s": {
+    "gr": [3.98, 2159096, "2026-10-03"],
+    "amz": [4.4, 48145, "2026-10-03"],
+    "aud": [4.1, 31212, "2026-10-03"]
+   }
+  },
+  "of-mice-and-men-1937": {
+   "t": "Of Mice and Men",
+   "y": 1937,
+   "by": "John Steinbeck",
+   "g": "Classic Fiction",
+   "sum": "Two migrant workers in Depression-era California share a dream of owning their own farm.",
+   "img": "nb31",
+   "ids": {},
+   "s": {
+    "gr": [3.9, 2959419, "2026-10-03"],
+    "amz": [4.6, 45263, "2026-10-03"],
+    "aud": [4.7, 12306, "2026-10-03"]
+   }
+  },
+  "east-of-eden-1952": {
+   "t": "East of Eden",
+   "y": 1952,
+   "by": "John Steinbeck",
+   "g": "Classic Fiction",
+   "sum": "Two families in California's Salinas Valley echo the story of Cain and Abel across generations.",
+   "img": "nb32",
+   "ids": {},
+   "s": {
+    "gr": [4.46, 736924, "2026-10-03"],
+    "amz": [4.7, 16618, "2026-10-03"],
+    "aud": [4.8, 21336, "2026-10-03"]
+   }
+  },
+  "fahrenheit-451-1953": {
+   "t": "Fahrenheit 451",
+   "y": 1953,
+   "by": "Ray Bradbury",
+   "g": "Classic Dystopian",
+   "sum": "In a future where books are banned, a fireman whose job is to burn them begins to read.",
+   "img": "nb33",
+   "ids": {},
+   "s": {
+    "gr": [3.97, 3000687, "2026-10-03"],
+    "amz": [4.6, 61339, "2026-10-03"],
+    "aud": [4.6, 716, "2026-10-03"]
+   }
+  },
+  "the-catcher-in-the-rye-1951": {
+   "t": "The Catcher in the Rye",
+   "y": 1951,
+   "by": "J.D. Salinger",
+   "g": "Classic Fiction",
+   "sum": "Expelled from prep school, teenage Holden Caulfield wanders New York City for a few days.",
+   "img": "nb34",
+   "ids": {},
+   "s": {
+    "gr": [3.8, 4020026, "2026-10-03"],
+    "amz": [4.4, 48116, "2026-10-03"]
+   }
+  },
+  "lord-of-the-flies-1954": {
+   "t": "Lord of the Flies",
+   "y": 1954,
+   "by": "William Golding",
+   "g": "Classic Fiction",
+   "sum": "Schoolboys stranded on a desert island try to govern themselves, and descend into savagery.",
+   "img": "nb35",
+   "ids": {},
+   "s": {
+    "gr": [3.71, 3322942, "2026-10-03"],
+    "amz": [4.5, 55747, "2026-10-03"],
+    "aud": [4.3, 11241, "2026-10-03"]
+   }
+  },
+  "catch-22-1961": {
+   "t": "Catch-22",
+   "y": 1961,
+   "by": "Joseph Heller",
+   "g": "Classic Fiction",
+   "sum": "A WWII bomber pilot tries everything to escape his missions, trapped by absurd military logic.",
+   "img": "nb36",
+   "ids": {},
+   "s": {
+    "gr": [3.99, 905986, "2026-10-03"],
+    "amz": [4.4, 14664, "2026-10-03"],
+    "aud": [4.3, 4552, "2026-10-03"]
+   }
+  },
+  "slaughterhouse-five-1969": {
+   "t": "Slaughterhouse-Five",
+   "y": 1969,
+   "by": "Kurt Vonnegut",
+   "g": "Classic Fiction",
+   "sum": "Billy Pilgrim, a prisoner of war who survives the firebombing of Dresden, becomes unstuck in time.",
+   "img": "nb37",
+   "ids": {},
+   "s": {
+    "gr": [4.1, 1530862, "2026-10-03"],
+    "amz": [4.4, 40712, "2026-10-03"],
+    "aud": [4.3, 20137, "2026-10-03"]
+   }
+  },
+  "one-hundred-years-of-solitude-1967": {
+   "t": "One Hundred Years of Solitude",
+   "y": 1967,
+   "by": "Gabriel García Márquez",
+   "g": "Classic Fiction",
+   "sum": "Seven generations of the Buendía family in the magical, isolated town of Macondo.",
+   "img": "nb38",
+   "ids": {},
+   "s": {
+    "gr": [4.13, 1154996, "2026-10-03"],
+    "amz": [4.3, 9699, "2026-10-03"],
+    "aud": [4.1, 6751, "2026-10-03"]
+   }
+  },
+  "rebecca-1938": {
+   "t": "Rebecca",
+   "y": 1938,
+   "by": "Daphne du Maurier",
+   "g": "Classic Mystery",
+   "sum": "A young bride arrives at her husband's grand estate, haunted by the memory of his glamorous first wife.",
+   "img": "nb39",
+   "ids": {},
+   "s": {
+    "gr": [4.25, 769598, "2026-10-03"],
+    "amz": [4.4, 34661, "2026-10-03"],
+    "aud": [4.6, 11145, "2026-10-03"]
+   }
+  },
+  "the-diary-of-a-young-girl-1947": {
+   "t": "The Diary of a Young Girl",
+   "y": 1947,
+   "by": "Anne Frank",
+   "g": "Memoir",
+   "sum": "The diary of a Jewish teenager hiding from the Nazis with her family in an Amsterdam attic.",
+   "img": "nb40",
+   "ids": {},
+   "s": {
+    "gr": [4.2, 4339576, "2026-10-03"],
+    "amz": [4.8, 10880, "2026-10-03"],
+    "aud": [4.8, 7691, "2026-10-03"]
+   }
+  },
+  "meditations-180": {
+   "t": "Meditations",
+   "y": 180,
+   "by": "Marcus Aurelius",
+   "g": "Philosophy",
+   "sum": "The private notes of Roman emperor Marcus Aurelius on Stoic philosophy and how to live.",
+   "img": "nb41",
+   "ids": {},
+   "s": {
+    "gr": [4.27, 383800, "2026-10-03"],
+    "amz": [4.8, 19218, "2026-10-03"],
+    "aud": [4.6, 13070, "2026-10-03"]
+   }
+  },
+  "in-cold-blood-1966": {
+   "t": "In Cold Blood",
+   "y": 1966,
+   "by": "Truman Capote",
+   "g": "True Crime",
+   "sum": "Truman Capote's account of the 1959 murder of a Kansas farm family and the two killers.",
+   "img": "nb42",
+   "ids": {},
+   "s": {
+    "gr": [4.09, 757840, "2026-10-03"],
+    "amz": [4.5, 26693, "2026-10-03"],
+    "aud": [4.4, 15772, "2026-10-03"]
+   }
+  },
+  "silent-spring-1962": {
+   "t": "Silent Spring",
+   "y": 1962,
+   "by": "Rachel Carson",
+   "g": "Science",
+   "sum": "Rachel Carson's exposé of the damage pesticides do to the natural world, which helped launch the environmental movement.",
+   "img": "nb43",
+   "ids": {},
+   "s": {
+    "gr": [4.06, 57397, "2026-10-03"],
+    "amz": [4.6, 4017, "2026-10-03"],
+    "aud": [4.5, 1383, "2026-10-03"]
+   }
+  },
+  "the-poison-daughter-2026": {
+   "t": "The Poison Daughter",
+   "y": 2026,
+   "by": "Sheila Masterson",
+   "g": "Fantasy Romance",
+   "sum": "Everyone Harlow Carrenwell kisses dies instantly, and that is exactly how she likes it, until a target she can’t kill.",
+   "img": "cb2",
+   "ids": {},
+   "s": {
+    "gr": [4.38, 141147, "2026-10-03"],
+    "amz": [4.6, 71650, "2026-10-03"],
+    "aud": [4.8, 2485, "2026-10-03"]
+   }
+  },
+  "the-lion-and-the-deathless-dark-2026": {
+   "t": "The Lion & the Deathless Dark",
+   "y": 2026,
+   "by": "Carissa Broadbent",
+   "g": "Fantasy Romance",
+   "sum": "A new standalone story in the vampire world of the Crowns of Nyaxia.",
+   "img": "cb3",
+   "ids": {},
+   "s": {
+    "gr": [4.48, 14495, "2026-10-03"]
+   }
+  },
+  "whistler-2026": {
+   "t": "Whistler",
+   "y": 2026,
+   "by": "Ann Patchett",
+   "g": "Fiction",
+   "sum": "A moving, luminous novel about family and the sweetness that can be found late in life.",
+   "img": "cb4",
+   "ids": {},
+   "s": {
+    "gr": [4.32, 217143, "2026-10-03"],
+    "amz": [4.5, 44338, "2026-10-03"],
+    "aud": [4.6, 9708, "2026-10-03"]
+   }
+  },
+  "dolly-all-the-time-2026": {
+   "t": "Dolly All the Time",
+   "y": 2026,
+   "by": "Annabel Monaghan",
+   "g": "Romance",
+   "sum": "A woman who can solve any problem agrees to a fake relationship, and starts to wonder if it could become real.",
+   "img": "cb5",
+   "ids": {},
+   "s": {
+    "gr": [4.29, 169493, "2026-10-03"],
+    "amz": [4.5, 12822, "2026-10-03"],
+    "aud": [4.7, 5143, "2026-10-03"]
+   }
+  },
+  "a-trade-of-blood-2026": {
+   "t": "A Trade of Blood",
+   "y": 2026,
+   "by": "Robert Jackson Bennett",
+   "g": "Fantasy / Mystery",
+   "sum": "Eccentric detective Ana Dolabra must prove a man’s innocence to stop a civil war, in the third Ana and Din mystery.",
+   "img": "cb6",
+   "ids": {},
+   "s": {
+    "gr": [4.56, 19618, "2026-10-03"],
+    "amz": [4.7, 4079, "2026-10-03"],
+    "aud": [4.8, 892, "2026-10-03"]
+   }
+  },
+  "tempting-venom-2026": {
+   "t": "Tempting Venom",
+   "y": 2026,
+   "by": "Rina Kent",
+   "g": "Romance",
+   "sum": "Two ruthless hockey rivals find their enmity turning into something else.",
+   "img": "cb7",
+   "ids": {},
+   "s": {
+    "gr": [4.32, 29759, "2026-10-03"],
+    "amz": [4.6, 11091, "2026-10-03"],
+    "aud": [4.9, 2055, "2026-10-03"]
+   }
+  },
+  "john-of-john-2026": {
+   "t": "John of John",
+   "y": 2026,
+   "by": "Douglas Stuart",
+   "g": "Fiction",
+   "sum": "Broke after art school, a young man takes the ferry home to the Isle of Harris and his stern, religious father.",
+   "img": "cb8",
+   "ids": {},
+   "s": {
+    "gr": [4.26, 44090, "2026-10-03"],
+    "amz": [4.4, 5295, "2026-10-03"],
+    "aud": [4.6, 973, "2026-10-03"]
+   }
+  },
+  "land-2026": {
+   "t": "Land",
+   "y": 2026,
+   "by": "Maggie O'Farrell",
+   "g": "Historical Fiction",
+   "sum": "The author of Hamnet returns with a sweeping historical novel about the land and the people bound to it.",
+   "img": "cb9",
+   "ids": {},
+   "s": {
+    "gr": [4.21, 52798, "2026-10-03"],
+    "amz": [4.5, 12952, "2026-10-03"],
+    "aud": [4.6, 1525, "2026-10-03"]
+   }
+  },
+  "grim-tidings-2026": {
+   "t": "Grim Tidings",
+   "y": 2026,
+   "by": "B.K. Borison",
+   "g": "Fantasy Romance",
+   "sum": "A runaway grim reaper tries to save one soul too many in a whimsical, haunting romance.",
+   "img": "cb10",
+   "ids": {},
+   "s": {
+    "gr": [4.32, 12812, "2026-10-03"],
+    "amz": [4.4, 1379, "2026-10-03"],
+    "aud": [4.7, 186, "2026-10-03"]
+   }
+  },
+  "we-burned-so-bright-2026": {
+   "t": "We Burned So Bright",
+   "y": 2026,
+   "by": "T.J. Klune",
+   "g": "Fiction",
+   "sum": "An older couple sets out on one last road trip as the world approaches its end.",
+   "img": "cb11",
+   "ids": {},
+   "s": {
+    "gr": [4.17, 52054, "2026-10-03"],
+    "amz": [4.4, 3171, "2026-10-03"],
+    "aud": [4.7, 604, "2026-10-03"]
+   }
+  },
+  "daughters-of-the-sun-and-moon-2026": {
+   "t": "Daughters of the Sun and Moon",
+   "y": 2026,
+   "by": "Lisa See",
+   "g": "Historical Fiction",
+   "sum": "Two women’s lives intertwine amid the turmoil of post-Civil War Los Angeles.",
+   "img": "cb12",
+   "ids": {},
+   "s": {
+    "gr": [4.19, 19014, "2026-10-03"],
+    "amz": [4.5, 2573, "2026-10-03"],
+    "aud": [4.6, 294, "2026-10-03"]
+   }
+  },
+  "fruit-fly-2026": {
+   "t": "Fruit Fly",
+   "y": 2026,
+   "by": "Josh Silver",
+   "g": "Thriller / Fiction",
+   "sum": "A washed-up author will do anything to be relevant again, even steal someone else’s story.",
+   "img": "cb13",
+   "ids": {},
+   "s": {
+    "gr": [4.17, 43848, "2026-10-03"],
+    "amz": [4.4, 4972, "2026-10-03"],
+    "aud": [4.5, 439, "2026-10-03"]
+   }
+  },
+  "the-burning-side-2026": {
+   "t": "The Burning Side",
+   "y": 2026,
+   "by": "Sarah Damoff",
+   "g": "Fiction",
+   "sum": "When their house goes up in flames, a couple on the brink of collapse has to decide what is worth saving.",
+   "img": "cb14",
+   "ids": {},
+   "s": {
+    "gr": [4.17, 78670, "2026-10-03"],
+    "amz": [4.4, 7983, "2026-10-03"],
+    "aud": [4.1, 273, "2026-10-03"]
+   }
+  },
+  "harvest-season-2026": {
+   "t": "Harvest Season",
+   "y": 2026,
+   "by": "Brynne Weaver",
+   "g": "Romance / Thriller",
+   "sum": "The second book in the darkly funny, steamy Seasons of Carnage trilogy.",
+   "img": "cb15",
+   "ids": {},
+   "s": {
+    "gr": [4.09, 45015, "2026-10-03"],
+    "amz": [4.3, 3578, "2026-10-03"],
+    "aud": [4.7, 1839, "2026-10-03"]
+   }
+  },
+  "every-version-of-you-2026": {
+   "t": "Every Version of You",
+   "y": 2026,
+   "by": "Natalie Messier",
+   "g": "Romance",
+   "sum": "A love story told across the many versions of two people over the years.",
+   "img": "cb16",
+   "ids": {},
+   "s": {
+    "gr": [4.01, 14088, "2026-10-03"],
+    "amz": [4.3, 1460, "2026-10-03"],
+    "aud": [4.5, 124, "2026-10-03"]
+   }
+  },
+  "the-secrets-we-hide-2026": {
+   "t": "The Secrets We Hide",
+   "y": 2026,
+   "by": "Karin Slaughter",
+   "g": "Thriller / Mystery",
+   "sum": "The next mystery in the North Falls series, where a small town’s secrets turn deadly.",
+   "img": "cb17",
+   "ids": {},
+   "s": {
+    "gr": [4.21, 32867, "2026-10-03"],
+    "amz": [4.5, 7386, "2026-10-03"],
+    "aud": [4.7, 3453, "2026-10-03"]
+   }
+  },
+  "london-falling-2026": {
+   "t": "London Falling",
+   "y": 2026,
+   "by": "Patrick Radden Keefe",
+   "g": "True Crime / History",
+   "sum": "A mysterious death in a gilded city and one family’s search for the truth, from the author of Say Nothing.",
+   "img": "cb18",
+   "ids": {},
+   "s": {
+    "gr": [4.28, 89735, "2026-10-03"],
+    "amz": [4.4, 14370, "2026-10-03"],
+    "aud": [4.6, 2073, "2026-10-03"]
+   }
+  },
+  "shield-of-sparrows-2025": {
+   "t": "Shield of Sparrows",
+   "y": 2025,
+   "ids": {},
+   "s": {
+    "gr": [4.36, 431709, "2026-10-03"],
+    "amz": [4.6, 108702, "2026-10-03"],
+    "aud": [4.7, 10353, "2026-10-03"]
+   }
+  },
+  "rites-of-the-starling-2026": {
+   "t": "Rites of the Starling",
+   "y": 2026,
+   "ids": {},
+   "s": {
+    "gr": [4.43, 217119, "2026-10-03"],
+    "amz": [4.6, 63584, "2026-10-03"],
+    "aud": [4.8, 7413, "2026-10-03"]
+   }
+  },
+  "when-the-moon-hatched-2024": {
+   "t": "When the Moon Hatched",
+   "y": 2024,
+   "ids": {},
+   "s": {
+    "gr": [4.01, 374137, "2026-10-03"],
+    "amz": [4.4, 69165, "2026-10-03"],
+    "aud": [4.3, 6547, "2026-10-03"]
+   }
+  },
+  "the-ballad-of-falling-dragons-2026": {
+   "t": "The Ballad of Falling Dragons",
+   "y": 2026,
+   "ids": {},
+   "s": {
+    "gr": [4.36, 75901, "2026-10-03"],
+    "amz": [4.6, 14762, "2026-10-03"]
+   }
+  },
+  "the-knight-and-the-moth-2025": {
+   "t": "The Knight and the Moth",
+   "y": 2025,
+   "ids": {},
+   "s": {
+    "gr": [4.22, 301414, "2026-10-03"],
+    "amz": [4.5, 37213, "2026-10-03"],
+    "aud": [4.6, 4224, "2026-10-03"]
+   }
+  },
+  "the-knave-and-the-moon-2026": {
+   "t": "The Knave and the Moon",
+   "y": 2026,
+   "ids": {},
+   "s": {
+    "gr": [4.26, 49313, "2026-10-03"],
+    "amz": [4.5, 7830, "2026-10-03"],
+    "aud": [4.7, 875, "2026-10-03"]
+   }
+  },
+  "the-irresistible-urge-to-fall-for-your-enemy-2025": {
+   "t": "The Irresistible Urge to Fall for Your Enemy",
+   "y": 2025,
+   "ids": {},
+   "s": {
+    "gr": [3.8, 78800, "2026-10-03"],
+    "amz": [4.2, 5705, "2026-10-03"],
+    "aud": [4.5, 895, "2026-10-03"]
+   }
+  },
+  "the-exquisite-torment-of-loving-your-enemy-2026": {
+   "t": "The Exquisite Torment of Loving Your Enemy",
+   "y": 2026,
+   "ids": {},
+   "s": {
+    "gr": [4.46, 24434, "2026-10-03"],
+    "amz": [4.6, 2639, "2026-10-03"],
+    "aud": [4.9, 618, "2026-10-03"]
+   }
+  },
+  "big-little-truths-2026": {
+   "t": "Big Little Truths",
+   "y": 2026,
+   "ids": {},
+   "s": {
+    "gr": [4.18, 34687, "2026-10-03"],
+    "amz": [4.4, 10271, "2026-10-03"],
+    "aud": [4.5, 1490, "2026-10-03"]
+   }
+  },
+  "nightshade-2025": {
+   "t": "Nightshade",
+   "y": 2025,
+   "ids": {},
+   "s": {
+    "gr": [4.08, 90166, "2026-10-03"],
+    "amz": [4.4, 16741, "2026-10-03"]
+   }
+  },
+  "daybreak-2026": {
+   "t": "Daybreak",
+   "y": 2026,
+   "ids": {},
+   "s": {
+    "gr": [4.05, 30211, "2026-10-03"],
+    "amz": [4.3, 6368, "2026-10-03"],
+    "aud": [4.6, 383, "2026-10-03"]
+   }
+  }
+ },
+ "series": {
+  "dungeon-crawler-carl": {
+   "t": "Dungeon Crawler Carl",
+   "by": "Matt Dinniman",
+   "g": "LitRPG / Fantasy",
+   "sum": "After an alien game show demolishes Earth, a man and his ex-girlfriend's prize-winning cat fight floor by floor through a deadly, absurdly funny dungeon broadcast to the galaxy.",
+   "members": [
+    {
+     "w": "dungeon-crawler-carl-2021",
+     "no": "#1"
+    },
+    {
+     "w": "carl-s-doomsday-scenario-2021",
+     "no": "#2"
+    },
+    {
+     "w": "the-dungeon-anarchist-s-cookbook-2021",
+     "no": "#3"
+    },
+    {
+     "w": "the-gate-of-the-feral-gods-2021",
+     "no": "#4"
+    },
+    {
+     "w": "the-butcher-s-masquerade-2022",
+     "no": "#5"
+    },
+    {
+     "w": "the-eye-of-the-bedlam-bride-2023",
+     "no": "#6"
+    },
+    {
+     "w": "this-inevitable-ruin-2025",
+     "no": "#7"
+    },
+    {
+     "w": "a-parade-of-horribles-2026",
+     "no": "#8"
+    }
+   ]
+  },
+  "harry-potter": {
+   "t": "Harry Potter",
+   "by": "J.K. Rowling",
+   "g": "Fantasy",
+   "sum": "An orphan learns on his eleventh birthday that he's a wizard, and over seven years at Hogwarts faces the dark lord who killed his parents.",
+   "note": "Audible ratings are for the Jim Dale recordings.",
+   "members": [
+    {
+     "w": "harry-potter-and-the-sorcerer-s-stone-1997",
+     "no": "#1"
+    },
+    {
+     "w": "harry-potter-and-the-chamber-of-secrets-1998",
+     "no": "#2"
+    },
+    {
+     "w": "harry-potter-and-the-prisoner-of-azkaban-1999",
+     "no": "#3"
+    },
+    {
+     "w": "harry-potter-and-the-goblet-of-fire-2000",
+     "no": "#4"
+    },
+    {
+     "w": "harry-potter-and-the-order-of-the-phoenix-2003",
+     "no": "#5"
+    },
+    {
+     "w": "harry-potter-and-the-half-blood-prince-2005",
+     "no": "#6"
+    },
+    {
+     "w": "harry-potter-and-the-deathly-hallows-2007",
+     "no": "#7"
+    }
+   ]
+  },
+  "throne-of-glass": {
+   "t": "Throne of Glass",
+   "by": "Sarah J. Maas",
+   "g": "Fantasy",
+   "sum": "A young assassin wins her freedom by fighting to become the king's champion, then gets drawn into a continent-wide war of kingdoms, fae and dark gods.",
+   "members": [
+    {
+     "w": "the-assassin-s-blade-2014",
+     "no": "Prequel"
+    },
+    {
+     "w": "throne-of-glass-2012",
+     "no": "#1"
+    },
+    {
+     "w": "crown-of-midnight-2013",
+     "no": "#2"
+    },
+    {
+     "w": "heir-of-fire-2014",
+     "no": "#3"
+    },
+    {
+     "w": "queen-of-shadows-2015",
+     "no": "#4"
+    },
+    {
+     "w": "empire-of-storms-2016",
+     "no": "#5"
+    },
+    {
+     "w": "tower-of-dawn-2017",
+     "no": "#6"
+    },
+    {
+     "w": "kingdom-of-ash-2018",
+     "no": "#7"
+    }
+   ]
+  },
+  "the-empyrean": {
+   "t": "The Empyrean",
+   "by": "Rebecca Yarros",
+   "g": "Fantasy Romance",
+   "sum": "A frail scholar is forced into a brutal war college that trains dragon riders, where bonding a dragon is the only way to survive.",
+   "members": [
+    {
+     "w": "fourth-wing-2023",
+     "no": "#1"
+    },
+    {
+     "w": "iron-flame-2023",
+     "no": "#2"
+    },
+    {
+     "w": "onyx-storm-2025",
+     "no": "#3"
+    }
+   ]
+  },
+  "the-hunger-games": {
+   "t": "The Hunger Games",
+   "by": "Suzanne Collins",
+   "g": "Young Adult / Dystopian",
+   "sum": "In a nation that forces teenagers to fight to the death on live TV, Katniss Everdeen volunteers to save her sister and becomes the face of a rebellion.",
+   "members": [
+    {
+     "w": "the-hunger-games-2008",
+     "no": "#1"
+    },
+    {
+     "w": "catching-fire-2009",
+     "no": "#2"
+    },
+    {
+     "w": "mockingjay-2010",
+     "no": "#3"
+    }
+   ]
+  },
+  "the-lord-of-the-rings": {
+   "t": "The Lord of the Rings",
+   "by": "J.R.R. Tolkien",
+   "g": "Fantasy",
+   "sum": "A hobbit inherits a ring of terrible power and sets out with a small fellowship to destroy it before its maker can reclaim it.",
+   "members": [
+    {
+     "w": "the-fellowship-of-the-ring-1954",
+     "no": "#1"
+    },
+    {
+     "w": "the-two-towers-1954",
+     "no": "#2"
+    },
+    {
+     "w": "the-return-of-the-king-1955",
+     "no": "#3"
+    }
+   ]
+  },
+  "shield-of-sparrows": {
+   "t": "Shield of Sparrows",
+   "by": "Devney Perry",
+   "g": "Fantasy Romance",
+   "sum": "A princess sent to marry a stranger in a far kingdom finds herself at the centre of a war for survival against deadly beasts.",
+   "img": "cb20",
+   "members": [
+    {
+     "w": "shield-of-sparrows-2025",
+     "no": "#1"
+    },
+    {
+     "w": "rites-of-the-starling-2026",
+     "no": "#2 · New"
+    }
+   ]
+  },
+  "moonfall": {
+   "t": "Moonfall",
+   "by": "Sarah A. Parker",
+   "g": "Fantasy Romance",
+   "sum": "A woman with a dark past and a dragon-bonded warrior are bound together by fate and a war between kingdoms.",
+   "img": "cb21",
+   "members": [
+    {
+     "w": "when-the-moon-hatched-2024",
+     "no": "#1"
+    },
+    {
+     "w": "the-ballad-of-falling-dragons-2026",
+     "no": "#2 · New"
+    }
+   ]
+  },
+  "the-stonewater-kingdom": {
+   "t": "The Stonewater Kingdom",
+   "by": "Rachel Gillig",
+   "g": "Fantasy Romance",
+   "sum": "A gothic romantasy of cursed seers, knights and a kingdom built on dark bargains.",
+   "img": "cb22",
+   "members": [
+    {
+     "w": "the-knight-and-the-moth-2025",
+     "no": "#1"
+    },
+    {
+     "w": "the-knave-and-the-moon-2026",
+     "no": "#2 · New"
+    }
+   ]
+  },
+  "dearly-beloathed": {
+   "t": "Dearly Beloathed",
+   "by": "Brigitte Knightley",
+   "g": "Fantasy Romance",
+   "sum": "Two rivals who can’t stand each other keep being thrown together, in a witty, swoony enemies-to-lovers romance.",
+   "img": "cb19",
+   "members": [
+    {
+     "w": "the-irresistible-urge-to-fall-for-your-enemy-2025",
+     "no": "#1"
+    },
+    {
+     "w": "the-exquisite-torment-of-loving-your-enemy-2026",
+     "no": "#2 · New"
+    }
+   ]
+  },
+  "big-little-lies": {
+   "t": "Big Little Lies",
+   "by": "Liane Moriarty",
+   "g": "Fiction / Mystery",
+   "sum": "Three mothers in a wealthy seaside town are drawn into a school-gate feud that ends in a death, and years later the secrets resurface.",
+   "img": "cb23",
+   "members": [
+    {
+     "w": "big-little-lies-2014",
+     "no": "#1"
+    },
+    {
+     "w": "big-little-truths-2026",
+     "no": "#2 · New"
+    }
+   ]
+  },
+  "sorrowsong-university": {
+   "t": "Sorrowsong University",
+   "by": "Autumn Woods",
+   "g": "Romance",
+   "sum": "A dark-academia romance of snarky banter and secrets at an elite university.",
+   "img": "cb24",
+   "members": [
+    {
+     "w": "nightshade-2025",
+     "no": "#1"
+    },
+    {
+     "w": "daybreak-2026",
+     "no": "#2 · New"
+    }
+   ]
+  },
+  "dungeon-crawler-carl-2": {
+   "t": "Dungeon Crawler Carl",
+   "by": "Matt Dinniman",
+   "g": "LitRPG / Fantasy",
+   "sum": "After an alien game show demolishes Earth, a man and his ex-girlfriend's prize-winning cat fight floor by floor through a deadly, absurdly funny dungeon broadcast to the galaxy.",
+   "members": [
+    {
+     "w": "dungeon-crawler-carl-2021",
+     "no": "#1"
+    },
+    {
+     "w": "carl-s-doomsday-scenario-2021",
+     "no": "#2"
+    },
+    {
+     "w": "the-dungeon-anarchist-s-cookbook-2021",
+     "no": "#3"
+    },
+    {
+     "w": "the-gate-of-the-feral-gods-2021",
+     "no": "#4"
+    },
+    {
+     "w": "the-butcher-s-masquerade-2022",
+     "no": "#5"
+    },
+    {
+     "w": "the-eye-of-the-bedlam-bride-2023",
+     "no": "#6"
+    },
+    {
+     "w": "this-inevitable-ruin-2025",
+     "no": "#7"
+    },
+    {
+     "w": "a-parade-of-horribles-2026",
+     "no": "#8 · New"
+    }
+   ]
+  }
+ },
+ "lists": {
+  "M": ["dungeon-crawler-carl", "harry-potter", "throne-of-glass", "the-empyrean", "the-hunger-games", "project-hail-mary-2021", "can-t-hurt-me-2018", "becoming-2018", "atomic-habits-2018", "born-a-crime-2016", "greenlights-2020", "the-martian-2011", "where-the-crawdads-sing-2018", "the-midnight-library-2020", "i-m-glad-my-mom-died-2022", "the-nightingale-2015", "house-of-earth-and-blood-2020", "theo-of-golden-2025", "the-correspondent-2025", "the-seven-husbands-of-evelyn-hugo-2017", "lessons-in-chemistry-2022", "a-court-of-thorns-and-roses-2015", "verity-2019", "the-invisible-life-of-addie-larue-2020", "all-the-light-we-cannot-see-2014", "the-let-them-theory-2024", "the-four-winds-2021", "the-love-hypothesis-2021", "malibu-rising-2021", "the-great-alone-2018", "the-women-2024", "remarkably-bright-creatures-2022", "daisy-jones-and-the-six-2019", "the-7-habits-of-highly-effective-people-1989", "educated-2018", "the-song-of-achilles-2011", "circe-2018", "the-book-thief-2005", "the-help-2009", "the-dutch-house-2019", "cloud-cuckoo-land-2021", "the-vanishing-half-2020", "anxious-people-2020", "the-lincoln-highway-2021", "tomorrow-and-tomorrow-and-tomorrow-2022", "demon-copperhead-2022", "carrie-soto-is-back-2022", "the-rose-code-2021", "the-alice-network-2017", "the-tattooist-of-auschwitz-2018", "a-promised-land-2020", "caste-2020", "sapiens-2011", "the-psychology-of-money-2020", "the-power-of-habit-2012", "shoe-dog-2016", "bad-blood-2018", "empire-of-pain-2021", "the-wager-2023", "killers-of-the-flower-moon-2017", "the-boys-in-the-boat-2013", "unbroken-2010", "the-immortal-life-of-henrietta-lacks-2010", "the-glass-castle-2005", "when-breath-becomes-air-2016", "outlive-2023", "why-we-sleep-2017", "the-subtle-art-of-not-giving-a-f-ck-2016", "gone-girl-2012", "the-girl-on-the-train-2015", "big-little-lies-2014", "the-silent-patient-2019", "the-maid-2022", "the-housemaid-2022", "none-of-this-is-true-2023", "the-guest-list-2020", "the-paris-apartment-2022", "the-thursday-murder-club-2020", "magpie-murders-2016", "the-lincoln-lawyer-2005", "atmosphere-2025", "the-calamity-club-2026", "mad-mabel-2026", "yesteryear-2026", "hollow-bones-2026", "the-french-illusion-2026", "a-man-called-ove-2012", "the-kite-runner-2003", "a-thousand-splendid-suns-2007", "pachinko-2017", "the-covenant-of-water-2023", "lonesome-dove-1985", "hamnet-2020", "the-road-2006", "life-of-pi-2001", "just-mercy-2014", "the-body-keeps-the-score-2014", "thinking-fast-and-slow-2011", "into-thin-air-1997", "the-pillars-of-the-earth-1989", "threshing-day-2026", "the-ballad-of-songbirds-and-snakes-2020", "sunrise-on-the-reaping-2025"],
+  "C": ["the-lord-of-the-rings", "how-to-win-friends-and-influence-people-1936", "man-s-search-for-meaning-1946", "endurance-1959", "night-1956", "think-and-grow-rich-1937", "dune-1965", "the-hobbit-1937", "dracula-2026", "pride-and-prejudice-1813", "jane-eyre-1847", "wuthering-heights-1847", "frankenstein-1818", "moby-dick-1851", "great-expectations-1861", "les-miserables-1862", "the-count-of-monte-cristo-1844", "little-women-1868", "crime-and-punishment-1866", "anna-karenina-1877", "the-picture-of-dorian-gray-1890", "the-great-gatsby-1925", "to-kill-a-mockingbird-1960", "1984-1949", "animal-farm-1945", "brave-new-world-1932", "of-mice-and-men-1937", "east-of-eden-1952", "fahrenheit-451-1953", "the-catcher-in-the-rye-1951", "lord-of-the-flies-1954", "catch-22-1961", "slaughterhouse-five-1969", "one-hundred-years-of-solitude-1967", "rebecca-1938", "the-diary-of-a-young-girl-1947", "meditations-180", "in-cold-blood-1966", "silent-spring-1962"],
+  "N": ["the-calamity-club-2026", "mad-mabel-2026", "the-poison-daughter-2026", "the-lion-and-the-deathless-dark-2026", "whistler-2026", "dolly-all-the-time-2026", "a-trade-of-blood-2026", "tempting-venom-2026", "john-of-john-2026", "land-2026", "grim-tidings-2026", "we-burned-so-bright-2026", "daughters-of-the-sun-and-moon-2026", "fruit-fly-2026", "the-burning-side-2026", "harvest-season-2026", "every-version-of-you-2026", "the-secrets-we-hide-2026", "london-falling-2026", "shield-of-sparrows", "moonfall", "the-stonewater-kingdom", "dearly-beloathed", "big-little-lies", "sorrowsong-university", "dungeon-crawler-carl-2", "threshing-day-2026"]
+ }
+}

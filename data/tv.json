@@ -1,0 +1,2723 @@
+{
+ "current": {
+  "from": "2026-04-03",
+  "to": "2026-10-03",
+  "about": "New episodes aired 3 April – 3 October 2026"
+ },
+ "works": {
+  "breaking-bad-2008": {
+   "t": "Breaking Bad",
+   "y": 2008,
+   "by": "Vince Gilligan",
+   "g": "Crime / Drama",
+   "sum": "A mild-mannered chemistry teacher with terminal cancer starts cooking meth to provide for his family, and becomes a kingpin.",
+   "img": "t0",
+   "aw": ["Won 16 Emmys of 58 nominations"],
+   "ids": {
+    "imdb": "tt0903747"
+   },
+   "s": {
+    "imdb": [9.5, 2685403, "2026-10-03"],
+    "mc": [9.4, 19451, "2026-10-03"],
+    "rt": [97, 25000, "2026-10-03"]
+   }
+  },
+  "the-sopranos-1999": {
+   "t": "The Sopranos",
+   "y": 1999,
+   "by": "David Chase",
+   "g": "Crime / Drama",
+   "sum": "A New Jersey mob boss juggles his crime family, his real family and his sessions with a psychiatrist.",
+   "img": "t1",
+   "aw": ["Won 21 Emmys of 111 nominations"],
+   "ids": {
+    "imdb": "tt0141842"
+   },
+   "s": {
+    "imdb": [9.2, 599612, "2026-10-03"],
+    "mc": [9.3, 2385, "2026-10-03"],
+    "rt": [96, 5000, "2026-10-03"]
+   }
+  },
+  "the-wire-2002": {
+   "t": "The Wire",
+   "y": 2002,
+   "by": "David Simon",
+   "g": "Crime / Drama",
+   "sum": "Baltimore's drug trade seen from every side: cops, dealers, dockworkers, politicians, schools and the press.",
+   "img": "t2",
+   "aw": ["2 Emmy nominations"],
+   "ids": {
+    "imdb": "tt0306414"
+   },
+   "s": {
+    "imdb": [9.3, 440770, "2026-10-03"],
+    "mc": [9.2, 2765, "2026-10-03"],
+    "rt": [96, 5000, "2026-10-03"]
+   }
+  },
+  "game-of-thrones-2011": {
+   "t": "Game of Thrones",
+   "y": 2011,
+   "by": "David Benioff, D.B. Weiss",
+   "g": "Drama / Fantasy",
+   "sum": "Noble families scheme and wage war for the Iron Throne while an ancient threat gathers beyond the Wall.",
+   "img": "t3",
+   "aw": ["Won 59 Emmys of 161 nominations"],
+   "ids": {
+    "imdb": "tt0944947"
+   },
+   "s": {
+    "imdb": [9.2, 2669147, "2026-10-03"],
+    "mc": [8.4, 20213, "2026-10-03"],
+    "rt": [85, 50000, "2026-10-03"]
+   }
+  },
+  "chernobyl-2019": {
+   "t": "Chernobyl",
+   "y": 2019,
+   "by": "Craig Mazin",
+   "g": "Drama / History",
+   "sum": "The 1986 nuclear disaster and the scientists and workers who fought to contain it, and the lies around it.",
+   "img": "t4",
+   "aw": ["Won 10 Emmys of 19 nominations"],
+   "ids": {
+    "imdb": "tt7366338"
+   },
+   "s": {
+    "imdb": [9.3, 1068535, "2026-10-03"],
+    "mc": [9.1, 1488, "2026-10-03"],
+    "rt": [97, 2500, "2026-10-03"]
+   }
+  },
+  "band-of-brothers-2001": {
+   "t": "Band of Brothers",
+   "y": 2001,
+   "by": "Tom Hanks, Steven Spielberg",
+   "g": "Action / Drama",
+   "sum": "Easy Company of the 101st Airborne from D-Day to the end of WWII in Europe, based on the true story.",
+   "img": "t5",
+   "aw": ["Won 6 Emmys of 19 nominations"],
+   "ids": {
+    "imdb": "tt0185906"
+   },
+   "s": {
+    "imdb": [9.4, 607630, "2026-10-03"],
+    "mc": [9.3, 622, "2026-10-03"],
+    "rt": [97, 1000, "2026-10-03"]
+   }
+  },
+  "better-call-saul-2015": {
+   "t": "Better Call Saul",
+   "y": 2015,
+   "by": "Vince Gilligan, Peter Gould",
+   "g": "Crime / Drama",
+   "sum": "The transformation of small-time lawyer Jimmy McGill into Saul Goodman, years before Breaking Bad.",
+   "img": "t6",
+   "aw": ["53 Emmy nominations"],
+   "ids": {
+    "imdb": "tt3032476"
+   },
+   "s": {
+    "imdb": [9, 868232, "2026-10-03"],
+    "mc": [9, 4390, "2026-10-03"],
+    "rt": [96, 10000, "2026-10-03"]
+   }
+  },
+  "succession-2018": {
+   "t": "Succession",
+   "y": 2018,
+   "by": "Jesse Armstrong",
+   "g": "Comedy / Drama",
+   "sum": "The children of an ageing media mogul fight to inherit his empire, and his approval.",
+   "img": "t7",
+   "aw": ["Won 19 Emmys of 75 nominations"],
+   "ids": {
+    "imdb": "tt7660850"
+   },
+   "s": {
+    "imdb": [8.8, 369257, "2026-10-03"],
+    "mc": [8.6, 844, "2026-10-03"],
+    "rt": [88, 5000, "2026-10-03"]
+   }
+  },
+  "true-detective-2014": {
+   "t": "True Detective",
+   "y": 2014,
+   "by": "Nic Pizzolatto, Issa López",
+   "g": "Crime / Drama",
+   "sum": "Each season follows different detectives through a dark, slow-burning murder investigation.",
+   "img": "t8",
+   "aw": ["Won 6 Emmys of 41 nominations"],
+   "ids": {
+    "imdb": "tt2356777"
+   },
+   "s": {
+    "imdb": [8.8, 773502, "2026-10-03"],
+    "mc": [7.7, 4099, "2026-10-03"],
+    "rt": [59, 10000, "2026-10-03"]
+   }
+  },
+  "sherlock-2010": {
+   "t": "Sherlock",
+   "y": 2010,
+   "by": "Mark Gatiss, Steven Moffat",
+   "g": "Crime / Drama",
+   "sum": "Sherlock Holmes and Dr Watson solve cases in modern-day London.",
+   "img": "t9",
+   "aw": ["Won 9 Emmys of 39 nominations"],
+   "ids": {
+    "imdb": "tt1475582"
+   },
+   "s": {
+    "imdb": [9, 1101855, "2026-10-03"],
+    "mc": [8.7, 3757, "2026-10-03"],
+    "rt": [83, 10000, "2026-10-03"]
+   }
+  },
+  "the-office-us-2005": {
+   "t": "The Office (US)",
+   "y": 2005,
+   "by": "Greg Daniels",
+   "g": "Comedy",
+   "sum": "A mockumentary about the everyday absurdities of a Pennsylvania paper company and its cringe-worthy boss.",
+   "img": "t10",
+   "aw": ["Won 5 Emmys of 42 nominations"],
+   "ids": {
+    "imdb": "tt0386676"
+   },
+   "s": {
+    "imdb": [9, 853333, "2026-10-03"],
+    "mc": [8.4, 2376, "2026-10-03"],
+    "rt": [89, 5000, "2026-10-03"]
+   }
+  },
+  "fargo-2014": {
+   "t": "Fargo",
+   "y": 2014,
+   "by": "Noah Hawley",
+   "g": "Crime / Drama",
+   "sum": "Anthology crime stories in the snowy Midwest, where ordinary people get tangled up with killers.",
+   "img": "t11",
+   "aw": ["Won 7 Emmys of 70 nominations"],
+   "ids": {
+    "imdb": "tt2802850"
+   },
+   "s": {
+    "imdb": [8.8, 476292, "2026-10-03"],
+    "mc": [8.6, 3204, "2026-10-03"],
+    "rt": [85, 10000, "2026-10-03"]
+   }
+  },
+  "mad-men-2007": {
+   "t": "Mad Men",
+   "y": 2007,
+   "by": "Matthew Weiner",
+   "g": "Drama",
+   "sum": "A brilliant, secretive ad man and his colleagues navigate 1960s Madison Avenue and a changing America.",
+   "img": "t12",
+   "aw": ["Won 16 Emmys of 116 nominations"],
+   "ids": {
+    "imdb": "tt0804503"
+   },
+   "s": {
+    "imdb": [8.7, 295054, "2026-10-03"],
+    "mc": [8.8, 2608, "2026-10-03"],
+    "rt": [95, 2500, "2026-10-03"]
+   }
+  },
+  "stranger-things-2016": {
+   "t": "Stranger Things",
+   "y": 2016,
+   "by": "Matt Duffer, Ross Duffer",
+   "g": "Drama / Fantasy",
+   "sum": "In 1980s Indiana, a group of kids hunt for their missing friend and uncover a sinister government lab and another dimension.",
+   "img": "t13",
+   "aw": ["Won 13 Emmys of 64 nominations"],
+   "ids": {
+    "imdb": "tt4574334"
+   },
+   "s": {
+    "imdb": [8.6, 1743454, "2026-10-03"],
+    "mc": [8, 6586, "2026-10-03"],
+    "rt": [82, 50000, "2026-10-03"]
+   }
+  },
+  "arcane-2019": {
+   "t": "Arcane",
+   "y": 2019,
+   "by": "Christian Linke, Alex Yee",
+   "g": "Animation / Action",
+   "sum": "Two sisters end up on opposite sides of a war between a gleaming city and its oppressed underground; set in the League of Legends world.",
+   "img": "t14",
+   "aw": ["Won 8 Emmys of 9 nominations"],
+   "ids": {
+    "imdb": "tt11126994"
+   },
+   "s": {
+    "imdb": [9, 458310, "2026-10-03"],
+    "mc": [8.9, 2832, "2026-10-03"],
+    "rt": [87, 10000, "2026-10-03"]
+   }
+  },
+  "avatar-the-last-airbender-2005": {
+   "t": "Avatar: The Last Airbender",
+   "y": 2005,
+   "by": "Michael Dante DiMartino, Bryan Konietzko",
+   "g": "Animation / Action",
+   "sum": "A young monk who can control all four elements must master them to end a hundred-year war.",
+   "img": "t15",
+   "aw": ["Won 1 Emmy of 2 nominations"],
+   "ids": {
+    "imdb": "tt0417299"
+   },
+   "s": {
+    "imdb": [9.3, 457186, "2026-10-03"],
+    "mc": [9.4, 1375, "2026-10-03"],
+    "rt": [98, 2500, "2026-10-03"]
+   }
+  },
+  "rick-and-morty-2013": {
+   "t": "Rick and Morty",
+   "y": 2013,
+   "by": "Dan Harmon, Justin Roiland",
+   "g": "Animation / Adventure",
+   "sum": "A reckless, genius scientist drags his anxious grandson on chaotic adventures across the multiverse.",
+   "img": "t19",
+   "aw": ["Won 2 Emmys of 5 nominations"],
+   "ids": {
+    "imdb": "tt2861424"
+   },
+   "s": {
+    "imdb": [9, 714671, "2026-10-03"],
+    "rt": [83, 10000, "2026-10-03"]
+   }
+  },
+  "bojack-horseman-2014": {
+   "t": "BoJack Horseman",
+   "y": 2014,
+   "by": "Raphael Bob-Waksberg",
+   "g": "Animation / Comedy",
+   "sum": "A washed-up horse sitcom star in Hollywood confronts his self-destruction; darker and more moving than it looks.",
+   "img": "t20",
+   "aw": ["3 Emmy nominations"],
+   "ids": {
+    "imdb": "tt3398228"
+   },
+   "s": {
+    "imdb": [8.8, 239717, "2026-10-03"],
+    "mc": [8.8, 2887, "2026-10-03"],
+    "rt": [96, 5000, "2026-10-03"]
+   }
+  },
+  "dark-2017": {
+   "t": "Dark",
+   "y": 2017,
+   "by": "Baran bo Odar, Jantje Friese",
+   "g": "Crime / Drama",
+   "sum": "A child's disappearance in a small German town exposes a time-travel conspiracy spanning four generations.",
+   "img": "t21",
+   "ids": {
+    "imdb": "tt5753856"
+   },
+   "s": {
+    "imdb": [8.7, 563994, "2026-10-03"],
+    "mc": [8.8, 1539, "2026-10-03"],
+    "rt": [94, 10000, "2026-10-03"]
+   }
+  },
+  "black-mirror-2011": {
+   "t": "Black Mirror",
+   "y": 2011,
+   "by": "Charlie Brooker",
+   "g": "Crime / Drama",
+   "sum": "An anthology of standalone stories about technology's dark side.",
+   "img": "t22",
+   "aw": ["Won 6 Emmys of 25 nominations"],
+   "ids": {
+    "imdb": "tt2085059"
+   },
+   "s": {
+    "imdb": [8.7, 750586, "2026-10-03"],
+    "mc": [8, 2313, "2026-10-03"],
+    "rt": [80, 10000, "2026-10-03"]
+   }
+  },
+  "the-last-of-us-2023": {
+   "t": "The Last of Us",
+   "y": 2023,
+   "by": "Neil Druckmann, Craig Mazin",
+   "g": "Action / Adventure",
+   "sum": "A smuggler escorts a teenage girl across a post-pandemic America, adapted from the video game.",
+   "img": "t23",
+   "aw": ["Won 9 Emmys of 40 nominations"],
+   "ids": {
+    "imdb": "tt3581920"
+   },
+   "s": {
+    "imdb": [8.4, 752225, "2026-10-03"],
+    "mc": [5.9, 5372, "2026-10-03"],
+    "rt": [62, 10000, "2026-10-03"]
+   }
+  },
+  "shogun-2024": {
+   "t": "Shōgun",
+   "y": 2024,
+   "by": "Rachel Kondo, Justin Marks",
+   "g": "Action / Adventure",
+   "sum": "An English navigator shipwrecked in 1600 Japan becomes entangled in a power struggle between warlords.",
+   "img": "t24",
+   "aw": ["Won 18 Emmys of 25 nominations"],
+   "ids": {
+    "imdb": "tt2788316"
+   },
+   "s": {
+    "imdb": [8.6, 253452, "2026-10-03"],
+    "rt": [85, 2500, "2026-10-03"]
+   }
+  },
+  "the-bear-2022": {
+   "t": "The Bear",
+   "y": 2022,
+   "by": "Christopher Storer",
+   "g": "Comedy / Drama",
+   "sum": "A fine-dining chef returns to Chicago to run his late brother's chaotic sandwich shop.",
+   "img": "t25",
+   "aw": ["Won 22 Emmys of 57 nominations"],
+   "ids": {
+    "imdb": "tt14452776"
+   },
+   "s": {
+    "imdb": [8.5, 327263, "2026-10-03"],
+    "mc": [7.7, 946, "2026-10-03"],
+    "rt": [78, 10000, "2026-10-03"]
+   }
+  },
+  "severance-2022": {
+   "t": "Severance",
+   "y": 2022,
+   "by": "Dan Erickson",
+   "g": "Drama / Mystery",
+   "sum": "Office workers have their memories surgically split between work and home, and start to question their employer.",
+   "img": "t26",
+   "aw": ["Won 10 Emmys of 41 nominations"],
+   "ids": {
+    "imdb": "tt11280740"
+   },
+   "s": {
+    "imdb": [8.6, 409801, "2026-10-03"],
+    "mc": [8.3, 1048, "2026-10-03"],
+    "rt": [80, 5000, "2026-10-03"]
+   }
+  },
+  "ted-lasso-2020": {
+   "t": "Ted Lasso",
+   "y": 2020,
+   "by": "Jason Sudeikis, Brendan Hunt",
+   "g": "Comedy / Sport",
+   "sum": "An upbeat American football coach is hired to manage an English soccer team he knows nothing about.",
+   "img": "t27",
+   "aw": ["Won 13 Emmys of 61 nominations"],
+   "ids": {
+    "imdb": "tt10986410"
+   },
+   "s": {
+    "imdb": [8.7, 470168, "2026-10-03"],
+    "mc": [7.4, 765, "2026-10-03"],
+    "rt": [81, 5000, "2026-10-03"]
+   }
+  },
+  "peaky-blinders-2013": {
+   "t": "Peaky Blinders",
+   "y": 2013,
+   "by": "Steven Knight",
+   "g": "Crime / Drama",
+   "sum": "A Birmingham gang led by the ambitious Tommy Shelby rises in the aftermath of WWI.",
+   "img": "t28",
+   "aw": ["Won 1 BAFTA TV Award of 5 nominations"],
+   "ids": {
+    "imdb": "tt2442560"
+   },
+   "s": {
+    "imdb": [8.7, 795056, "2026-10-03"],
+    "mc": [8.6, 1295, "2026-10-03"],
+    "rt": [93, 10000, "2026-10-03"]
+   }
+  },
+  "narcos-2015": {
+   "t": "Narcos",
+   "y": 2015,
+   "by": "Carlo Bernard, Chris Brancato",
+   "g": "Biography / Crime",
+   "sum": "The rise of Pablo Escobar and the DEA agents hunting the Colombian cocaine cartels.",
+   "img": "t29",
+   "aw": ["3 Emmy nominations"],
+   "ids": {
+    "imdb": "tt2707408"
+   },
+   "s": {
+    "imdb": [8.7, 537406, "2026-10-03"],
+    "mc": [8.7, 1288, "2026-10-03"],
+    "rt": [94, 2500, "2026-10-03"]
+   }
+  },
+  "ozark-2017": {
+   "t": "Ozark",
+   "y": 2017,
+   "by": "Bill Dubuque, Mark Williams",
+   "g": "Crime / Drama",
+   "sum": "A financial adviser drags his family to the Missouri Ozarks to launder money for a drug cartel.",
+   "img": "t30",
+   "aw": ["Won 4 Emmys of 45 nominations"],
+   "ids": {
+    "imdb": "tt5071412"
+   },
+   "s": {
+    "imdb": [8.4, 400348, "2026-10-03"],
+    "mc": [8.1, 939, "2026-10-03"],
+    "rt": [86, 5000, "2026-10-03"]
+   }
+  },
+  "mindhunter-2017": {
+   "t": "Mindhunter",
+   "y": 2017,
+   "by": "Joe Penhall",
+   "g": "Crime / Drama",
+   "sum": "In the late 1970s, two FBI agents interview imprisoned serial killers to understand how they think.",
+   "img": "t31",
+   "aw": ["2 Emmy nominations"],
+   "ids": {
+    "imdb": "tt5290382"
+   },
+   "s": {
+    "imdb": [8.6, 407234, "2026-10-03"],
+    "mc": [8.4, 925, "2026-10-03"],
+    "rt": [95, 5000, "2026-10-03"]
+   }
+  },
+  "house-of-the-dragon-2022": {
+   "t": "House of the Dragon",
+   "y": 2022,
+   "by": "Ryan J. Condal, George R.R. Martin",
+   "g": "Action / Adventure",
+   "sum": "Two centuries before Game of Thrones, House Targaryen tears itself apart in a civil war over succession.",
+   "img": "t32",
+   "aw": ["Won 2 Emmys of 15 nominations"],
+   "ids": {
+    "imdb": "tt11198330"
+   },
+   "s": {
+    "imdb": [8.2, 572710, "2026-10-03"],
+    "mc": [5.8, 2399, "2026-10-03"],
+    "rt": [73, 10000, "2026-10-03"]
+   }
+  },
+  "the-boys-2019": {
+   "t": "The Boys",
+   "y": 2019,
+   "by": "Eric Kripke",
+   "g": "Action / Comedy",
+   "sum": "Vigilantes take on corrupt, celebrity superheroes who abuse their powers.",
+   "img": "t33",
+   "aw": ["Won 5 Emmys of 17 nominations"],
+   "ids": {
+    "imdb": "tt1190634"
+   },
+   "s": {
+    "imdb": [8.5, 1029253, "2026-10-03"],
+    "mc": [2.4, 10815, "2026-10-03"],
+    "rt": [69, 25000, "2026-10-03"]
+   }
+  },
+  "the-mandalorian-2019": {
+   "t": "The Mandalorian",
+   "y": 2019,
+   "by": "Jon Favreau",
+   "g": "Action / Adventure",
+   "sum": "A lone bounty hunter in the outer reaches of the Star Wars galaxy protects a mysterious child.",
+   "img": "t34",
+   "aw": ["Won 15 Emmys of 48 nominations"],
+   "ids": {
+    "imdb": "tt8111088"
+   },
+   "s": {
+    "imdb": [8.6, 667335, "2026-10-03"],
+    "mc": [7.8, 2348, "2026-10-03"],
+    "rt": [78, 10000, "2026-10-03"]
+   }
+  },
+  "andor-2022": {
+   "t": "Andor",
+   "y": 2022,
+   "by": "Tony Gilroy",
+   "g": "Adventure / Drama",
+   "sum": "A thief becomes a rebel in the years before Star Wars, as the Empire tightens its grip.",
+   "img": "t35",
+   "aw": ["Won 5 Emmys of 22 nominations"],
+   "ids": {
+    "imdb": "tt9253284"
+   },
+   "s": {
+    "imdb": [8.6, 287578, "2026-10-03"],
+    "mc": [8.4, 1646, "2026-10-03"],
+    "rt": [89, 10000, "2026-10-03"]
+   }
+  },
+  "westworld-2016": {
+   "t": "Westworld",
+   "y": 2016,
+   "by": "Lisa Joy, Jonathan Nolan",
+   "g": "Drama / Mystery",
+   "sum": "In a high-tech Wild West theme park, android hosts begin to question their reality.",
+   "img": "t36",
+   "aw": ["Won 7 Emmys of 52 nominations"],
+   "ids": {
+    "imdb": "tt0475784"
+   },
+   "s": {
+    "imdb": [8.4, 561877, "2026-10-03"],
+    "mc": [8, 2321, "2026-10-03"],
+    "rt": [75, 10000, "2026-10-03"]
+   }
+  },
+  "lost-2004": {
+   "t": "Lost",
+   "y": 2004,
+   "by": "J.J. Abrams, Jeffrey Lieber",
+   "g": "Adventure / Drama",
+   "sum": "Survivors of a plane crash on a mysterious island uncover its secrets, and their own.",
+   "img": "t37",
+   "aw": ["Won 10 Emmys of 51 nominations"],
+   "ids": {
+    "imdb": "tt0411008"
+   },
+   "s": {
+    "imdb": [8.3, 683448, "2026-10-03"],
+    "mc": [8.7, 3180, "2026-10-03"],
+    "rt": [89, 5000, "2026-10-03"]
+   }
+  },
+  "dexter-2006": {
+   "t": "Dexter",
+   "y": 2006,
+   "by": "James Manos Jr.",
+   "g": "Crime / Drama",
+   "sum": "A Miami police blood-spatter analyst leads a secret life as a serial killer who targets other killers.",
+   "img": "t38",
+   "aw": ["Won 4 Emmys of 25 nominations"],
+   "ids": {
+    "imdb": "tt0773262"
+   },
+   "s": {
+    "imdb": [8.6, 957752, "2026-10-03"],
+    "mc": [8.1, 6283, "2026-10-03"],
+    "rt": [81, 10000, "2026-10-03"]
+   }
+  },
+  "house-2004": {
+   "t": "House",
+   "y": 2004,
+   "by": "David Shore",
+   "g": "Drama",
+   "sum": "A brilliant, misanthropic doctor and his team solve medical mysteries no one else can.",
+   "img": "t39",
+   "aw": ["Won 5 Emmys of 25 nominations"],
+   "ids": {
+    "imdb": "tt0412142"
+   },
+   "s": {
+    "imdb": [8.7, 601818, "2026-10-03"],
+    "mc": [8.4, 1194, "2026-10-03"],
+    "rt": [95, 2500, "2026-10-03"]
+   }
+  },
+  "friday-night-lights-2006": {
+   "t": "Friday Night Lights",
+   "y": 2006,
+   "by": "Peter Berg",
+   "g": "Drama / Sport",
+   "sum": "High-school football in a small Texas town, and the coach, players and families it shapes.",
+   "img": "t40",
+   "aw": ["Won 3 Emmys of 13 nominations"],
+   "ids": {
+    "imdb": "tt0758745"
+   },
+   "s": {
+    "imdb": [8.7, 80644, "2026-10-03"],
+    "mc": [8.5, 385, "2026-10-03"],
+    "rt": [93, 500, "2026-10-03"]
+   }
+  },
+  "parks-and-recreation-2009": {
+   "t": "Parks and Recreation",
+   "y": 2009,
+   "by": "Greg Daniels, Michael Schur",
+   "g": "Comedy",
+   "sum": "An optimistic bureaucrat and her colleagues try to improve life in a small Indiana town.",
+   "img": "t41",
+   "aw": ["14 Emmy nominations"],
+   "ids": {
+    "imdb": "tt1266020"
+   },
+   "s": {
+    "imdb": [8.6, 319922, "2026-10-03"],
+    "mc": [8.5, 1658, "2026-10-03"],
+    "rt": [89, 5000, "2026-10-03"]
+   }
+  },
+  "brooklyn-nine-nine-2013": {
+   "t": "Brooklyn Nine-Nine",
+   "y": 2013,
+   "by": "Dan Goor, Michael Schur",
+   "g": "Comedy / Crime",
+   "sum": "A talented but immature detective and his squad work under a deadpan captain in a Brooklyn precinct.",
+   "img": "t42",
+   "aw": ["Won 2 Emmys of 11 nominations"],
+   "ids": {
+    "imdb": "tt2467372"
+   },
+   "s": {
+    "imdb": [8.4, 424834, "2026-10-03"],
+    "mc": [8.1, 1233, "2026-10-03"],
+    "rt": [88, 5000, "2026-10-03"]
+   }
+  },
+  "community-2009": {
+   "t": "Community",
+   "y": 2009,
+   "by": "Dan Harmon",
+   "g": "Comedy",
+   "sum": "A disbarred lawyer forms an unlikely study group at a chaotic community college.",
+   "img": "t43",
+   "aw": ["Won 1 Emmy of 4 nominations"],
+   "ids": {
+    "imdb": "tt1439629"
+   },
+   "s": {
+    "imdb": [8.5, 315075, "2026-10-03"],
+    "mc": [8.7, 2225, "2026-10-03"],
+    "rt": [88, 5000, "2026-10-03"]
+   }
+  },
+  "arrested-development-2003": {
+   "t": "Arrested Development",
+   "y": 2003,
+   "by": "Mitchell Hurwitz",
+   "g": "Comedy",
+   "sum": "A wealthy, dysfunctional family loses everything, and the one sane son tries to hold them together.",
+   "img": "t44",
+   "aw": ["Won 6 Emmys of 25 nominations"],
+   "ids": {
+    "imdb": "tt0367279"
+   },
+   "s": {
+    "imdb": [8.6, 347140, "2026-10-03"],
+    "mc": [8.8, 1541, "2026-10-03"],
+    "rt": [85, 2500, "2026-10-03"]
+   }
+  },
+  "it-s-always-sunny-in-philadelphia-2005": {
+   "t": "It's Always Sunny in Philadelphia",
+   "y": 2005,
+   "by": "Rob McElhenney, Glenn Howerton",
+   "g": "Comedy",
+   "sum": "Five selfish friends run an Irish pub in Philadelphia and make every situation worse.",
+   "img": "t45",
+   "aw": ["3 Emmy nominations"],
+   "ids": {
+    "imdb": "tt0472954"
+   },
+   "s": {
+    "imdb": [8.8, 285957, "2026-10-03"],
+    "mc": [8.7, 1631, "2026-10-03"],
+    "rt": [90, 2500, "2026-10-03"]
+   }
+  },
+  "curb-your-enthusiasm-2000": {
+   "t": "Curb Your Enthusiasm",
+   "y": 2000,
+   "by": "Larry David",
+   "g": "Comedy",
+   "sum": "Larry David plays himself, stumbling through social disasters in Los Angeles.",
+   "img": "t46",
+   "aw": ["Won 2 Emmys of 55 nominations"],
+   "ids": {
+    "imdb": "tt0264235"
+   },
+   "s": {
+    "imdb": [8.8, 169243, "2026-10-03"],
+    "mc": [8.5, 746, "2026-10-03"],
+    "rt": [90, 1000, "2026-10-03"]
+   }
+  },
+  "how-i-met-your-mother-2005": {
+   "t": "How I Met Your Mother",
+   "y": 2005,
+   "by": "Carter Bays, Craig Thomas",
+   "g": "Comedy / Drama",
+   "sum": "A father tells his kids the long story of how he met their mother, and his friends along the way.",
+   "img": "t47",
+   "aw": ["Won 10 Emmys of 30 nominations"],
+   "ids": {
+    "imdb": "tt0460649"
+   },
+   "s": {
+    "imdb": [8.3, 790685, "2026-10-03"],
+    "mc": [8, 2795, "2026-10-03"],
+    "rt": [85, 5000, "2026-10-03"]
+   }
+  },
+  "modern-family-2009": {
+   "t": "Modern Family",
+   "y": 2009,
+   "by": "Steven Levitan, Christopher Lloyd",
+   "g": "Comedy / Drama",
+   "sum": "Three related households show the ups and downs of a modern extended family, mockumentary-style.",
+   "img": "t48",
+   "aw": ["Won 22 Emmys of 85 nominations"],
+   "ids": {
+    "imdb": "tt1442437"
+   },
+   "s": {
+    "imdb": [8.5, 548659, "2026-10-03"],
+    "mc": [8.3, 1488, "2026-10-03"],
+    "rt": [89, 2500, "2026-10-03"]
+   }
+  },
+  "schitt-s-creek-2015": {
+   "t": "Schitt's Creek",
+   "y": 2015,
+   "by": "Dan Levy, Eugene Levy",
+   "g": "Comedy",
+   "sum": "A rich family loses its fortune and has to rebuild their lives in a small town they once bought as a joke.",
+   "img": "t49",
+   "aw": ["Won 9 Emmys of 19 nominations"],
+   "ids": {
+    "imdb": "tt3526078"
+   },
+   "s": {
+    "imdb": [8.5, 177535, "2026-10-03"],
+    "mc": [8.2, 280, "2026-10-03"],
+    "rt": [93, 2500, "2026-10-03"]
+   }
+  },
+  "fleabag-2016": {
+   "t": "Fleabag",
+   "y": 2016,
+   "by": "Phoebe Waller-Bridge",
+   "g": "Comedy / Drama",
+   "sum": "A grieving, chaotic young woman in London talks directly to the camera as her life falls apart.",
+   "img": "t50",
+   "aw": ["Won 6 Emmys of 11 nominations"],
+   "ids": {
+    "imdb": "tt5687612"
+   },
+   "s": {
+    "imdb": [8.7, 254080, "2026-10-03"],
+    "mc": [8.3, 962, "2026-10-03"],
+    "rt": [92, 2500, "2026-10-03"]
+   }
+  },
+  "the-crown-2016": {
+   "t": "The Crown",
+   "y": 2016,
+   "by": "Peter Morgan",
+   "g": "Biography / Drama",
+   "sum": "The reign of Queen Elizabeth II, from her marriage to the turn of the century.",
+   "img": "t51",
+   "aw": ["Won 24 Emmys of 87 nominations"],
+   "ids": {
+    "imdb": "tt4786824"
+   },
+   "s": {
+    "imdb": [8.6, 285370, "2026-10-03"],
+    "mc": [8.3, 914, "2026-10-03"],
+    "rt": [92, 10000, "2026-10-03"]
+   }
+  },
+  "downton-abbey-2010": {
+   "t": "Downton Abbey",
+   "y": 2010,
+   "by": "Julian Fellowes",
+   "g": "Drama / Romance",
+   "sum": "The aristocratic Crawley family and their servants in an English country house, from 1912 into the 1920s.",
+   "img": "t52",
+   "aw": ["Won 15 Emmys of 69 nominations"],
+   "ids": {
+    "imdb": "tt1606375"
+   },
+   "s": {
+    "imdb": [8.7, 249513, "2026-10-03"],
+    "mc": [8.2, 916, "2026-10-03"],
+    "rt": [94, 1000, "2026-10-03"]
+   }
+  },
+  "planet-earth-2006": {
+   "t": "Planet Earth",
+   "y": 2006,
+   "by": "David Attenborough (narrator)",
+   "g": "Documentary",
+   "sum": "David Attenborough's landmark nature series, filmed across every habitat on Earth.",
+   "img": "t53",
+   "aw": ["Won 4 Emmys of 7 nominations"],
+   "ids": {
+    "imdb": "tt0795176"
+   },
+   "s": {
+    "imdb": [9.4, 237138, "2026-10-03"],
+    "mc": [8.5, 65, "2026-10-03"],
+    "rt": [93, 50, "2026-10-03"]
+   }
+  },
+  "planet-earth-ii-2016": {
+   "t": "Planet Earth II",
+   "y": 2016,
+   "by": "David Attenborough (narrator)",
+   "g": "Documentary",
+   "sum": "The sequel ten years later, with new technology bringing wildlife even closer.",
+   "img": "t54",
+   "aw": ["Won 2 Emmys of 10 nominations"],
+   "ids": {
+    "imdb": "tt5491994"
+   },
+   "s": {
+    "imdb": [9.4, 177212, "2026-10-03"],
+    "mc": [9.2, 248, "2026-10-03"]
+   }
+  },
+  "blue-planet-ii-2017": {
+   "t": "Blue Planet II",
+   "y": 2017,
+   "by": "James Honeyborne",
+   "g": "Documentary",
+   "sum": "A deep dive into the world's oceans and the creatures living there, narrated by David Attenborough.",
+   "img": "t55",
+   "aw": ["Won 1 Emmy of 5 nominations"],
+   "ids": {
+    "imdb": "tt6769208"
+   },
+   "s": {
+    "imdb": [9.3, 58845, "2026-10-03"],
+    "rt": [84, 50, "2026-10-03"]
+   }
+  },
+  "our-planet-2019": {
+   "t": "Our Planet",
+   "y": 2019,
+   "by": "Alastair Fothergill",
+   "g": "Documentary",
+   "sum": "A nature series showing Earth's habitats and the threats facing them.",
+   "img": "t56",
+   "aw": ["Won 2 Emmys of 11 nominations"],
+   "ids": {
+    "imdb": "tt9253866"
+   },
+   "s": {
+    "imdb": [9.2, 63963, "2026-10-03"],
+    "mc": [8.9, 105, "2026-10-03"],
+    "rt": [91, 250, "2026-10-03"]
+   }
+  },
+  "cosmos-a-spacetime-odyssey-2014": {
+   "t": "Cosmos: A Spacetime Odyssey",
+   "y": 2014,
+   "by": "Neil deGrasse Tyson (host)",
+   "g": "Documentary",
+   "sum": "Neil deGrasse Tyson guides a journey through the universe and the history of science.",
+   "img": "t57",
+   "aw": ["Won 4 Emmys of 13 nominations"],
+   "ids": {
+    "imdb": "tt2395695"
+   },
+   "s": {
+    "imdb": [9.2, 141232, "2026-10-03"]
+   }
+  },
+  "the-last-dance-2020": {
+   "t": "The Last Dance",
+   "y": 2020,
+   "by": "Jason Hehir",
+   "g": "Documentary / Sport",
+   "sum": "Michael Jordan and the 1990s Chicago Bulls, built around never-before-seen footage of their final championship season.",
+   "img": "t58",
+   "aw": ["Won 1 Emmy of 3 nominations"],
+   "ids": {
+    "imdb": "tt8420184"
+   },
+   "s": {
+    "imdb": [9, 184767, "2026-10-03"],
+    "mc": [8.8, 276, "2026-10-03"]
+   }
+  },
+  "the-pacific-2010": {
+   "t": "The Pacific",
+   "y": 2010,
+   "by": "Bruce McKenna",
+   "g": "Drama / War",
+   "sum": "Three US Marines fight across the Pacific theatre of WWII; a companion to Band of Brothers.",
+   "img": "t59",
+   "aw": ["Won 8 Emmys of 24 nominations"],
+   "ids": {
+    "imdb": "tt0374463"
+   },
+   "s": {
+    "imdb": [8.3, 146132, "2026-10-03"],
+    "mc": [8.3, 230, "2026-10-03"],
+    "rt": [91, 250, "2026-10-03"]
+   }
+  },
+  "generation-kill-2008": {
+   "t": "Generation Kill",
+   "y": 2008,
+   "by": "David Simon, Ed Burns",
+   "g": "Drama / War",
+   "sum": "Embedded journalists follow a Marine reconnaissance battalion during the 2003 invasion of Iraq.",
+   "img": "t60",
+   "aw": ["Won 3 Emmys of 11 nominations"],
+   "ids": {
+    "imdb": "tt0995832"
+   },
+   "s": {
+    "imdb": [8.4, 65780, "2026-10-03"],
+    "mc": [8.6, 113, "2026-10-03"],
+    "rt": [92, 100, "2026-10-03"]
+   }
+  },
+  "six-feet-under-2001": {
+   "t": "Six Feet Under",
+   "y": 2001,
+   "by": "Alan Ball",
+   "g": "Comedy / Drama",
+   "sum": "A family runs a funeral home in Los Angeles after the father's sudden death.",
+   "img": "t61",
+   "aw": ["Won 9 Emmys of 53 nominations"],
+   "ids": {
+    "imdb": "tt0248654"
+   },
+   "s": {
+    "imdb": [8.7, 171047, "2026-10-03"],
+    "mc": [8.9, 682, "2026-10-03"],
+    "rt": [95, 1000, "2026-10-03"]
+   }
+  },
+  "deadwood-2004": {
+   "t": "Deadwood",
+   "y": 2004,
+   "by": "David Milch",
+   "g": "Crime / Drama",
+   "sum": "A lawless South Dakota mining camp in the 1870s, ruled by a ruthless saloon owner.",
+   "img": "t62",
+   "aw": ["Won 8 Emmys of 28 nominations"],
+   "ids": {
+    "imdb": "tt0348914"
+   },
+   "s": {
+    "imdb": [8.6, 130468, "2026-10-03"],
+    "mc": [9, 447, "2026-10-03"],
+    "rt": [95, 500, "2026-10-03"]
+   }
+  },
+  "boardwalk-empire-2010": {
+   "t": "Boardwalk Empire",
+   "y": 2010,
+   "by": "Terence Winter",
+   "g": "Crime / Drama",
+   "sum": "A corrupt politician-gangster runs Atlantic City during Prohibition.",
+   "img": "t63",
+   "aw": ["Won 20 Emmys of 57 nominations"],
+   "ids": {
+    "imdb": "tt0979432"
+   },
+   "s": {
+    "imdb": [8.5, 220505, "2026-10-03"],
+    "mc": [8.5, 1606, "2026-10-03"],
+    "rt": [95, 1000, "2026-10-03"]
+   }
+  },
+  "the-leftovers-2014": {
+   "t": "The Leftovers",
+   "y": 2014,
+   "by": "Damon Lindelof, Tom Perrotta",
+   "g": "Drama / Fantasy",
+   "sum": "Three years after two percent of the world's population vanishes, a small town struggles to move on.",
+   "img": "t64",
+   "aw": ["1 Emmy nomination"],
+   "ids": {
+    "imdb": "tt2699128"
+   },
+   "s": {
+    "imdb": [8.3, 134833, "2026-10-03"],
+    "mc": [8.4, 1783, "2026-10-03"],
+    "rt": [90, 2500, "2026-10-03"]
+   }
+  },
+  "hannibal-2013": {
+   "t": "Hannibal",
+   "y": 2013,
+   "by": "Bryan Fuller",
+   "g": "Crime / Drama",
+   "sum": "An FBI profiler works with brilliant psychiatrist Hannibal Lecter, unaware he is a cannibal killer.",
+   "img": "t65",
+   "aw": ["1 Emmy nomination"],
+   "ids": {
+    "imdb": "tt2243973"
+   },
+   "s": {
+    "imdb": [8.5, 314808, "2026-10-03"],
+    "mc": [8.8, 2336, "2026-10-03"],
+    "rt": [94, 5000, "2026-10-03"]
+   }
+  },
+  "the-expanse-2015": {
+   "t": "The Expanse",
+   "y": 2015,
+   "by": "Mark Fergus, Hawk Ostby",
+   "g": "Drama / Sci-Fi",
+   "sum": "In a colonised solar system on the brink of war, a ship's crew stumbles on a conspiracy.",
+   "img": "t66",
+   "ids": {
+    "imdb": "tt3230854"
+   },
+   "s": {
+    "imdb": [8.5, 195368, "2026-10-03"],
+    "mc": [8.6, 1828, "2026-10-03"],
+    "rt": [85, 10000, "2026-10-03"]
+   }
+  },
+  "battlestar-galactica-2004": {
+   "t": "Battlestar Galactica",
+   "y": 2004,
+   "by": "Ronald D. Moore",
+   "g": "Action / Sci-Fi",
+   "sum": "After robots wipe out most of humanity, the survivors flee across space searching for Earth.",
+   "img": "t67",
+   "aw": ["Won 3 Emmys of 19 nominations"],
+   "ids": {
+    "imdb": "tt0407362"
+   },
+   "s": {
+    "imdb": [8.7, 188756, "2026-10-03"],
+    "rt": [94, 1000, "2026-10-03"]
+   }
+  },
+  "doctor-who-2005-2005": {
+   "t": "Doctor Who (2005)",
+   "y": 2005,
+   "by": "Russell T Davies (revival)",
+   "g": "Adventure / Sci-Fi",
+   "sum": "A time-travelling alien and companions adventure through time and space; the 2005 revival.",
+   "img": "t68",
+   "aw": ["Won 4 BAFTA TV Awards of 19 nominations"],
+   "ids": {
+    "imdb": "tt0436992"
+   },
+   "s": {
+    "imdb": [8.5, 264319, "2026-10-03"],
+    "mc": [7, 4211, "2026-10-03"],
+    "rt": [64, 25000, "2026-10-03"]
+   }
+  },
+  "firefly-2002": {
+   "t": "Firefly",
+   "y": 2002,
+   "by": "Joss Whedon",
+   "g": "Adventure / Sci-Fi",
+   "sum": "The crew of a smuggling spaceship scrape by on the edges of a future frontier.",
+   "img": "t69",
+   "aw": ["Won 1 Emmy"],
+   "ids": {
+    "imdb": "tt0303461"
+   },
+   "s": {
+    "imdb": [8.9, 304694, "2026-10-03"],
+    "mc": [8.8, 568, "2026-10-03"],
+    "rt": [96, 1000, "2026-10-03"]
+   }
+  },
+  "squid-game-2021": {
+   "t": "Squid Game",
+   "y": 2021,
+   "by": "Hwang Dong-hyuk",
+   "g": "Action / Thriller",
+   "sum": "Hundreds of people in debt compete in deadly children's games for a huge cash prize.",
+   "img": "t70",
+   "aw": ["Won 6 Emmys of 14 nominations"],
+   "ids": {
+    "imdb": "tt10919420"
+   },
+   "s": {
+    "imdb": [7.9, 778798, "2026-10-03"],
+    "mc": [6.8, 1795, "2026-10-03"],
+    "rt": [67, 10000, "2026-10-03"]
+   }
+  },
+  "money-heist-2017": {
+   "t": "Money Heist",
+   "y": 2017,
+   "by": "Álex Pina",
+   "g": "Action / Crime",
+   "sum": "A mastermind called the Professor leads a crew in an elaborate robbery of Spain's Royal Mint.",
+   "img": "t71",
+   "ids": {
+    "imdb": "tt6468322"
+   },
+   "s": {
+    "imdb": [8.2, 620753, "2026-10-03"],
+    "mc": [6.8, 425, "2026-10-03"],
+    "rt": [81, 5000, "2026-10-03"]
+   }
+  },
+  "justified-2010": {
+   "t": "Justified",
+   "y": 2010,
+   "by": "Graham Yost",
+   "g": "Action / Crime",
+   "sum": "A quick-draw US Marshal is sent back to his Kentucky hometown, full of old friends and enemies.",
+   "img": "t72",
+   "aw": ["Won 2 Emmys of 8 nominations"],
+   "ids": {
+    "imdb": "tt1489428"
+   },
+   "s": {
+    "imdb": [8.6, 132876, "2026-10-03"],
+    "mc": [8.9, 1598, "2026-10-03"],
+    "rt": [95, 1000, "2026-10-03"]
+   }
+  },
+  "sons-of-anarchy-2008": {
+   "t": "Sons of Anarchy",
+   "y": 2008,
+   "by": "Kurt Sutter",
+   "g": "Crime / Drama",
+   "sum": "A motorcycle club in a California town deals in guns and violence while its heir questions the life.",
+   "img": "t73",
+   "aw": ["5 Emmy nominations"],
+   "ids": {
+    "imdb": "tt1124373"
+   },
+   "s": {
+    "imdb": [8.5, 360930, "2026-10-03"],
+    "mc": [8.2, 1753, "2026-10-03"],
+    "rt": [91, 2500, "2026-10-03"]
+   }
+  },
+  "the-shield-2002": {
+   "t": "The Shield",
+   "y": 2002,
+   "by": "Shawn Ryan",
+   "g": "Crime / Drama",
+   "sum": "A corrupt LAPD strike team led by a brutal detective walks the line between cop and criminal.",
+   "img": "t74",
+   "aw": ["Won 1 Emmy of 6 nominations"],
+   "ids": {
+    "imdb": "tt0286486"
+   },
+   "s": {
+    "imdb": [8.7, 98791, "2026-10-03"],
+    "mc": [9, 679, "2026-10-03"],
+    "rt": [96, 500, "2026-10-03"]
+   }
+  },
+  "veep-2012": {
+   "t": "Veep",
+   "y": 2012,
+   "by": "Armando Iannucci",
+   "g": "Comedy",
+   "sum": "A vain, foul-mouthed US vice president and her inept staff stumble through Washington politics.",
+   "img": "t75",
+   "aw": ["Won 17 Emmys of 68 nominations"],
+   "ids": {
+    "imdb": "tt1759761"
+   },
+   "s": {
+    "imdb": [8.4, 72947, "2026-10-03"],
+    "mc": [8.2, 1036, "2026-10-03"],
+    "rt": [90, 1000, "2026-10-03"]
+   }
+  },
+  "silicon-valley-2014": {
+   "t": "Silicon Valley",
+   "y": 2014,
+   "by": "Mike Judge, John Altschuler",
+   "g": "Comedy",
+   "sum": "A shy programmer and his friends try to build a startup in the absurd world of tech.",
+   "img": "t76",
+   "aw": ["Won 2 Emmys of 40 nominations"],
+   "ids": {
+    "imdb": "tt2575988"
+   },
+   "s": {
+    "imdb": [8.5, 184682, "2026-10-03"],
+    "mc": [8.5, 1356, "2026-10-03"],
+    "rt": [93, 2500, "2026-10-03"]
+   }
+  },
+  "what-we-do-in-the-shadows-2019": {
+   "t": "What We Do in the Shadows",
+   "y": 2019,
+   "by": "Jemaine Clement",
+   "g": "Comedy / Fantasy",
+   "sum": "A mockumentary about vampire roommates trying to navigate modern life on Staten Island.",
+   "img": "t77",
+   "aw": ["Won 1 Emmy of 35 nominations"],
+   "ids": {
+    "imdb": "tt7908628"
+   },
+   "s": {
+    "imdb": [8.5, 129586, "2026-10-03"],
+    "mc": [8.5, 502, "2026-10-03"],
+    "rt": [92, 2500, "2026-10-03"]
+   }
+  },
+  "atlanta-2016": {
+   "t": "Atlanta",
+   "y": 2016,
+   "by": "Donald Glover",
+   "g": "Comedy / Drama",
+   "sum": "A Princeton dropout manages his cousin's rising rap career in Atlanta, in a surreal comedy-drama.",
+   "img": "t78",
+   "aw": ["Won 7 Emmys of 26 nominations"],
+   "ids": {
+    "imdb": "tt4288182"
+   },
+   "s": {
+    "imdb": [8.6, 100307, "2026-10-03"],
+    "mc": [8.3, 942, "2026-10-03"],
+    "rt": [85, 1000, "2026-10-03"]
+   }
+  },
+  "barry-2018": {
+   "t": "Barry",
+   "y": 2018,
+   "by": "Alec Berg, Bill Hader",
+   "g": "Action / Comedy",
+   "sum": "A hitman who travels to Los Angeles for a job joins an acting class and wants to leave his old life.",
+   "img": "t79",
+   "aw": ["Won 10 Emmys of 54 nominations"],
+   "ids": {
+    "imdb": "tt5348176"
+   },
+   "s": {
+    "imdb": [8.3, 146259, "2026-10-03"],
+    "mc": [8.4, 886, "2026-10-03"],
+    "rt": [89, 2500, "2026-10-03"]
+   }
+  },
+  "the-haunting-of-hill-house-2018": {
+   "t": "The Haunting of Hill House",
+   "y": 2018,
+   "by": "Mike Flanagan",
+   "g": "Drama / Horror",
+   "sum": "Siblings who grew up in a haunted mansion confront the ghosts that still follow them as adults.",
+   "img": "t80",
+   "ids": {
+    "imdb": "tt6763664"
+   },
+   "s": {
+    "imdb": [8.5, 337371, "2026-10-03"],
+    "mc": [8.2, 621, "2026-10-03"],
+    "rt": [91, 2500, "2026-10-03"]
+   }
+  },
+  "mare-of-easttown-2021": {
+   "t": "Mare of Easttown",
+   "y": 2021,
+   "by": "Brad Ingelsby",
+   "g": "Crime / Drama",
+   "sum": "A small-town Pennsylvania detective investigates a murder while her own life falls apart.",
+   "img": "t81",
+   "aw": ["Won 4 Emmys of 16 nominations"],
+   "ids": {
+    "imdb": "tt10155688"
+   },
+   "s": {
+    "imdb": [8.4, 228312, "2026-10-03"],
+    "mc": [8.4, 257, "2026-10-03"],
+    "rt": [94, 1000, "2026-10-03"]
+   }
+  },
+  "the-queen-s-gambit-2020": {
+   "t": "The Queen's Gambit",
+   "y": 2020,
+   "by": "Scott Frank, Allan Scott",
+   "g": "Drama",
+   "sum": "An orphaned chess prodigy rises through the 1960s chess world while fighting addiction.",
+   "img": "t82",
+   "aw": ["Won 11 Emmys of 18 nominations"],
+   "ids": {
+    "imdb": "tt10048342"
+   },
+   "s": {
+    "imdb": [8.5, 680357, "2026-10-03"],
+    "mc": [8.3, 668, "2026-10-03"],
+    "rt": [94, 2500, "2026-10-03"]
+   }
+  },
+  "watchmen-2019": {
+   "t": "Watchmen",
+   "y": 2019,
+   "by": "Damon Lindelof",
+   "g": "Crime / Drama",
+   "sum": "Decades after the graphic novel, masked vigilantes are outlawed and a Tulsa detective uncovers a hidden history.",
+   "img": "t83",
+   "aw": ["Won 11 Emmys of 26 nominations"],
+   "ids": {
+    "imdb": "tt7049682"
+   },
+   "s": {
+    "imdb": [8.2, 148670, "2026-10-03"],
+    "rt": [57, 5000, "2026-10-03"]
+   }
+  },
+  "invincible-2021": {
+   "t": "Invincible",
+   "y": 2021,
+   "by": "Robert Kirkman",
+   "g": "Animation / Action",
+   "sum": "A teenager inherits superpowers from his father, the world's most powerful hero, and learns a shocking secret.",
+   "img": "t84",
+   "aw": ["3 Emmy nominations"],
+   "ids": {
+    "imdb": "tt6741278"
+   },
+   "s": {
+    "imdb": [8.7, 354153, "2026-10-03"],
+    "mc": [8.1, 1239, "2026-10-03"],
+    "rt": [91, 5000, "2026-10-03"]
+   }
+  },
+  "gravity-falls-2012": {
+   "t": "Gravity Falls",
+   "y": 2012,
+   "by": "Alex Hirsch",
+   "g": "Animation / Adventure",
+   "sum": "Twins spending the summer with their great-uncle in Oregon uncover the town's strange mysteries.",
+   "img": "t85",
+   "aw": ["Won 2 Emmys"],
+   "ids": {
+    "imdb": "tt1865718"
+   },
+   "s": {
+    "imdb": [8.9, 185777, "2026-10-03"],
+    "mc": [9.2, 612, "2026-10-03"],
+    "rt": [96, 1000, "2026-10-03"]
+   }
+  },
+  "cobra-kai-2018": {
+   "t": "Cobra Kai",
+   "y": 2018,
+   "by": "Josh Heald, Jon Hurwitz, Hayden Schlossberg",
+   "g": "Action / Comedy",
+   "sum": "Thirty years after The Karate Kid, old rivals Johnny and Daniel reopen their feud through new students.",
+   "img": "t92",
+   "aw": ["11 Emmy nominations"],
+   "ids": {
+    "imdb": "tt7221388"
+   },
+   "s": {
+    "imdb": [8.4, 247216, "2026-10-03"],
+    "mc": [8, 955, "2026-10-03"],
+    "rt": [90, 10000, "2026-10-03"]
+   }
+  },
+  "yellowstone-2018": {
+   "t": "Yellowstone",
+   "y": 2018,
+   "by": "Taylor Sheridan, John Linson",
+   "g": "Drama / Western",
+   "sum": "A ranching family fights to keep control of the largest cattle ranch in the US.",
+   "img": "t93",
+   "aw": ["1 Emmy nomination"],
+   "ids": {
+    "imdb": "tt4236770"
+   },
+   "s": {
+    "imdb": [8.6, 322982, "2026-10-03"],
+    "mc": [6.9, 382, "2026-10-03"],
+    "rt": [76, 5000, "2026-10-03"]
+   }
+  },
+  "mr-robot-2015": {
+   "t": "Mr. Robot",
+   "y": 2015,
+   "by": "Sam Esmail",
+   "g": "Crime / Drama",
+   "sum": "A troubled hacker is recruited by an anarchist group to bring down a giant corporation.",
+   "img": "t94",
+   "aw": ["Won 3 Emmys of 12 nominations"],
+   "ids": {
+    "imdb": "tt4158110"
+   },
+   "s": {
+    "imdb": [8.5, 475715, "2026-10-03"],
+    "mc": [8.6, 2341, "2026-10-03"],
+    "rt": [93, 10000, "2026-10-03"]
+   }
+  },
+  "daredevil-2015": {
+   "t": "Daredevil",
+   "y": 2015,
+   "by": "Drew Goddard",
+   "g": "Action / Crime",
+   "sum": "A blind lawyer fights crime at night in Hell's Kitchen, New York.",
+   "img": "t95",
+   "aw": ["5 Emmy nominations"],
+   "ids": {
+    "imdb": "tt3322312"
+   },
+   "s": {
+    "imdb": [8.6, 543360, "2026-10-03"],
+    "mc": [8.9, 4119, "2026-10-03"],
+    "rt": [90, 10000, "2026-10-03"]
+   }
+  },
+  "the-west-wing-1999": {
+   "t": "The West Wing",
+   "y": 1999,
+   "by": "Aaron Sorkin",
+   "g": "Drama",
+   "sum": "The president and his senior White House staff navigate the politics of running the country.",
+   "img": "t96",
+   "aw": ["Won 26 Emmys of 95 nominations"],
+   "ids": {
+    "imdb": "tt0200276"
+   },
+   "s": {
+    "imdb": [8.9, 101313, "2026-10-03"],
+    "mc": [8.2, 280, "2026-10-03"],
+    "rt": [95, 500, "2026-10-03"]
+   }
+  },
+  "futurama-1999": {
+   "t": "Futurama",
+   "y": 1999,
+   "by": "Matt Groening, David X. Cohen",
+   "g": "Animation / Comedy",
+   "sum": "A pizza delivery boy frozen for a thousand years wakes up and joins a ramshackle delivery company in the year 3000.",
+   "img": "t97",
+   "aw": ["Won 6 Emmys of 14 nominations"],
+   "ids": {
+    "imdb": "tt0149460"
+   },
+   "s": {
+    "imdb": [8.5, 280850, "2026-10-03"],
+    "mc": [8.6, 1135, "2026-10-03"],
+    "rt": [85, 1000, "2026-10-03"]
+   }
+  },
+  "the-office-uk-2001": {
+   "t": "The Office (UK)",
+   "y": 2001,
+   "by": "Ricky Gervais, Stephen Merchant",
+   "g": "Comedy",
+   "sum": "Ricky Gervais's original mockumentary about a deluded manager at a dreary paper company in Slough.",
+   "img": "t98",
+   "aw": ["2 Emmy nominations"],
+   "ids": {
+    "imdb": "tt0290978"
+   },
+   "s": {
+    "imdb": [8.5, 134139, "2026-10-03"],
+    "mc": [8.2, 507, "2026-10-03"],
+    "rt": [87, 100, "2026-10-03"]
+   }
+  },
+  "gilmore-girls-2000": {
+   "t": "Gilmore Girls",
+   "y": 2000,
+   "by": "Amy Sherman-Palladino",
+   "g": "Comedy / Drama",
+   "sum": "A quick-witted single mother and her daughter navigate life and love in a quirky Connecticut town.",
+   "img": "t99",
+   "aw": ["Won 1 Emmy"],
+   "ids": {
+    "imdb": "tt0238784"
+   },
+   "s": {
+    "imdb": [8.2, 178150, "2026-10-03"],
+    "mc": [8.2, 281, "2026-10-03"],
+    "rt": [87, 1000, "2026-10-03"]
+   }
+  },
+  "malcolm-in-the-middle-2000": {
+   "t": "Malcolm in the Middle",
+   "y": 2000,
+   "by": "Linwood Boomer",
+   "g": "Comedy",
+   "sum": "A gifted kid struggles to survive his chaotic working-class family.",
+   "img": "t100",
+   "aw": ["Won 7 Emmys of 33 nominations"],
+   "ids": {
+    "imdb": "tt0212671"
+   },
+   "s": {
+    "imdb": [8.2, 163250, "2026-10-03"],
+    "mc": [8.7, 399, "2026-10-03"],
+    "rt": [91, 500, "2026-10-03"]
+   }
+  },
+  "the-walking-dead-2010": {
+   "t": "The Walking Dead",
+   "y": 2010,
+   "by": "Frank Darabont",
+   "g": "Drama / Horror",
+   "sum": "A sheriff's deputy wakes from a coma into a zombie apocalypse and leads survivors.",
+   "img": "t101",
+   "aw": ["Won 2 Emmys of 16 nominations"],
+   "ids": {
+    "imdb": "tt1520211"
+   },
+   "s": {
+    "imdb": [8.1, 1216752, "2026-10-03"],
+    "mc": [7.6, 9988, "2026-10-03"],
+    "rt": [78, 25000, "2026-10-03"]
+   }
+  },
+  "seinfeld-1989": {
+   "t": "Seinfeld",
+   "y": 1989,
+   "by": "Larry David, Jerry Seinfeld",
+   "g": "Comedy",
+   "sum": "A comedian and his neurotic friends in New York; the show about nothing.",
+   "img": "t102",
+   "aw": ["Won 10 Emmys of 68 nominations"],
+   "ids": {
+    "imdb": "tt0098904"
+   },
+   "s": {
+    "imdb": [8.8, 389315, "2026-10-03"],
+    "mc": [8.9, 820, "2026-10-03"],
+    "rt": [91, 1000, "2026-10-03"]
+   }
+  },
+  "friends-1994": {
+   "t": "Friends",
+   "y": 1994,
+   "by": "David Crane, Marta Kauffman",
+   "g": "Comedy / Romance",
+   "sum": "Six friends in their twenties navigate life and love in Manhattan.",
+   "img": "t103",
+   "aw": ["Won 6 Emmys of 62 nominations"],
+   "ids": {
+    "imdb": "tt0108778"
+   },
+   "s": {
+    "imdb": [8.8, 1210013, "2026-10-03"],
+    "mc": [8.8, 2307, "2026-10-03"],
+    "rt": [93, 5000, "2026-10-03"]
+   }
+  },
+  "the-twilight-zone-1959": {
+   "t": "The Twilight Zone",
+   "y": 1959,
+   "by": "Rod Serling",
+   "g": "Drama / Fantasy",
+   "sum": "Rod Serling's anthology of eerie, twist-ending stories about the strange side of human nature.",
+   "img": "t104",
+   "aw": ["Won 3 Emmys of 8 nominations"],
+   "ids": {
+    "imdb": "tt0052520"
+   },
+   "s": {
+    "imdb": [9, 110749, "2026-10-03"],
+    "mc": [9.1, 105, "2026-10-03"],
+    "rt": [95, 250, "2026-10-03"]
+   }
+  },
+  "twin-peaks-1990": {
+   "t": "Twin Peaks",
+   "y": 1990,
+   "by": "Mark Frost, David Lynch",
+   "g": "Crime / Drama",
+   "sum": "An FBI agent investigates the murder of a homecoming queen in a strange Pacific Northwest town.",
+   "img": "t105",
+   "aw": ["Won 2 Emmys of 18 nominations"],
+   "ids": {
+    "imdb": "tt0098936"
+   },
+   "s": {
+    "imdb": [8.7, 251396, "2026-10-03"],
+    "mc": [9, 1053, "2026-10-03"],
+    "rt": [92, 1000, "2026-10-03"]
+   }
+  },
+  "the-simpsons-1989": {
+   "t": "The Simpsons",
+   "y": 1989,
+   "by": "Matt Groening, James L. Brooks",
+   "g": "Animation / Comedy",
+   "sum": "The animated misadventures of a working-class family in Springfield.",
+   "img": "t106",
+   "aw": ["Won 37 Emmys of 108 nominations"],
+   "ids": {
+    "imdb": "tt0096697"
+   },
+   "s": {
+    "imdb": [8.6, 473646, "2026-10-03"],
+    "mc": [7.9, 3126, "2026-10-03"],
+    "rt": [76, 5000, "2026-10-03"]
+   }
+  },
+  "fawlty-towers-1975": {
+   "t": "Fawlty Towers",
+   "y": 1975,
+   "by": "John Cleese, Connie Booth",
+   "g": "Comedy",
+   "sum": "A rude, scheming hotel owner in Torquay lurches from one disaster to the next.",
+   "img": "t107",
+   "aw": ["Won 3 BAFTA TV Awards of 5 nominations"],
+   "ids": {
+    "imdb": "tt0072500"
+   },
+   "s": {
+    "imdb": [8.8, 112525, "2026-10-03"],
+    "rt": [93, 100, "2026-10-03"]
+   }
+  },
+  "blackadder-1983": {
+   "t": "Blackadder",
+   "y": 1983,
+   "by": "Richard Curtis, Rowan Atkinson",
+   "g": "Comedy",
+   "sum": "The scheming Edmund Blackadder and his descendants through four eras of British history.",
+   "img": "t108",
+   "aw": ["Won 2 BAFTA TV Awards"],
+   "ids": {},
+   "s": {
+    "imdb": [8.8, 65792, "2026-10-03"]
+   }
+  },
+  "monty-python-s-flying-circus-1969": {
+   "t": "Monty Python's Flying Circus",
+   "y": 1969,
+   "by": "Monty Python",
+   "g": "Comedy",
+   "sum": "The Python team's surreal, boundary-breaking sketch comedy.",
+   "img": "t109",
+   "ids": {
+    "imdb": "tt0063929"
+   },
+   "s": {
+    "imdb": [8.8, 87911, "2026-10-03"],
+    "rt": [85, 100, "2026-10-03"]
+   }
+  },
+  "cheers-1982": {
+   "t": "Cheers",
+   "y": 1982,
+   "by": "Glen & Les Charles, James Burrows",
+   "g": "Comedy",
+   "sum": "The regulars and staff of a Boston bar where everybody knows your name.",
+   "img": "t110",
+   "aw": ["Won 28 Emmys of 119 nominations"],
+   "ids": {
+    "imdb": "tt0083399"
+   },
+   "s": {
+    "imdb": [8, 69086, "2026-10-03"],
+    "mc": [8.8, 95, "2026-10-03"],
+    "rt": [95, 250, "2026-10-03"]
+   }
+  },
+  "frasier-1993": {
+   "t": "Frasier",
+   "y": 1993,
+   "by": "David Angell, Peter Casey, David Lee",
+   "g": "Comedy",
+   "sum": "A pompous radio psychiatrist moves back to Seattle and lives with his blue-collar father.",
+   "img": "t111",
+   "aw": ["Won 37 Emmys of 107 nominations"],
+   "ids": {
+    "imdb": "tt0106004"
+   },
+   "s": {
+    "imdb": [8.2, 104290, "2026-10-03"],
+    "mc": [8.5, 239, "2026-10-03"],
+    "rt": [94, 500, "2026-10-03"]
+   }
+  },
+  "m-a-s-h-1972": {
+   "t": "M*A*S*H",
+   "y": 1972,
+   "by": "Larry Gelbart",
+   "g": "Comedy / Drama",
+   "sum": "Army surgeons use humour to survive the Korean War at a mobile hospital.",
+   "img": "t112",
+   "aw": ["Won 14 Emmys of 109 nominations"],
+   "ids": {
+    "imdb": "tt0068098"
+   },
+   "s": {
+    "imdb": [8.5, 70176, "2026-10-03"],
+    "mc": [8.8, 38, "2026-10-03"],
+    "rt": [90, 250, "2026-10-03"]
+   }
+  },
+  "i-love-lucy-1951": {
+   "t": "I Love Lucy",
+   "y": 1951,
+   "by": "Jess Oppenheimer",
+   "g": "Comedy",
+   "sum": "A scheming housewife keeps trying to break into her bandleader husband's showbusiness career.",
+   "img": "t113",
+   "aw": ["Won 4 Emmys of 20 nominations"],
+   "ids": {
+    "imdb": "tt0043208"
+   },
+   "s": {
+    "imdb": [8.5, 31225, "2026-10-03"],
+    "mc": [8, 19, "2026-10-03"],
+    "rt": [96, 100, "2026-10-03"]
+   }
+  },
+  "star-trek-1966": {
+   "t": "Star Trek",
+   "y": 1966,
+   "by": "Gene Roddenberry",
+   "g": "Action / Sci-Fi",
+   "sum": "Captain Kirk and the crew of the Enterprise explore strange new worlds.",
+   "img": "t114",
+   "ids": {
+    "imdb": "tt0060028"
+   },
+   "s": {
+    "imdb": [8.4, 102316, "2026-10-03"],
+    "mc": [8.2, 145, "2026-10-03"],
+    "rt": [88, 1000, "2026-10-03"]
+   }
+  },
+  "star-trek-the-next-generation-1987": {
+   "t": "Star Trek: The Next Generation",
+   "y": 1987,
+   "by": "Gene Roddenberry",
+   "g": "Action / Sci-Fi",
+   "sum": "Captain Picard and a new Enterprise crew explore the galaxy a century after Kirk.",
+   "img": "t115",
+   "aw": ["Won 18 Emmys of 58 nominations"],
+   "ids": {
+    "imdb": "tt0092455"
+   },
+   "s": {
+    "imdb": [8.7, 151795, "2026-10-03"],
+    "mc": [8.7, 529, "2026-10-03"],
+    "rt": [90, 1000, "2026-10-03"]
+   }
+  },
+  "star-trek-deep-space-nine-1993": {
+   "t": "Star Trek: Deep Space Nine",
+   "y": 1993,
+   "by": "Rick Berman, Michael Piller",
+   "g": "Action / Sci-Fi",
+   "sum": "A space station near a wormhole becomes the frontline of a galactic war.",
+   "img": "t116",
+   "aw": ["Won 4 Emmys of 32 nominations"],
+   "ids": {
+    "imdb": "tt0106145"
+   },
+   "s": {
+    "imdb": [8.1, 78535, "2026-10-03"],
+    "mc": [8.5, 353, "2026-10-03"],
+    "rt": [89, 1000, "2026-10-03"]
+   }
+  },
+  "the-x-files-1993": {
+   "t": "The X-Files",
+   "y": 1993,
+   "by": "Chris Carter",
+   "g": "Sci-Fi / Crime",
+   "sum": "Two FBI agents investigate the paranormal and a government conspiracy.",
+   "img": "t117",
+   "aw": ["Won 16 Emmys of 62 nominations"],
+   "ids": {
+    "imdb": "tt0106179"
+   },
+   "s": {
+    "imdb": [8.6, 277377, "2026-10-03"],
+    "mc": [8.1, 1288, "2026-10-03"],
+    "rt": [85, 2500, "2026-10-03"]
+   }
+  },
+  "batman-the-animated-series-1992": {
+   "t": "Batman: The Animated Series",
+   "y": 1992,
+   "by": "Bruce Timm, Eric Radomski",
+   "g": "Animation / Action",
+   "sum": "A noir-styled animated Batman faces Gotham's most iconic villains.",
+   "img": "t118",
+   "aw": ["Won 1 Emmy"],
+   "ids": {
+    "imdb": "tt0103359"
+   },
+   "s": {
+    "imdb": [9, 140364, "2026-10-03"],
+    "mc": [9.4, 290, "2026-10-03"],
+    "rt": [94, 500, "2026-10-03"]
+   }
+  },
+  "the-fresh-prince-of-bel-air-1990": {
+   "t": "The Fresh Prince of Bel-Air",
+   "y": 1990,
+   "by": "Andy & Susan Borowitz",
+   "g": "Comedy",
+   "sum": "A street-smart teen from Philadelphia moves in with his wealthy relatives in Bel-Air.",
+   "img": "t122",
+   "aw": ["1 Emmy nomination"],
+   "ids": {
+    "imdb": "tt0098800"
+   },
+   "s": {
+    "imdb": [7.9, 154527, "2026-10-03"],
+    "mc": [8.4, 160, "2026-10-03"],
+    "rt": [91, 500, "2026-10-03"]
+   }
+  },
+  "buffy-the-vampire-slayer-1997": {
+   "t": "Buffy the Vampire Slayer",
+   "y": 1997,
+   "by": "Joss Whedon",
+   "g": "Action / Fantasy",
+   "sum": "A teenage girl destined to fight vampires and demons tries to have a normal high-school life.",
+   "img": "t123",
+   "aw": ["Won 2 Emmys of 14 nominations"],
+   "ids": {
+    "imdb": "tt0118276"
+   },
+   "s": {
+    "imdb": [8.3, 177063, "2026-10-03"],
+    "mc": [7.6, 851, "2026-10-03"],
+    "rt": [93, 2500, "2026-10-03"]
+   }
+  },
+  "er-1994": {
+   "t": "ER",
+   "y": 1994,
+   "by": "Michael Crichton",
+   "g": "Drama",
+   "sum": "The doctors and nurses of a busy Chicago emergency room.",
+   "img": "t124",
+   "aw": ["Won 23 Emmys of 124 nominations"],
+   "ids": {
+    "imdb": "tt0108757"
+   },
+   "s": {
+    "imdb": [7.9, 80708, "2026-10-03"],
+    "mc": [7.8, 91, "2026-10-03"],
+    "rt": [87, 250, "2026-10-03"]
+   }
+  },
+  "babylon-5-1993": {
+   "t": "Babylon 5",
+   "y": 1993,
+   "by": "J. Michael Straczynski",
+   "g": "Action / Sci-Fi",
+   "sum": "A space station becomes the centre of interstellar diplomacy and war, told as a planned five-year arc.",
+   "img": "t125",
+   "aw": ["Won 2 Emmys of 7 nominations"],
+   "ids": {
+    "imdb": "tt0105946"
+   },
+   "s": {
+    "imdb": [8.4, 37646, "2026-10-03"],
+    "mc": [8.8, 178, "2026-10-03"],
+    "rt": [92, 500, "2026-10-03"]
+   }
+  },
+  "columbo-1971": {
+   "t": "Columbo",
+   "y": 1971,
+   "by": "Richard Levinson, William Link",
+   "g": "Crime / Mystery",
+   "sum": "A rumpled, seemingly bumbling LAPD lieutenant outwits the murderers we watch commit the crime.",
+   "img": "t126",
+   "aw": ["Won 13 Emmys of 39 nominations"],
+   "ids": {
+    "imdb": "tt1466074"
+   },
+   "s": {
+    "imdb": [8.3, 48586, "2026-10-03"],
+    "mc": [8.6, 51, "2026-10-03"],
+    "rt": [83, 100, "2026-10-03"]
+   }
+  },
+  "cosmos-1980": {
+   "t": "Cosmos",
+   "y": 1980,
+   "by": "Carl Sagan, Ann Druyan",
+   "g": "Documentary",
+   "sum": "Carl Sagan's personal voyage through the universe and the history of science.",
+   "img": "t127",
+   "aw": ["Won 3 Emmys of 5 nominations"],
+   "ids": {
+    "imdb": "tt0081846"
+   },
+   "s": {
+    "imdb": [9.3, 53893, "2026-10-03"],
+    "rt": [86, 50, "2026-10-03"]
+   }
+  },
+  "the-larry-sanders-show-1992": {
+   "t": "The Larry Sanders Show",
+   "y": 1992,
+   "by": "Garry Shandling, Dennis Klein",
+   "g": "Comedy",
+   "sum": "A behind-the-scenes satire of a neurotic late-night talk show host.",
+   "img": "t128",
+   "aw": ["Won 3 Emmys of 56 nominations"],
+   "ids": {
+    "imdb": "tt0103466"
+   },
+   "s": {
+    "imdb": [8.5, 10311, "2026-10-03"],
+    "mc": [6.1, 224, "2026-10-03"],
+    "rt": [74, 50, "2026-10-03"]
+   }
+  },
+  "oz-1997": {
+   "t": "Oz",
+   "y": 1997,
+   "by": "Tom Fontana",
+   "g": "Crime / Drama",
+   "sum": "Life inside an experimental unit of a maximum-security prison.",
+   "img": "t129",
+   "aw": ["2 Emmy nominations"],
+   "ids": {
+    "imdb": "tt0118421"
+   },
+   "s": {
+    "imdb": [8.7, 118109, "2026-10-03"],
+    "mc": [8.4, 296, "2026-10-03"],
+    "rt": [95, 500, "2026-10-03"]
+   }
+  },
+  "prime-suspect-1991": {
+   "t": "Prime Suspect",
+   "y": 1991,
+   "by": "Lynda La Plante",
+   "g": "Crime / Drama",
+   "sum": "A detective chief inspector battles sexism in the Metropolitan Police while solving murders.",
+   "img": "t130",
+   "aw": ["Won 4 BAFTA TV Awards of 9 nominations"],
+   "ids": {
+    "imdb": "tt0098898"
+   },
+   "s": {
+    "imdb": [8.3, 10981, "2026-10-03"],
+    "mc": [7.5, 50, "2026-10-03"],
+    "rt": [73, 100, "2026-10-03"]
+   }
+  },
+  "yes-minister-1980": {
+   "t": "Yes Minister",
+   "y": 1980,
+   "by": "Antony Jay, Jonathan Lynn",
+   "g": "Comedy",
+   "sum": "A government minister's plans are constantly thwarted by his crafty civil servant.",
+   "img": "t131",
+   "aw": ["Won 5 BAFTA TV Awards of 8 nominations"],
+   "ids": {
+    "imdb": "tt0080306"
+   },
+   "s": {
+    "imdb": [8.6, 19198, "2026-10-03"],
+    "mc": [9.4, 23, "2026-10-03"],
+    "rt": [94, 50, "2026-10-03"]
+   }
+  },
+  "only-fools-and-horses-1981": {
+   "t": "Only Fools and Horses",
+   "y": 1981,
+   "by": "John Sullivan",
+   "g": "Comedy",
+   "sum": "Two brothers in Peckham chase get-rich-quick schemes that never quite work.",
+   "img": "t132",
+   "aw": ["Won 6 BAFTA TV Awards of 18 nominations"],
+   "ids": {
+    "imdb": "tt0081912"
+   },
+   "s": {
+    "imdb": [9, 66975, "2026-10-03"],
+    "mc": [8.1, 63, "2026-10-03"],
+    "rt": [90, 100, "2026-10-03"]
+   }
+  },
+  "doctor-who-1963-1963": {
+   "t": "Doctor Who (1963)",
+   "y": 1963,
+   "by": "Sydney Newman",
+   "g": "Adventure / Sci-Fi",
+   "sum": "The original adventures of a time-travelling alien and companions through time and space.",
+   "img": "t133",
+   "aw": ["2 BAFTA TV Award nominations"],
+   "ids": {
+    "imdb": "tt0056751"
+   },
+   "s": {
+    "imdb": [8.4, 41613, "2026-10-03"],
+    "mc": [9.4, 11, "2026-10-03"],
+    "rt": [80, 1000, "2026-10-03"]
+   }
+  },
+  "the-prisoner-1967": {
+   "t": "The Prisoner",
+   "y": 1967,
+   "by": "Patrick McGoohan",
+   "g": "Mystery / Sci-Fi",
+   "sum": "A spy who resigns wakes up in a mysterious village and is interrogated for why.",
+   "img": "t134",
+   "ids": {
+    "imdb": "tt0061287"
+   },
+   "s": {
+    "imdb": [8.4, 16529, "2026-10-03"],
+    "mc": [5.2, 13, "2026-10-03"],
+    "rt": [93, 50, "2026-10-03"]
+   }
+  },
+  "roots-1977": {
+   "t": "Roots",
+   "y": 1977,
+   "by": "David L. Wolper (producer)",
+   "g": "Drama / History",
+   "sum": "The saga of an African man sold into slavery and his descendants in America.",
+   "img": "t135",
+   "aw": ["Won 9 Emmys of 37 nominations"],
+   "ids": {
+    "imdb": "tt0075572"
+   },
+   "s": {
+    "imdb": [8.4, 20327, "2026-10-03"],
+    "mc": [8.1, 9, "2026-10-03"],
+    "rt": [64, 50, "2026-10-03"]
+   }
+  },
+  "i-claudius-1976": {
+   "t": "I, Claudius",
+   "y": 1976,
+   "by": "Jack Pulman",
+   "g": "Drama / History",
+   "sum": "Intrigue and murder in the Roman imperial family, narrated by the overlooked Claudius.",
+   "img": "t136",
+   "aw": ["Won 1 Emmy of 3 nominations"],
+   "ids": {
+    "imdb": "tt0074006"
+   },
+   "s": {
+    "imdb": [8.8, 22523, "2026-10-03"],
+    "rt": [91, 50, "2026-10-03"]
+   }
+  },
+  "the-wonder-years-1988": {
+   "t": "The Wonder Years",
+   "y": 1988,
+   "by": "Carol Black, Neal Marlens",
+   "g": "Comedy / Drama",
+   "sum": "An adult looks back on growing up in suburban America in the late 1960s.",
+   "img": "t137",
+   "aw": ["Won 4 Emmys of 28 nominations"],
+   "ids": {
+    "imdb": "tt0094582"
+   },
+   "s": {
+    "imdb": [8.3, 44266, "2026-10-03"],
+    "mc": [8.8, 72, "2026-10-03"],
+    "rt": [87, 100, "2026-10-03"]
+   }
+  },
+  "king-of-the-hill-1997": {
+   "t": "King of the Hill",
+   "y": 1997,
+   "by": "Mike Judge, Greg Daniels",
+   "g": "Animation / Comedy",
+   "sum": "A propane salesman tries to uphold traditional values for his family in small-town Texas.",
+   "img": "t138",
+   "aw": ["Won 2 Emmys of 8 nominations"],
+   "ids": {
+    "imdb": "tt0118375"
+   },
+   "s": {
+    "imdb": [7.6, 67009, "2026-10-03"],
+    "mc": [8.4, 253, "2026-10-03"],
+    "rt": [82, 500, "2026-10-03"]
+   }
+  },
+  "south-park-1997": {
+   "t": "South Park",
+   "y": 1997,
+   "by": "Trey Parker, Matt Stone",
+   "g": "Animation / Comedy",
+   "sum": "Four foul-mouthed boys in a Colorado town satirise current events.",
+   "img": "t139",
+   "aw": ["Won 6 Emmys of 23 nominations"],
+   "ids": {
+    "imdb": "tt0121955"
+   },
+   "s": {
+    "imdb": [8.7, 449992, "2026-10-03"],
+    "mc": [8.2, 2715, "2026-10-03"],
+    "rt": [83, 5000, "2026-10-03"]
+   }
+  },
+  "dekalog-1989": {
+   "t": "Dekalog",
+   "y": 1989,
+   "by": "Krzysztof Kieślowski",
+   "g": "Drama",
+   "sum": "Ten short films set in a Warsaw housing estate, each inspired by one of the Ten Commandments.",
+   "img": "t140",
+   "ids": {
+    "imdb": "tt0092337"
+   },
+   "s": {
+    "imdb": [8.9, 35314, "2026-10-03"]
+   }
+  },
+  "pride-and-prejudice-1995-1995": {
+   "t": "Pride and Prejudice (1995)",
+   "y": 1995,
+   "by": "Andrew Davies",
+   "g": "Drama / Romance",
+   "sum": "The BBC adaptation of Austen's novel, with Jennifer Ehle and Colin Firth.",
+   "img": "t141",
+   "aw": ["Won 1 Emmy of 4 nominations"],
+   "ids": {
+    "imdb": "tt0112130"
+   },
+   "s": {
+    "imdb": [8.8, 105245, "2026-10-03"],
+    "rt": [96, 250, "2026-10-03"]
+   }
+  },
+  "happy-days-1974": {
+   "t": "Happy Days",
+   "y": 1974,
+   "by": "Garry Marshall",
+   "g": "Comedy",
+   "sum": "Family life and teenage antics in 1950s Milwaukee.",
+   "img": "t142",
+   "aw": ["Won 1 Emmy of 9 nominations"],
+   "ids": {
+    "imdb": "tt0070992"
+   },
+   "s": {
+    "imdb": [7.4, 23507, "2026-10-03"],
+    "mc": [8.4, 14, "2026-10-03"]
+   }
+  },
+  "the-andy-griffith-show-1960": {
+   "t": "The Andy Griffith Show",
+   "y": 1960,
+   "by": "Sheldon Leonard, Aaron Ruben",
+   "g": "Comedy",
+   "sum": "A small-town sheriff and widower raises his son in Mayberry, North Carolina.",
+   "img": "t143",
+   "aw": ["Won 6 Emmys of 9 nominations"],
+   "ids": {
+    "imdb": "tt0053479"
+   },
+   "s": {
+    "imdb": [8.4, 19266, "2026-10-03"],
+    "mc": [7.6, 18, "2026-10-03"],
+    "rt": [88, 50, "2026-10-03"]
+   }
+  },
+  "the-honeymooners-1955": {
+   "t": "The Honeymooners",
+   "y": 1955,
+   "by": "Jackie Gleason",
+   "g": "Comedy",
+   "sum": "A bus driver's get-rich schemes clash with his sharp-witted wife in a Brooklyn apartment.",
+   "img": "t144",
+   "aw": ["Won 1 Emmy of 3 nominations"],
+   "ids": {
+    "imdb": "tt0042114"
+   },
+   "s": {
+    "imdb": [8.6, 6952, "2026-10-03"]
+   }
+  },
+  "taxi-1978": {
+   "t": "Taxi",
+   "y": 1978,
+   "by": "James L. Brooks, Stan Daniels",
+   "g": "Comedy",
+   "sum": "The drivers of a New York taxi company dream of better lives.",
+   "img": "t145",
+   "aw": ["Won 18 Emmys of 34 nominations"],
+   "ids": {
+    "imdb": "tt0077089"
+   },
+   "s": {
+    "imdb": [7.7, 18023, "2026-10-03"],
+    "mc": [8.3, 8, "2026-10-03"],
+    "rt": [77, 50, "2026-10-03"]
+   }
+  },
+  "all-in-the-family-1971": {
+   "t": "All in the Family",
+   "y": 1971,
+   "by": "Norman Lear",
+   "g": "Comedy / Drama",
+   "sum": "A bigoted working-class father clashes with his liberal family in Queens.",
+   "img": "t146",
+   "aw": ["Won 22 Emmys of 56 nominations"],
+   "ids": {
+    "imdb": "tt0066626"
+   },
+   "s": {
+    "imdb": [8.4, 21311, "2026-10-03"],
+    "mc": [8.5, 19, "2026-10-03"],
+    "rt": [85, 50, "2026-10-03"]
+   }
+  },
+  "hill-street-blues-1981": {
+   "t": "Hill Street Blues",
+   "y": 1981,
+   "by": "Steven Bochco, Michael Kozoll",
+   "g": "Crime / Drama",
+   "sum": "The officers of an inner-city police precinct deal with crime and their own lives.",
+   "img": "t147",
+   "aw": ["Won 26 Emmys of 98 nominations"],
+   "ids": {
+    "imdb": "tt0081873"
+   },
+   "s": {
+    "imdb": [8.2, 12034, "2026-10-03"],
+    "mc": [9.2, 15, "2026-10-03"],
+    "rt": [88, 50, "2026-10-03"]
+   }
+  },
+  "the-mary-tyler-moore-show-1970": {
+   "t": "The Mary Tyler Moore Show",
+   "y": 1970,
+   "by": "James L. Brooks, Allan Burns",
+   "g": "Comedy",
+   "sum": "A single woman starts a new career at a Minneapolis TV newsroom.",
+   "img": "t148",
+   "aw": ["Won 29 Emmys of 67 nominations"],
+   "ids": {
+    "imdb": "tt0065314"
+   },
+   "s": {
+    "imdb": [8.3, 11450, "2026-10-03"],
+    "mc": [9.7, 23, "2026-10-03"]
+   }
+  },
+  "life-on-earth-1979": {
+   "t": "Life on Earth",
+   "y": 1979,
+   "by": "David Attenborough",
+   "g": "Documentary",
+   "sum": "David Attenborough's first great natural history series, tracing the evolution of life.",
+   "img": "t149",
+   "aw": ["4 BAFTA TV Award nominations"],
+   "ids": {
+    "imdb": "tt0135095"
+   },
+   "s": {
+    "imdb": [9.1, 3487, "2026-10-03"]
+   }
+  },
+  "x-men-97-2024": {
+   "t": "X-Men '97",
+   "y": 2024,
+   "by": "Beau DeMayo",
+   "g": "Animation / Action",
+   "sum": "Picking up where the 1990s cartoon left off, the X-Men face a world that hates and fears them after losing their leader.",
+   "img": "ct0",
+   "ids": {
+    "imdb": "tt16026746"
+   },
+   "s": {
+    "imdb": [8.7, 60388, "2026-10-03"],
+    "mc": [8, 395, "2026-10-03"],
+    "rt": [84, 1000, "2026-10-03"]
+   }
+  },
+  "the-legend-of-vox-machina-2022": {
+   "t": "The Legend of Vox Machina",
+   "y": 2022,
+   "by": "Critical Role",
+   "g": "Animation / Action",
+   "sum": "A band of misfit mercenaries becomes the unlikely saviours of their realm, based on the Critical Role campaign.",
+   "img": "ct1",
+   "ids": {
+    "imdb": "tt11247158"
+   },
+   "s": {
+    "imdb": [8.4, 57050, "2026-10-03"],
+    "mc": [7.9, 318, "2026-10-03"],
+    "rt": [93, 2500, "2026-10-03"]
+   }
+  },
+  "star-wars-maul-shadow-lord-2026": {
+   "t": "Star Wars: Maul – Shadow Lord",
+   "y": 2026,
+   "by": "Dave Filoni, Matt Michnovetz",
+   "g": "Animation / Action",
+   "sum": "After the Clone Wars, Maul plots to rebuild his criminal empire on a world the Empire hasn't reached.",
+   "img": "ct2",
+   "ids": {
+    "imdb": "tt36594331"
+   },
+   "s": {
+    "imdb": [8.5, 31093, "2026-10-03"],
+    "rt": [93, 500, "2026-10-03"]
+   }
+  },
+  "widow-s-bay-2026": {
+   "t": "Widow's Bay",
+   "y": 2026,
+   "by": "Katie Dippold",
+   "g": "Horror / Mystery",
+   "sum": "The sceptical mayor of a cursed New England island tries to lead its deeply superstitious residents.",
+   "img": "ct3",
+   "ids": {
+    "imdb": "tt33332385"
+   },
+   "s": {
+    "imdb": [8.1, 89338, "2026-10-03"],
+    "mc": [8, 235, "2026-10-03"],
+    "rt": [92, 1000, "2026-10-03"]
+   }
+  },
+  "the-gentlemen-2024": {
+   "t": "The Gentlemen",
+   "y": 2024,
+   "by": "Guy Ritchie",
+   "g": "Crime / Drama",
+   "sum": "An aristocrat inherits his family estate and discovers it sits on top of a huge cannabis empire.",
+   "img": "ct4",
+   "ids": {
+    "imdb": "tt13210838"
+   },
+   "s": {
+    "imdb": [8.1, 204765, "2026-10-03"],
+    "mc": [7, 235, "2026-10-03"],
+    "rt": [86, 1000, "2026-10-03"]
+   }
+  },
+  "hacks-2021": {
+   "t": "Hacks",
+   "y": 2021,
+   "by": "Lucia Aniello, Paul W. Downs",
+   "g": "Comedy / Drama",
+   "sum": "A legendary Las Vegas comedian and an out-of-work young writer form a prickly, hilarious partnership.",
+   "img": "ct5",
+   "ids": {
+    "imdb": "tt11815682"
+   },
+   "s": {
+    "imdb": [8.2, 70651, "2026-10-03"],
+    "mc": [7.7, 318, "2026-10-03"],
+    "rt": [86, 1000, "2026-10-03"]
+   }
+  },
+  "dutton-ranch-2026": {
+   "t": "Dutton Ranch",
+   "y": 2026,
+   "by": "Chad Feehan",
+   "g": "Drama / Western",
+   "sum": "Beth Dutton and Rip Wheeler fight to keep a new ranch alive against tough times and tougher rivals.",
+   "img": "ct6",
+   "ids": {
+    "imdb": "tt34991493"
+   },
+   "s": {
+    "imdb": [8.2, 26834, "2026-10-03"],
+    "mc": [7.4, 50, "2026-10-03"],
+    "rt": [85, 250, "2026-10-03"]
+   }
+  },
+  "the-rookie-2018": {
+   "t": "The Rookie",
+   "y": 2018,
+   "by": "Alexi Hawley",
+   "g": "Action / Crime",
+   "sum": "A man in his forties starts over as the oldest rookie in the Los Angeles Police Department.",
+   "img": "ct7",
+   "ids": {
+    "imdb": "tt7587890"
+   },
+   "s": {
+    "imdb": [8, 136969, "2026-10-03"],
+    "mc": [7.2, 277, "2026-10-03"],
+    "rt": [75, 1000, "2026-10-03"]
+   }
+  },
+  "scrubs-2026": {
+   "t": "Scrubs",
+   "y": 2026,
+   "by": "Aseem Batra, Tim Hobert",
+   "g": "Comedy / Drama",
+   "sum": "J.D. and Turk scrub in together again at Sacred Heart, where medicine and interns have changed but their friendship hasn't.",
+   "img": "ct8",
+   "ids": {
+    "imdb": "tt40197357"
+   },
+   "s": {
+    "imdb": [8.2, 12659, "2026-10-03"],
+    "mc": [8.3, 64, "2026-10-03"],
+    "rt": [92, 250, "2026-10-03"]
+   }
+  },
+  "off-campus-2026": {
+   "t": "Off Campus",
+   "y": 2026,
+   "by": "Louisa Levy",
+   "g": "Drama / Romance",
+   "sum": "A music student and a college hockey star fall into an unexpected romance.",
+   "img": "ct9",
+   "ids": {
+    "imdb": "tt33546863"
+   },
+   "s": {
+    "imdb": [7.8, 57144, "2026-10-03"],
+    "mc": [7.3, 33, "2026-10-03"],
+    "rt": [88, 1000, "2026-10-03"]
+   }
+  },
+  "beef-2023": {
+   "t": "Beef",
+   "y": 2023,
+   "by": "Lee Sung Jin",
+   "g": "Comedy / Drama",
+   "sum": "A road-rage incident between two strangers spirals into an obsessive feud that consumes both their lives.",
+   "img": "ct10",
+   "ids": {
+    "imdb": "tt14403178"
+   },
+   "s": {
+    "imdb": [8, 181087, "2026-10-03"],
+    "mc": [7.6, 441, "2026-10-03"],
+    "rt": [76, 2500, "2026-10-03"]
+   }
+  },
+  "the-testaments-2026": {
+   "t": "The Testaments",
+   "y": 2026,
+   "by": "Bruce Miller",
+   "g": "Drama / Thriller",
+   "sum": "Fifteen years after The Handmaid's Tale, two girls on either side of Gilead's border are drawn into its downfall.",
+   "img": "ct11",
+   "ids": {
+    "imdb": "tt10970762"
+   },
+   "s": {
+    "imdb": [8.2, 14933, "2026-10-03"],
+    "mc": [6.2, 33, "2026-10-03"],
+    "rt": [83, 250, "2026-10-03"]
+   }
+  },
+  "half-man-2026": {
+   "t": "Half Man",
+   "y": 2026,
+   "by": "Richard Gadd",
+   "g": "Drama",
+   "sum": "A man turns up at his estranged brother's wedding, reopening forty years of violence and love between them.",
+   "img": "ct12",
+   "ids": {
+    "imdb": "tt32767294"
+   },
+   "s": {
+    "imdb": [8, 18320, "2026-10-03"],
+    "mc": [7.3, 55, "2026-10-03"],
+    "rt": [84, 250, "2026-10-03"]
+   }
+  },
+  "tip-toe-2026": {
+   "t": "Tip Toe",
+   "y": 2026,
+   "by": "Tony Schumacher",
+   "g": "Drama / Thriller",
+   "sum": "Two neighbours, a bar owner and an electrician raising two sons, find their lives unravelling as tensions rise between them.",
+   "img": "ct13",
+   "ids": {
+    "imdb": "tt35768911"
+   },
+   "s": {
+    "imdb": [8.1, 6916, "2026-10-03"],
+    "mc": [8, 4, "2026-10-03"],
+    "rt": [81, 100, "2026-10-03"]
+   }
+  },
+  "legends-2026": {
+   "t": "Legends",
+   "y": 2026,
+   "by": "Neil Forsyth",
+   "g": "Crime / Drama",
+   "sum": "Customs officers go undercover to infiltrate Britain's most dangerous drug gangs, based on true events.",
+   "img": "ct14",
+   "ids": {
+    "imdb": "tt33265765"
+   },
+   "s": {
+    "imdb": [7.8, 30169, "2026-10-03"],
+    "mc": [6.9, 44, "2026-10-03"],
+    "rt": [84, 250, "2026-10-03"]
+   }
+  },
+  "perfect-crown-2026": {
+   "t": "Perfect Crown",
+   "y": 2026,
+   "by": "Yoo Ji-won",
+   "g": "Comedy / Romance",
+   "sum": "In a modern Korea with a royal family, a chaebol heiress and a powerless prince enter a contract marriage.",
+   "img": "ct15",
+   "ids": {
+    "imdb": "tt39333617"
+   },
+   "s": {
+    "imdb": [7.8, 6596, "2026-10-03"],
+    "rt": [91, 50, "2026-10-03"]
+   }
+  },
+  "spider-noir-2026": {
+   "t": "Spider-Noir",
+   "y": 2026,
+   "by": "Oren Uziel",
+   "g": "Action / Adventure",
+   "sum": "A down-on-his-luck private eye in 1930s New York is forced to face his past as the city's only superhero.",
+   "img": "ct16",
+   "ids": {
+    "imdb": "tt30460310"
+   },
+   "s": {
+    "imdb": [7.7, 74228, "2026-10-03"],
+    "mc": [7.3, 243, "2026-10-03"],
+    "rt": [90, 1000, "2026-10-03"]
+   }
+  },
+  "furious-2026": {
+   "t": "Furious",
+   "y": 2026,
+   "by": "Elizabeth Meriwether",
+   "g": "Crime / Drama",
+   "sum": "An FBI agent hunts a calculating female serial killer, and the line between hunter and prey starts to blur.",
+   "img": "ct17",
+   "ids": {
+    "imdb": "tt36303968"
+   },
+   "s": {
+    "imdb": [7.8, 29289, "2026-10-03"],
+    "mc": [6.9, 110, "2026-10-03"],
+    "rt": [89, 500, "2026-10-03"]
+   }
+  },
+  "star-city-2026": {
+   "t": "Star City",
+   "y": 2026,
+   "by": "Ronald D. Moore, Ben Nedivi",
+   "g": "Drama / Sci-Fi",
+   "sum": "Soviet cosmonauts, engineers and spies risk everything in the race to put the first man on the Moon.",
+   "img": "ct18",
+   "ids": {
+    "imdb": "tt32140872"
+   },
+   "s": {
+    "imdb": [7.6, 7662, "2026-10-03"],
+    "mc": [6.9, 56, "2026-10-03"],
+    "rt": [81, 100, "2026-10-03"]
+   }
+  },
+  "neagley-2026": {
+   "t": "Neagley",
+   "y": 2026,
+   "by": "Nick Santora",
+   "g": "Action / Crime",
+   "sum": "Frances Neagley, one of Jack Reacher's old unit, goes after the people behind a friend's death.",
+   "img": "ct19",
+   "ids": {},
+   "s": {
+    "imdb": [7.7, 18649, "2026-10-03"],
+    "mc": [5.6, 50, "2026-10-03"],
+    "rt": [83, 250, "2026-10-03"]
+   }
+  },
+  "ride-or-die-2026": {
+   "t": "Ride or Die",
+   "y": 2026,
+   "by": "Tessa Coates",
+   "g": "Action / Comedy",
+   "sum": "A woman discovers her best friend of twenty years is secretly an assassin, and joins her on the run.",
+   "img": "ct20",
+   "ids": {
+    "imdb": "tt30494226"
+   },
+   "s": {
+    "imdb": [7.5, 17212, "2026-10-03"],
+    "mc": [6.5, 35, "2026-10-03"],
+    "rt": [84, 250, "2026-10-03"]
+   }
+  },
+  "sterling-point-2026": {
+   "t": "Sterling Point",
+   "y": 2026,
+   "by": "Megan Park",
+   "g": "Drama / Mystery",
+   "sum": "Twins raised in New York by their father discover a grandmother and a family history they never knew about.",
+   "img": "ct21",
+   "ids": {
+    "imdb": "tt35618070"
+   },
+   "s": {
+    "imdb": [7.4, 17801, "2026-10-03"],
+    "mc": [6.9, 42, "2026-10-03"],
+    "rt": [83, 250, "2026-10-03"]
+   }
+  },
+  "rooster-2026": {
+   "t": "Rooster",
+   "y": 2026,
+   "by": "Bill Lawrence, Matt Tarses",
+   "g": "Comedy",
+   "sum": "A writer moves to the college campus where his daughter teaches, testing their relationship.",
+   "img": "ct22",
+   "ids": {
+    "imdb": "tt32420734"
+   },
+   "s": {
+    "imdb": [7.6, 24648, "2026-10-03"],
+    "mc": [7, 59, "2026-10-03"],
+    "rt": [76, 500, "2026-10-03"]
+   }
+  },
+  "reacher-2022": {
+   "t": "Reacher",
+   "y": 2022,
+   "by": "Nick Santora",
+   "g": "Action / Crime",
+   "sum": "Drifter and former military cop Jack Reacher keeps walking into trouble and settling it his own way.",
+   "img": "ct23",
+   "ids": {
+    "imdb": "tt9288030"
+   },
+   "s": {
+    "imdb": [8, 321079, "2026-10-03"],
+    "mc": [7.2, 747, "2026-10-03"],
+    "rt": [77, 5000, "2026-10-03"]
+   }
+  },
+  "margo-s-got-money-troubles-2026": {
+   "t": "Margo's Got Money Troubles",
+   "y": 2026,
+   "by": "David E. Kelley",
+   "g": "Comedy / Drama",
+   "sum": "A broke young mother turns to an online subscription site, with help from her estranged ex-wrestler father.",
+   "img": "ct24",
+   "ids": {
+    "imdb": "tt31137273"
+   },
+   "s": {
+    "imdb": [7.3, 19526, "2026-10-03"],
+    "mc": [7, 65, "2026-10-03"],
+    "rt": [81, 250, "2026-10-03"]
+   }
+  }
+ },
+ "series": {},
+ "lists": {
+  "M": ["breaking-bad-2008", "the-sopranos-1999", "the-wire-2002", "game-of-thrones-2011", "chernobyl-2019", "band-of-brothers-2001", "better-call-saul-2015", "succession-2018", "true-detective-2014", "sherlock-2010", "the-office-us-2005", "fargo-2014", "mad-men-2007", "stranger-things-2016", "arcane-2019", "avatar-the-last-airbender-2005", "rick-and-morty-2013", "bojack-horseman-2014", "dark-2017", "black-mirror-2011", "the-last-of-us-2023", "shogun-2024", "the-bear-2022", "severance-2022", "ted-lasso-2020", "peaky-blinders-2013", "narcos-2015", "ozark-2017", "mindhunter-2017", "house-of-the-dragon-2022", "the-boys-2019", "the-mandalorian-2019", "andor-2022", "westworld-2016", "lost-2004", "dexter-2006", "house-2004", "friday-night-lights-2006", "parks-and-recreation-2009", "brooklyn-nine-nine-2013", "community-2009", "arrested-development-2003", "it-s-always-sunny-in-philadelphia-2005", "curb-your-enthusiasm-2000", "how-i-met-your-mother-2005", "modern-family-2009", "schitt-s-creek-2015", "fleabag-2016", "the-crown-2016", "downton-abbey-2010", "planet-earth-2006", "planet-earth-ii-2016", "blue-planet-ii-2017", "our-planet-2019", "cosmos-a-spacetime-odyssey-2014", "the-last-dance-2020", "the-pacific-2010", "generation-kill-2008", "six-feet-under-2001", "deadwood-2004", "boardwalk-empire-2010", "the-leftovers-2014", "hannibal-2013", "the-expanse-2015", "battlestar-galactica-2004", "doctor-who-2005-2005", "firefly-2002", "squid-game-2021", "money-heist-2017", "justified-2010", "sons-of-anarchy-2008", "the-shield-2002", "veep-2012", "silicon-valley-2014", "what-we-do-in-the-shadows-2019", "atlanta-2016", "barry-2018", "the-haunting-of-hill-house-2018", "mare-of-easttown-2021", "the-queen-s-gambit-2020", "watchmen-2019", "invincible-2021", "gravity-falls-2012", "cobra-kai-2018", "yellowstone-2018", "mr-robot-2015", "daredevil-2015", "the-west-wing-1999", "futurama-1999", "the-office-uk-2001", "gilmore-girls-2000", "malcolm-in-the-middle-2000", "the-walking-dead-2010"],
+  "C": ["seinfeld-1989", "friends-1994", "the-twilight-zone-1959", "twin-peaks-1990", "the-simpsons-1989", "fawlty-towers-1975", "blackadder-1983", "monty-python-s-flying-circus-1969", "cheers-1982", "frasier-1993", "m-a-s-h-1972", "i-love-lucy-1951", "star-trek-1966", "star-trek-the-next-generation-1987", "star-trek-deep-space-nine-1993", "the-x-files-1993", "batman-the-animated-series-1992", "the-fresh-prince-of-bel-air-1990", "buffy-the-vampire-slayer-1997", "er-1994", "babylon-5-1993", "columbo-1971", "cosmos-1980", "the-larry-sanders-show-1992", "oz-1997", "prime-suspect-1991", "yes-minister-1980", "only-fools-and-horses-1981", "doctor-who-1963-1963", "the-prisoner-1967", "roots-1977", "i-claudius-1976", "the-wonder-years-1988", "king-of-the-hill-1997", "south-park-1997", "dekalog-1989", "pride-and-prejudice-1995-1995", "happy-days-1974", "the-andy-griffith-show-1960", "the-honeymooners-1955", "taxi-1978", "all-in-the-family-1971", "hill-street-blues-1981", "the-mary-tyler-moore-show-1970", "life-on-earth-1979"],
+  "N": ["it-s-always-sunny-in-philadelphia-2005", "invincible-2021", "south-park-1997", "ted-lasso-2020", "x-men-97-2024", "the-legend-of-vox-machina-2022", "the-bear-2022", "star-wars-maul-shadow-lord-2026", "widow-s-bay-2026", "the-gentlemen-2024", "hacks-2021", "dutton-ranch-2026", "the-rookie-2018", "scrubs-2026", "off-campus-2026", "beef-2023", "the-testaments-2026", "half-man-2026", "tip-toe-2026", "legends-2026", "perfect-crown-2026", "spider-noir-2026", "furious-2026", "star-city-2026", "neagley-2026", "ride-or-die-2026", "sterling-point-2026", "rooster-2026", "reacher-2022", "margo-s-got-money-troubles-2026"]
+ }
+}

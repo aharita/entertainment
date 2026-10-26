@@ -1,0 +1,6397 @@
+{
+ "current": {
+  "from": "2026-04-03",
+  "to": "2026-10-03",
+  "about": "Shows and films from the Spring and Summer 2026 seasons, or a show with a new season then"
+ },
+ "works": {
+  "fullmetal-alchemist-brotherhood-2009": {
+   "t": "Fullmetal Alchemist: Brotherhood",
+   "y": 2009,
+   "by": "Bones",
+   "g": "Action / Adventure / Drama",
+   "sum": "Two brothers who lost their bodies in a forbidden alchemy ritual search for the Philosopher's Stone, uncovering a conspiracy that reaches the top of their nation.",
+   "img": "a0",
+   "ids": {
+    "imdb": "tt1355642",
+    "al": "5114",
+    "mal": "5114"
+   },
+   "s": {
+    "mal": [9.11, 2345275, "2026-10-03"],
+    "al": [90, 733298, "2026-10-03"],
+    "imdb": [9.1, 259249, "2026-10-03"]
+   }
+  },
+  "steins-gate-2011": {
+   "t": "Steins;Gate",
+   "y": 2011,
+   "by": "White Fox",
+   "g": "Drama / Psychological / Sci-Fi",
+   "sum": "A self-styled mad scientist accidentally discovers how to send messages to the past, with consequences he must undo.",
+   "img": "a1",
+   "ids": {
+    "imdb": "tt1910272",
+    "al": "9253",
+    "mal": "9253"
+   },
+   "s": {
+    "mal": [9.07, 1542486, "2026-10-03"],
+    "al": [89, 598485, "2026-10-03"],
+    "imdb": [8.8, 97297, "2026-10-03"]
+   }
+  },
+  "attack-on-titan-2013": {
+   "t": "Attack on Titan",
+   "y": 2013,
+   "img": "a2",
+   "ids": {
+    "imdb": "tt2560140",
+    "al": "16498",
+    "mal": "16498"
+   },
+   "s": {
+    "mal": [8.58, 3115782, "2026-10-03"],
+    "al": [85, 1061122, "2026-10-03"],
+    "imdb": [9.1, 750925, "2026-10-03"]
+   }
+  },
+  "attack-on-titan-season-2-2017": {
+   "t": "Attack on Titan Season 2",
+   "y": 2017,
+   "img": "a2",
+   "ids": {
+    "imdb": "tt2560140",
+    "al": "20958",
+    "mal": "25777"
+   },
+   "s": {
+    "mal": [8.54, 2099860, "2026-10-03"],
+    "al": [85, 738074, "2026-10-03"],
+    "imdb": [9.1, 750925, "2026-10-03"]
+   }
+  },
+  "attack-on-titan-season-3-2018": {
+   "t": "Attack on Titan Season 3",
+   "y": 2018,
+   "img": "a2",
+   "ids": {
+    "imdb": "tt2560140",
+    "al": "99147",
+    "mal": "35760"
+   },
+   "s": {
+    "mal": [8.65, 1845541, "2026-10-03"],
+    "al": [86, 690534, "2026-10-03"],
+    "imdb": [9.1, 750925, "2026-10-03"]
+   }
+  },
+  "attack-on-titan-season-3-part-2-2019": {
+   "t": "Attack on Titan Season 3 Part 2",
+   "y": 2019,
+   "img": "a2",
+   "ids": {
+    "imdb": "tt2560140",
+    "al": "104578",
+    "mal": "38524"
+   },
+   "s": {
+    "mal": [9.05, 1827971, "2026-10-03"],
+    "al": [89, 614780, "2026-10-03"],
+    "imdb": [9.1, 750925, "2026-10-03"]
+   }
+  },
+  "attack-on-titan-final-season-2020": {
+   "t": "Attack on Titan Final Season",
+   "y": 2020,
+   "img": "a2",
+   "aw": ["Anime of the Year, Crunchyroll Anime Awards 2022"],
+   "ids": {
+    "imdb": "tt2560140",
+    "al": "110277",
+    "mal": "40028"
+   },
+   "s": {
+    "mal": [8.79, 1556000, "2026-10-03"],
+    "al": [87, 646828, "2026-10-03"],
+    "imdb": [9.1, 750925, "2026-10-03"]
+   }
+  },
+  "attack-on-titan-final-season-part-2-2022": {
+   "t": "Attack on Titan Final Season Part 2",
+   "y": 2022,
+   "img": "a2",
+   "ids": {
+    "imdb": "tt2560140",
+    "al": "131681",
+    "mal": "48583"
+   },
+   "s": {
+    "mal": [8.78, 964228, "2026-10-03"],
+    "al": [86, 444057, "2026-10-03"],
+    "imdb": [9.1, 750925, "2026-10-03"]
+   }
+  },
+  "frieren-beyond-journey-s-end-2023": {
+   "t": "Frieren: Beyond Journey’s End",
+   "y": 2023,
+   "img": "a3",
+   "ids": {
+    "imdb": "tt22248376",
+    "al": "154587",
+    "mal": "52991"
+   },
+   "s": {
+    "mal": [9.25, 940749, "2026-10-03"],
+    "al": [91, 485919, "2026-10-03"],
+    "imdb": [8.9, 85477, "2026-10-03"]
+   }
+  },
+  "frieren-beyond-journey-s-end-season-2-2026": {
+   "t": "Frieren: Beyond Journey’s End Season 2",
+   "y": 2026,
+   "img": "a3",
+   "ids": {
+    "imdb": "tt22248376",
+    "al": "182255",
+    "mal": "59978"
+   },
+   "s": {
+    "mal": [8.84, 301954, "2026-10-03"],
+    "al": [87, 228463, "2026-10-03"],
+    "imdb": [8.9, 85477, "2026-10-03"]
+   }
+  },
+  "hunter-x-hunter-2011-2011": {
+   "t": "Hunter x Hunter (2011)",
+   "y": 2011,
+   "by": "Madhouse",
+   "g": "Action / Adventure / Fantasy",
+   "sum": "Young Gon sets out to become a Hunter and find his absent father, befriending an assassin's heir along the way.",
+   "img": "a4",
+   "ids": {
+    "imdb": "tt2098220",
+    "al": "11061",
+    "mal": "11061"
+   },
+   "s": {
+    "mal": [9.03, 2015958, "2026-10-03"],
+    "al": [89, 845635, "2026-10-03"],
+    "imdb": [9, 206329, "2026-10-03"]
+   }
+  },
+  "gintama-2006": {
+   "t": "Gintama",
+   "y": 2006,
+   "img": "a5",
+   "ids": {
+    "imdb": "tt0988818",
+    "al": "918",
+    "mal": "918"
+   },
+   "s": {
+    "mal": [8.93, 429321, "2026-10-03"],
+    "al": [85, 297905, "2026-10-03"],
+    "imdb": [8.7, 22365, "2026-10-03"]
+   }
+  },
+  "gintama-season-2-2011": {
+   "t": "Gintama Season 2",
+   "y": 2011,
+   "img": "a5",
+   "ids": {
+    "imdb": "tt0988818",
+    "al": "9969",
+    "mal": "9969"
+   },
+   "s": {
+    "mal": [9.02, 261084, "2026-10-03"],
+    "al": [89, 110566, "2026-10-03"],
+    "imdb": [8.7, 22365, "2026-10-03"]
+   }
+  },
+  "gintama-season-2-part-2-2012": {
+   "t": "Gintama Season 2 Part 2",
+   "y": 2012,
+   "img": "a5",
+   "ids": {
+    "imdb": "tt0988818",
+    "al": "15417",
+    "mal": "15417"
+   },
+   "s": {
+    "mal": [9.02, 181569, "2026-10-03"],
+    "al": [89, 84801, "2026-10-03"],
+    "imdb": [8.7, 22365, "2026-10-03"]
+   }
+  },
+  "gintama-season-3-2015": {
+   "t": "Gintama Season 3",
+   "y": 2015,
+   "img": "a5",
+   "ids": {
+    "imdb": "tt0988818",
+    "al": "20996",
+    "mal": "28977"
+   },
+   "s": {
+    "mal": [9.05, 275787, "2026-10-03"],
+    "al": [90, 120226, "2026-10-03"],
+    "imdb": [8.7, 22365, "2026-10-03"]
+   }
+  },
+  "gintama-season-4-2017": {
+   "t": "Gintama Season 4",
+   "y": 2017,
+   "img": "a5",
+   "ids": {
+    "imdb": "tt0988818",
+    "al": "97889",
+    "mal": "34096"
+   },
+   "s": {
+    "mal": [8.98, 162337, "2026-10-03"],
+    "al": [89, 83264, "2026-10-03"],
+    "imdb": [8.7, 22365, "2026-10-03"]
+   }
+  },
+  "gintama-slip-arc-2017": {
+   "t": "Gintama.: Slip Arc",
+   "y": 2017,
+   "img": "a5",
+   "ids": {
+    "imdb": "tt0988818",
+    "al": "99714",
+    "mal": "35843"
+   },
+   "s": {
+    "mal": [8.51, 114328, "2026-10-03"],
+    "al": [82, 53703, "2026-10-03"],
+    "imdb": [8.7, 22365, "2026-10-03"]
+   }
+  },
+  "gintama-silver-soul-arc-2018": {
+   "t": "Gintama.: Silver Soul Arc",
+   "y": 2018,
+   "img": "a5",
+   "ids": {
+    "imdb": "tt0988818",
+    "al": "100784",
+    "mal": "36838"
+   },
+   "s": {
+    "mal": [8.81, 117854, "2026-10-03"],
+    "al": [86, 60861, "2026-10-03"],
+    "imdb": [8.7, 22365, "2026-10-03"]
+   }
+  },
+  "gintama-silver-soul-arc-second-half-war-2018": {
+   "t": "Gintama.: Silver Soul Arc - Second Half War",
+   "y": 2018,
+   "img": "a5",
+   "ids": {
+    "imdb": "tt0988818",
+    "al": "101925",
+    "mal": "37491"
+   },
+   "s": {
+    "mal": [8.88, 108971, "2026-10-03"],
+    "al": [87, 56518, "2026-10-03"],
+    "imdb": [8.7, 22365, "2026-10-03"]
+   }
+  },
+  "vinland-saga-2019": {
+   "t": "Vinland Saga",
+   "y": 2019,
+   "img": "a6",
+   "ids": {
+    "imdb": "tt10233448",
+    "al": "101348",
+    "mal": "37521"
+   },
+   "s": {
+    "mal": [8.78, 1095483, "2026-10-03"],
+    "al": [87, 550085, "2026-10-03"],
+    "imdb": [8.9, 152433, "2026-10-03"]
+   }
+  },
+  "vinland-saga-season-2-2023": {
+   "t": "Vinland Saga Season 2",
+   "y": 2023,
+   "img": "a6",
+   "ids": {
+    "imdb": "tt10233448",
+    "al": "136430",
+    "mal": "49387"
+   },
+   "s": {
+    "mal": [8.83, 511054, "2026-10-03"],
+    "al": [88, 277763, "2026-10-03"],
+    "imdb": [8.9, 152433, "2026-10-03"]
+   }
+  },
+  "monster-2004": {
+   "t": "Monster",
+   "y": 2004,
+   "by": "Madhouse",
+   "g": "Drama / Horror / Mystery",
+   "sum": "A brilliant surgeon saves a boy's life, then discovers years later that the boy has become a remorseless killer.",
+   "img": "a7",
+   "ids": {
+    "imdb": "tt0434706",
+    "al": "19",
+    "mal": "19"
+   },
+   "s": {
+    "mal": [8.9, 527648, "2026-10-03"],
+    "al": [88, 344656, "2026-10-03"],
+    "imdb": [8.8, 76101, "2026-10-03"]
+   }
+  },
+  "death-note-2006": {
+   "t": "Death Note",
+   "y": 2006,
+   "by": "Madhouse",
+   "g": "Mystery / Psychological / Supernatural",
+   "sum": "A student finds a notebook that kills anyone whose name is written in it, and a genius detective hunts him.",
+   "img": "a8",
+   "ids": {
+    "imdb": "tt0877057",
+    "al": "1535",
+    "mal": "1535"
+   },
+   "s": {
+    "mal": [8.62, 3054720, "2026-10-03"],
+    "al": [84, 967684, "2026-10-03"],
+    "imdb": [8.9, 501794, "2026-10-03"]
+   }
+  },
+  "code-geass-lelouch-of-the-rebellion-2006": {
+   "t": "Code Geass: Lelouch of the Rebellion",
+   "y": 2006,
+   "img": "a9",
+   "ids": {
+    "imdb": "tt0994314",
+    "al": "1575",
+    "mal": "1575"
+   },
+   "s": {
+    "mal": [8.71, 1546662, "2026-10-03"],
+    "al": [85, 504262, "2026-10-03"],
+    "imdb": [8.7, 110066, "2026-10-03"]
+   }
+  },
+  "code-geass-lelouch-of-the-rebellion-r2-2008": {
+   "t": "Code Geass: Lelouch of the Rebellion R2",
+   "y": 2008,
+   "img": "a9",
+   "ids": {
+    "imdb": "tt0994314",
+    "al": "2904",
+    "mal": "2904"
+   },
+   "s": {
+    "mal": [8.92, 1318311, "2026-10-03"],
+    "al": [87, 365281, "2026-10-03"],
+    "imdb": [8.7, 110066, "2026-10-03"]
+   }
+  },
+  "kaguya-sama-love-is-war-2019": {
+   "t": "Kaguya-sama: Love is War",
+   "y": 2019,
+   "img": "a10",
+   "ids": {
+    "imdb": "tt9522300",
+    "al": "101921",
+    "mal": "37999"
+   },
+   "s": {
+    "mal": [8.4, 1234021, "2026-10-03"],
+    "al": [83, 562508, "2026-10-03"],
+    "imdb": [8.5, 31918, "2026-10-03"]
+   }
+  },
+  "kaguya-sama-love-is-war-2020": {
+   "t": "Kaguya-sama: Love is War?",
+   "y": 2020,
+   "img": "a10",
+   "ids": {
+    "imdb": "tt9522300",
+    "al": "112641",
+    "mal": "40591"
+   },
+   "s": {
+    "mal": [8.61, 976978, "2026-10-03"],
+    "al": [85, 437061, "2026-10-03"],
+    "imdb": [8.5, 31918, "2026-10-03"]
+   }
+  },
+  "kaguya-sama-love-is-war-ultra-romantic-2022": {
+   "t": "Kaguya-sama: Love is War -Ultra Romantic-",
+   "y": 2022,
+   "img": "a10",
+   "ids": {
+    "imdb": "tt9522300",
+    "al": "125367",
+    "mal": "43608"
+   },
+   "s": {
+    "mal": [8.95, 653665, "2026-10-03"],
+    "al": [89, 294400, "2026-10-03"],
+    "imdb": [8.5, 31918, "2026-10-03"]
+   }
+  },
+  "kaguya-sama-love-is-war-the-first-kiss-that-never-ends-2023": {
+   "t": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+   "y": 2023,
+   "img": "a10",
+   "ids": {
+    "imdb": "tt9522300",
+    "al": "151384",
+    "mal": "52198"
+   },
+   "s": {
+    "mal": [8.71, 227851, "2026-10-03"],
+    "al": [87, 149409, "2026-10-03"],
+    "imdb": [8.5, 31918, "2026-10-03"]
+   }
+  },
+  "mob-psycho-100-2016": {
+   "t": "Mob Psycho 100",
+   "y": 2016,
+   "img": "a11",
+   "ids": {
+    "imdb": "tt5897304",
+    "al": "21507",
+    "mal": "32182"
+   },
+   "s": {
+    "mal": [8.49, 1446812, "2026-10-03"],
+    "al": [84, 630317, "2026-10-03"],
+    "imdb": [8.5, 72108, "2026-10-03"]
+   }
+  },
+  "mob-psycho-100-ii-2019": {
+   "t": "Mob Psycho 100 II",
+   "y": 2019,
+   "img": "a11",
+   "ids": {
+    "imdb": "tt5897304",
+    "al": "101338",
+    "mal": "37510"
+   },
+   "s": {
+    "mal": [8.78, 1110419, "2026-10-03"],
+    "al": [87, 451655, "2026-10-03"],
+    "imdb": [8.5, 72108, "2026-10-03"]
+   }
+  },
+  "mob-psycho-100-iii-2022": {
+   "t": "Mob Psycho 100 III",
+   "y": 2022,
+   "img": "a11",
+   "ids": {
+    "imdb": "tt5897304",
+    "al": "140439",
+    "mal": "50172"
+   },
+   "s": {
+    "mal": [8.72, 465619, "2026-10-03"],
+    "al": [87, 266604, "2026-10-03"],
+    "imdb": [8.5, 72108, "2026-10-03"]
+   }
+  },
+  "one-punch-man-2015": {
+   "t": "One-Punch Man",
+   "y": 2015,
+   "img": "a12",
+   "ids": {
+    "imdb": "tt4508902",
+    "al": "21087",
+    "mal": "30276"
+   },
+   "s": {
+    "mal": [8.47, 2450121, "2026-10-03"],
+    "al": [82, 771183, "2026-10-03"],
+    "imdb": [8.6, 231088, "2026-10-03"]
+   }
+  },
+  "one-punch-man-season-2-2019": {
+   "t": "One-Punch Man Season 2",
+   "y": 2019,
+   "img": "a12",
+   "ids": {
+    "imdb": "tt4508902",
+    "al": "97668",
+    "mal": "34134"
+   },
+   "s": {
+    "mal": [7.52, 1164149, "2026-10-03"],
+    "al": [74, 469886, "2026-10-03"],
+    "imdb": [8.6, 231088, "2026-10-03"]
+   }
+  },
+  "one-punch-man-season-3-2025": {
+   "t": "One-Punch Man Season 3",
+   "y": 2025,
+   "img": "a12",
+   "ids": {
+    "imdb": "tt4508902",
+    "al": "153800",
+    "mal": "52807"
+   },
+   "s": {
+    "mal": [4.77, 130973, "2026-10-03"],
+    "al": [50, 153437, "2026-10-03"],
+    "imdb": [8.6, 231088, "2026-10-03"]
+   }
+  },
+  "jujutsu-kaisen-2020": {
+   "t": "Jujutsu Kaisen",
+   "y": 2020,
+   "img": "a13",
+   "aw": ["Anime of the Year, Crunchyroll Anime Awards 2021"],
+   "ids": {
+    "imdb": "tt12343534",
+    "al": "113415",
+    "mal": "40748"
+   },
+   "s": {
+    "mal": [8.49, 2056056, "2026-10-03"],
+    "al": [84, 979460, "2026-10-03"],
+    "imdb": [8.5, 223061, "2026-10-03"]
+   }
+  },
+  "jujutsu-kaisen-season-2-2023": {
+   "t": "Jujutsu Kaisen Season 2",
+   "y": 2023,
+   "img": "a13",
+   "aw": ["Anime of the Year, Crunchyroll Anime Awards 2024"],
+   "ids": {
+    "imdb": "tt12343534",
+    "al": "145064",
+    "mal": "51009"
+   },
+   "s": {
+    "mal": [8.69, 874999, "2026-10-03"],
+    "al": [86, 496202, "2026-10-03"],
+    "imdb": [8.5, 223061, "2026-10-03"]
+   }
+  },
+  "jujutsu-kaisen-season-3-the-culling-game-part-1-2026": {
+   "t": "Jujutsu Kaisen Season 3: The Culling Game Part 1",
+   "y": 2026,
+   "img": "a13",
+   "ids": {
+    "imdb": "tt12343534",
+    "al": "172463",
+    "mal": "57658"
+   },
+   "s": {
+    "mal": [8.58, 305729, "2026-10-03"],
+    "al": [86, 263173, "2026-10-03"],
+    "imdb": [8.5, 223061, "2026-10-03"]
+   }
+  },
+  "demon-slayer-kimetsu-no-yaiba-2019": {
+   "t": "Demon Slayer: Kimetsu no Yaiba",
+   "y": 2019,
+   "img": "a14",
+   "aw": ["Anime of the Year, Crunchyroll Anime Awards 2020"],
+   "ids": {
+    "imdb": "tt9335498",
+    "al": "101922",
+    "mal": "38000"
+   },
+   "s": {
+    "mal": [8.39, 2407314, "2026-10-03"],
+    "al": [82, 1000336, "2026-10-03"],
+    "imdb": [8.5, 238404, "2026-10-03"]
+   }
+  },
+  "mugen-train-arc-2021": {
+   "t": "Mugen Train Arc",
+   "y": 2021,
+   "img": "a14",
+   "ids": {
+    "imdb": "tt9335498",
+    "al": "129874",
+    "mal": "49926"
+   },
+   "s": {
+    "mal": [8.33, 612587, "2026-10-03"],
+    "al": [82, 363665, "2026-10-03"],
+    "imdb": [8.5, 238404, "2026-10-03"]
+   }
+  },
+  "entertainment-district-arc-2021": {
+   "t": "Entertainment District Arc",
+   "y": 2021,
+   "img": "a14",
+   "ids": {
+    "imdb": "tt9335498",
+    "al": "142329",
+    "mal": "47778"
+   },
+   "s": {
+    "mal": [8.68, 1146679, "2026-10-03"],
+    "al": [86, 487690, "2026-10-03"],
+    "imdb": [8.5, 238404, "2026-10-03"]
+   }
+  },
+  "swordsmith-village-arc-2023": {
+   "t": "Swordsmith Village Arc",
+   "y": 2023,
+   "img": "a14",
+   "ids": {
+    "imdb": "tt9335498",
+    "al": "145139",
+    "mal": "51019"
+   },
+   "s": {
+    "mal": [8.14, 702755, "2026-10-03"],
+    "al": [80, 376339, "2026-10-03"],
+    "imdb": [8.5, 238404, "2026-10-03"]
+   }
+  },
+  "hashira-training-arc-2024": {
+   "t": "Hashira Training Arc",
+   "y": 2024,
+   "img": "a14",
+   "ids": {
+    "imdb": "tt9335498",
+    "al": "166240",
+    "mal": "55701"
+   },
+   "s": {
+    "mal": [7.99, 480407, "2026-10-03"],
+    "al": [79, 280065, "2026-10-03"],
+    "imdb": [8.5, 238404, "2026-10-03"]
+   }
+  },
+  "chainsaw-man-2022": {
+   "t": "Chainsaw Man",
+   "y": 2022,
+   "by": "MAPPA",
+   "g": "Action / Drama / Horror",
+   "sum": "A debt-ridden young man merges with his chainsaw devil dog and becomes a government devil hunter.",
+   "img": "a15",
+   "ids": {
+    "imdb": "tt13616990",
+    "al": "127230",
+    "mal": "44511"
+   },
+   "s": {
+    "mal": [8.42, 1191848, "2026-10-03"],
+    "al": [83, 638652, "2026-10-03"],
+    "imdb": [8.3, 112677, "2026-10-03"]
+   }
+  },
+  "spy-x-family-2022": {
+   "t": "Spy x Family",
+   "y": 2022,
+   "img": "a16",
+   "ids": {
+    "imdb": "tt13706018",
+    "al": "140960",
+    "mal": "50265"
+   },
+   "s": {
+    "mal": [8.4, 1192815, "2026-10-03"],
+    "al": [83, 574307, "2026-10-03"],
+    "imdb": [8.2, 65547, "2026-10-03"]
+   }
+  },
+  "spy-x-family-cour-2-2022": {
+   "t": "Spy x Family Cour 2",
+   "y": 2022,
+   "img": "a16",
+   "ids": {
+    "imdb": "tt13706018",
+    "al": "142838",
+    "mal": "50602"
+   },
+   "s": {
+    "mal": [8.19, 637571, "2026-10-03"],
+    "al": [81, 331155, "2026-10-03"],
+    "imdb": [8.2, 65547, "2026-10-03"]
+   }
+  },
+  "spy-x-family-season-2-2023": {
+   "t": "Spy x Family Season 2",
+   "y": 2023,
+   "img": "a16",
+   "ids": {
+    "imdb": "tt13706018",
+    "al": "158927",
+    "mal": "53887"
+   },
+   "s": {
+    "mal": [8.05, 354211, "2026-10-03"],
+    "al": [80, 240107, "2026-10-03"],
+    "imdb": [8.2, 65547, "2026-10-03"]
+   }
+  },
+  "spy-x-family-season-3-2025": {
+   "t": "Spy x Family Season 3",
+   "y": 2025,
+   "img": "a16",
+   "ids": {
+    "imdb": "tt13706018",
+    "al": "177937",
+    "mal": "59027"
+   },
+   "s": {
+    "mal": [8.21, 154455, "2026-10-03"],
+    "al": [82, 134730, "2026-10-03"],
+    "imdb": [8.2, 65547, "2026-10-03"]
+   }
+  },
+  "haikyu-2014": {
+   "t": "Haikyu!!",
+   "y": 2014,
+   "img": "a17",
+   "ids": {
+    "imdb": "tt3398540",
+    "al": "20464",
+    "mal": "20583"
+   },
+   "s": {
+    "mal": [8.43, 1367142, "2026-10-03"],
+    "al": [83, 586396, "2026-10-03"],
+    "imdb": [8.7, 57120, "2026-10-03"]
+   }
+  },
+  "haikyu-2nd-season-2015": {
+   "t": "Haikyu!! 2nd Season",
+   "y": 2015,
+   "img": "a17",
+   "ids": {
+    "imdb": "tt3398540",
+    "al": "20992",
+    "mal": "28891"
+   },
+   "s": {
+    "mal": [8.61, 1041183, "2026-10-03"],
+    "al": [86, 400873, "2026-10-03"],
+    "imdb": [8.7, 57120, "2026-10-03"]
+   }
+  },
+  "haikyu-3rd-season-2016": {
+   "t": "Haikyu!! 3rd Season",
+   "y": 2016,
+   "img": "a17",
+   "ids": {
+    "imdb": "tt3398540",
+    "al": "21698",
+    "mal": "32935"
+   },
+   "s": {
+    "mal": [8.77, 886372, "2026-10-03"],
+    "al": [87, 364238, "2026-10-03"],
+    "imdb": [8.7, 57120, "2026-10-03"]
+   }
+  },
+  "your-lie-in-april-2014": {
+   "t": "Your Lie in April",
+   "y": 2014,
+   "by": "A-1 Pictures",
+   "g": "Drama / Music / Romance",
+   "sum": "A piano prodigy who can no longer hear his own playing is drawn back to music by a free-spirited violinist.",
+   "img": "a18",
+   "ids": {
+    "imdb": "tt3895150",
+    "al": "20665",
+    "mal": "23273"
+   },
+   "s": {
+    "mal": [8.64, 1493708, "2026-10-03"],
+    "al": [84, 616992, "2026-10-03"],
+    "imdb": [8.6, 54465, "2026-10-03"]
+   }
+  },
+  "violet-evergarden-2018": {
+   "t": "Violet Evergarden",
+   "y": 2018,
+   "by": "Kyoto Animation",
+   "g": "Drama / Fantasy / Slice of Life",
+   "sum": "A former child soldier becomes a letter writer, learning to understand the emotions behind the words.",
+   "img": "a19",
+   "ids": {
+    "imdb": "tt7078180",
+    "al": "21827",
+    "mal": "33352"
+   },
+   "s": {
+    "mal": [8.69, 1110264, "2026-10-03"],
+    "al": [85, 550796, "2026-10-03"],
+    "imdb": [8.4, 43521, "2026-10-03"]
+   }
+  },
+  "clannad-2007": {
+   "t": "Clannad",
+   "y": 2007,
+   "img": "a20",
+   "ids": {
+    "imdb": "tt1118804",
+    "al": "2167",
+    "mal": "2167"
+   },
+   "s": {
+    "mal": [7.99, 805069, "2026-10-03"],
+    "al": [77, 302152, "2026-10-03"],
+    "imdb": [8.2, 17888, "2026-10-03"]
+   }
+  },
+  "clannad-after-story-2008": {
+   "t": "Clannad: After Story",
+   "y": 2008,
+   "img": "a20",
+   "ids": {
+    "imdb": "tt1118804",
+    "al": "4181",
+    "mal": "4181"
+   },
+   "s": {
+    "mal": [8.93, 707923, "2026-10-03"],
+    "al": [88, 224797, "2026-10-03"],
+    "imdb": [8.2, 17888, "2026-10-03"]
+   }
+  },
+  "march-comes-in-like-a-lion-2016": {
+   "t": "March Comes in Like a Lion",
+   "y": 2016,
+   "img": "a21",
+   "ids": {
+    "imdb": "tt6074794",
+    "al": "21366",
+    "mal": "31646"
+   },
+   "s": {
+    "mal": [8.37, 304748, "2026-10-03"],
+    "al": [83, 215087, "2026-10-03"],
+    "imdb": [8.2, 4318, "2026-10-03"]
+   }
+  },
+  "march-comes-in-like-a-lion-season-2-2017": {
+   "t": "March Comes in Like a Lion Season 2",
+   "y": 2017,
+   "img": "a21",
+   "ids": {
+    "imdb": "tt6074794",
+    "al": "98478",
+    "mal": "35180"
+   },
+   "s": {
+    "mal": [8.89, 217932, "2026-10-03"],
+    "al": [89, 130532, "2026-10-03"],
+    "imdb": [8.2, 4318, "2026-10-03"]
+   }
+  },
+  "made-in-abyss-2017": {
+   "t": "Made in Abyss",
+   "y": 2017,
+   "by": "Kinema Citrus",
+   "g": "Adventure / Drama / Fantasy",
+   "sum": "An orphan girl and a robot boy descend into a vast, deadly chasm to find her mother.",
+   "img": "a22",
+   "aw": ["Anime of the Year, Crunchyroll Anime Awards 2018"],
+   "ids": {
+    "imdb": "tt7222086",
+    "al": "97986",
+    "mal": "34599"
+   },
+   "s": {
+    "mal": [8.62, 850673, "2026-10-03"],
+    "al": [84, 407753, "2026-10-03"],
+    "imdb": [8.3, 22397, "2026-10-03"]
+   }
+  },
+  "the-promised-neverland-2019": {
+   "t": "The Promised Neverland",
+   "y": 2019,
+   "img": "a23",
+   "ids": {
+    "imdb": "tt8788458",
+    "al": "101759",
+    "mal": "37779"
+   },
+   "s": {
+    "mal": [8.46, 1415725, "2026-10-03"],
+    "al": [83, 636353, "2026-10-03"],
+    "imdb": [8.1, 60367, "2026-10-03"]
+   }
+  },
+  "the-promised-neverland-season-2-2021": {
+   "t": "The Promised Neverland Season 2",
+   "y": 2021,
+   "img": "a23",
+   "ids": {
+    "imdb": "tt8788458",
+    "al": "108725",
+    "mal": "39617"
+   },
+   "s": {
+    "mal": [5.23, 532881, "2026-10-03"],
+    "al": [51, 322978, "2026-10-03"],
+    "imdb": [8.1, 60367, "2026-10-03"]
+   }
+  },
+  "mushishi-2005": {
+   "t": "Mushishi",
+   "y": 2005,
+   "by": "Artland",
+   "g": "Adventure / Fantasy / Mystery",
+   "sum": "A wandering expert studies mushi, mysterious life forms that cause strange phenomena, in quiet, meditative episodes.",
+   "img": "a24",
+   "ids": {
+    "imdb": "tt0807832",
+    "al": "457",
+    "mal": "457"
+   },
+   "s": {
+    "mal": [8.65, 300956, "2026-10-03"],
+    "al": [84, 195371, "2026-10-03"],
+    "imdb": [8.5, 16529, "2026-10-03"]
+   }
+  },
+  "samurai-champloo-2004": {
+   "t": "Samurai Champloo",
+   "y": 2004,
+   "by": "Manglobe",
+   "g": "Action / Adventure / Comedy",
+   "sum": "A wild swordsman, a stoic ronin and a waitress search Edo-era Japan for a samurai who smells of sunflowers, set to hip-hop.",
+   "img": "a25",
+   "ids": {
+    "imdb": "tt0423731",
+    "al": "205",
+    "mal": "205"
+   },
+   "s": {
+    "mal": [8.52, 694497, "2026-10-03"],
+    "al": [84, 281958, "2026-10-03"],
+    "imdb": [8.5, 65191, "2026-10-03"]
+   }
+  },
+  "fullmetal-alchemist-2003-2003": {
+   "t": "Fullmetal Alchemist (2003)",
+   "y": 2003,
+   "by": "Bones",
+   "g": "Action / Adventure / Drama",
+   "sum": "The first adaptation of the alchemist brothers' story, which branches into its own original plot.",
+   "img": "a26",
+   "ids": {},
+   "s": {
+    "mal": [8.12, 939502, "2026-10-03"],
+    "al": [79, 267744, "2026-10-03"],
+    "imdb": [8.5, 87388, "2026-10-03"]
+   }
+  },
+  "season-1-2008": {
+   "t": "Season 1",
+   "y": 2008,
+   "img": "a27",
+   "ids": {
+    "imdb": "tt1352421",
+    "al": "4081",
+    "mal": "4081"
+   },
+   "s": {
+    "mal": [8.3, 201731, "2026-10-03"],
+    "al": [80, 128593, "2026-10-03"],
+    "imdb": [8.1, 3359, "2026-10-03"]
+   }
+  },
+  "season-2-2009": {
+   "t": "Season 2",
+   "y": 2009,
+   "img": "a27",
+   "ids": {
+    "imdb": "tt1352421",
+    "al": "5300",
+    "mal": "5300"
+   },
+   "s": {
+    "mal": [8.53, 135431, "2026-10-03"],
+    "al": [83, 51696, "2026-10-03"],
+    "imdb": [8.1, 3359, "2026-10-03"]
+   }
+  },
+  "season-3-2011": {
+   "t": "Season 3",
+   "y": 2011,
+   "img": "a27",
+   "ids": {
+    "imdb": "tt1352421",
+    "al": "10379",
+    "mal": "10379"
+   },
+   "s": {
+    "mal": [8.56, 127982, "2026-10-03"],
+    "al": [84, 49322, "2026-10-03"],
+    "imdb": [8.1, 3359, "2026-10-03"]
+   }
+  },
+  "season-4-2012": {
+   "t": "Season 4",
+   "y": 2012,
+   "img": "a27",
+   "ids": {
+    "imdb": "tt1352421",
+    "al": "11665",
+    "mal": "11665"
+   },
+   "s": {
+    "mal": [8.63, 118631, "2026-10-03"],
+    "al": [85, 49269, "2026-10-03"],
+    "imdb": [8.1, 3359, "2026-10-03"]
+   }
+  },
+  "season-5-2016": {
+   "t": "Season 5",
+   "y": 2016,
+   "img": "a27",
+   "ids": {
+    "imdb": "tt1352421",
+    "al": "21710",
+    "mal": "32983"
+   },
+   "s": {
+    "mal": [8.56, 84673, "2026-10-03"],
+    "al": [84, 40326, "2026-10-03"],
+    "imdb": [8.1, 3359, "2026-10-03"]
+   }
+  },
+  "season-6-2017": {
+   "t": "Season 6",
+   "y": 2017,
+   "img": "a27",
+   "ids": {
+    "imdb": "tt1352421",
+    "al": "97983",
+    "mal": "34591"
+   },
+   "s": {
+    "mal": [8.61, 77345, "2026-10-03"],
+    "al": [85, 40331, "2026-10-03"],
+    "imdb": [8.1, 3359, "2026-10-03"]
+   }
+  },
+  "natsume-s-book-of-friends-season-7-2024": {
+   "t": "Season 7",
+   "y": 2024,
+   "img": "a27",
+   "ids": {
+    "imdb": "tt1352421",
+    "al": "166611",
+    "mal": "55823"
+   },
+   "s": {
+    "mal": [8.57, 19715, "2026-10-03"],
+    "al": [84, 16136, "2026-10-03"],
+    "imdb": [8.1, 3359, "2026-10-03"]
+   }
+  },
+  "re-zero-starting-life-in-another-world-season-1-2016": {
+   "t": "Season 1",
+   "y": 2016,
+   "img": "a28",
+   "ids": {
+    "imdb": "tt5607616",
+    "al": "21355",
+    "mal": "31240"
+   },
+   "s": {
+    "mal": [8.25, 1603156, "2026-10-03"],
+    "al": [81, 627475, "2026-10-03"],
+    "imdb": [8.3, 98217, "2026-10-03"]
+   }
+  },
+  "season-2-2020": {
+   "t": "Season 2",
+   "y": 2020,
+   "img": "a28",
+   "ids": {
+    "imdb": "tt5607616",
+    "al": "108632",
+    "mal": "39587"
+   },
+   "s": {
+    "mal": [8.32, 786164, "2026-10-03"],
+    "al": [83, 383455, "2026-10-03"],
+    "imdb": [8.3, 98217, "2026-10-03"]
+   }
+  },
+  "re-zero-starting-life-in-another-world-season-2-part-2-2021": {
+   "t": "Season 2 Part 2",
+   "y": 2021,
+   "img": "a28",
+   "ids": {
+    "imdb": "tt5607616",
+    "al": "119661",
+    "mal": "42203"
+   },
+   "s": {
+    "mal": [8.42, 665273, "2026-10-03"],
+    "al": [84, 310773, "2026-10-03"],
+    "imdb": [8.3, 98217, "2026-10-03"]
+   }
+  },
+  "re-zero-starting-life-in-another-world-season-3-2024": {
+   "t": "Season 3",
+   "y": 2024,
+   "img": "a28",
+   "ids": {
+    "imdb": "tt5607616",
+    "al": "163134",
+    "mal": "54857"
+   },
+   "s": {
+    "mal": [8.41, 269872, "2026-10-03"],
+    "al": [84, 199318, "2026-10-03"],
+    "imdb": [8.3, 98217, "2026-10-03"]
+   }
+  },
+  "re-zero-starting-life-in-another-world-season-4-2026": {
+   "t": "Season 4",
+   "y": 2026,
+   "img": "a28",
+   "ids": {
+    "imdb": "tt5607616",
+    "al": "189046",
+    "mal": "61316"
+   },
+   "s": {
+    "mal": [9.13, 144909, "2026-10-03"],
+    "al": [90, 147067, "2026-10-03"],
+    "imdb": [8.3, 98217, "2026-10-03"]
+   }
+  },
+  "tokyo-ghoul-2014": {
+   "t": "Tokyo Ghoul",
+   "y": 2014,
+   "img": "a29",
+   "ids": {
+    "imdb": "tt3741634",
+    "al": "20605",
+    "mal": "22319"
+   },
+   "s": {
+    "mal": [7.79, 2026477, "2026-10-03"],
+    "al": [76, 744141, "2026-10-03"],
+    "imdb": [7.7, 85933, "2026-10-03"]
+   }
+  },
+  "tokyo-ghoul-a-2015": {
+   "t": "Tokyo Ghoul √A",
+   "y": 2015,
+   "img": "a29",
+   "ids": {
+    "imdb": "tt3741634",
+    "al": "20850",
+    "mal": "27899"
+   },
+   "s": {
+    "mal": [7.03, 1284114, "2026-10-03"],
+    "al": [67, 408986, "2026-10-03"],
+    "imdb": [7.7, 85933, "2026-10-03"]
+   }
+  },
+  "tokyo-ghoul-re-2018": {
+   "t": "Tokyo Ghoul:re",
+   "y": 2018,
+   "img": "a29",
+   "ids": {
+    "imdb": "tt3741634",
+    "al": "100240",
+    "mal": "36511"
+   },
+   "s": {
+    "mal": [6.37, 784844, "2026-10-03"],
+    "al": [61, 309601, "2026-10-03"],
+    "imdb": [7.7, 85933, "2026-10-03"]
+   }
+  },
+  "tokyo-ghoul-re-2-2018": {
+   "t": "Tokyo Ghoul:re 2",
+   "y": 2018,
+   "img": "a29",
+   "ids": {
+    "imdb": "tt3741634",
+    "al": "102351",
+    "mal": "37799"
+   },
+   "s": {
+    "mal": [6.48, 595872, "2026-10-03"],
+    "al": [62, 238844, "2026-10-03"],
+    "imdb": [7.7, 85933, "2026-10-03"]
+   }
+  },
+  "my-hero-academia-season-1-2016": {
+   "t": "Season 1",
+   "y": 2016,
+   "img": "a30",
+   "ids": {
+    "imdb": "tt5626028",
+    "al": "21459",
+    "mal": "31964"
+   },
+   "s": {
+    "mal": [7.82, 2270271, "2026-10-03"],
+    "al": [76, 878999, "2026-10-03"],
+    "imdb": [8.2, 127833, "2026-10-03"]
+   }
+  },
+  "season-2-2017": {
+   "t": "Season 2",
+   "y": 2017,
+   "img": "a30",
+   "ids": {
+    "imdb": "tt5626028",
+    "al": "21856",
+    "mal": "33486"
+   },
+   "s": {
+    "mal": [8.04, 1876536, "2026-10-03"],
+    "al": [79, 658632, "2026-10-03"],
+    "imdb": [8.2, 127833, "2026-10-03"]
+   }
+  },
+  "season-3-2018": {
+   "t": "Season 3",
+   "y": 2018,
+   "img": "a30",
+   "ids": {
+    "imdb": "tt5626028",
+    "al": "100166",
+    "mal": "36456"
+   },
+   "s": {
+    "mal": [7.97, 1581158, "2026-10-03"],
+    "al": [79, 603719, "2026-10-03"],
+    "imdb": [8.2, 127833, "2026-10-03"]
+   }
+  },
+  "season-4-2019": {
+   "t": "Season 4",
+   "y": 2019,
+   "img": "a30",
+   "ids": {
+    "imdb": "tt5626028",
+    "al": "104276",
+    "mal": "38408"
+   },
+   "s": {
+    "mal": [7.86, 1212548, "2026-10-03"],
+    "al": [78, 535229, "2026-10-03"],
+    "imdb": [8.2, 127833, "2026-10-03"]
+   }
+  },
+  "season-5-2021": {
+   "t": "Season 5",
+   "y": 2021,
+   "img": "a30",
+   "ids": {
+    "imdb": "tt5626028",
+    "al": "117193",
+    "mal": "41587"
+   },
+   "s": {
+    "mal": [7.35, 731944, "2026-10-03"],
+    "al": [73, 417215, "2026-10-03"],
+    "imdb": [8.2, 127833, "2026-10-03"]
+   }
+  },
+  "season-6-2022": {
+   "t": "Season 6",
+   "y": 2022,
+   "img": "a30",
+   "ids": {
+    "imdb": "tt5626028",
+    "al": "139630",
+    "mal": "49918"
+   },
+   "s": {
+    "mal": [8.21, 443727, "2026-10-03"],
+    "al": [82, 272381, "2026-10-03"],
+    "imdb": [8.2, 127833, "2026-10-03"]
+   }
+  },
+  "my-hero-academia-season-7-2024": {
+   "t": "Season 7",
+   "y": 2024,
+   "img": "a30",
+   "ids": {
+    "imdb": "tt5626028",
+    "al": "163139",
+    "mal": "54789"
+   },
+   "s": {
+    "mal": [8.15, 248174, "2026-10-03"],
+    "al": [82, 186983, "2026-10-03"],
+    "imdb": [8.2, 127833, "2026-10-03"]
+   }
+  },
+  "final-season-2025": {
+   "t": "Final Season",
+   "y": 2025,
+   "img": "a30",
+   "aw": ["Anime of the Year, Crunchyroll Anime Awards 2026"],
+   "ids": {
+    "imdb": "tt5626028",
+    "al": "182896",
+    "mal": "60098"
+   },
+   "s": {
+    "mal": [8.71, 188654, "2026-10-03"],
+    "al": [87, 135660, "2026-10-03"],
+    "imdb": [8.2, 127833, "2026-10-03"]
+   }
+  },
+  "naruto-2002": {
+   "t": "Naruto",
+   "y": 2002,
+   "img": "a31",
+   "ids": {
+    "imdb": "tt0409591",
+    "al": "20",
+    "mal": "20"
+   },
+   "s": {
+    "mal": [8.03, 2172126, "2026-10-03"],
+    "al": [80, 730012, "2026-10-03"],
+    "imdb": [8.4, 175288, "2026-10-03"]
+   }
+  },
+  "naruto-shippuden-2007": {
+   "t": "Naruto: Shippuden",
+   "y": 2007,
+   "img": "a31",
+   "ids": {
+    "imdb": "tt0409591",
+    "al": "1735",
+    "mal": "1735"
+   },
+   "s": {
+    "mal": [8.29, 1851834, "2026-10-03"],
+    "al": [82, 613958, "2026-10-03"],
+    "imdb": [8.4, 175288, "2026-10-03"]
+   }
+  },
+  "bleach-2004": {
+   "t": "Bleach",
+   "y": 2004,
+   "img": "a32",
+   "ids": {
+    "imdb": "tt0434665",
+    "al": "269",
+    "mal": "269"
+   },
+   "s": {
+    "mal": [8, 1286687, "2026-10-03"],
+    "al": [79, 525832, "2026-10-03"],
+    "imdb": [8.3, 100017, "2026-10-03"]
+   }
+  },
+  "thousand-year-blood-war-2022": {
+   "t": "Thousand-Year Blood War",
+   "y": 2022,
+   "img": "a32",
+   "ids": {
+    "imdb": "tt0434665",
+    "al": "116674",
+    "mal": "41467"
+   },
+   "s": {
+    "mal": [8.98, 400026, "2026-10-03"],
+    "al": [88, 209639, "2026-10-03"],
+    "imdb": [8.3, 100017, "2026-10-03"]
+   }
+  },
+  "thousand-year-blood-war-the-separation-2023": {
+   "t": "Thousand-Year Blood War: The Separation",
+   "y": 2023,
+   "img": "a32",
+   "ids": {
+    "imdb": "tt0434665",
+    "al": "159322",
+    "mal": "53998"
+   },
+   "s": {
+    "mal": [8.7, 252083, "2026-10-03"],
+    "al": [86, 145450, "2026-10-03"],
+    "imdb": [8.3, 100017, "2026-10-03"]
+   }
+  },
+  "thousand-year-blood-war-the-conflict-2024": {
+   "t": "Thousand-Year Blood War: The Conflict",
+   "y": 2024,
+   "img": "a32",
+   "ids": {
+    "imdb": "tt0434665",
+    "al": "169755",
+    "mal": "56784"
+   },
+   "s": {
+    "mal": [8.67, 177091, "2026-10-03"],
+    "al": [86, 119908, "2026-10-03"],
+    "imdb": [8.3, 100017, "2026-10-03"]
+   }
+  },
+  "thousand-year-blood-war-the-calamity-2026": {
+   "t": "Thousand-Year Blood War: The Calamity",
+   "y": 2026,
+   "img": "a32",
+   "ids": {
+    "imdb": "tt0434665",
+    "al": "185874",
+    "mal": "60636"
+   },
+   "s": {
+    "mal": [9.02, 35851, "2026-10-03"],
+    "al": [89, 90764, "2026-10-03"],
+    "imdb": [8.3, 100017, "2026-10-03"]
+   }
+  },
+  "dr-stone-2019": {
+   "t": "Dr. Stone",
+   "y": 2019,
+   "img": "a33",
+   "ids": {
+    "imdb": "tt9679542",
+    "al": "105333",
+    "mal": "38691"
+   },
+   "s": {
+    "mal": [8.26, 1202277, "2026-10-03"],
+    "al": [81, 558160, "2026-10-03"],
+    "imdb": [8.1, 46603, "2026-10-03"]
+   }
+  },
+  "dr-stone-stone-wars-2021": {
+   "t": "Dr. Stone: Stone Wars",
+   "y": 2021,
+   "img": "a33",
+   "ids": {
+    "imdb": "tt9679542",
+    "al": "113936",
+    "mal": "40852"
+   },
+   "s": {
+    "mal": [8.15, 702646, "2026-10-03"],
+    "al": [81, 337252, "2026-10-03"],
+    "imdb": [8.1, 46603, "2026-10-03"]
+   }
+  },
+  "new-world-2023": {
+   "t": "New World",
+   "y": 2023,
+   "img": "a33",
+   "ids": {
+    "imdb": "tt9679542",
+    "al": "131518",
+    "mal": "48549"
+   },
+   "s": {
+    "mal": [8.14, 308300, "2026-10-03"],
+    "al": [81, 203497, "2026-10-03"],
+    "imdb": [8.1, 46603, "2026-10-03"]
+   }
+  },
+  "new-world-part-2-2023": {
+   "t": "New World Part 2",
+   "y": 2023,
+   "img": "a33",
+   "ids": {
+    "imdb": "tt9679542",
+    "al": "162670",
+    "mal": "55644"
+   },
+   "s": {
+    "mal": [8.3, 248390, "2026-10-03"],
+    "al": [82, 140394, "2026-10-03"],
+    "imdb": [8.1, 46603, "2026-10-03"]
+   }
+  },
+  "science-future-2025": {
+   "t": "Science Future",
+   "y": 2025,
+   "img": "a33",
+   "ids": {
+    "imdb": "tt9679542",
+    "al": "172019",
+    "mal": "57592"
+   },
+   "s": {
+    "mal": [8.26, 167955, "2026-10-03"],
+    "al": [82, 117415, "2026-10-03"],
+    "imdb": [8.1, 46603, "2026-10-03"]
+   }
+  },
+  "science-future-cour-2-2025": {
+   "t": "Science Future Cour 2",
+   "y": 2025,
+   "img": "a33",
+   "ids": {
+    "imdb": "tt9679542",
+    "al": "189117",
+    "mal": "61322"
+   },
+   "s": {
+    "mal": [8.5, 134599, "2026-10-03"],
+    "al": [85, 89074, "2026-10-03"],
+    "imdb": [8.1, 46603, "2026-10-03"]
+   }
+  },
+  "science-future-cour-3-2026": {
+   "t": "Science Future Cour 3",
+   "y": 2026,
+   "img": "a33",
+   "ids": {
+    "imdb": "tt9679542",
+    "al": "199221",
+    "mal": "62568"
+   },
+   "s": {
+    "mal": [8.25, 87208, "2026-10-03"],
+    "al": [83, 81043, "2026-10-03"],
+    "imdb": [8.1, 46603, "2026-10-03"]
+   }
+  },
+  "bocchi-the-rock-2022": {
+   "t": "Bocchi the Rock!",
+   "y": 2022,
+   "by": "CloverWorks",
+   "g": "Comedy / Music / Slice of Life",
+   "sum": "A painfully shy girl who shreds on guitar alone at home joins a band and has to face people.",
+   "img": "a34",
+   "ids": {
+    "imdb": "tt17158756",
+    "al": "130003",
+    "mal": "47917"
+   },
+   "s": {
+    "mal": [8.72, 499431, "2026-10-03"],
+    "al": [87, 268243, "2026-10-03"],
+    "imdb": [8.3, 9681, "2026-10-03"]
+   }
+  },
+  "oshi-no-ko-2023": {
+   "t": "Oshi no Ko",
+   "y": 2023,
+   "img": "a35",
+   "ids": {
+    "imdb": "tt21030032",
+    "al": "150672",
+    "mal": "52034"
+   },
+   "s": {
+    "mal": [8.52, 641232, "2026-10-03"],
+    "al": [84, 332076, "2026-10-03"],
+    "imdb": [8.3, 18302, "2026-10-03"]
+   }
+  },
+  "oshi-no-ko-season-2-2024": {
+   "t": "Oshi no Ko Season 2",
+   "y": 2024,
+   "img": "a35",
+   "ids": {
+    "imdb": "tt21030032",
+    "al": "166531",
+    "mal": "55791"
+   },
+   "s": {
+    "mal": [8.5, 277966, "2026-10-03"],
+    "al": [85, 180136, "2026-10-03"],
+    "imdb": [8.3, 18302, "2026-10-03"]
+   }
+  },
+  "oshi-no-ko-season-3-2026": {
+   "t": "Oshi no Ko Season 3",
+   "y": 2026,
+   "img": "a35",
+   "ids": {
+    "imdb": "tt21030032",
+    "al": "182587",
+    "mal": "60058"
+   },
+   "s": {
+    "mal": [8.67, 137467, "2026-10-03"],
+    "al": [86, 111299, "2026-10-03"],
+    "imdb": [8.3, 18302, "2026-10-03"]
+   }
+  },
+  "cyberpunk-edgerunners-2022": {
+   "t": "Cyberpunk: Edgerunners",
+   "y": 2022,
+   "by": "Trigger",
+   "g": "Action / Drama / Psychological",
+   "sum": "A street kid in Night City becomes a cybernetically enhanced mercenary in a tragic story set in the Cyberpunk 2077 world.",
+   "img": "a36",
+   "aw": ["Anime of the Year, Crunchyroll Anime Awards 2023"],
+   "ids": {
+    "imdb": "tt12590266",
+    "al": "120377",
+    "mal": "42310"
+   },
+   "s": {
+    "mal": [8.62, 760148, "2026-10-03"],
+    "al": [85, 392498, "2026-10-03"],
+    "imdb": [8.3, 135875, "2026-10-03"]
+   }
+  },
+  "dandadan-2024": {
+   "t": "Dandadan",
+   "y": 2024,
+   "img": "a37",
+   "ids": {
+    "imdb": "tt30217403",
+    "al": "171018",
+    "mal": "57334"
+   },
+   "s": {
+    "mal": [8.38, 632968, "2026-10-03"],
+    "al": [83, 389478, "2026-10-03"],
+    "imdb": [8.3, 59376, "2026-10-03"]
+   }
+  },
+  "dandadan-season-2-2025": {
+   "t": "Dandadan Season 2",
+   "y": 2025,
+   "img": "a37",
+   "ids": {
+    "imdb": "tt30217403",
+    "al": "185660",
+    "mal": "60543"
+   },
+   "s": {
+    "mal": [8.37, 326480, "2026-10-03"],
+    "al": [83, 229424, "2026-10-03"],
+    "imdb": [8.3, 59376, "2026-10-03"]
+   }
+  },
+  "solo-leveling-2024": {
+   "t": "Solo Leveling",
+   "y": 2024,
+   "img": "a38",
+   "aw": ["Anime of the Year, Crunchyroll Anime Awards 2025"],
+   "ids": {
+    "imdb": "tt21209876",
+    "al": "151807",
+    "mal": "52299"
+   },
+   "s": {
+    "mal": [8.13, 744969, "2026-10-03"],
+    "al": [80, 451233, "2026-10-03"],
+    "imdb": [8.5, 122428, "2026-10-03"]
+   }
+  },
+  "solo-leveling-season-2-arise-from-the-shadow-2025": {
+   "t": "Solo Leveling Season 2: Arise from the Shadow",
+   "y": 2025,
+   "img": "a38",
+   "ids": {
+    "imdb": "tt21209876",
+    "al": "176496",
+    "mal": "58567"
+   },
+   "s": {
+    "mal": [8.5, 535697, "2026-10-03"],
+    "al": [84, 313236, "2026-10-03"],
+    "imdb": [8.5, 122428, "2026-10-03"]
+   }
+  },
+  "blue-lock-2022": {
+   "t": "Blue Lock",
+   "y": 2022,
+   "img": "a39",
+   "ids": {
+    "imdb": "tt15222080",
+    "al": "137822",
+    "mal": "49596"
+   },
+   "s": {
+    "mal": [8.09, 521822, "2026-10-03"],
+    "al": [79, 328143, "2026-10-03"],
+    "imdb": [8.1, 34930, "2026-10-03"]
+   }
+  },
+  "blue-lock-season-2-2024": {
+   "t": "Blue Lock Season 2",
+   "y": 2024,
+   "img": "a39",
+   "ids": {
+    "imdb": "tt15222080",
+    "al": "163146",
+    "mal": "54865"
+   },
+   "s": {
+    "mal": [7.5, 195128, "2026-10-03"],
+    "al": [75, 143920, "2026-10-03"],
+    "imdb": [8.1, 34930, "2026-10-03"]
+   }
+  },
+  "sword-art-online-2012": {
+   "t": "Sword Art Online",
+   "y": 2012,
+   "img": "a40",
+   "ids": {
+    "imdb": "tt2250192",
+    "al": "11757",
+    "mal": "11757"
+   },
+   "s": {
+    "mal": [7.23, 2302800, "2026-10-03"],
+    "al": [70, 723140, "2026-10-03"],
+    "imdb": [7.5, 65191, "2026-10-03"]
+   }
+  },
+  "sword-art-online-ii-2014": {
+   "t": "Sword Art Online II",
+   "y": 2014,
+   "img": "a40",
+   "ids": {
+    "imdb": "tt2250192",
+    "al": "20594",
+    "mal": "21881"
+   },
+   "s": {
+    "mal": [6.72, 1424785, "2026-10-03"],
+    "al": [65, 454025, "2026-10-03"],
+    "imdb": [7.5, 65191, "2026-10-03"]
+   }
+  },
+  "toradora-2008": {
+   "t": "Toradora!",
+   "y": 2008,
+   "by": "J.C.Staff",
+   "g": "Comedy / Drama / Romance",
+   "sum": "A gentle-looking delinquent and a tiny, fierce girl team up to help each other win over their crushes.",
+   "img": "a41",
+   "ids": {
+    "imdb": "tt1279024",
+    "al": "4224",
+    "mal": "4224"
+   },
+   "s": {
+    "mal": [8.03, 1487413, "2026-10-03"],
+    "al": [77, 545245, "2026-10-03"],
+    "imdb": [7.9, 24060, "2026-10-03"]
+   }
+  },
+  "anohana-the-flower-we-saw-that-day-2011": {
+   "t": "Anohana: The Flower We Saw That Day",
+   "y": 2011,
+   "by": "A-1 Pictures",
+   "g": "Drama / Romance / Slice of Life",
+   "sum": "Childhood friends who drifted apart after a girl's death reunite when her ghost appears to one of them.",
+   "img": "a42",
+   "ids": {
+    "imdb": "tt1913273",
+    "al": "9989",
+    "mal": "9989"
+   },
+   "s": {
+    "mal": [8.28, 1044191, "2026-10-03"],
+    "al": [80, 396120, "2026-10-03"],
+    "imdb": [8.1, 19034, "2026-10-03"]
+   }
+  },
+  "erased-2016": {
+   "t": "Erased",
+   "y": 2016,
+   "by": "A-1 Pictures",
+   "g": "Drama / Mystery / Psychological",
+   "sum": "A man who can jump back in time before tragedies is sent back to his childhood to prevent a series of kidnappings.",
+   "img": "a43",
+   "ids": {
+    "imdb": "tt5249462",
+    "al": "21234",
+    "mal": "31043"
+   },
+   "s": {
+    "mal": [8.31, 1497904, "2026-10-03"],
+    "al": [81, 608877, "2026-10-03"],
+    "imdb": [8.4, 77417, "2026-10-03"]
+   }
+  },
+  "parasyte-the-maxim-2014": {
+   "t": "Parasyte: The Maxim",
+   "y": 2014,
+   "by": "Madhouse",
+   "g": "Action / Drama / Horror",
+   "sum": "An alien parasite fails to take over a teenager's brain and settles in his right hand instead.",
+   "img": "a44",
+   "ids": {
+    "imdb": "tt3358020",
+    "al": "20623",
+    "mal": "22535"
+   },
+   "s": {
+    "mal": [8.32, 1266881, "2026-10-03"],
+    "al": [81, 503326, "2026-10-03"],
+    "imdb": [8.2, 65554, "2026-10-03"]
+   }
+  },
+  "assassination-classroom-2015": {
+   "t": "Assassination Classroom",
+   "y": 2015,
+   "img": "a45",
+   "ids": {
+    "imdb": "tt3837246",
+    "al": "20755",
+    "mal": "24833"
+   },
+   "s": {
+    "mal": [8.07, 1323432, "2026-10-03"],
+    "al": [79, 631848, "2026-10-03"],
+    "imdb": [7.9, 30247, "2026-10-03"]
+   }
+  },
+  "assassination-classroom-season-2-2016": {
+   "t": "Assassination Classroom Season 2",
+   "y": 2016,
+   "img": "a45",
+   "ids": {
+    "imdb": "tt3837246",
+    "al": "21170",
+    "mal": "30654"
+   },
+   "s": {
+    "mal": [8.46, 987251, "2026-10-03"],
+    "al": [83, 371640, "2026-10-03"],
+    "imdb": [7.9, 30247, "2026-10-03"]
+   }
+  },
+  "hajime-no-ippo-2000": {
+   "t": "Hajime no Ippo",
+   "y": 2000,
+   "by": "Madhouse",
+   "g": "Comedy / Drama / Sports",
+   "sum": "A bullied teenager discovers boxing and fights his way up the professional ranks.",
+   "img": "a46",
+   "ids": {
+    "imdb": "tt0481256",
+    "al": "263",
+    "mal": "263"
+   },
+   "s": {
+    "mal": [8.78, 350812, "2026-10-03"],
+    "al": [87, 145813, "2026-10-03"],
+    "imdb": [8.8, 19971, "2026-10-03"]
+   }
+  },
+  "great-pretender-2020": {
+   "t": "Great Pretender",
+   "y": 2020,
+   "img": "a47",
+   "ids": {
+    "imdb": "tt11680468",
+    "al": "110349",
+    "mal": "40052"
+   },
+   "s": {
+    "mal": [8.18, 362658, "2026-10-03"],
+    "al": [81, 232112, "2026-10-03"],
+    "imdb": [7.8, 8538, "2026-10-03"]
+   }
+  },
+  "great-pretender-razbliuto-2024": {
+   "t": "Great Pretender: Razbliuto",
+   "y": 2024,
+   "img": "a47",
+   "ids": {
+    "imdb": "tt11680468",
+    "al": "170935",
+    "mal": "57184"
+   },
+   "s": {
+    "mal": [6.81, 12893, "2026-10-03"],
+    "al": [69, 22076, "2026-10-03"],
+    "imdb": [7.8, 8538, "2026-10-03"]
+   }
+  },
+  "odd-taxi-2021": {
+   "t": "Odd Taxi",
+   "y": 2021,
+   "by": "OLM, P.I.C.S.",
+   "g": "Drama / Mystery / Psychological",
+   "sum": "A walrus taxi driver gets tangled up in a missing-girl case through the conversations of his passengers.",
+   "img": "a48",
+   "ids": {
+    "imdb": "tt14134550",
+    "al": "128547",
+    "mal": "46102"
+   },
+   "s": {
+    "mal": [8.62, 256950, "2026-10-03"],
+    "al": [85, 151635, "2026-10-03"],
+    "imdb": [8.3, 8334, "2026-10-03"]
+   }
+  },
+  "ranking-of-kings-2021": {
+   "t": "Ranking of Kings",
+   "y": 2021,
+   "img": "a49",
+   "ids": {
+    "imdb": "tt13409432",
+    "al": "113717",
+    "mal": "40834"
+   },
+   "s": {
+    "mal": [8.48, 407844, "2026-10-03"],
+    "al": [83, 225560, "2026-10-03"],
+    "imdb": [8.4, 16528, "2026-10-03"]
+   }
+  },
+  "ranking-of-kings-the-treasure-chest-of-courage-2023": {
+   "t": "Ranking of Kings: The Treasure Chest of Courage",
+   "y": 2023,
+   "img": "a49",
+   "ids": {
+    "imdb": "tt13409432",
+    "al": "153452",
+    "mal": "52657"
+   },
+   "s": {
+    "mal": [7.42, 50247, "2026-10-03"],
+    "al": [74, 54496, "2026-10-03"],
+    "imdb": [8.4, 16528, "2026-10-03"]
+   }
+  },
+  "season-1-2021": {
+   "t": "Season 1",
+   "y": 2021,
+   "img": "a50",
+   "ids": {
+    "imdb": "tt13293588",
+    "al": "108465",
+    "mal": "39535"
+   },
+   "s": {
+    "mal": [8.31, 1008397, "2026-10-03"],
+    "al": [82, 462733, "2026-10-03"],
+    "imdb": [8.2, 65639, "2026-10-03"]
+   }
+  },
+  "season-1-cour-2-2021": {
+   "t": "Season 1 Cour 2",
+   "y": 2021,
+   "img": "a50",
+   "ids": {
+    "imdb": "tt13293588"
+   },
+   "s": {
+    "mal": [8.59, 734621, "2026-10-03"],
+    "al": [85, 327611, "2026-10-03"],
+    "imdb": [8.2, 65639, "2026-10-03"]
+   }
+  },
+  "season-2-2023": {
+   "t": "Season 2",
+   "y": 2023,
+   "img": "a50",
+   "ids": {
+    "imdb": "tt13293588",
+    "al": "146065",
+    "mal": "51179"
+   },
+   "s": {
+    "mal": [8.18, 473744, "2026-10-03"],
+    "al": [81, 266950, "2026-10-03"],
+    "imdb": [8.2, 65639, "2026-10-03"]
+   }
+  },
+  "season-2-part-2-2024": {
+   "t": "Season 2 Part 2",
+   "y": 2024,
+   "img": "a50",
+   "ids": {
+    "imdb": "tt13293588",
+    "al": "166873",
+    "mal": "55888"
+   },
+   "s": {
+    "mal": [8.37, 362745, "2026-10-03"],
+    "al": [83, 212733, "2026-10-03"],
+    "imdb": [8.2, 65639, "2026-10-03"]
+   }
+  },
+  "mushoku-tensei-jobless-reincarnation-season-3-2026": {
+   "t": "Season 3",
+   "y": 2026,
+   "img": "a50",
+   "ids": {
+    "imdb": "tt13293588",
+    "al": "178789",
+    "mal": "59193"
+   },
+   "s": {
+    "mal": [8.69, 123691, "2026-10-03"],
+    "al": [86, 166629, "2026-10-03"],
+    "imdb": [8.2, 65639, "2026-10-03"]
+   }
+  },
+  "kingdom-2012": {
+   "t": "Kingdom",
+   "y": 2012,
+   "img": "a51",
+   "ids": {
+    "imdb": "tt2404499",
+    "al": "12031",
+    "mal": "12031"
+   },
+   "s": {
+    "mal": [7.86, 93099, "2026-10-03"],
+    "al": [74, 60573, "2026-10-03"],
+    "imdb": [8.8, 7102, "2026-10-03"]
+   }
+  },
+  "season-2-2013": {
+   "t": "Season 2",
+   "y": 2013,
+   "img": "a51",
+   "ids": {
+    "imdb": "tt2404499",
+    "al": "17389",
+    "mal": "17389"
+   },
+   "s": {
+    "mal": [8.28, 76683, "2026-10-03"],
+    "al": [80, 29036, "2026-10-03"],
+    "imdb": [8.8, 7102, "2026-10-03"]
+   }
+  },
+  "kingdom-season-3-2020": {
+   "t": "Season 3",
+   "y": 2020,
+   "img": "a51",
+   "ids": {
+    "imdb": "tt2404499",
+    "al": "113108",
+    "mal": "40682"
+   },
+   "s": {
+    "mal": [8.85, 57836, "2026-10-03"],
+    "al": [86, 27113, "2026-10-03"],
+    "imdb": [8.8, 7102, "2026-10-03"]
+   }
+  },
+  "kingdom-season-4-2022": {
+   "t": "Season 4",
+   "y": 2022,
+   "img": "a51",
+   "ids": {
+    "imdb": "tt2404499",
+    "al": "140350",
+    "mal": "50160"
+   },
+   "s": {
+    "mal": [8.72, 42910, "2026-10-03"],
+    "al": [85, 19767, "2026-10-03"],
+    "imdb": [8.8, 7102, "2026-10-03"]
+   }
+  },
+  "season-5-2024": {
+   "t": "Season 5",
+   "y": 2024,
+   "img": "a51",
+   "ids": {
+    "imdb": "tt2404499",
+    "al": "155227",
+    "mal": "53223"
+   },
+   "s": {
+    "mal": [8.72, 30806, "2026-10-03"],
+    "al": [85, 15743, "2026-10-03"],
+    "imdb": [8.8, 7102, "2026-10-03"]
+   }
+  },
+  "season-6-2025": {
+   "t": "Season 6",
+   "y": 2025,
+   "img": "a51",
+   "ids": {
+    "imdb": "tt2404499",
+    "al": "190840",
+    "mal": "61517"
+   },
+   "s": {
+    "mal": [8.66, 19954, "2026-10-03"],
+    "al": [84, 10613, "2026-10-03"],
+    "imdb": [8.8, 7102, "2026-10-03"]
+   }
+  },
+  "black-lagoon-2006": {
+   "t": "Black Lagoon",
+   "y": 2006,
+   "img": "a52",
+   "ids": {
+    "imdb": "tt0962826",
+    "al": "889",
+    "mal": "889"
+   },
+   "s": {
+    "mal": [8.04, 543109, "2026-10-03"],
+    "al": [78, 253604, "2026-10-03"],
+    "imdb": [7.9, 21786, "2026-10-03"]
+   }
+  },
+  "black-lagoon-the-second-barrage-2006": {
+   "t": "Black Lagoon: The Second Barrage",
+   "y": 2006,
+   "img": "a52",
+   "ids": {
+    "imdb": "tt0962826",
+    "al": "1519",
+    "mal": "1519"
+   },
+   "s": {
+    "mal": [8.18, 345769, "2026-10-03"],
+    "al": [80, 106834, "2026-10-03"],
+    "imdb": [7.9, 21786, "2026-10-03"]
+   }
+  },
+  "psycho-pass-2012": {
+   "t": "Psycho-Pass",
+   "y": 2012,
+   "img": "a53",
+   "ids": {
+    "imdb": "tt2379308",
+    "al": "13601",
+    "mal": "13601"
+   },
+   "s": {
+    "mal": [8.32, 837629, "2026-10-03"],
+    "al": [81, 358111, "2026-10-03"],
+    "imdb": [8.1, 26411, "2026-10-03"]
+   }
+  },
+  "psycho-pass-2-2014": {
+   "t": "Psycho-Pass 2",
+   "y": 2014,
+   "img": "a53",
+   "ids": {
+    "imdb": "tt2379308",
+    "al": "20513",
+    "mal": "23281"
+   },
+   "s": {
+    "mal": [7.41, 373383, "2026-10-03"],
+    "al": [71, 139541, "2026-10-03"],
+    "imdb": [8.1, 26411, "2026-10-03"]
+   }
+  },
+  "fate-zero-2011": {
+   "t": "Fate/Zero",
+   "y": 2011,
+   "img": "a54",
+   "ids": {
+    "imdb": "tt2051178",
+    "al": "10087",
+    "mal": "10087"
+   },
+   "s": {
+    "mal": [8.26, 922675, "2026-10-03"],
+    "al": [81, 349742, "2026-10-03"],
+    "imdb": [8.2, 17856, "2026-10-03"]
+   }
+  },
+  "fate-zero-season-2-2012": {
+   "t": "Fate/Zero Season 2",
+   "y": 2012,
+   "img": "a54",
+   "ids": {
+    "imdb": "tt2051178",
+    "al": "11741",
+    "mal": "11741"
+   },
+   "s": {
+    "mal": [8.53, 764719, "2026-10-03"],
+    "al": [84, 243346, "2026-10-03"],
+    "imdb": [8.2, 17856, "2026-10-03"]
+   }
+  },
+  "tv-series-2011": {
+   "t": "TV series",
+   "y": 2011,
+   "img": "a55",
+   "ids": {
+    "imdb": "tt1773185",
+    "al": "9756",
+    "mal": "9756"
+   },
+   "s": {
+    "mal": [8.39, 831701, "2026-10-03"],
+    "al": [83, 328768, "2026-10-03"],
+    "imdb": [8.2, 14900, "2026-10-03"]
+   }
+  },
+  "the-movie-rebellion-2013": {
+   "t": "The Movie: Rebellion",
+   "y": 2013,
+   "img": "a55",
+   "ids": {
+    "imdb": "tt1773185",
+    "al": "11981",
+    "mal": "11981"
+   },
+   "s": {
+    "mal": [8.51, 255583, "2026-10-03"],
+    "al": [84, 120145, "2026-10-03"],
+    "imdb": [8.2, 14900, "2026-10-03"]
+   }
+  },
+  "the-movie-walpurgisnacht-rising-2026": {
+   "t": "The Movie: Walpurgisnacht Rising",
+   "y": 2026,
+   "img": "a55",
+   "ids": {
+    "imdb": "tt1773185",
+    "al": "133007",
+    "mal": "48820"
+   },
+   "s": {
+    "mal": [7.98, 1064, "2026-10-03"],
+    "al": [83, 49682, "2026-10-03"],
+    "imdb": [8.2, 14900, "2026-10-03"]
+   }
+  },
+  "ping-pong-the-animation-2014": {
+   "t": "Ping Pong the Animation",
+   "y": 2014,
+   "by": "Tatsunoko Production",
+   "g": "Drama / Psychological / Sports",
+   "sum": "Two childhood friends with very different attitudes to table tennis grow up through the sport.",
+   "img": "a56",
+   "ids": {
+    "imdb": "tt3592032",
+    "al": "20607",
+    "mal": "22135"
+   },
+   "s": {
+    "mal": [8.63, 208075, "2026-10-03"],
+    "al": [86, 125687, "2026-10-03"],
+    "imdb": [8.6, 6517, "2026-10-03"]
+   }
+  },
+  "the-melancholy-of-haruhi-suzumiya-2006": {
+   "t": "The Melancholy of Haruhi Suzumiya",
+   "y": 2006,
+   "by": "Kyoto Animation",
+   "g": "Comedy / Mystery / Sci-Fi",
+   "sum": "A boy is roped into a school club founded by an eccentric girl who may unknowingly reshape reality.",
+   "img": "a57",
+   "ids": {
+    "imdb": "tt0816407",
+    "al": "849",
+    "mal": "849"
+   },
+   "s": {
+    "mal": [7.82, 508647, "2026-10-03"],
+    "al": [76, 201870, "2026-10-03"],
+    "imdb": [7.7, 10290, "2026-10-03"]
+   }
+  },
+  "k-on-2009": {
+   "t": "K-On!",
+   "y": 2009,
+   "img": "a58",
+   "ids": {
+    "imdb": "tt1410218",
+    "al": "5680",
+    "mal": "5680"
+   },
+   "s": {
+    "mal": [7.87, 618222, "2026-10-03"],
+    "al": [78, 280765, "2026-10-03"],
+    "imdb": [7.9, 6017, "2026-10-03"]
+   }
+  },
+  "k-on-season-2-2010": {
+   "t": "K-On! Season 2",
+   "y": 2010,
+   "img": "a58",
+   "ids": {
+    "imdb": "tt1410218",
+    "al": "7791",
+    "mal": "7791"
+   },
+   "s": {
+    "mal": [8.19, 419573, "2026-10-03"],
+    "al": [82, 168135, "2026-10-03"],
+    "imdb": [7.9, 6017, "2026-10-03"]
+   }
+  },
+  "nichijou-2011": {
+   "t": "Nichijou",
+   "y": 2011,
+   "by": "Kyoto Animation",
+   "g": "Comedy / Slice of Life",
+   "sum": "The surreal, explosive everyday lives of high-school girls, a robot and a professor in a small town.",
+   "img": "a59",
+   "ids": {
+    "imdb": "tt2098308",
+    "al": "10165",
+    "mal": "10165"
+   },
+   "s": {
+    "mal": [8.47, 406647, "2026-10-03"],
+    "al": [83, 242029, "2026-10-03"],
+    "imdb": [8.3, 4703, "2026-10-03"]
+   }
+  },
+  "hyouka-2012": {
+   "t": "Hyouka",
+   "y": 2012,
+   "by": "Kyoto Animation",
+   "g": "Mystery / Romance / Slice of Life",
+   "sum": "An energy-conserving student is pulled into solving everyday mysteries by a curious classmate.",
+   "img": "a60",
+   "ids": {
+    "imdb": "tt2340841",
+    "al": "12189",
+    "mal": "12189"
+   },
+   "s": {
+    "mal": [8.04, 697457, "2026-10-03"],
+    "al": [79, 353954, "2026-10-03"],
+    "imdb": [7.7, 8035, "2026-10-03"]
+   }
+  },
+  "angel-beats-2010": {
+   "t": "Angel Beats!",
+   "y": 2010,
+   "by": "P.A. Works",
+   "g": "Action / Comedy / Drama",
+   "sum": "A boy wakes in an afterlife high school and joins a rebel group fighting against vanishing.",
+   "img": "a61",
+   "ids": {
+    "imdb": "tt1639109",
+    "al": "6547",
+    "mal": "6547"
+   },
+   "s": {
+    "mal": [8.05, 1358846, "2026-10-03"],
+    "al": [77, 445320, "2026-10-03"],
+    "imdb": [7.6, 18495, "2026-10-03"]
+   }
+  },
+  "durarara-2010": {
+   "t": "Durarara!!",
+   "y": 2010,
+   "img": "a62",
+   "ids": {
+    "imdb": "tt1584000",
+    "al": "6746",
+    "mal": "6746"
+   },
+   "s": {
+    "mal": [8.08, 695519, "2026-10-03"],
+    "al": [79, 295329, "2026-10-03"],
+    "imdb": [7.8, 8860, "2026-10-03"]
+   }
+  },
+  "durarara-x2-2015": {
+   "t": "Durarara!! X2",
+   "y": 2015,
+   "img": "a62",
+   "ids": {
+    "imdb": "tt1584000",
+    "al": "20652",
+    "mal": "23199"
+   },
+   "s": {
+    "mal": [7.97, 264775, "2026-10-03"],
+    "al": [78, 111026, "2026-10-03"],
+    "imdb": [7.8, 8860, "2026-10-03"]
+   }
+  },
+  "durarara-x2-the-second-arc-2015": {
+   "t": "Durarara!! X2 The Second Arc",
+   "y": 2015,
+   "img": "a62",
+   "ids": {
+    "imdb": "tt1584000",
+    "al": "20879",
+    "mal": "27831"
+   },
+   "s": {
+    "mal": [7.96, 214918, "2026-10-03"],
+    "al": [78, 88701, "2026-10-03"],
+    "imdb": [7.8, 8860, "2026-10-03"]
+   }
+  },
+  "durarara-x2-the-third-arc-2016": {
+   "t": "Durarara!! X2 The Third Arc",
+   "y": 2016,
+   "img": "a62",
+   "ids": {
+    "imdb": "tt1584000",
+    "al": "20880",
+    "mal": "27833"
+   },
+   "s": {
+    "mal": [8.05, 198367, "2026-10-03"],
+    "al": [79, 80575, "2026-10-03"],
+    "imdb": [7.8, 8860, "2026-10-03"]
+   }
+  },
+  "baccano-2007": {
+   "t": "Baccano!",
+   "y": 2007,
+   "by": "Brain's Base",
+   "g": "Action / Mystery / Supernatural",
+   "sum": "Immortal alchemists, gangsters and train robbers cross paths in 1930s America, told out of order.",
+   "img": "a63",
+   "ids": {
+    "imdb": "tt1334722",
+    "al": "2251",
+    "mal": "2251"
+   },
+   "s": {
+    "mal": [8.34, 401509, "2026-10-03"],
+    "al": [81, 190981, "2026-10-03"],
+    "imdb": [8.1, 13829, "2026-10-03"]
+   }
+  },
+  "stand-alone-complex-2002": {
+   "t": "Stand Alone Complex",
+   "y": 2002,
+   "img": "a64",
+   "ids": {
+    "imdb": "tt0346314",
+    "al": "467",
+    "mal": "467"
+   },
+   "s": {
+    "mal": [8.42, 174334, "2026-10-03"],
+    "al": [82, 82916, "2026-10-03"],
+    "imdb": [8.5, 22732, "2026-10-03"]
+   }
+  },
+  "stand-alone-complex-2nd-gig-2004": {
+   "t": "Stand Alone Complex 2nd GIG",
+   "y": 2004,
+   "img": "a64",
+   "ids": {
+    "imdb": "tt0346314",
+    "al": "801",
+    "mal": "801"
+   },
+   "s": {
+    "mal": [8.51, 110447, "2026-10-03"],
+    "al": [84, 44944, "2026-10-03"],
+    "imdb": [8.5, 22732, "2026-10-03"]
+   }
+  },
+  "gurren-lagann-2007": {
+   "t": "Gurren Lagann",
+   "y": 2007,
+   "by": "Gainax",
+   "g": "Action / Comedy / Drama",
+   "sum": "Two underground villagers break out to the surface and grow from drilling tunnels to fighting galaxy-sized battles.",
+   "img": "a65",
+   "ids": {
+    "imdb": "tt0948103",
+    "al": "2001",
+    "mal": "2001"
+   },
+   "s": {
+    "mal": [8.65, 991844, "2026-10-03"],
+    "al": [85, 382376, "2026-10-03"],
+    "imdb": [8.3, 27874, "2026-10-03"]
+   }
+  },
+  "kill-la-kill-2013": {
+   "t": "Kill la Kill",
+   "y": 2013,
+   "by": "Trigger",
+   "g": "Action / Comedy / Ecchi",
+   "sum": "A transfer student with half a giant scissor blade fights a school ruled by students in power-granting uniforms.",
+   "img": "a66",
+   "ids": {
+    "imdb": "tt3114390",
+    "al": "18679",
+    "mal": "18679"
+   },
+   "s": {
+    "mal": [8.03, 1019057, "2026-10-03"],
+    "al": [79, 416800, "2026-10-03"],
+    "imdb": [7.8, 19973, "2026-10-03"]
+   }
+  },
+  "ergo-proxy-2006": {
+   "t": "Ergo Proxy",
+   "y": 2006,
+   "by": "Manglobe",
+   "g": "Adventure / Mystery / Psychological",
+   "sum": "In a domed city, an investigator and an android uncover the mystery of the beings called Proxies.",
+   "img": "a67",
+   "ids": {
+    "imdb": "tt0791205",
+    "al": "790",
+    "mal": "790"
+   },
+   "s": {
+    "mal": [7.9, 261656, "2026-10-03"],
+    "al": [76, 158466, "2026-10-03"],
+    "imdb": [7.8, 19236, "2026-10-03"]
+   }
+  },
+  "paranoia-agent-2004": {
+   "t": "Paranoia Agent",
+   "y": 2004,
+   "by": "Madhouse",
+   "g": "Drama / Mystery / Psychological",
+   "sum": "Detectives investigate attacks by a boy with a golden bat in Satoshi Kon's psychological thriller.",
+   "img": "a68",
+   "ids": {
+    "imdb": "tt0433722",
+    "al": "323",
+    "mal": "323"
+   },
+   "s": {
+    "mal": [7.66, 184343, "2026-10-03"],
+    "al": [76, 132338, "2026-10-03"],
+    "imdb": [7.9, 17137, "2026-10-03"]
+   }
+  },
+  "welcome-to-the-nhk-2006": {
+   "t": "Welcome to the NHK",
+   "y": 2006,
+   "by": "Gonzo",
+   "g": "Comedy / Drama / Psychological",
+   "sum": "A reclusive dropout convinced of a conspiracy is taken on as a project by a mysterious girl.",
+   "img": "a69",
+   "ids": {
+    "al": "1210",
+    "mal": "1210"
+   },
+   "s": {
+    "mal": [8.32, 380834, "2026-10-03"],
+    "al": [82, 204654, "2026-10-03"],
+    "imdb": [8.2, 10509, "2026-10-03"]
+   }
+  },
+  "nana-2006": {
+   "t": "Nana",
+   "y": 2006,
+   "by": "Madhouse",
+   "g": "Drama / Music / Romance",
+   "sum": "Two young women with the same name, one a punk singer and one a romantic, become roommates in Tokyo.",
+   "img": "a70",
+   "ids": {
+    "imdb": "tt0810705",
+    "al": "877",
+    "mal": "877"
+   },
+   "s": {
+    "mal": [8.58, 310831, "2026-10-03"],
+    "al": [85, 209267, "2026-10-03"],
+    "imdb": [8.5, 9970, "2026-10-03"]
+   }
+  },
+  "fruits-basket-2019-2019": {
+   "t": "Fruits Basket (2019)",
+   "y": 2019,
+   "img": "a71",
+   "ids": {
+    "imdb": "tt9304350",
+    "al": "105334",
+    "mal": "38680"
+   },
+   "s": {
+    "mal": [8.2, 458092, "2026-10-03"],
+    "al": [82, 313097, "2026-10-03"],
+    "imdb": [8.5, 14201, "2026-10-03"]
+   }
+  },
+  "fruits-basket-season-2-2020": {
+   "t": "Fruits Basket Season 2",
+   "y": 2020,
+   "img": "a71",
+   "ids": {
+    "imdb": "tt9304350",
+    "al": "111762",
+    "mal": "40417"
+   },
+   "s": {
+    "mal": [8.52, 308957, "2026-10-03"],
+    "al": [85, 187185, "2026-10-03"],
+    "imdb": [8.5, 14201, "2026-10-03"]
+   }
+  },
+  "fruits-basket-the-final-season-2021": {
+   "t": "Fruits Basket The Final Season",
+   "y": 2021,
+   "img": "a71",
+   "ids": {
+    "imdb": "tt9304350",
+    "al": "124194",
+    "mal": "42938"
+   },
+   "s": {
+    "mal": [8.93, 286617, "2026-10-03"],
+    "al": [89, 177870, "2026-10-03"],
+    "imdb": [8.5, 14201, "2026-10-03"]
+   }
+  },
+  "horimiya-2021": {
+   "t": "Horimiya",
+   "y": 2021,
+   "by": "CloverWorks",
+   "g": "Comedy / Romance / Slice of Life",
+   "sum": "A popular girl and a gloomy classmate discover each other's hidden sides and fall in love.",
+   "img": "a72",
+   "ids": {
+    "imdb": "tt13103134",
+    "al": "124080",
+    "mal": "42897"
+   },
+   "s": {
+    "mal": [8.18, 1028613, "2026-10-03"],
+    "al": [81, 545755, "2026-10-03"],
+    "imdb": [8, 27522, "2026-10-03"]
+   }
+  },
+  "kaiji-ultimate-survivor-2007": {
+   "t": "Kaiji: Ultimate Survivor",
+   "y": 2007,
+   "img": "a73",
+   "ids": {
+    "imdb": "tt1202625",
+    "al": "3002",
+    "mal": "3002"
+   },
+   "s": {
+    "mal": [8.25, 180905, "2026-10-03"],
+    "al": [82, 98765, "2026-10-03"],
+    "imdb": [8.2, 5172, "2026-10-03"]
+   }
+  },
+  "kaiji-against-all-rules-2011": {
+   "t": "Kaiji: Against All Rules",
+   "y": 2011,
+   "img": "a73",
+   "ids": {
+    "imdb": "tt1202625"
+   },
+   "s": {
+    "mal": [8.24, 119265, "2026-10-03"],
+    "al": [82, 54285, "2026-10-03"],
+    "imdb": [8.2, 5172, "2026-10-03"]
+   }
+  },
+  "jojo-s-bizarre-adventure-2012": {
+   "t": "JoJo's Bizarre Adventure",
+   "y": 2012,
+   "by": "David Production",
+   "g": "Action / Adventure / Supernatural",
+   "sum": "The first two parts of the Joestar family saga, battling vampires and ancient super-beings with bizarre powers.",
+   "img": "a74",
+   "ids": {
+    "imdb": "tt2359704",
+    "al": "14719",
+    "mal": "14719"
+   },
+   "s": {
+    "mal": [7.87, 1225012, "2026-10-03"],
+    "al": [77, 481397, "2026-10-03"],
+    "imdb": [8.6, 61889, "2026-10-03"]
+   }
+  },
+  "the-apothecary-diaries-2023": {
+   "t": "The Apothecary Diaries",
+   "y": 2023,
+   "img": "a75",
+   "ids": {
+    "imdb": "tt26743760",
+    "al": "161645",
+    "mal": "54492"
+   },
+   "s": {
+    "mal": [8.84, 514409, "2026-10-03"],
+    "al": [88, 330800, "2026-10-03"],
+    "imdb": [8.6, 28318, "2026-10-03"]
+   }
+  },
+  "the-apothecary-diaries-season-2-2025": {
+   "t": "Season 2",
+   "y": 2025,
+   "img": "a75",
+   "ids": {
+    "imdb": "tt26743760",
+    "al": "176301",
+    "mal": "58514"
+   },
+   "s": {
+    "mal": [8.9, 297280, "2026-10-03"],
+    "al": [88, 207889, "2026-10-03"],
+    "imdb": [8.6, 28318, "2026-10-03"]
+   }
+  },
+  "the-apothecary-diaries-season-3-2026": {
+   "t": "Season 3",
+   "y": 2026,
+   "img": "a75",
+   "ids": {
+    "imdb": "tt26743760",
+    "al": "195516",
+    "mal": "61987"
+   },
+   "s": {
+    "mal": [8.66, 4081, "2026-10-03"],
+    "al": [85, 83042, "2026-10-03"],
+    "imdb": [8.6, 28318, "2026-10-03"]
+   }
+  },
+  "delicious-in-dungeon-2024": {
+   "t": "Delicious in Dungeon",
+   "y": 2024,
+   "by": "Trigger",
+   "g": "Adventure / Comedy / Fantasy",
+   "sum": "Adventurers cook and eat the monsters they defeat as they race to rescue a friend from a dragon.",
+   "img": "a76",
+   "ids": {
+    "imdb": "tt21621494",
+    "al": "153518",
+    "mal": "52701"
+   },
+   "s": {
+    "mal": [8.58, 319123, "2026-10-03"],
+    "al": [85, 227935, "2026-10-03"],
+    "imdb": [8.1, 15356, "2026-10-03"]
+   }
+  },
+  "86-eighty-six-2021": {
+   "t": "86 Eighty-Six",
+   "y": 2021,
+   "img": "a77",
+   "ids": {
+    "al": "116589",
+    "mal": "41457"
+   },
+   "s": {
+    "mal": [8.36, 528408, "2026-10-03"],
+    "al": [83, 327011, "2026-10-03"],
+    "imdb": [8.3, 17055, "2026-10-03"]
+   }
+  },
+  "86-eighty-six-part-2-2021": {
+   "t": "86 Eighty-Six Part 2",
+   "y": 2021,
+   "img": "a77",
+   "ids": {
+    "al": "131586",
+    "mal": "48569"
+   },
+   "s": {
+    "mal": [8.73, 390629, "2026-10-03"],
+    "al": [87, 198686, "2026-10-03"],
+    "imdb": [8.3, 17055, "2026-10-03"]
+   }
+  },
+  "mononoke-2007": {
+   "t": "Mononoke",
+   "y": 2007,
+   "by": "Toei Animation",
+   "g": "Fantasy / Horror / Mystery",
+   "sum": "A mysterious medicine seller exorcises spirits that arise from human emotions, in a striking ukiyo-e style.",
+   "img": "a78",
+   "ids": {
+    "imdb": "tt1992935",
+    "al": "2246",
+    "mal": "2246"
+   },
+   "s": {
+    "mal": [8.41, 107770, "2026-10-03"],
+    "al": [82, 93388, "2026-10-03"],
+    "imdb": [8.1, 4156, "2026-10-03"]
+   }
+  },
+  "from-the-new-world-2012": {
+   "t": "From the New World",
+   "y": 2012,
+   "by": "A-1 Pictures",
+   "g": "Drama / Horror / Mystery",
+   "sum": "A thousand years in the future, children with psychic powers uncover the dark history of their peaceful village.",
+   "img": "a79",
+   "ids": {
+    "imdb": "tt2309320",
+    "al": "13125",
+    "mal": "13125"
+   },
+   "s": {
+    "mal": [8.24, 291476, "2026-10-03"],
+    "al": [80, 179199, "2026-10-03"],
+    "imdb": [7.8, 4302, "2026-10-03"]
+   }
+  },
+  "barakamon-2014": {
+   "t": "Barakamon",
+   "y": 2014,
+   "by": "Kinema Citrus",
+   "g": "Slice of Life",
+   "sum": "A calligrapher exiled to a remote island after a public outburst finds inspiration among its villagers.",
+   "img": "a80",
+   "ids": {
+    "imdb": "tt3660104",
+    "al": "20722",
+    "mal": "22789"
+   },
+   "s": {
+    "mal": [8.36, 365530, "2026-10-03"],
+    "al": [82, 153906, "2026-10-03"],
+    "imdb": [8.2, 5402, "2026-10-03"]
+   }
+  },
+  "space-brothers-2012": {
+   "t": "Space Brothers",
+   "y": 2012,
+   "by": "A-1 Pictures",
+   "g": "Comedy / Sci-Fi / Slice of Life",
+   "sum": "Two brothers who promised to become astronauts as kids; one already has, and the other tries to catch up.",
+   "img": "a81",
+   "ids": {
+    "imdb": "tt2267446",
+    "al": "12431",
+    "mal": "12431"
+   },
+   "s": {
+    "mal": [8.48, 56318, "2026-10-03"],
+    "al": [83, 49453, "2026-10-03"],
+    "imdb": [8.2, 716, "2026-10-03"]
+   }
+  },
+  "yuri-on-ice-2016": {
+   "t": "Yuri!!! on Ice",
+   "y": 2016,
+   "by": "MAPPA",
+   "g": "Comedy / Drama / Sports",
+   "sum": "A struggling figure skater is coached by his idol, a Russian champion, in a bid for a final comeback.",
+   "img": "a82",
+   "aw": ["Anime of the Year, Crunchyroll Anime Awards 2017"],
+   "ids": {
+    "imdb": "tt6112556",
+    "al": "21709",
+    "mal": "32995"
+   },
+   "s": {
+    "mal": [7.9, 574559, "2026-10-03"],
+    "al": [78, 232646, "2026-10-03"],
+    "imdb": [8.2, 13203, "2026-10-03"]
+   }
+  },
+  "food-wars-2015": {
+   "t": "Food Wars!",
+   "y": 2015,
+   "img": "a83",
+   "ids": {
+    "imdb": "tt4731072"
+   },
+   "s": {
+    "mal": [8.11, 1064388, "2026-10-03"],
+    "al": [78, 405120, "2026-10-03"],
+    "imdb": [8, 15497, "2026-10-03"]
+   }
+  },
+  "the-second-plate-2016": {
+   "t": "The Second Plate",
+   "y": 2016,
+   "img": "a83",
+   "ids": {
+    "imdb": "tt4731072"
+   },
+   "s": {
+    "mal": [8.05, 768153, "2026-10-03"],
+    "al": [78, 261529, "2026-10-03"],
+    "imdb": [8, 15497, "2026-10-03"]
+   }
+  },
+  "the-third-plate-2017": {
+   "t": "The Third Plate",
+   "y": 2017,
+   "img": "a83",
+   "ids": {
+    "imdb": "tt4731072"
+   },
+   "s": {
+    "mal": [7.96, 636227, "2026-10-03"],
+    "al": [78, 228765, "2026-10-03"],
+    "imdb": [8, 15497, "2026-10-03"]
+   }
+  },
+  "the-third-plate-totsuki-train-arc-2018": {
+   "t": "The Third Plate: Totsuki Train Arc",
+   "y": 2018,
+   "img": "a83",
+   "ids": {
+    "imdb": "tt4731072"
+   },
+   "s": {
+    "mal": [7.92, 463916, "2026-10-03"],
+    "al": [77, 173131, "2026-10-03"],
+    "imdb": [8, 15497, "2026-10-03"]
+   }
+  },
+  "the-fourth-plate-2019": {
+   "t": "The Fourth Plate",
+   "y": 2019,
+   "img": "a83",
+   "ids": {
+    "imdb": "tt4731072"
+   },
+   "s": {
+    "mal": [7.73, 391571, "2026-10-03"],
+    "al": [76, 177247, "2026-10-03"],
+    "imdb": [8, 15497, "2026-10-03"]
+   }
+  },
+  "the-fifth-plate-2020": {
+   "t": "The Fifth Plate",
+   "y": 2020,
+   "img": "a83",
+   "ids": {
+    "imdb": "tt4731072"
+   },
+   "s": {
+    "mal": [7.31, 302242, "2026-10-03"],
+    "al": [71, 150106, "2026-10-03"],
+    "imdb": [8, 15497, "2026-10-03"]
+   }
+  },
+  "kuroko-s-basketball-2012": {
+   "t": "Kuroko's Basketball",
+   "y": 2012,
+   "img": "a84",
+   "ids": {
+    "imdb": "tt2348803",
+    "al": "11771",
+    "mal": "11771"
+   },
+   "s": {
+    "mal": [8.04, 782707, "2026-10-03"],
+    "al": [78, 288011, "2026-10-03"],
+    "imdb": [8.2, 16790, "2026-10-03"]
+   }
+  },
+  "kuroko-s-basketball-2-2013": {
+   "t": "Kuroko's Basketball 2",
+   "y": 2013,
+   "img": "a84",
+   "ids": {
+    "imdb": "tt2348803",
+    "al": "16894",
+    "mal": "16894"
+   },
+   "s": {
+    "mal": [8.2, 595428, "2026-10-03"],
+    "al": [80, 183828, "2026-10-03"],
+    "imdb": [8.2, 16790, "2026-10-03"]
+   }
+  },
+  "kuroko-s-basketball-3-2015": {
+   "t": "Kuroko's Basketball 3",
+   "y": 2015,
+   "img": "a84",
+   "ids": {
+    "imdb": "tt2348803",
+    "al": "20725",
+    "mal": "24415"
+   },
+   "s": {
+    "mal": [8.29, 519788, "2026-10-03"],
+    "al": [81, 163618, "2026-10-03"],
+    "imdb": [8.2, 16790, "2026-10-03"]
+   }
+  },
+  "bungo-stray-dogs-season-1-2016": {
+   "t": "Season 1",
+   "y": 2016,
+   "img": "a85",
+   "ids": {
+    "imdb": "tt5679720",
+    "al": "21311",
+    "mal": "31478"
+   },
+   "s": {
+    "mal": [7.8, 800051, "2026-10-03"],
+    "al": [77, 423286, "2026-10-03"],
+    "imdb": [7.8, 14078, "2026-10-03"]
+   }
+  },
+  "season-2-2016": {
+   "t": "Season 2",
+   "y": 2016,
+   "img": "a85",
+   "ids": {
+    "imdb": "tt5679720",
+    "al": "21679",
+    "mal": "32867"
+   },
+   "s": {
+    "mal": [8.16, 551309, "2026-10-03"],
+    "al": [81, 239929, "2026-10-03"],
+    "imdb": [7.8, 14078, "2026-10-03"]
+   }
+  },
+  "season-3-2019": {
+   "t": "Season 3",
+   "y": 2019,
+   "img": "a85",
+   "ids": {
+    "imdb": "tt5679720",
+    "al": "103223",
+    "mal": "38003"
+   },
+   "s": {
+    "mal": [8.19, 383697, "2026-10-03"],
+    "al": [81, 199091, "2026-10-03"],
+    "imdb": [7.8, 14078, "2026-10-03"]
+   }
+  },
+  "season-4-2023": {
+   "t": "Season 4",
+   "y": 2023,
+   "img": "a85",
+   "ids": {
+    "imdb": "tt5679720",
+    "al": "141249",
+    "mal": "50330"
+   },
+   "s": {
+    "mal": [8.41, 154428, "2026-10-03"],
+    "al": [84, 110482, "2026-10-03"],
+    "imdb": [7.8, 14078, "2026-10-03"]
+   }
+  },
+  "season-5-2023": {
+   "t": "Season 5",
+   "y": 2023,
+   "img": "a85",
+   "ids": {
+    "imdb": "tt5679720",
+    "al": "163263",
+    "mal": "54898"
+   },
+   "s": {
+    "mal": [8.6, 126557, "2026-10-03"],
+    "al": [85, 81666, "2026-10-03"],
+    "imdb": [7.8, 14078, "2026-10-03"]
+   }
+  },
+  "golden-kamuy-season-1-2018": {
+   "t": "Season 1",
+   "y": 2018,
+   "img": "a86",
+   "ids": {
+    "imdb": "tt8225204",
+    "al": "99699",
+    "mal": "36028"
+   },
+   "s": {
+    "mal": [7.89, 192076, "2026-10-03"],
+    "al": [77, 140267, "2026-10-03"],
+    "imdb": [8.1, 3994, "2026-10-03"]
+   }
+  },
+  "season-2-2018": {
+   "t": "Season 2",
+   "y": 2018,
+   "img": "a86",
+   "ids": {
+    "imdb": "tt8225204",
+    "al": "102977",
+    "mal": "37989"
+   },
+   "s": {
+    "mal": [8.24, 133118, "2026-10-03"],
+    "al": [81, 65611, "2026-10-03"],
+    "imdb": [8.1, 3994, "2026-10-03"]
+   }
+  },
+  "golden-kamuy-season-3-2020": {
+   "t": "Season 3",
+   "y": 2020,
+   "img": "a86",
+   "ids": {
+    "imdb": "tt8225204",
+    "al": "110355",
+    "mal": "40059"
+   },
+   "s": {
+    "mal": [8.43, 102003, "2026-10-03"],
+    "al": [83, 54305, "2026-10-03"],
+    "imdb": [8.1, 3994, "2026-10-03"]
+   }
+  },
+  "golden-kamuy-season-4-2022": {
+   "t": "Season 4",
+   "y": 2022,
+   "img": "a86",
+   "ids": {
+    "imdb": "tt8225204",
+    "al": "142343",
+    "mal": "50528"
+   },
+   "s": {
+    "mal": [8.15, 50762, "2026-10-03"],
+    "al": [81, 36927, "2026-10-03"],
+    "imdb": [8.1, 3994, "2026-10-03"]
+   }
+  },
+  "final-season-2026": {
+   "t": "Final Season",
+   "y": 2026,
+   "img": "a86",
+   "ids": {
+    "imdb": "tt8225204",
+    "al": "166521",
+    "mal": "55772"
+   },
+   "s": {
+    "mal": [8.4, 21132, "2026-10-03"],
+    "al": [82, 21992, "2026-10-03"],
+    "imdb": [8.1, 3994, "2026-10-03"]
+   }
+  },
+  "wotakoi-love-is-hard-for-otaku-2018": {
+   "t": "Wotakoi: Love is Hard for Otaku",
+   "y": 2018,
+   "by": "A-1 Pictures",
+   "g": "Comedy / Romance / Slice of Life",
+   "sum": "Two office workers who are secret otaku start dating and navigate love and hobbies.",
+   "img": "a87",
+   "ids": {
+    "imdb": "tt8254880",
+    "al": "99578",
+    "mal": "35968"
+   },
+   "s": {
+    "mal": [7.91, 591904, "2026-10-03"],
+    "al": [78, 330237, "2026-10-03"],
+    "imdb": [7.5, 6601, "2026-10-03"]
+   }
+  },
+  "a-place-further-than-the-universe-2018": {
+   "t": "A Place Further Than the Universe",
+   "y": 2018,
+   "by": "Madhouse",
+   "g": "Adventure / Comedy / Drama",
+   "sum": "Four high-school girls set out on an expedition to Antarctica.",
+   "img": "a88",
+   "ids": {
+    "imdb": "tt7836688",
+    "al": "99426",
+    "mal": "35839"
+   },
+   "s": {
+    "mal": [8.5, 239046, "2026-10-03"],
+    "al": [84, 167893, "2026-10-03"],
+    "imdb": [8.1, 3584, "2026-10-03"]
+   }
+  },
+  "kakegurui-2017": {
+   "t": "Kakegurui",
+   "y": 2017,
+   "img": "a89",
+   "ids": {
+    "imdb": "tt7131720",
+    "al": "98314",
+    "mal": "34933"
+   },
+   "s": {
+    "mal": [7.21, 1010069, "2026-10-03"],
+    "al": [70, 458291, "2026-10-03"],
+    "imdb": [7.1, 18089, "2026-10-03"]
+   }
+  },
+  "kakegurui-xx-2019": {
+   "t": "Kakegurui xx",
+   "y": 2019,
+   "img": "a89",
+   "ids": {
+    "imdb": "tt7131720",
+    "al": "100876",
+    "mal": "37086"
+   },
+   "s": {
+    "mal": [7.18, 508725, "2026-10-03"],
+    "al": [70, 238496, "2026-10-03"],
+    "imdb": [7.1, 18089, "2026-10-03"]
+   }
+  },
+  "akame-ga-kill-2014": {
+   "t": "Akame ga Kill!",
+   "y": 2014,
+   "by": "White Fox",
+   "g": "Action / Adventure / Drama",
+   "sum": "A country boy joins an assassin group fighting a corrupt empire.",
+   "img": "a90",
+   "ids": {
+    "imdb": "tt3742982",
+    "al": "20613",
+    "mal": "22199"
+   },
+   "s": {
+    "mal": [7.48, 1428320, "2026-10-03"],
+    "al": [73, 542340, "2026-10-03"],
+    "imdb": [7.7, 39547, "2026-10-03"]
+   }
+  },
+  "vivy-fluorite-eye-s-song-2021": {
+   "t": "Vivy: Fluorite Eye's Song",
+   "y": 2021,
+   "by": "Wit Studio",
+   "g": "Action / Drama / Music",
+   "sum": "A singing AI is sent on a hundred-year mission to stop a future war between humans and AI.",
+   "img": "a91",
+   "ids": {
+    "imdb": "tt13851958",
+    "al": "128546",
+    "mal": "46095"
+   },
+   "s": {
+    "mal": [8.37, 278047, "2026-10-03"],
+    "al": [82, 181822, "2026-10-03"],
+    "imdb": [7.9, 5546, "2026-10-03"]
+   }
+  },
+  "pluto-2023": {
+   "t": "Pluto",
+   "y": 2023,
+   "by": "Studio M2",
+   "g": "Action / Drama / Mecha",
+   "sum": "A robot detective investigates murders of the world's most advanced robots, reimagined from Astro Boy.",
+   "img": "a92",
+   "ids": {
+    "imdb": "tt26737616",
+    "al": "99088",
+    "mal": "35737"
+   },
+   "s": {
+    "mal": [8.44, 116738, "2026-10-03"],
+    "al": [84, 106103, "2026-10-03"],
+    "imdb": [8.1, 21512, "2026-10-03"]
+   }
+  },
+  "spirited-away-2001": {
+   "t": "Spirited Away",
+   "y": 2001,
+   "by": "Hayao Miyazaki · Studio Ghibli",
+   "g": "Film / Adventure / Fantasy",
+   "sum": "A sulky ten-year-old is trapped in a world of spirits and must work at a bathhouse to free her parents.",
+   "img": "af0",
+   "aw": ["Won 1 Oscar"],
+   "ids": {
+    "imdb": "tt0245429",
+    "al": "199",
+    "mal": "199"
+   },
+   "s": {
+    "mal": [8.77, 1430843, "2026-10-03"],
+    "al": [86, 483313, "2026-10-03"],
+    "imdb": [8.6, 987392, "2026-10-03"]
+   }
+  },
+  "your-name-2016": {
+   "t": "Your Name.",
+   "y": 2016,
+   "by": "Makoto Shinkai · CoMix Wave",
+   "g": "Film / Drama / Romance",
+   "sum": "A city boy and a country girl mysteriously start swapping bodies, and try to find each other.",
+   "img": "af1",
+   "ids": {
+    "imdb": "tt5311514",
+    "al": "21519",
+    "mal": "32281"
+   },
+   "s": {
+    "mal": [8.82, 2114386, "2026-10-03"],
+    "al": [85, 718927, "2026-10-03"],
+    "imdb": [8.4, 406679, "2026-10-03"]
+   }
+  },
+  "howl-s-moving-castle-2004": {
+   "t": "Howl's Moving Castle",
+   "y": 2004,
+   "by": "Hayao Miyazaki · Studio Ghibli",
+   "g": "Film / Adventure / Fantasy",
+   "sum": "A young hatter cursed into old age finds refuge in the walking castle of a vain, reluctant wizard.",
+   "img": "af2",
+   "aw": ["1 Oscar nomination"],
+   "ids": {
+    "imdb": "tt0347149",
+    "al": "431",
+    "mal": "431"
+   },
+   "s": {
+    "mal": [8.67, 1041802, "2026-10-03"],
+    "al": [85, 365630, "2026-10-03"],
+    "imdb": [8.2, 522885, "2026-10-03"]
+   }
+  },
+  "a-silent-voice-2016": {
+   "t": "A Silent Voice",
+   "y": 2016,
+   "by": "Naoko Yamada · Kyoto Animation",
+   "g": "Film / Drama / Romance",
+   "sum": "A former bully seeks out the deaf girl he tormented in grade school, hoping to make amends.",
+   "img": "af3",
+   "ids": {
+    "al": "20954",
+    "mal": "28851"
+   },
+   "s": {
+    "mal": [8.93, 1833517, "2026-10-03"],
+    "al": [88, 721473, "2026-10-03"],
+    "imdb": [8.2, 151070, "2026-10-03"]
+   }
+  },
+  "wolf-children-2012": {
+   "t": "Wolf Children",
+   "y": 2012,
+   "by": "Mamoru Hosoda · Studio Chizu",
+   "g": "Film / Drama / Fantasy",
+   "sum": "A young widow raises her two half-wolf children in the countryside as they choose which life to follow.",
+   "img": "af4",
+   "ids": {
+    "imdb": "tt2140203",
+    "al": "12355",
+    "mal": "12355"
+   },
+   "s": {
+    "mal": [8.56, 490403, "2026-10-03"],
+    "al": [83, 194900, "2026-10-03"],
+    "imdb": [8.1, 55871, "2026-10-03"]
+   }
+  },
+  "the-boy-and-the-heron-2023": {
+   "t": "The Boy and the Heron",
+   "y": 2023,
+   "by": "Hayao Miyazaki · Studio Ghibli",
+   "g": "Film / Adventure / Fantasy",
+   "sum": "A grieving boy follows a talking grey heron into a strange world where the living and the dead meet.",
+   "img": "af5",
+   "aw": ["Won 1 Oscar"],
+   "ids": {
+    "imdb": "tt6587046",
+    "al": "109979",
+    "mal": "36699"
+   },
+   "s": {
+    "mal": [7.6, 98424, "2026-10-03"],
+    "al": [77, 67249, "2026-10-03"],
+    "imdb": [7.3, 151732, "2026-10-03"]
+   }
+  },
+  "paprika-2006": {
+   "t": "Paprika",
+   "y": 2006,
+   "by": "Satoshi Kon · Madhouse",
+   "g": "Film / Mystery / Psychological",
+   "sum": "When a device that lets therapists enter dreams is stolen, dreams start spilling into the waking world.",
+   "img": "af6",
+   "ids": {
+    "imdb": "tt0851578",
+    "al": "1943",
+    "mal": "1943"
+   },
+   "s": {
+    "mal": [8.05, 314993, "2026-10-03"],
+    "al": [79, 157416, "2026-10-03"],
+    "imdb": [7.7, 116178, "2026-10-03"]
+   }
+  },
+  "cowboy-bebop-1998": {
+   "t": "Cowboy Bebop",
+   "y": 1998,
+   "by": "Sunrise",
+   "g": "Action / Adventure / Drama",
+   "sum": "A crew of bounty hunters drift through the solar system in 2071, to a jazz soundtrack.",
+   "img": "a93",
+   "ids": {
+    "imdb": "tt0213338",
+    "al": "1",
+    "mal": "1"
+   },
+   "s": {
+    "mal": [8.75, 1077271, "2026-10-03"],
+    "al": [86, 470285, "2026-10-03"],
+    "imdb": [8.9, 174078, "2026-10-03"]
+   }
+  },
+  "neon-genesis-evangelion-1995": {
+   "t": "Neon Genesis Evangelion",
+   "y": 1995,
+   "by": "Gainax, Tatsunoko Production",
+   "g": "Action / Drama / Mecha",
+   "sum": "Teenagers pilot giant bio-machines to fight mysterious beings, in a psychological deconstruction of mecha anime.",
+   "img": "a94",
+   "ids": {
+    "imdb": "tt0112159",
+    "al": "30",
+    "mal": "30"
+   },
+   "s": {
+    "mal": [8.37, 1238080, "2026-10-03"],
+    "al": [83, 498170, "2026-10-03"],
+    "imdb": [8.5, 115745, "2026-10-03"]
+   }
+  },
+  "dragon-ball-1986": {
+   "t": "Dragon Ball",
+   "y": 1986,
+   "img": "a95",
+   "ids": {
+    "imdb": "tt0088509",
+    "al": "223",
+    "mal": "223"
+   },
+   "s": {
+    "mal": [7.98, 735014, "2026-10-03"],
+    "al": [78, 235789, "2026-10-03"],
+    "imdb": [8.5, 77553, "2026-10-03"]
+   }
+  },
+  "dragon-ball-z-1989": {
+   "t": "Dragon Ball Z",
+   "y": 1989,
+   "img": "a95",
+   "ids": {
+    "imdb": "tt0088509",
+    "al": "813",
+    "mal": "813"
+   },
+   "s": {
+    "mal": [8.21, 916543, "2026-10-03"],
+    "al": [81, 260754, "2026-10-03"],
+    "imdb": [8.5, 77553, "2026-10-03"]
+   }
+  },
+  "dragon-ball-gt-1996": {
+   "t": "Dragon Ball GT",
+   "y": 1996,
+   "img": "a95",
+   "ids": {
+    "imdb": "tt0088509",
+    "al": "225",
+    "mal": "225"
+   },
+   "s": {
+    "mal": [6.53, 456400, "2026-10-03"],
+    "al": [63, 130075, "2026-10-03"],
+    "imdb": [8.5, 77553, "2026-10-03"]
+   }
+  },
+  "dragon-ball-super-2015": {
+   "t": "Dragon Ball Super",
+   "y": 2015,
+   "img": "a95",
+   "ids": {
+    "imdb": "tt0088509",
+    "al": "21175",
+    "mal": "30694"
+   },
+   "s": {
+    "mal": [7.48, 598420, "2026-10-03"],
+    "al": [73, 219539, "2026-10-03"],
+    "imdb": [8.5, 77553, "2026-10-03"]
+   }
+  },
+  "dragon-ball-daima-2024": {
+   "t": "Dragon Ball Daima",
+   "y": 2024,
+   "img": "a95",
+   "ids": {
+    "imdb": "tt0088509",
+    "al": "170083",
+    "mal": "56894"
+   },
+   "s": {
+    "mal": [7.54, 68791, "2026-10-03"],
+    "al": [75, 60947, "2026-10-03"],
+    "imdb": [8.5, 77553, "2026-10-03"]
+   }
+  },
+  "one-piece-1999": {
+   "t": "One Piece",
+   "y": 1999,
+   "by": "Toei Animation",
+   "g": "Action / Adventure / Comedy",
+   "sum": "Monkey D. Luffy and his crew sail the Grand Line in search of the legendary One Piece treasure.",
+   "img": "a96",
+   "ids": {
+    "imdb": "tt0388629",
+    "al": "21",
+    "mal": "21"
+   },
+   "s": {
+    "mal": [8.72, 1560619, "2026-10-03"],
+    "al": [87, 756137, "2026-10-03"],
+    "imdb": [9, 369322, "2026-10-03"]
+   }
+  },
+  "great-teacher-onizuka-1999": {
+   "t": "Great Teacher Onizuka",
+   "y": 1999,
+   "by": "Studio Pierrot",
+   "g": "Comedy / Drama / Slice of Life",
+   "sum": "A former biker gang member becomes a teacher and takes on the most troubled class in the school.",
+   "img": "a97",
+   "ids": {
+    "imdb": "tt0315008",
+    "al": "245",
+    "mal": "245"
+   },
+   "s": {
+    "mal": [8.68, 456439, "2026-10-03"],
+    "al": [84, 176991, "2026-10-03"],
+    "imdb": [8.5, 15592, "2026-10-03"]
+   }
+  },
+  "rurouni-kenshin-1996": {
+   "t": "Rurouni Kenshin",
+   "y": 1996,
+   "by": "Studio Gallop, Studio DEEN",
+   "g": "Action / Adventure / Comedy",
+   "sum": "A legendary assassin turned wanderer vows never to kill again in early Meiji-era Japan.",
+   "img": "a98",
+   "ids": {
+    "imdb": "tt0182629",
+    "al": "45",
+    "mal": "45"
+   },
+   "s": {
+    "mal": [8.27, 249271, "2026-10-03"],
+    "al": [79, 90551, "2026-10-03"],
+    "imdb": [8.5, 22331, "2026-10-03"]
+   }
+  },
+  "trigun-1998": {
+   "t": "Trigun",
+   "y": 1998,
+   "by": "Madhouse",
+   "g": "Action / Adventure / Comedy",
+   "sum": "A gunslinger with a huge bounty on his head is actually a pacifist who wants to avoid killing.",
+   "img": "a99",
+   "ids": {
+    "imdb": "tt0251439",
+    "al": "6",
+    "mal": "6"
+   },
+   "s": {
+    "mal": [8.22, 405835, "2026-10-03"],
+    "al": [80, 171279, "2026-10-03"],
+    "imdb": [8.2, 26889, "2026-10-03"]
+   }
+  },
+  "serial-experiments-lain-1998": {
+   "t": "Serial Experiments Lain",
+   "y": 1998,
+   "by": "Triangle Staff",
+   "g": "Drama / Mystery / Psychological",
+   "sum": "A quiet girl is drawn into the Wired, a network blurring the line between online and reality.",
+   "img": "a100",
+   "ids": {
+    "imdb": "tt0500092",
+    "al": "339",
+    "mal": "339"
+   },
+   "s": {
+    "mal": [8.11, 366626, "2026-10-03"],
+    "al": [80, 254943, "2026-10-03"],
+    "imdb": [8, 23041, "2026-10-03"]
+   }
+  },
+  "legend-of-the-galactic-heroes-1988": {
+   "t": "Legend of the Galactic Heroes",
+   "y": 1988,
+   "by": "Kitty Film",
+   "g": "Drama / Sci-Fi",
+   "sum": "Two brilliant commanders lead opposing sides of a centuries-long interstellar war.",
+   "img": "a101",
+   "ids": {
+    "imdb": "tt0096633",
+    "al": "820",
+    "mal": "820"
+   },
+   "s": {
+    "mal": [9.02, 89545, "2026-10-03"],
+    "al": [88, 85706, "2026-10-03"],
+    "imdb": [9, 7404, "2026-10-03"]
+   }
+  },
+  "berserk-1997": {
+   "t": "Berserk",
+   "y": 1997,
+   "by": "OLM",
+   "g": "Action / Adventure / Drama",
+   "sum": "A mercenary swordsman joins a band led by a charismatic leader with a dark ambition.",
+   "img": "a102",
+   "ids": {
+    "imdb": "tt0318871",
+    "al": "33",
+    "mal": "33"
+   },
+   "s": {
+    "mal": [8.61, 422796, "2026-10-03"],
+    "al": [84, 186409, "2026-10-03"],
+    "imdb": [8.8, 83750, "2026-10-03"]
+   }
+  },
+  "yu-yu-hakusho-1992": {
+   "t": "Yu Yu Hakusho",
+   "y": 1992,
+   "by": "Studio Pierrot",
+   "g": "Action / Adventure / Comedy",
+   "sum": "A delinquent killed saving a child becomes a spirit detective fighting demons.",
+   "img": "a103",
+   "ids": {
+    "imdb": "tt0185133",
+    "al": "392",
+    "mal": "392"
+   },
+   "s": {
+    "mal": [8.46, 362207, "2026-10-03"],
+    "al": [83, 159517, "2026-10-03"],
+    "imdb": [8.5, 18672, "2026-10-03"]
+   }
+  },
+  "slam-dunk-1993": {
+   "t": "Slam Dunk",
+   "y": 1993,
+   "by": "Toei Animation",
+   "g": "Comedy / Drama / Sports",
+   "sum": "A delinquent with a crush joins the high-school basketball team and turns out to be a natural.",
+   "img": "a104",
+   "ids": {
+    "imdb": "tt0965547",
+    "al": "170",
+    "mal": "170"
+   },
+   "s": {
+    "mal": [8.56, 153525, "2026-10-03"],
+    "al": [83, 73905, "2026-10-03"],
+    "imdb": [8.7, 9669, "2026-10-03"]
+   }
+  },
+  "sailor-moon-1992": {
+   "t": "Sailor Moon",
+   "y": 1992,
+   "img": "a105",
+   "ids": {
+    "imdb": "tt0103369",
+    "al": "530",
+    "mal": "530"
+   },
+   "s": {
+    "mal": [7.76, 203961, "2026-10-03"],
+    "al": [76, 105794, "2026-10-03"],
+    "imdb": [7.7, 9216, "2026-10-03"]
+   }
+  },
+  "sailor-moon-r-1993": {
+   "t": "Sailor Moon R",
+   "y": 1993,
+   "img": "a105",
+   "ids": {
+    "imdb": "tt0103369",
+    "al": "740",
+    "mal": "740"
+   },
+   "s": {
+    "mal": [7.74, 93949, "2026-10-03"],
+    "al": [76, 35631, "2026-10-03"],
+    "imdb": [7.7, 9216, "2026-10-03"]
+   }
+  },
+  "sailor-moon-s-1994": {
+   "t": "Sailor Moon S",
+   "y": 1994,
+   "img": "a105",
+   "ids": {
+    "imdb": "tt0103369",
+    "al": "532",
+    "mal": "532"
+   },
+   "s": {
+    "mal": [7.92, 84225, "2026-10-03"],
+    "al": [78, 32691, "2026-10-03"],
+    "imdb": [7.7, 9216, "2026-10-03"]
+   }
+  },
+  "sailor-moon-supers-1995": {
+   "t": "Sailor Moon SuperS",
+   "y": 1995,
+   "img": "a105",
+   "ids": {
+    "imdb": "tt0103369",
+    "al": "1239",
+    "mal": "1239"
+   },
+   "s": {
+    "mal": [7.64, 66355, "2026-10-03"],
+    "al": [74, 25614, "2026-10-03"],
+    "imdb": [7.7, 9216, "2026-10-03"]
+   }
+  },
+  "sailor-moon-sailor-stars-1996": {
+   "t": "Sailor Moon Sailor Stars",
+   "y": 1996,
+   "img": "a105",
+   "ids": {
+    "imdb": "tt0103369",
+    "al": "996",
+    "mal": "996"
+   },
+   "s": {
+    "mal": [7.97, 61344, "2026-10-03"],
+    "al": [77, 24327, "2026-10-03"],
+    "imdb": [7.7, 9216, "2026-10-03"]
+   }
+  },
+  "mobile-suit-gundam-1979": {
+   "t": "Mobile Suit Gundam",
+   "y": 1979,
+   "by": "Sunrise",
+   "g": "Drama / Mecha / Sci-Fi",
+   "sum": "A teenage boy pilots a prototype war robot in a space war between Earth and its colonies.",
+   "img": "a106",
+   "ids": {
+    "imdb": "tt0159172",
+    "al": "80",
+    "mal": "80"
+   },
+   "s": {
+    "mal": [7.79, 69904, "2026-10-03"],
+    "al": [77, 48558, "2026-10-03"],
+    "imdb": [7.9, 3544, "2026-10-03"]
+   }
+  },
+  "hunter-x-hunter-1999-1999": {
+   "t": "Hunter x Hunter (1999)",
+   "y": 1999,
+   "by": "Nippon Animation",
+   "g": "Action / Adventure / Fantasy",
+   "sum": "The original adaptation of Gon's quest to become a Hunter.",
+   "img": "a107",
+   "ids": {},
+   "s": {
+    "mal": [8.44, 319064, "2026-10-03"],
+    "al": [83, 135441, "2026-10-03"],
+    "imdb": [8.6, 12647, "2026-10-03"]
+   }
+  },
+  "revolutionary-girl-utena-1997": {
+   "t": "Revolutionary Girl Utena",
+   "y": 1997,
+   "by": "J.C.Staff",
+   "g": "Action / Drama / Fantasy",
+   "sum": "A girl who wants to be a prince is drawn into duels for a mysterious bride.",
+   "img": "a108",
+   "ids": {
+    "imdb": "tt0205410",
+    "al": "440",
+    "mal": "440"
+   },
+   "s": {
+    "mal": [8.25, 73607, "2026-10-03"],
+    "al": [83, 81514, "2026-10-03"],
+    "imdb": [8.1, 2585, "2026-10-03"]
+   }
+  },
+  "cardcaptor-sakura-1998": {
+   "t": "Cardcaptor Sakura",
+   "y": 1998,
+   "by": "Madhouse",
+   "g": "Comedy / Drama / Fantasy",
+   "sum": "A schoolgirl accidentally releases magical cards and must recapture them.",
+   "img": "a109",
+   "ids": {
+    "imdb": "tt0221735",
+    "al": "232",
+    "mal": "232"
+   },
+   "s": {
+    "mal": [8.19, 236502, "2026-10-03"],
+    "al": [81, 103643, "2026-10-03"],
+    "imdb": [8, 6589, "2026-10-03"]
+   }
+  },
+  "pokemon-1997": {
+   "t": "Pokémon",
+   "y": 1997,
+   "img": "a110",
+   "ids": {
+    "imdb": "tt0168366"
+   },
+   "s": {
+    "mal": [7.43, 430082, "2026-10-03"],
+    "al": [73, 148877, "2026-10-03"],
+    "imdb": [7.6, 57431, "2026-10-03"]
+   }
+  },
+  "ruby-and-sapphire-2002": {
+   "t": "Ruby and Sapphire",
+   "y": 2002,
+   "img": "a110",
+   "ids": {
+    "imdb": "tt0168366"
+   },
+   "s": {
+    "mal": [7.16, 125933, "2026-10-03"],
+    "al": [70, 49600, "2026-10-03"],
+    "imdb": [7.6, 57431, "2026-10-03"]
+   }
+  },
+  "diamond-and-pearl-2006": {
+   "t": "Diamond and Pearl",
+   "y": 2006,
+   "img": "a110",
+   "ids": {
+    "imdb": "tt0168366"
+   },
+   "s": {
+    "mal": [7.34, 100335, "2026-10-03"],
+    "al": [72, 42738, "2026-10-03"],
+    "imdb": [7.6, 57431, "2026-10-03"]
+   }
+  },
+  "black-and-white-2010": {
+   "t": "Black & White",
+   "y": 2010,
+   "img": "a110",
+   "ids": {
+    "imdb": "tt0168366"
+   },
+   "s": {
+    "mal": [6.48, 67613, "2026-10-03"],
+    "al": [63, 33360, "2026-10-03"],
+    "imdb": [7.6, 57431, "2026-10-03"]
+   }
+  },
+  "bw-rival-destinies-2012": {
+   "t": "BW: Rival Destinies",
+   "y": 2012,
+   "img": "a110",
+   "ids": {
+    "imdb": "tt0168366"
+   },
+   "s": {
+    "mal": [6.5, 45728, "2026-10-03"],
+    "al": [62, 21123, "2026-10-03"],
+    "imdb": [7.6, 57431, "2026-10-03"]
+   }
+  },
+  "bw-adventures-in-unova-2013": {
+   "t": "BW: Adventures in Unova",
+   "y": 2013,
+   "img": "a110",
+   "ids": {
+    "imdb": "tt0168366"
+   },
+   "s": {
+    "mal": [6.73, 30699, "2026-10-03"],
+    "al": [65, 16254, "2026-10-03"],
+    "imdb": [7.6, 57431, "2026-10-03"]
+   }
+  },
+  "bw-adventures-in-unova-and-beyond-2013": {
+   "t": "BW: Adventures in Unova and Beyond",
+   "y": 2013,
+   "img": "a110",
+   "ids": {
+    "imdb": "tt0168366"
+   },
+   "s": {
+    "mal": [6.37, 28864, "2026-10-03"],
+    "al": [61, 15436, "2026-10-03"],
+    "imdb": [7.6, 57431, "2026-10-03"]
+   }
+  },
+  "digimon-adventure-1999": {
+   "t": "Digimon Adventure",
+   "y": 1999,
+   "by": "Toei Animation",
+   "g": "Action / Adventure / Comedy",
+   "sum": "Children at summer camp are transported to a digital world and partner with digital monsters.",
+   "img": "a111",
+   "ids": {
+    "imdb": "tt0210418",
+    "al": "552",
+    "mal": "552"
+   },
+   "s": {
+    "mal": [7.79, 271364, "2026-10-03"],
+    "al": [76, 71830, "2026-10-03"],
+    "imdb": [7.4, 26656, "2026-10-03"]
+   }
+  },
+  "detective-conan-1996": {
+   "t": "Detective Conan",
+   "y": 1996,
+   "by": "TMS Entertainment",
+   "g": "Adventure / Comedy / Mystery",
+   "sum": "A teen detective shrunk to a child's body keeps solving cases while hunting the organisation responsible.",
+   "img": "a112",
+   "ids": {
+    "imdb": "tt0131179",
+    "al": "235",
+    "mal": "235"
+   },
+   "s": {
+    "mal": [8.18, 171622, "2026-10-03"],
+    "al": [82, 80297, "2026-10-03"],
+    "imdb": [8.5, 18828, "2026-10-03"]
+   }
+  },
+  "ranma-1-2-1989": {
+   "t": "Ranma 1/2",
+   "y": 1989,
+   "by": "Studio DEEN",
+   "g": "Action / Comedy / Romance",
+   "sum": "A martial artist cursed to turn into a girl when splashed with cold water.",
+   "img": "a113",
+   "ids": {
+    "imdb": "tt0096686",
+    "al": "210",
+    "mal": "210"
+   },
+   "s": {
+    "mal": [7.78, 133125, "2026-10-03"],
+    "al": [75, 55309, "2026-10-03"],
+    "imdb": [7.9, 6698, "2026-10-03"]
+   }
+  },
+  "fist-of-the-north-star-1984": {
+   "t": "Fist of the North Star",
+   "y": 1984,
+   "img": "a114",
+   "ids": {
+    "imdb": "tt0091211",
+    "al": "967",
+    "mal": "967"
+   },
+   "s": {
+    "mal": [7.96, 48535, "2026-10-03"],
+    "al": [76, 33183, "2026-10-03"],
+    "imdb": [8.1, 4302, "2026-10-03"]
+   }
+  },
+  "fist-of-the-north-star-2-1987": {
+   "t": "Fist of the North Star 2",
+   "y": 1987,
+   "img": "a114",
+   "ids": {
+    "imdb": "tt0091211",
+    "al": "1356",
+    "mal": "1356"
+   },
+   "s": {
+    "mal": [7.59, 15272, "2026-10-03"],
+    "al": [72, 7847, "2026-10-03"],
+    "imdb": [8.1, 4302, "2026-10-03"]
+   }
+  },
+  "saint-seiya-1986": {
+   "t": "Saint Seiya",
+   "y": 1986,
+   "by": "Toei Animation",
+   "g": "Action / Adventure / Fantasy",
+   "sum": "Young warriors in mythological armour protect the reincarnation of the goddess Athena.",
+   "img": "a115",
+   "ids": {
+    "imdb": "tt0161952",
+    "al": "1254",
+    "mal": "1254"
+   },
+   "s": {
+    "mal": [7.77, 109710, "2026-10-03"],
+    "al": [73, 38958, "2026-10-03"],
+    "imdb": [8.4, 12929, "2026-10-03"]
+   }
+  },
+  "city-hunter-1987": {
+   "t": "City Hunter",
+   "y": 1987,
+   "img": "a116",
+   "ids": {
+    "imdb": "tt0159208",
+    "al": "1470",
+    "mal": "1470"
+   },
+   "s": {
+    "mal": [7.91, 26607, "2026-10-03"],
+    "al": [76, 26936, "2026-10-03"],
+    "imdb": [7.7, 1947, "2026-10-03"]
+   }
+  },
+  "city-hunter-2-1988": {
+   "t": "City Hunter 2",
+   "y": 1988,
+   "img": "a116",
+   "ids": {
+    "imdb": "tt0159208",
+    "al": "1471",
+    "mal": "1471"
+   },
+   "s": {
+    "mal": [8.08, 12764, "2026-10-03"],
+    "al": [78, 7806, "2026-10-03"],
+    "imdb": [7.7, 1947, "2026-10-03"]
+   }
+  },
+  "city-hunter-3-1989": {
+   "t": "City Hunter 3",
+   "y": 1989,
+   "img": "a116",
+   "ids": {
+    "imdb": "tt0159208",
+    "al": "1472",
+    "mal": "1472"
+   },
+   "s": {
+    "mal": [7.82, 21866, "2026-10-03"],
+    "al": [75, 6568, "2026-10-03"],
+    "imdb": [7.7, 1947, "2026-10-03"]
+   }
+  },
+  "city-hunter-91-1991": {
+   "t": "City Hunter '91",
+   "y": 1991,
+   "img": "a116",
+   "ids": {
+    "imdb": "tt0159208",
+    "al": "1473",
+    "mal": "1473"
+   },
+   "s": {
+    "mal": [7.75, 10160, "2026-10-03"],
+    "al": [75, 6270, "2026-10-03"],
+    "imdb": [7.7, 1947, "2026-10-03"]
+   }
+  },
+  "astro-boy-1963": {
+   "t": "Astro Boy",
+   "y": 1963,
+   "by": "Mushi Production",
+   "g": "Action / Adventure / Drama",
+   "sum": "A robot boy with a heart of gold fights for peace between humans and robots.",
+   "img": "a117",
+   "ids": {
+    "imdb": "tt0056739",
+    "al": "2747",
+    "mal": "2747"
+   },
+   "s": {
+    "mal": [7.13, 4856, "2026-10-03"],
+    "al": [65, 4587, "2026-10-03"],
+    "imdb": [7.4, 1200, "2026-10-03"]
+   }
+  },
+  "lupin-the-third-part-ii-1977": {
+   "t": "Lupin the Third Part II",
+   "y": 1977,
+   "by": "Tokyo Movie Shinsha",
+   "g": "Action / Adventure / Comedy",
+   "sum": "Master thief Lupin III and his gang pull off daring heists while evading Inspector Zenigata.",
+   "img": "a118",
+   "ids": {
+    "imdb": "tt0159192"
+   },
+   "s": {
+    "mal": [7.8, 13555, "2026-10-03"],
+    "al": [75, 11858, "2026-10-03"],
+    "imdb": [8, 2215, "2026-10-03"]
+   }
+  },
+  "the-super-dimension-fortress-macross-1982": {
+   "t": "The Super Dimension Fortress Macross",
+   "y": 1982,
+   "by": "Tatsunoko Production, Studio Nue",
+   "g": "Action / Drama / Mecha",
+   "sum": "Humanity's crew aboard a giant alien battleship fights a war in which a pop singer may be the key.",
+   "img": "a119",
+   "ids": {
+    "imdb": "tt0142183"
+   },
+   "s": {
+    "mal": [7.89, 40353, "2026-10-03"],
+    "al": [75, 32162, "2026-10-03"],
+    "imdb": [8.4, 2629, "2026-10-03"]
+   }
+  },
+  "the-rose-of-versailles-1979": {
+   "t": "The Rose of Versailles",
+   "y": 1979,
+   "by": "Tokyo Movie Shinsha",
+   "g": "Adventure / Drama / Romance",
+   "sum": "A woman raised as a man becomes commander of Marie Antoinette's guard before the French Revolution.",
+   "img": "a120",
+   "ids": {
+    "al": "338",
+    "mal": "338"
+   },
+   "s": {
+    "mal": [8.36, 34755, "2026-10-03"],
+    "al": [81, 34615, "2026-10-03"],
+    "imdb": [8.3, 2882, "2026-10-03"]
+   }
+  },
+  "nadia-the-secret-of-blue-water-1990": {
+   "t": "Nadia: The Secret of Blue Water",
+   "y": 1990,
+   "by": "Gainax",
+   "g": "Adventure / Comedy / Romance",
+   "sum": "A young inventor and a circus girl with a mysterious jewel join Captain Nemo's adventures.",
+   "img": "a121",
+   "ids": {
+    "imdb": "tt0096591",
+    "al": "1251",
+    "mal": "1251"
+   },
+   "s": {
+    "mal": [7.52, 22493, "2026-10-03"],
+    "al": [73, 25757, "2026-10-03"],
+    "imdb": [7.7, 2383, "2026-10-03"]
+   }
+  },
+  "first-stage-1998": {
+   "t": "First Stage",
+   "y": 1998,
+   "img": "a122",
+   "ids": {
+    "al": "185",
+    "mal": "185"
+   },
+   "s": {
+    "mal": [8.37, 222881, "2026-10-03"],
+    "al": [82, 117376, "2026-10-03"],
+    "imdb": [8.5, 5709, "2026-10-03"]
+   }
+  },
+  "second-stage-1999": {
+   "t": "Second Stage",
+   "y": 1999,
+   "img": "a122",
+   "ids": {
+    "al": "186",
+    "mal": "186"
+   },
+   "s": {
+    "mal": [8.2, 155749, "2026-10-03"],
+    "al": [81, 60828, "2026-10-03"],
+    "imdb": [8.5, 5709, "2026-10-03"]
+   }
+  },
+  "outlaw-star-1998": {
+   "t": "Outlaw Star",
+   "y": 1998,
+   "by": "Sunrise",
+   "g": "Action / Adventure / Comedy",
+   "sum": "A small-time handyman acquires a spaceship and a bio-android and sets out to find a legendary treasure.",
+   "img": "a123",
+   "ids": {
+    "imdb": "tt0266171",
+    "al": "400",
+    "mal": "400"
+   },
+   "s": {
+    "mal": [7.83, 67195, "2026-10-03"],
+    "al": [75, 36625, "2026-10-03"],
+    "imdb": [7.9, 4465, "2026-10-03"]
+   }
+  },
+  "his-and-her-circumstances-1998": {
+   "t": "His and Her Circumstances",
+   "y": 1998,
+   "by": "Gainax, J.C.Staff",
+   "g": "Comedy / Drama / Romance",
+   "sum": "Two seemingly perfect students drop their facades for each other and start dating.",
+   "img": "a124",
+   "ids": {
+    "imdb": "tt0202430",
+    "al": "145",
+    "mal": "145"
+   },
+   "s": {
+    "mal": [7.6, 87512, "2026-10-03"],
+    "al": [76, 67892, "2026-10-03"],
+    "imdb": [7.6, 1978, "2026-10-03"]
+   }
+  },
+  "martian-successor-nadesico-1996": {
+   "t": "Martian Successor Nadesico",
+   "y": 1996,
+   "by": "Xebec",
+   "g": "Action / Comedy / Mecha",
+   "sum": "The crew of a privately owned battleship fights an alien war, parodying classic mecha anime.",
+   "img": "a125",
+   "ids": {
+    "imdb": "tt0115263",
+    "al": "218",
+    "mal": "218"
+   },
+   "s": {
+    "mal": [7.51, 21689, "2026-10-03"],
+    "al": [73, 17486, "2026-10-03"],
+    "imdb": [7.5, 613, "2026-10-03"]
+   }
+  },
+  "mobile-suit-zeta-gundam-1985": {
+   "t": "Mobile Suit Zeta Gundam",
+   "y": 1985,
+   "by": "Sunrise",
+   "g": "Drama / Mecha / Sci-Fi",
+   "sum": "Seven years after the One Year War, a teenager joins a rebellion against a corrupt Earth Federation task force.",
+   "img": "a126",
+   "ids": {
+    "imdb": "tt0159186",
+    "al": "85",
+    "mal": "85"
+   },
+   "s": {
+    "mal": [7.92, 46170, "2026-10-03"],
+    "al": [78, 28283, "2026-10-03"],
+    "imdb": [8, 2022, "2026-10-03"]
+   }
+  },
+  "princess-mononoke-1997": {
+   "t": "Princess Mononoke",
+   "y": 1997,
+   "by": "Hayao Miyazaki · Studio Ghibli",
+   "g": "Film / Action / Adventure",
+   "sum": "A cursed young warrior is caught in a war between a mining town and the gods of the forest.",
+   "img": "af7",
+   "ids": {
+    "imdb": "tt0119698",
+    "al": "164",
+    "mal": "164"
+   },
+   "s": {
+    "mal": [8.67, 900303, "2026-10-03"],
+    "al": [85, 303907, "2026-10-03"],
+    "imdb": [8.3, 492055, "2026-10-03"]
+   }
+  },
+  "grave-of-the-fireflies-1988": {
+   "t": "Grave of the Fireflies",
+   "y": 1988,
+   "by": "Isao Takahata · Studio Ghibli",
+   "g": "Film / Drama",
+   "sum": "Two orphaned siblings struggle to survive in Japan during the final months of WWII.",
+   "img": "af8",
+   "ids": {
+    "imdb": "tt0095327",
+    "al": "578",
+    "mal": "578"
+   },
+   "s": {
+    "mal": [8.55, 469426, "2026-10-03"],
+    "al": [83, 203992, "2026-10-03"],
+    "imdb": [8.5, 397918, "2026-10-03"]
+   }
+  },
+  "akira-1988": {
+   "t": "Akira",
+   "y": 1988,
+   "by": "Katsuhiro Otomo · Tokyo Movie Shinsha",
+   "g": "Film / Action / Sci-Fi",
+   "sum": "In a rebuilt Neo-Tokyo, a biker gang member gains terrifying psychic powers and his best friend tries to stop him.",
+   "img": "af9",
+   "ids": {
+    "imdb": "tt0094625",
+    "al": "47",
+    "mal": "47"
+   },
+   "s": {
+    "mal": [8.16, 574042, "2026-10-03"],
+    "al": [79, 233055, "2026-10-03"],
+    "imdb": [8, 232755, "2026-10-03"]
+   }
+  },
+  "my-neighbor-totoro-1988": {
+   "t": "My Neighbor Totoro",
+   "y": 1988,
+   "by": "Hayao Miyazaki · Studio Ghibli",
+   "g": "Film / Fantasy / Slice of Life",
+   "sum": "Two sisters who move to the countryside befriend the gentle forest spirits living near their new home.",
+   "img": "af10",
+   "ids": {
+    "imdb": "tt0096283",
+    "al": "523",
+    "mal": "523"
+   },
+   "s": {
+    "mal": [8.25, 767035, "2026-10-03"],
+    "al": [81, 282168, "2026-10-03"],
+    "imdb": [8.1, 440870, "2026-10-03"]
+   }
+  },
+  "perfect-blue-1997": {
+   "t": "Perfect Blue",
+   "y": 1997,
+   "by": "Satoshi Kon · Madhouse",
+   "g": "Film / Psychological / Horror",
+   "sum": "A pop idol turned actress is stalked by an obsessive fan and starts to lose her grip on what is real.",
+   "img": "af11",
+   "ids": {
+    "imdb": "tt0156887",
+    "al": "437",
+    "mal": "437"
+   },
+   "s": {
+    "mal": [8.56, 454385, "2026-10-03"],
+    "al": [85, 246920, "2026-10-03"],
+    "imdb": [8, 127704, "2026-10-03"]
+   }
+  },
+  "ghost-in-the-shell-1995": {
+   "t": "Ghost in the Shell",
+   "y": 1995,
+   "by": "Mamoru Oshii · Production I.G",
+   "g": "Film / Sci-Fi / Psychological",
+   "sum": "A cyborg security agent hunts a mysterious hacker who can take over human minds.",
+   "img": "af12",
+   "ids": {
+    "imdb": "tt0113568",
+    "al": "43",
+    "mal": "43"
+   },
+   "s": {
+    "mal": [8.27, 370615, "2026-10-03"],
+    "al": [80, 177841, "2026-10-03"],
+    "imdb": [7.9, 177448, "2026-10-03"]
+   }
+  },
+  "nausicaa-of-the-valley-of-the-wind-1984": {
+   "t": "Nausicaä of the Valley of the Wind",
+   "y": 1984,
+   "by": "Hayao Miyazaki · Topcraft",
+   "g": "Film / Adventure / Fantasy",
+   "sum": "A princess tries to bring peace between warring kingdoms and the giant insects of a toxic forest.",
+   "img": "af13",
+   "ids": {
+    "imdb": "tt0087544"
+   },
+   "s": {
+    "mal": [8.36, 261397, "2026-10-03"],
+    "al": [81, 108793, "2026-10-03"],
+    "imdb": [8, 199655, "2026-10-03"]
+   }
+  },
+  "castle-in-the-sky-1986": {
+   "t": "Castle in the Sky",
+   "y": 1986,
+   "by": "Hayao Miyazaki · Studio Ghibli",
+   "g": "Film / Adventure / Fantasy",
+   "sum": "A girl with a mysterious crystal and a mining-town boy race pirates and soldiers to a legendary floating city.",
+   "img": "af14",
+   "ids": {
+    "imdb": "tt0092067",
+    "al": "513",
+    "mal": "513"
+   },
+   "s": {
+    "mal": [8.26, 339484, "2026-10-03"],
+    "al": [80, 133866, "2026-10-03"],
+    "imdb": [8, 201008, "2026-10-03"]
+   }
+  },
+  "kiki-s-delivery-service-1989": {
+   "t": "Kiki's Delivery Service",
+   "y": 1989,
+   "by": "Hayao Miyazaki · Studio Ghibli",
+   "g": "Film / Fantasy / Slice of Life",
+   "sum": "A thirteen-year-old witch moves to a seaside town and starts a flying delivery service.",
+   "img": "af15",
+   "ids": {
+    "imdb": "tt0097814",
+    "al": "512",
+    "mal": "512"
+   },
+   "s": {
+    "mal": [8.24, 437771, "2026-10-03"],
+    "al": [81, 187692, "2026-10-03"],
+    "imdb": [7.8, 192410, "2026-10-03"]
+   }
+  },
+  "witch-hat-atelier-2026": {
+   "t": "Witch Hat Atelier",
+   "y": 2026,
+   "by": "Bug Films",
+   "g": "Adventure / Drama / Fantasy",
+   "sum": "A girl who dreams of magic discovers it is drawn, not born, and becomes an apprentice to a mysterious witch.",
+   "img": "ca0",
+   "ids": {
+    "imdb": "tt32550889",
+    "al": "147105",
+    "mal": "51553"
+   },
+   "s": {
+    "mal": [8.47, 203120, "2026-10-03"],
+    "al": [85, 229688, "2026-10-03"],
+    "imdb": [8.3, 8768, "2026-10-03"]
+   }
+  },
+  "nippon-sangoku-the-three-nations-of-the-crimson-sun-2026": {
+   "t": "Nippon Sangoku: The Three Nations of the Crimson Sun",
+   "y": 2026,
+   "by": "Studio Kafka",
+   "g": "Action / Drama / Sci-Fi",
+   "sum": "After collapse splits Japan into three warring nations, a former agricultural officer vows to reunify the country by his wits.",
+   "img": "ca1",
+   "ids": {
+    "imdb": "tt40548519",
+    "al": "206914",
+    "mal": "63375"
+   },
+   "s": {
+    "mal": [8.53, 50164, "2026-10-03"],
+    "al": [84, 59579, "2026-10-03"],
+    "imdb": [8.3, 2939, "2026-10-03"]
+   }
+  },
+  "jaadugar-a-witch-in-mongolia-2026": {
+   "t": "Jaadugar: A Witch in Mongolia",
+   "y": 2026,
+   "by": "Science SARU",
+   "g": "Adventure / Drama",
+   "sum": "A girl taken captive during the Mongol conquests rises by her intelligence to the centre of the empire.",
+   "img": "ca2",
+   "ids": {
+    "imdb": "tt39281887",
+    "al": "190569",
+    "mal": "61483"
+   },
+   "s": {
+    "mal": [8.39, 27895, "2026-10-03"],
+    "al": [84, 45325, "2026-10-03"],
+    "imdb": [8.3, 1531, "2026-10-03"]
+   }
+  },
+  "the-ramparts-of-ice-2026": {
+   "t": "The Ramparts of Ice",
+   "y": 2026,
+   "by": "Studio KAI",
+   "g": "Comedy / Drama / Romance",
+   "sum": "A socially awkward girl who keeps everyone at a distance meets a boy who keeps trying to close it.",
+   "img": "ca3",
+   "ids": {
+    "imdb": "tt39123061",
+    "al": "186497",
+    "mal": "60852"
+   },
+   "s": {
+    "mal": [8.25, 70248, "2026-10-03"],
+    "al": [83, 81267, "2026-10-03"],
+    "imdb": [8, 2644, "2026-10-03"]
+   }
+  },
+  "love-unseen-beneath-the-clear-night-sky-2026": {
+   "t": "Love Unseen Beneath the Clear Night Sky",
+   "y": 2026,
+   "by": "Makaria",
+   "g": "Drama / Romance",
+   "sum": "A withdrawn university freshman meets a blind girl who faces the world brightly, and who wants to see fireworks one day.",
+   "img": "ca4",
+   "ids": {
+    "imdb": "tt39304754",
+    "al": "202269",
+    "mal": "62936"
+   },
+   "s": {
+    "mal": [8.42, 36837, "2026-10-03"],
+    "al": [83, 51432, "2026-10-03"],
+    "imdb": [8.7, 3831, "2026-10-03"]
+   }
+  },
+  "botan-kamiina-fully-blossoms-when-drunk-2026": {
+   "t": "Botan Kamiina Fully Blossoms When Drunk",
+   "y": 2026,
+   "by": "Soigne",
+   "g": "Romance / Slice of Life",
+   "sum": "A new university student discovers drinking, and her quiet dorm leader, one highball at a time.",
+   "img": "ca5",
+   "ids": {
+    "imdb": "tt38273912",
+    "al": "187869",
+    "mal": "61186"
+   },
+   "s": {
+    "mal": [8.12, 20901, "2026-10-03"],
+    "al": [82, 37329, "2026-10-03"],
+    "imdb": [7.3, 378, "2026-10-03"]
+   }
+  },
+  "smoking-behind-the-supermarket-with-you-2026": {
+   "t": "Smoking Behind the Supermarket with You",
+   "y": 2026,
+   "by": "Asahi Production",
+   "g": "Comedy / Romance / Slice of Life",
+   "sum": "A tired office worker finds comfort in late-night chats with a supermarket clerk on her smoke break.",
+   "img": "ca6",
+   "ids": {
+    "imdb": "tt37614297",
+    "al": "196187",
+    "mal": "62076"
+   },
+   "s": {
+    "mal": [8.24, 93543, "2026-10-03"],
+    "al": [82, 128845, "2026-10-03"],
+    "imdb": [8.2, 3481, "2026-10-03"]
+   }
+  },
+  "go-for-it-nakamura-kun-2026": {
+   "t": "Go For It, Nakamura-kun!!",
+   "y": 2026,
+   "by": "Drive",
+   "g": "Comedy / Romance / Slice of Life",
+   "sum": "A shy boy works up the courage to talk to the classmate he has a crush on.",
+   "img": "ca7",
+   "ids": {
+    "imdb": "tt37182080",
+    "al": "180228",
+    "mal": "59551"
+   },
+   "s": {
+    "mal": [8.17, 24373, "2026-10-03"],
+    "al": [81, 33428, "2026-10-03"],
+    "imdb": [8, 1241, "2026-10-03"]
+   }
+  },
+  "i-made-friends-with-the-second-prettiest-girl-in-my-class-2026": {
+   "t": "I Made Friends with the Second Prettiest Girl in My Class",
+   "y": 2026,
+   "by": "Connect",
+   "g": "Comedy / Romance",
+   "sum": "A quiet student unexpectedly becomes close friends with a popular classmate.",
+   "img": "ca8",
+   "ids": {
+    "imdb": "tt37532971",
+    "al": "169580",
+    "mal": "56734"
+   },
+   "s": {
+    "mal": [7.76, 86502, "2026-10-03"],
+    "al": [80, 102412, "2026-10-03"],
+    "imdb": [8, 3314, "2026-10-03"]
+   }
+  },
+  "though-i-am-an-inept-villainess-2026": {
+   "t": "Though I Am an Inept Villainess",
+   "y": 2026,
+   "by": "Doga Kobo",
+   "g": "Drama / Fantasy / Romance",
+   "sum": "A jealous maiden uses forbidden magic to swap bodies with the Crown Prince's favourite, and neither life is what it seemed.",
+   "img": "ca9",
+   "ids": {
+    "al": "188139",
+    "mal": "61240"
+   },
+   "s": {
+    "mal": [8.22, 37260, "2026-10-03"],
+    "al": [80, 46939, "2026-10-03"],
+    "imdb": [8.1, 820, "2026-10-03"]
+   }
+  },
+  "akane-banashi-2026": {
+   "t": "Akane-banashi",
+   "y": 2026,
+   "by": "Zexcs",
+   "g": "Drama",
+   "sum": "A girl trains in rakugo, Japan's art of storytelling, to avenge her father's humiliation.",
+   "img": "ca10",
+   "ids": {
+    "imdb": "tt38797595",
+    "al": "196935",
+    "mal": "62164"
+   },
+   "s": {
+    "mal": [7.94, 27136, "2026-10-03"],
+    "al": [79, 40359, "2026-10-03"],
+    "imdb": [7.7, 614, "2026-10-03"]
+   }
+  },
+  "daemons-of-the-shadow-realm-2026": {
+   "t": "Daemons of the Shadow Realm",
+   "y": 2026,
+   "by": "Bones Film",
+   "g": "Action / Adventure / Comedy",
+   "sum": "A boy living quietly in a mountain village learns the truth about his family and a world of demons, from the creator of Fullmetal Alchemist.",
+   "img": "ca11",
+   "ids": {
+    "imdb": "tt37532356",
+    "al": "195600",
+    "mal": "62001"
+   },
+   "s": {
+    "mal": [7.81, 72531, "2026-10-03"],
+    "al": [78, 139963, "2026-10-03"],
+    "imdb": [7.7, 3712, "2026-10-03"]
+   }
+  },
+  "the-cat-and-the-dragon-2026": {
+   "t": "The Cat and the Dragon",
+   "y": 2026,
+   "by": "OLM",
+   "g": "Adventure / Fantasy",
+   "sum": "A fire-breathing dragon raised by a mother cat watches over the forest's many curious kittens.",
+   "img": "ca12",
+   "ids": {
+    "imdb": "tt41278620",
+    "al": "186863",
+    "mal": "61048"
+   },
+   "s": {
+    "mal": [7.84, 16027, "2026-10-03"],
+    "al": [78, 25478, "2026-10-03"]
+   }
+  },
+  "jojo-s-bizarre-adventure-steel-ball-run-2026": {
+   "t": "JoJo's Bizarre Adventure: Steel Ball Run",
+   "y": 2026,
+   "by": "David Production",
+   "g": "Action / Adventure / Drama",
+   "sum": "A paraplegic former jockey joins a cross-America horse race in 1890 to learn the secret of the Spin.",
+   "img": "ca13",
+   "ids": {
+    "al": "210482",
+    "mal": "61469"
+   },
+   "s": {
+    "mal": [9.06, 108613, "2026-10-03"],
+    "al": [85, 35646, "2026-10-03"],
+    "imdb": [9.4, 29014, "2026-10-03"]
+   }
+  },
+  "saga-of-tanya-the-evil-2017": {
+   "t": "Saga of Tanya the Evil",
+   "y": 2017,
+   "ids": {
+    "imdb": "tt6455986",
+    "al": "21613",
+    "mal": "32615"
+   },
+   "s": {
+    "mal": [7.96, 580055, "2026-10-03"],
+    "al": [78, 281279, "2026-10-03"],
+    "imdb": [7.6, 6943, "2026-10-03"]
+   }
+  },
+  "the-movie-2019": {
+   "t": "The Movie",
+   "y": 2019,
+   "ids": {
+    "imdb": "tt6455986",
+    "al": "100878",
+    "mal": "37055"
+   },
+   "s": {
+    "mal": [8.22, 188130, "2026-10-03"],
+    "al": [81, 103592, "2026-10-03"],
+    "imdb": [7.6, 6943, "2026-10-03"]
+   }
+  },
+  "saga-of-tanya-the-evil-season-2-2026": {
+   "t": "Season 2",
+   "y": 2026,
+   "ids": {
+    "imdb": "tt6455986",
+    "al": "135865",
+    "mal": "49233"
+   },
+   "s": {
+    "mal": [8.12, 41711, "2026-10-03"],
+    "al": [80, 96173, "2026-10-03"],
+    "imdb": [7.6, 6943, "2026-10-03"]
+   }
+  },
+  "dorohedoro-2020": {
+   "t": "Dorohedoro",
+   "y": 2020,
+   "ids": {
+    "imdb": "tt11147852",
+    "al": "105228",
+    "mal": "38668"
+   },
+   "s": {
+    "mal": [8.05, 331225, "2026-10-03"],
+    "al": [79, 191827, "2026-10-03"],
+    "imdb": [8, 16985, "2026-10-03"]
+   }
+  },
+  "dorohedoro-season-2-2026": {
+   "t": "Season 2",
+   "y": 2026,
+   "ids": {
+    "imdb": "tt11147852",
+    "al": "173172",
+    "mal": "57779"
+   },
+   "s": {
+    "mal": [8.45, 37061, "2026-10-03"],
+    "al": [83, 44886, "2026-10-03"],
+    "imdb": [8, 16985, "2026-10-03"]
+   }
+  },
+  "season-1-2017": {
+   "t": "Season 1",
+   "y": 2017,
+   "ids": {
+    "imdb": "tt7263328",
+    "al": "98659",
+    "mal": "35507"
+   },
+   "s": {
+    "mal": [7.82, 941194, "2026-10-03"],
+    "al": [76, 450746, "2026-10-03"],
+    "imdb": [7.7, 27671, "2026-10-03"]
+   }
+  },
+  "season-2-2022": {
+   "t": "Season 2",
+   "y": 2022,
+   "ids": {
+    "imdb": "tt7263328",
+    "al": "145545",
+    "mal": "51096"
+   },
+   "s": {
+    "mal": [8.03, 484025, "2026-10-03"],
+    "al": [78, 263863, "2026-10-03"],
+    "imdb": [7.7, 27671, "2026-10-03"]
+   }
+  },
+  "classroom-of-the-elite-season-3-2024": {
+   "t": "Season 3",
+   "y": 2024,
+   "ids": {
+    "imdb": "tt7263328",
+    "al": "146066",
+    "mal": "51180"
+   },
+   "s": {
+    "mal": [7.91, 294838, "2026-10-03"],
+    "al": [78, 190830, "2026-10-03"],
+    "imdb": [7.7, 27671, "2026-10-03"]
+   }
+  },
+  "season-4-second-year-2026": {
+   "t": "Season 4: Second Year",
+   "y": 2026,
+   "ids": {
+    "imdb": "tt7263328",
+    "al": "180745",
+    "mal": "59708"
+   },
+   "s": {
+    "mal": [7.82, 106311, "2026-10-03"],
+    "al": [78, 119776, "2026-10-03"],
+    "imdb": [7.7, 27671, "2026-10-03"]
+   }
+  },
+  "that-time-i-got-reincarnated-as-a-slime-season-1-2018": {
+   "t": "Season 1",
+   "y": 2018,
+   "ids": {
+    "imdb": "tt9054364",
+    "al": "101280",
+    "mal": "37430"
+   },
+   "s": {
+    "mal": [8.12, 1017189, "2026-10-03"],
+    "al": [80, 466866, "2026-10-03"],
+    "imdb": [8, 28896, "2026-10-03"]
+   }
+  },
+  "that-time-i-got-reincarnated-as-a-slime-season-2-2021": {
+   "t": "Season 2",
+   "y": 2021,
+   "ids": {
+    "imdb": "tt9054364",
+    "al": "108511",
+    "mal": "39551"
+   },
+   "s": {
+    "mal": [8.33, 666432, "2026-10-03"],
+    "al": [82, 324146, "2026-10-03"],
+    "imdb": [8, 28896, "2026-10-03"]
+   }
+  },
+  "that-time-i-got-reincarnated-as-a-slime-season-2-part-2-2021": {
+   "t": "Season 2 Part 2",
+   "y": 2021,
+   "ids": {
+    "imdb": "tt9054364",
+    "al": "116742",
+    "mal": "41487"
+   },
+   "s": {
+    "mal": [8.28, 546308, "2026-10-03"],
+    "al": [82, 272886, "2026-10-03"],
+    "imdb": [8, 28896, "2026-10-03"]
+   }
+  },
+  "that-time-i-got-reincarnated-as-a-slime-season-3-2024": {
+   "t": "Season 3",
+   "y": 2024,
+   "ids": {
+    "imdb": "tt9054364",
+    "al": "156822",
+    "mal": "53580"
+   },
+   "s": {
+    "mal": [7.71, 237031, "2026-10-03"],
+    "al": [78, 189944, "2026-10-03"],
+    "imdb": [8, 28896, "2026-10-03"]
+   }
+  },
+  "that-time-i-got-reincarnated-as-a-slime-season-4-2026": {
+   "t": "Season 4",
+   "y": 2026,
+   "ids": {
+    "imdb": "tt9054364",
+    "al": "182205",
+    "mal": "59970"
+   },
+   "s": {
+    "mal": [8.21, 82712, "2026-10-03"],
+    "al": [83, 140867, "2026-10-03"],
+    "imdb": [8, 28896, "2026-10-03"]
+   }
+  },
+  "season-1-2024": {
+   "t": "Season 1",
+   "y": 2024,
+   "ids": {
+    "imdb": "tt31889371",
+    "al": "174576",
+    "mal": "58059"
+   },
+   "s": {
+    "mal": [7.85, 230491, "2026-10-03"],
+    "al": [79, 178388, "2026-10-03"],
+    "imdb": [7.7, 7846, "2026-10-03"]
+   }
+  },
+  "wistoria-wand-and-sword-season-2-2026": {
+   "t": "Season 2",
+   "y": 2026,
+   "ids": {
+    "imdb": "tt31889371",
+    "al": "182300",
+    "mal": "59983"
+   },
+   "s": {
+    "mal": [8.17, 105730, "2026-10-03"],
+    "al": [82, 120768, "2026-10-03"],
+    "imdb": [7.7, 7846, "2026-10-03"]
+   }
+  },
+  "season-1-2019": {
+   "t": "Season 1",
+   "y": 2019,
+   "ids": {
+    "imdb": "tt11034066",
+    "al": "107693",
+    "mal": "39196"
+   },
+   "s": {
+    "mal": [7.74, 304419, "2026-10-03"],
+    "al": [77, 170141, "2026-10-03"],
+    "imdb": [7.6, 4048, "2026-10-03"]
+   }
+  },
+  "welcome-to-demon-school-iruma-kun-season-2-2021": {
+   "t": "Season 2",
+   "y": 2021,
+   "ids": {
+    "imdb": "tt11034066",
+    "al": "116338",
+    "mal": "41402"
+   },
+   "s": {
+    "mal": [8.02, 193705, "2026-10-03"],
+    "al": [80, 107322, "2026-10-03"],
+    "imdb": [7.6, 4048, "2026-10-03"]
+   }
+  },
+  "season-3-2022": {
+   "t": "Season 3",
+   "y": 2022,
+   "ids": {
+    "imdb": "tt11034066",
+    "al": "139092",
+    "mal": "49784"
+   },
+   "s": {
+    "mal": [7.84, 123001, "2026-10-03"],
+    "al": [78, 74744, "2026-10-03"],
+    "imdb": [7.6, 4048, "2026-10-03"]
+   }
+  },
+  "welcome-to-demon-school-iruma-kun-season-4-2026": {
+   "t": "Season 4",
+   "y": 2026,
+   "ids": {
+    "imdb": "tt11034066",
+    "al": "184492",
+    "mal": "60310"
+   },
+   "s": {
+    "mal": [8.09, 22704, "2026-10-03"],
+    "al": [81, 42842, "2026-10-03"],
+    "imdb": [7.6, 4048, "2026-10-03"]
+   }
+  },
+  "clevatess-2025": {
+   "t": "Clevatess",
+   "y": 2025,
+   "ids": {
+    "imdb": "tt32991344",
+    "al": "178869",
+    "mal": "59205"
+   },
+   "s": {
+    "mal": [7.79, 112016, "2026-10-03"],
+    "al": [77, 90558, "2026-10-03"],
+    "imdb": [7.7, 4159, "2026-10-03"]
+   }
+  },
+  "clevatess-season-2-2026": {
+   "t": "Season 2",
+   "y": 2026,
+   "ids": {
+    "imdb": "tt32991344",
+    "al": "198946",
+    "mal": "62513"
+   },
+   "s": {
+    "mal": [7.83, 28170, "2026-10-03"],
+    "al": [78, 47629, "2026-10-03"],
+    "imdb": [7.7, 4159, "2026-10-03"]
+   }
+  },
+  "grand-blue-dreaming-2018": {
+   "t": "Grand Blue Dreaming",
+   "y": 2018,
+   "ids": {
+    "imdb": "tt8086718",
+    "al": "100922",
+    "mal": "37105"
+   },
+   "s": {
+    "mal": [8.45, 495978, "2026-10-03"],
+    "al": [82, 237452, "2026-10-03"],
+    "imdb": [7.9, 7858, "2026-10-03"]
+   }
+  },
+  "grand-blue-dreaming-season-2-2025": {
+   "t": "Season 2",
+   "y": 2025,
+   "ids": {
+    "imdb": "tt8086718",
+    "al": "182309",
+    "mal": "59986"
+   },
+   "s": {
+    "mal": [8.5, 103483, "2026-10-03"],
+    "al": [84, 69443, "2026-10-03"],
+    "imdb": [7.9, 7858, "2026-10-03"]
+   }
+  },
+  "grand-blue-dreaming-season-3-2026": {
+   "t": "Season 3",
+   "y": 2026,
+   "ids": {
+    "imdb": "tt8086718",
+    "al": "199111",
+    "mal": "62542"
+   },
+   "s": {
+    "mal": [8.33, 35767, "2026-10-03"],
+    "al": [82, 43228, "2026-10-03"],
+    "imdb": [7.9, 7858, "2026-10-03"]
+   }
+  },
+  "season-1-2023": {
+   "t": "Season 1",
+   "y": 2023,
+   "ids": {
+    "imdb": "tt28919914",
+    "al": "162694",
+    "mal": "54714"
+   },
+   "s": {
+    "mal": [7.66, 183631, "2026-10-03"],
+    "al": [76, 135309, "2026-10-03"],
+    "imdb": [7, 5037, "2026-10-03"]
+   }
+  },
+  "the-100-girlfriends-who-really-really-really-really-really-love-you-season-2-2025": {
+   "t": "Season 2",
+   "y": 2025,
+   "ids": {
+    "imdb": "tt28919914",
+    "al": "172258",
+    "mal": "57616"
+   },
+   "s": {
+    "mal": [7.86, 96061, "2026-10-03"],
+    "al": [78, 80224, "2026-10-03"],
+    "imdb": [7, 5037, "2026-10-03"]
+   }
+  },
+  "the-100-girlfriends-who-really-really-really-really-really-love-you-season-3-2026": {
+   "t": "Season 3",
+   "y": 2026,
+   "ids": {
+    "imdb": "tt28919914",
+    "al": "200637",
+    "mal": "62811"
+   },
+   "s": {
+    "mal": [8.07, 29071, "2026-10-03"],
+    "al": [80, 42031, "2026-10-03"],
+    "imdb": [7, 5037, "2026-10-03"]
+   }
+  },
+  "season-1-2026": {
+   "t": "Season 1",
+   "y": 2026,
+   "ids": {
+    "imdb": "tt36034547",
+    "al": "184951",
+    "mal": "60371"
+   },
+   "s": {
+    "mal": [8.26, 127747, "2026-10-03"],
+    "al": [83, 127059, "2026-10-03"],
+    "imdb": [8.1, 3587, "2026-10-03"]
+   }
+  },
+  "you-and-i-are-polar-opposites-season-2-2026": {
+   "t": "Season 2",
+   "y": 2026,
+   "ids": {
+    "imdb": "tt36034547",
+    "al": "210031",
+    "mal": "63832"
+   },
+   "s": {
+    "mal": [8.51, 26397, "2026-10-03"],
+    "al": [83, 63653, "2026-10-03"],
+    "imdb": [8.1, 3587, "2026-10-03"]
+   }
+  }
+ },
+ "series": {
+  "attack-on-titan": {
+   "t": "Attack on Titan",
+   "by": "Wit Studio",
+   "g": "Action / Drama / Fantasy",
+   "sum": "Humanity lives behind giant walls to escape man-eating Titans, until the walls fall and a boy vows to destroy them all.",
+   "img": "a2",
+   "members": [
+    {
+     "w": "attack-on-titan-2013"
+    },
+    {
+     "w": "attack-on-titan-season-2-2017"
+    },
+    {
+     "w": "attack-on-titan-season-3-2018"
+    },
+    {
+     "w": "attack-on-titan-season-3-part-2-2019"
+    },
+    {
+     "w": "attack-on-titan-final-season-2020"
+    },
+    {
+     "w": "attack-on-titan-final-season-part-2-2022"
+    }
+   ]
+  },
+  "frieren-beyond-journey-s-end": {
+   "t": "Frieren: Beyond Journey's End",
+   "by": "Madhouse",
+   "g": "Adventure / Drama / Fantasy",
+   "sum": "An elf mage who helped defeat the demon king retraces her old journey, learning to cherish the humans whose lives pass so quickly.",
+   "img": "a3",
+   "members": [
+    {
+     "w": "frieren-beyond-journey-s-end-2023"
+    },
+    {
+     "w": "frieren-beyond-journey-s-end-season-2-2026"
+    }
+   ]
+  },
+  "gintama": {
+   "t": "Gintama",
+   "by": "Sunrise",
+   "g": "Action / Comedy / Drama",
+   "sum": "In an Edo-era Japan conquered by aliens, a lazy samurai runs an odd-jobs business; absurd comedy mixed with serious arcs.",
+   "img": "a5",
+   "members": [
+    {
+     "w": "gintama-2006"
+    },
+    {
+     "w": "gintama-season-2-2011"
+    },
+    {
+     "w": "gintama-season-2-part-2-2012"
+    },
+    {
+     "w": "gintama-season-3-2015"
+    },
+    {
+     "w": "gintama-season-4-2017"
+    },
+    {
+     "w": "gintama-slip-arc-2017"
+    },
+    {
+     "w": "gintama-silver-soul-arc-2018"
+    },
+    {
+     "w": "gintama-silver-soul-arc-second-half-war-2018"
+    }
+   ]
+  },
+  "vinland-saga": {
+   "t": "Vinland Saga",
+   "by": "Wit Studio",
+   "g": "Action / Adventure / Drama",
+   "sum": "A young Viking seeks revenge on the mercenary who killed his father, then searches for a life beyond violence.",
+   "img": "a6",
+   "members": [
+    {
+     "w": "vinland-saga-2019"
+    },
+    {
+     "w": "vinland-saga-season-2-2023"
+    }
+   ]
+  },
+  "code-geass": {
+   "t": "Code Geass",
+   "by": "Sunrise",
+   "g": "Action / Drama / Mecha",
+   "sum": "An exiled prince gains the power to command anyone and leads a masked rebellion against the empire that rules Japan.",
+   "img": "a9",
+   "members": [
+    {
+     "w": "code-geass-lelouch-of-the-rebellion-2006"
+    },
+    {
+     "w": "code-geass-lelouch-of-the-rebellion-r2-2008"
+    }
+   ]
+  },
+  "kaguya-sama-love-is-war": {
+   "t": "Kaguya-sama: Love is War",
+   "by": "A-1 Pictures",
+   "g": "Comedy / Psychological / Romance",
+   "sum": "Two student council geniuses, each too proud to confess first, wage psychological war to make the other admit love.",
+   "img": "a10",
+   "members": [
+    {
+     "w": "kaguya-sama-love-is-war-2019"
+    },
+    {
+     "w": "kaguya-sama-love-is-war-2020"
+    },
+    {
+     "w": "kaguya-sama-love-is-war-ultra-romantic-2022"
+    },
+    {
+     "w": "kaguya-sama-love-is-war-the-first-kiss-that-never-ends-2023"
+    }
+   ]
+  },
+  "mob-psycho-100": {
+   "t": "Mob Psycho 100",
+   "by": "Bones",
+   "g": "Action / Comedy / Drama",
+   "sum": "A deadpan middle-schooler with immense psychic power tries to live a normal life, working for a con-man exorcist.",
+   "img": "a11",
+   "members": [
+    {
+     "w": "mob-psycho-100-2016"
+    },
+    {
+     "w": "mob-psycho-100-ii-2019"
+    },
+    {
+     "w": "mob-psycho-100-iii-2022"
+    }
+   ]
+  },
+  "one-punch-man": {
+   "t": "One-Punch Man",
+   "by": "Madhouse",
+   "g": "Action / Comedy / Sci-Fi",
+   "sum": "A hero who can defeat any enemy with one punch is bored by how easy it is.",
+   "img": "a12",
+   "members": [
+    {
+     "w": "one-punch-man-2015"
+    },
+    {
+     "w": "one-punch-man-season-2-2019"
+    },
+    {
+     "w": "one-punch-man-season-3-2025"
+    }
+   ]
+  },
+  "jujutsu-kaisen": {
+   "t": "Jujutsu Kaisen",
+   "by": "MAPPA",
+   "g": "Action / Drama / Supernatural",
+   "sum": "A high-school student swallows a cursed object and joins a secret school of sorcerers fighting curses.",
+   "img": "a13",
+   "members": [
+    {
+     "w": "jujutsu-kaisen-2020"
+    },
+    {
+     "w": "jujutsu-kaisen-season-2-2023"
+    },
+    {
+     "w": "jujutsu-kaisen-season-3-the-culling-game-part-1-2026"
+    }
+   ]
+  },
+  "demon-slayer-kimetsu-no-yaiba": {
+   "t": "Demon Slayer: Kimetsu no Yaiba",
+   "by": "ufotable",
+   "g": "Action / Adventure / Drama",
+   "sum": "A boy becomes a demon slayer after his family is killed and his sister is turned into a demon.",
+   "img": "a14",
+   "members": [
+    {
+     "w": "demon-slayer-kimetsu-no-yaiba-2019"
+    },
+    {
+     "w": "mugen-train-arc-2021"
+    },
+    {
+     "w": "entertainment-district-arc-2021"
+    },
+    {
+     "w": "swordsmith-village-arc-2023"
+    },
+    {
+     "w": "hashira-training-arc-2024"
+    }
+   ]
+  },
+  "spy-x-family": {
+   "t": "Spy x Family",
+   "by": "CloverWorks, Wit Studio",
+   "g": "Action / Comedy / Slice of Life",
+   "sum": "A spy, an assassin and a telepathic girl form a fake family, each hiding their secret from the others.",
+   "img": "a16",
+   "members": [
+    {
+     "w": "spy-x-family-2022"
+    },
+    {
+     "w": "spy-x-family-cour-2-2022"
+    },
+    {
+     "w": "spy-x-family-season-2-2023"
+    },
+    {
+     "w": "spy-x-family-season-3-2025"
+    }
+   ]
+  },
+  "haikyu": {
+   "t": "Haikyu!!",
+   "by": "Production I.G",
+   "g": "Comedy / Drama / Sports",
+   "sum": "A short but determined boy joins his high school's fallen volleyball team and forms a rivalry-turned-partnership with a gifted setter.",
+   "img": "a17",
+   "members": [
+    {
+     "w": "haikyu-2014"
+    },
+    {
+     "w": "haikyu-2nd-season-2015"
+    },
+    {
+     "w": "haikyu-3rd-season-2016"
+    }
+   ]
+  },
+  "clannad": {
+   "t": "Clannad",
+   "by": "Kyoto Animation",
+   "g": "Comedy / Drama / Romance",
+   "sum": "A delinquent student befriends a shy girl repeating her final year, and their story continues into adulthood in After Story.",
+   "img": "a20",
+   "members": [
+    {
+     "w": "clannad-2007"
+    },
+    {
+     "w": "clannad-after-story-2008"
+    }
+   ]
+  },
+  "march-comes-in-like-a-lion": {
+   "t": "March Comes in Like a Lion",
+   "by": "Shaft",
+   "g": "Drama / Slice of Life",
+   "sum": "A lonely teenage professional shogi player finds warmth with three sisters who take him in.",
+   "img": "a21",
+   "members": [
+    {
+     "w": "march-comes-in-like-a-lion-2016"
+    },
+    {
+     "w": "march-comes-in-like-a-lion-season-2-2017"
+    }
+   ]
+  },
+  "the-promised-neverland": {
+   "t": "The Promised Neverland",
+   "by": "CloverWorks",
+   "g": "Drama / Fantasy / Horror",
+   "sum": "Children at an idyllic orphanage discover the horrifying truth about their home and plan an escape.",
+   "img": "a23",
+   "members": [
+    {
+     "w": "the-promised-neverland-2019"
+    },
+    {
+     "w": "the-promised-neverland-season-2-2021"
+    }
+   ]
+  },
+  "natsume-s-book-of-friends": {
+   "t": "Natsume's Book of Friends",
+   "by": "Brain's Base",
+   "g": "Drama / Fantasy / Slice of Life",
+   "sum": "A boy who can see spirits inherits his grandmother's book of their names and decides to return them, one by one.",
+   "img": "a27",
+   "members": [
+    {
+     "w": "season-1-2008"
+    },
+    {
+     "w": "season-2-2009"
+    },
+    {
+     "w": "season-3-2011"
+    },
+    {
+     "w": "season-4-2012"
+    },
+    {
+     "w": "season-5-2016"
+    },
+    {
+     "w": "season-6-2017"
+    },
+    {
+     "w": "natsume-s-book-of-friends-season-7-2024"
+    }
+   ]
+  },
+  "re-zero-starting-life-in-another-world": {
+   "t": "Re:Zero - Starting Life in Another World",
+   "by": "White Fox",
+   "g": "Action / Adventure / Drama",
+   "sum": "A young man transported to a fantasy world discovers that when he dies, time rewinds.",
+   "img": "a28",
+   "members": [
+    {
+     "w": "re-zero-starting-life-in-another-world-season-1-2016"
+    },
+    {
+     "w": "season-2-2020"
+    },
+    {
+     "w": "re-zero-starting-life-in-another-world-season-2-part-2-2021"
+    },
+    {
+     "w": "re-zero-starting-life-in-another-world-season-3-2024"
+    },
+    {
+     "w": "re-zero-starting-life-in-another-world-season-4-2026",
+     "no": "New"
+    }
+   ]
+  },
+  "tokyo-ghoul": {
+   "t": "Tokyo Ghoul",
+   "by": "Studio Pierrot",
+   "g": "Action / Drama / Horror",
+   "sum": "A college student becomes half-ghoul after a deadly encounter and must survive between humans and flesh-eating ghouls.",
+   "img": "a29",
+   "members": [
+    {
+     "w": "tokyo-ghoul-2014"
+    },
+    {
+     "w": "tokyo-ghoul-a-2015"
+    },
+    {
+     "w": "tokyo-ghoul-re-2018"
+    },
+    {
+     "w": "tokyo-ghoul-re-2-2018"
+    }
+   ]
+  },
+  "my-hero-academia": {
+   "t": "My Hero Academia",
+   "by": "Bones",
+   "g": "Action / Adventure / Comedy",
+   "sum": "In a world where most people have superpowers, a powerless boy inherits the greatest hero's power and enrols in a hero academy.",
+   "img": "a30",
+   "members": [
+    {
+     "w": "my-hero-academia-season-1-2016"
+    },
+    {
+     "w": "season-2-2017"
+    },
+    {
+     "w": "season-3-2018"
+    },
+    {
+     "w": "season-4-2019"
+    },
+    {
+     "w": "season-5-2021"
+    },
+    {
+     "w": "season-6-2022"
+    },
+    {
+     "w": "my-hero-academia-season-7-2024"
+    },
+    {
+     "w": "final-season-2025"
+    }
+   ]
+  },
+  "naruto": {
+   "t": "Naruto",
+   "by": "Studio Pierrot",
+   "g": "Action / Adventure / Comedy",
+   "sum": "An outcast ninja who hosts a fearsome fox spirit dreams of becoming his village's leader; continues in Naruto Shippuden.",
+   "img": "a31",
+   "members": [
+    {
+     "w": "naruto-2002"
+    },
+    {
+     "w": "naruto-shippuden-2007"
+    }
+   ]
+  },
+  "bleach": {
+   "t": "Bleach",
+   "by": "Studio Pierrot",
+   "g": "Action / Adventure / Supernatural",
+   "sum": "A teenager who can see ghosts gains the powers of a Soul Reaper and protects the living from evil spirits.",
+   "img": "a32",
+   "members": [
+    {
+     "w": "bleach-2004"
+    },
+    {
+     "w": "thousand-year-blood-war-2022"
+    },
+    {
+     "w": "thousand-year-blood-war-the-separation-2023"
+    },
+    {
+     "w": "thousand-year-blood-war-the-conflict-2024"
+    },
+    {
+     "w": "thousand-year-blood-war-the-calamity-2026"
+    }
+   ]
+  },
+  "dr-stone": {
+   "t": "Dr. Stone",
+   "by": "TMS Entertainment",
+   "g": "Action / Adventure / Comedy",
+   "sum": "After all of humanity is turned to stone for millennia, a science-obsessed teen sets out to rebuild civilisation from scratch.",
+   "img": "a33",
+   "members": [
+    {
+     "w": "dr-stone-2019"
+    },
+    {
+     "w": "dr-stone-stone-wars-2021"
+    },
+    {
+     "w": "new-world-2023"
+    },
+    {
+     "w": "new-world-part-2-2023"
+    },
+    {
+     "w": "science-future-2025"
+    },
+    {
+     "w": "science-future-cour-2-2025"
+    },
+    {
+     "w": "science-future-cour-3-2026",
+     "no": "New"
+    }
+   ]
+  },
+  "oshi-no-ko": {
+   "t": "Oshi no Ko",
+   "by": "Doga Kobo",
+   "g": "Drama / Mystery / Psychological",
+   "sum": "Reincarnated as the twin children of a pop idol, two siblings navigate the dark side of Japan's entertainment industry.",
+   "img": "a35",
+   "members": [
+    {
+     "w": "oshi-no-ko-2023"
+    },
+    {
+     "w": "oshi-no-ko-season-2-2024"
+    },
+    {
+     "w": "oshi-no-ko-season-3-2026"
+    }
+   ]
+  },
+  "dandadan": {
+   "t": "Dandadan",
+   "by": "Science SARU",
+   "g": "Action / Comedy / Drama",
+   "sum": "A girl who believes in ghosts and a boy who believes in aliens discover both are real.",
+   "img": "a37",
+   "members": [
+    {
+     "w": "dandadan-2024"
+    },
+    {
+     "w": "dandadan-season-2-2025"
+    }
+   ]
+  },
+  "solo-leveling": {
+   "t": "Solo Leveling",
+   "by": "A-1 Pictures",
+   "g": "Action / Adventure / Fantasy",
+   "sum": "The weakest hunter in a world of monster-filled dungeons gains the power to level up without limit.",
+   "img": "a38",
+   "members": [
+    {
+     "w": "solo-leveling-2024"
+    },
+    {
+     "w": "solo-leveling-season-2-arise-from-the-shadow-2025"
+    }
+   ]
+  },
+  "blue-lock": {
+   "t": "Blue Lock",
+   "by": "8-bit",
+   "g": "Action / Drama / Sports",
+   "sum": "Japan locks 300 young strikers in a facility to forge the world's most selfish, ego-driven goal scorer.",
+   "img": "a39",
+   "members": [
+    {
+     "w": "blue-lock-2022"
+    },
+    {
+     "w": "blue-lock-season-2-2024"
+    }
+   ]
+  },
+  "sword-art-online": {
+   "t": "Sword Art Online",
+   "by": "A-1 Pictures",
+   "g": "Action / Adventure / Fantasy",
+   "sum": "Thousands of players are trapped in a virtual-reality game where dying in the game means dying for real.",
+   "img": "a40",
+   "members": [
+    {
+     "w": "sword-art-online-2012"
+    },
+    {
+     "w": "sword-art-online-ii-2014"
+    }
+   ]
+  },
+  "assassination-classroom": {
+   "t": "Assassination Classroom",
+   "by": "Lerche",
+   "g": "Action / Comedy / Drama",
+   "sum": "A class of misfit students must kill their super-powered octopus-like teacher before he destroys the Earth.",
+   "img": "a45",
+   "members": [
+    {
+     "w": "assassination-classroom-2015"
+    },
+    {
+     "w": "assassination-classroom-season-2-2016"
+    }
+   ]
+  },
+  "great-pretender": {
+   "t": "Great Pretender",
+   "by": "Wit Studio",
+   "g": "Action / Comedy / Drama",
+   "sum": "A Japanese con man gets pulled into a crew of international swindlers targeting the corrupt rich.",
+   "img": "a47",
+   "members": [
+    {
+     "w": "great-pretender-2020"
+    },
+    {
+     "w": "great-pretender-razbliuto-2024"
+    }
+   ]
+  },
+  "ranking-of-kings": {
+   "t": "Ranking of Kings",
+   "by": "Wit Studio",
+   "g": "Action / Adventure / Drama",
+   "sum": "A deaf, weak young prince who dreams of becoming the greatest king finds his first friend in a shadow.",
+   "img": "a49",
+   "members": [
+    {
+     "w": "ranking-of-kings-2021"
+    },
+    {
+     "w": "ranking-of-kings-the-treasure-chest-of-courage-2023"
+    }
+   ]
+  },
+  "mushoku-tensei-jobless-reincarnation": {
+   "t": "Mushoku Tensei: Jobless Reincarnation",
+   "by": "Studio Bind",
+   "g": "Adventure / Drama / Fantasy",
+   "sum": "A shut-in reborn in a magical world sets out to live his new life to the fullest.",
+   "img": "a50",
+   "members": [
+    {
+     "w": "season-1-2021"
+    },
+    {
+     "w": "season-1-cour-2-2021"
+    },
+    {
+     "w": "season-2-2023"
+    },
+    {
+     "w": "season-2-part-2-2024"
+    },
+    {
+     "w": "mushoku-tensei-jobless-reincarnation-season-3-2026"
+    }
+   ]
+  },
+  "kingdom": {
+   "t": "Kingdom",
+   "by": "Studio Pierrot",
+   "g": "Action / Drama",
+   "sum": "A war orphan dreams of becoming the greatest general under the heavens during China's Warring States period.",
+   "img": "a51",
+   "members": [
+    {
+     "w": "kingdom-2012"
+    },
+    {
+     "w": "season-2-2013"
+    },
+    {
+     "w": "kingdom-season-3-2020"
+    },
+    {
+     "w": "kingdom-season-4-2022"
+    },
+    {
+     "w": "season-5-2024"
+    },
+    {
+     "w": "season-6-2025"
+    }
+   ]
+  },
+  "black-lagoon": {
+   "t": "Black Lagoon",
+   "by": "Madhouse",
+   "g": "Action / Adventure / Drama",
+   "sum": "A Japanese salaryman abandoned during a kidnapping joins the pirate-mercenaries who took him.",
+   "img": "a52",
+   "members": [
+    {
+     "w": "black-lagoon-2006"
+    },
+    {
+     "w": "black-lagoon-the-second-barrage-2006"
+    }
+   ]
+  },
+  "psycho-pass": {
+   "t": "Psycho-Pass",
+   "by": "Production I.G",
+   "g": "Action / Psychological / Sci-Fi",
+   "sum": "In a future where a system measures everyone's potential for crime, a rookie inspector works with enforcers who are latent criminals.",
+   "img": "a53",
+   "members": [
+    {
+     "w": "psycho-pass-2012"
+    },
+    {
+     "w": "psycho-pass-2-2014"
+    }
+   ]
+  },
+  "fate-zero": {
+   "t": "Fate/Zero",
+   "by": "ufotable",
+   "g": "Action / Drama / Fantasy",
+   "sum": "Seven mages and their legendary heroic spirits battle to the death for the Holy Grail.",
+   "img": "a54",
+   "members": [
+    {
+     "w": "fate-zero-2011"
+    },
+    {
+     "w": "fate-zero-season-2-2012"
+    }
+   ]
+  },
+  "puella-magi-madoka-magica": {
+   "t": "Puella Magi Madoka Magica",
+   "by": "Shaft",
+   "g": "Action / Drama / Fantasy / Film",
+   "sum": "Girls are offered wishes in exchange for becoming magical girls, but the deal is darker than it seems.",
+   "img": "a55",
+   "members": [
+    {
+     "w": "tv-series-2011"
+    },
+    {
+     "w": "the-movie-rebellion-2013"
+    },
+    {
+     "w": "the-movie-walpurgisnacht-rising-2026",
+     "no": "New"
+    }
+   ]
+  },
+  "k-on": {
+   "t": "K-On!",
+   "by": "Kyoto Animation",
+   "g": "Comedy / Music / Slice of Life",
+   "sum": "Four high-school girls form a light-music club and spend more time drinking tea than practising.",
+   "img": "a58",
+   "members": [
+    {
+     "w": "k-on-2009"
+    },
+    {
+     "w": "k-on-season-2-2010"
+    }
+   ]
+  },
+  "durarara": {
+   "t": "Durarara!!",
+   "by": "Brain's Base",
+   "g": "Action / Mystery / Supernatural",
+   "sum": "Urban legends, gangs and a headless rider collide in Tokyo's Ikebukuro district.",
+   "img": "a62",
+   "members": [
+    {
+     "w": "durarara-2010"
+    },
+    {
+     "w": "durarara-x2-2015"
+    },
+    {
+     "w": "durarara-x2-the-second-arc-2015"
+    },
+    {
+     "w": "durarara-x2-the-third-arc-2016"
+    }
+   ]
+  },
+  "ghost-in-the-shell-stand-alone-complex": {
+   "t": "Ghost in the Shell: Stand Alone Complex",
+   "by": "Production I.G",
+   "g": "Action / Mystery / Psychological",
+   "sum": "A cyborg officer and her elite unit investigate cybercrime and political conspiracies in a near-future Japan.",
+   "img": "a64",
+   "members": [
+    {
+     "w": "stand-alone-complex-2002"
+    },
+    {
+     "w": "stand-alone-complex-2nd-gig-2004"
+    }
+   ]
+  },
+  "fruits-basket": {
+   "t": "Fruits Basket",
+   "by": "TMS Entertainment",
+   "g": "Comedy / Drama / Romance",
+   "sum": "An orphaned girl discovers that members of the family she lives with turn into zodiac animals when hugged.",
+   "img": "a71",
+   "members": [
+    {
+     "w": "fruits-basket-2019-2019"
+    },
+    {
+     "w": "fruits-basket-season-2-2020"
+    },
+    {
+     "w": "fruits-basket-the-final-season-2021"
+    }
+   ]
+  },
+  "kaiji-ultimate-survivor": {
+   "t": "Kaiji: Ultimate Survivor",
+   "by": "Madhouse",
+   "g": "Psychological / Thriller",
+   "sum": "A debt-ridden young man is forced into high-stakes gambling games to pay off his loans.",
+   "img": "a73",
+   "members": [
+    {
+     "w": "kaiji-ultimate-survivor-2007"
+    },
+    {
+     "w": "kaiji-against-all-rules-2011"
+    }
+   ]
+  },
+  "the-apothecary-diaries": {
+   "t": "The Apothecary Diaries",
+   "by": "OLM, Toho Animation Studio",
+   "g": "Drama / Mystery",
+   "sum": "A sharp-witted apothecary girl sold into the imperial palace solves medical mysteries in the inner court.",
+   "img": "a75",
+   "members": [
+    {
+     "w": "the-apothecary-diaries-2023"
+    },
+    {
+     "w": "the-apothecary-diaries-season-2-2025"
+    },
+    {
+     "w": "the-apothecary-diaries-season-3-2026"
+    }
+   ]
+  },
+  "86-eighty-six": {
+   "t": "86 Eighty-Six",
+   "by": "A-1 Pictures",
+   "g": "Action / Drama / Mecha",
+   "sum": "A nation fights a robotic invasion with drones it claims are unmanned, actually piloted by a persecuted minority.",
+   "img": "a77",
+   "members": [
+    {
+     "w": "86-eighty-six-2021"
+    },
+    {
+     "w": "86-eighty-six-part-2-2021"
+    }
+   ]
+  },
+  "food-wars-shokugeki-no-soma": {
+   "t": "Food Wars! Shokugeki no Soma",
+   "by": "J.C.Staff",
+   "g": "Comedy / Ecchi",
+   "sum": "A diner cook's son enrols in an elite culinary school where students settle disputes with cooking battles.",
+   "img": "a83",
+   "members": [
+    {
+     "w": "food-wars-2015"
+    },
+    {
+     "w": "the-second-plate-2016"
+    },
+    {
+     "w": "the-third-plate-2017"
+    },
+    {
+     "w": "the-third-plate-totsuki-train-arc-2018"
+    },
+    {
+     "w": "the-fourth-plate-2019"
+    },
+    {
+     "w": "the-fifth-plate-2020"
+    }
+   ]
+  },
+  "kuroko-s-basketball": {
+   "t": "Kuroko's Basketball",
+   "by": "Production I.G",
+   "g": "Comedy / Sports",
+   "sum": "An almost invisible player and a talented newcomer lead their team against the prodigies of the Generation of Miracles.",
+   "img": "a84",
+   "members": [
+    {
+     "w": "kuroko-s-basketball-2012"
+    },
+    {
+     "w": "kuroko-s-basketball-2-2013"
+    },
+    {
+     "w": "kuroko-s-basketball-3-2015"
+    }
+   ]
+  },
+  "bungo-stray-dogs": {
+   "t": "Bungo Stray Dogs",
+   "by": "Bones",
+   "g": "Action / Comedy / Mystery",
+   "sum": "An orphan joins an agency of supernaturally gifted detectives named after famous literary figures.",
+   "img": "a85",
+   "members": [
+    {
+     "w": "bungo-stray-dogs-season-1-2016"
+    },
+    {
+     "w": "season-2-2016"
+    },
+    {
+     "w": "season-3-2019"
+    },
+    {
+     "w": "season-4-2023"
+    },
+    {
+     "w": "season-5-2023"
+    }
+   ]
+  },
+  "golden-kamuy": {
+   "t": "Golden Kamuy",
+   "by": "Geno Studio",
+   "g": "Action / Adventure / Comedy",
+   "sum": "A war veteran and an Ainu girl hunt for hidden gold in early 20th-century Hokkaido.",
+   "img": "a86",
+   "members": [
+    {
+     "w": "golden-kamuy-season-1-2018"
+    },
+    {
+     "w": "season-2-2018"
+    },
+    {
+     "w": "golden-kamuy-season-3-2020"
+    },
+    {
+     "w": "golden-kamuy-season-4-2022"
+    },
+    {
+     "w": "final-season-2026"
+    }
+   ]
+  },
+  "kakegurui": {
+   "t": "Kakegurui",
+   "by": "MAPPA",
+   "g": "Drama / Mystery / Psychological",
+   "sum": "A transfer student with a passion for risk takes on a school where gambling decides social rank.",
+   "img": "a89",
+   "members": [
+    {
+     "w": "kakegurui-2017"
+    },
+    {
+     "w": "kakegurui-xx-2019"
+    }
+   ]
+  },
+  "dragon-ball": {
+   "t": "Dragon Ball",
+   "by": "Toei Animation",
+   "g": "Action / Adventure / Comedy",
+   "sum": "Goku's adventures from a boy searching for the Dragon Balls through the battles of Dragon Ball Z and beyond.",
+   "img": "a95",
+   "members": [
+    {
+     "w": "dragon-ball-1986"
+    },
+    {
+     "w": "dragon-ball-z-1989"
+    },
+    {
+     "w": "dragon-ball-gt-1996"
+    },
+    {
+     "w": "dragon-ball-super-2015"
+    },
+    {
+     "w": "dragon-ball-daima-2024"
+    }
+   ]
+  },
+  "sailor-moon": {
+   "t": "Sailor Moon",
+   "by": "Toei Animation",
+   "g": "Action / Adventure / Fantasy",
+   "sum": "A clumsy schoolgirl becomes a magical guardian who fights evil with her fellow Sailor Guardians.",
+   "img": "a105",
+   "members": [
+    {
+     "w": "sailor-moon-1992"
+    },
+    {
+     "w": "sailor-moon-r-1993"
+    },
+    {
+     "w": "sailor-moon-s-1994"
+    },
+    {
+     "w": "sailor-moon-supers-1995"
+    },
+    {
+     "w": "sailor-moon-sailor-stars-1996"
+    }
+   ]
+  },
+  "pokemon": {
+   "t": "Pokémon",
+   "by": "OLM",
+   "g": "Action / Adventure / Comedy",
+   "sum": "Ash Ketchum sets out with Pikachu to become a Pokémon Master.",
+   "img": "a110",
+   "members": [
+    {
+     "w": "pokemon-1997"
+    },
+    {
+     "w": "ruby-and-sapphire-2002"
+    },
+    {
+     "w": "diamond-and-pearl-2006"
+    },
+    {
+     "w": "black-and-white-2010"
+    },
+    {
+     "w": "bw-rival-destinies-2012"
+    },
+    {
+     "w": "bw-adventures-in-unova-2013"
+    },
+    {
+     "w": "bw-adventures-in-unova-and-beyond-2013"
+    }
+   ]
+  },
+  "fist-of-the-north-star": {
+   "t": "Fist of the North Star",
+   "by": "Toei Animation",
+   "g": "Action / Drama / Sci-Fi",
+   "sum": "A martial artist who can make enemies explode wanders a post-apocalyptic wasteland.",
+   "img": "a114",
+   "members": [
+    {
+     "w": "fist-of-the-north-star-1984"
+    },
+    {
+     "w": "fist-of-the-north-star-2-1987"
+    }
+   ]
+  },
+  "city-hunter": {
+   "t": "City Hunter",
+   "by": "Sunrise",
+   "g": "Action / Comedy / Mystery",
+   "sum": "A skilled private sweeper in Tokyo takes dangerous jobs, especially when beautiful women are involved.",
+   "img": "a116",
+   "members": [
+    {
+     "w": "city-hunter-1987"
+    },
+    {
+     "w": "city-hunter-2-1988"
+    },
+    {
+     "w": "city-hunter-3-1989"
+    },
+    {
+     "w": "city-hunter-91-1991"
+    }
+   ]
+  },
+  "initial-d": {
+   "t": "Initial D",
+   "by": "Studio Comet, Studio Gallop",
+   "g": "Action / Drama / Sports",
+   "sum": "A tofu-delivery boy turns out to be a street-racing prodigy on Japan's mountain passes.",
+   "img": "a122",
+   "members": [
+    {
+     "w": "first-stage-1998"
+    },
+    {
+     "w": "second-stage-1999"
+    }
+   ]
+  },
+  "saga-of-tanya-the-evil": {
+   "t": "Saga of Tanya the Evil",
+   "by": "Nut",
+   "g": "Action / Fantasy / Military",
+   "sum": "A ruthless salaryman is reborn as a little girl in a magic-powered world war and climbs the ranks by any means.",
+   "img": "ca14",
+   "members": [
+    {
+     "w": "saga-of-tanya-the-evil-2017"
+    },
+    {
+     "w": "the-movie-2019"
+    },
+    {
+     "w": "saga-of-tanya-the-evil-season-2-2026",
+     "no": "New"
+    }
+   ]
+  },
+  "dorohedoro": {
+   "t": "Dorohedoro",
+   "by": "MAPPA",
+   "g": "Action / Comedy / Horror",
+   "sum": "A man with a lizard's head hunts the sorcerer who cursed him, in a grimy, darkly funny world.",
+   "img": "ca15",
+   "members": [
+    {
+     "w": "dorohedoro-2020"
+    },
+    {
+     "w": "dorohedoro-season-2-2026",
+     "no": "New"
+    }
+   ]
+  },
+  "classroom-of-the-elite": {
+   "t": "Classroom of the Elite",
+   "by": "Lerche",
+   "g": "Drama / Psychological",
+   "sum": "At an elite school where points decide everything, a quiet student plays everyone around him.",
+   "img": "ca16",
+   "members": [
+    {
+     "w": "season-1-2017"
+    },
+    {
+     "w": "season-2-2022"
+    },
+    {
+     "w": "classroom-of-the-elite-season-3-2024"
+    },
+    {
+     "w": "season-4-second-year-2026",
+     "no": "New"
+    }
+   ]
+  },
+  "that-time-i-got-reincarnated-as-a-slime": {
+   "t": "That Time I Got Reincarnated as a Slime",
+   "by": "8-bit",
+   "g": "Action / Adventure / Fantasy",
+   "sum": "A man reborn as a slime in a fantasy world builds a nation of monsters.",
+   "img": "ca17",
+   "members": [
+    {
+     "w": "that-time-i-got-reincarnated-as-a-slime-season-1-2018"
+    },
+    {
+     "w": "that-time-i-got-reincarnated-as-a-slime-season-2-2021"
+    },
+    {
+     "w": "that-time-i-got-reincarnated-as-a-slime-season-2-part-2-2021"
+    },
+    {
+     "w": "that-time-i-got-reincarnated-as-a-slime-season-3-2024"
+    },
+    {
+     "w": "that-time-i-got-reincarnated-as-a-slime-season-4-2026",
+     "no": "New"
+    }
+   ]
+  },
+  "wistoria-wand-and-sword": {
+   "t": "Wistoria: Wand and Sword",
+   "by": "Actas",
+   "g": "Action / Adventure / Fantasy",
+   "sum": "A boy who can't use magic fights his way up a magic academy with only a sword.",
+   "img": "ca18",
+   "members": [
+    {
+     "w": "season-1-2024"
+    },
+    {
+     "w": "wistoria-wand-and-sword-season-2-2026",
+     "no": "New"
+    }
+   ]
+  },
+  "welcome-to-demon-school-iruma-kun": {
+   "t": "Welcome to Demon School! Iruma-kun",
+   "by": "Bandai Namco Pictures",
+   "g": "Comedy / Fantasy",
+   "sum": "A kind human boy sold to a demon becomes a student, and an unlikely star, at a school for demons.",
+   "img": "ca19",
+   "members": [
+    {
+     "w": "season-1-2019"
+    },
+    {
+     "w": "welcome-to-demon-school-iruma-kun-season-2-2021"
+    },
+    {
+     "w": "season-3-2022"
+    },
+    {
+     "w": "welcome-to-demon-school-iruma-kun-season-4-2026",
+     "no": "New"
+    }
+   ]
+  },
+  "clevatess": {
+   "t": "Clevatess",
+   "by": "Lay-duce",
+   "g": "Action / Drama / Fantasy",
+   "sum": "A demon king is forced to raise a human baby while protecting the world he once threatened.",
+   "img": "ca20",
+   "members": [
+    {
+     "w": "clevatess-2025"
+    },
+    {
+     "w": "clevatess-season-2-2026",
+     "no": "New"
+    }
+   ]
+  },
+  "grand-blue-dreaming": {
+   "t": "Grand Blue Dreaming",
+   "by": "Zero-G",
+   "g": "Comedy / Slice of Life",
+   "sum": "A college freshman joins a diving club that seems to care far more about drinking than diving.",
+   "img": "ca21",
+   "members": [
+    {
+     "w": "grand-blue-dreaming-2018"
+    },
+    {
+     "w": "grand-blue-dreaming-season-2-2025"
+    },
+    {
+     "w": "grand-blue-dreaming-season-3-2026",
+     "no": "New"
+    }
+   ]
+  },
+  "the-100-girlfriends-who-really-really-really-really-really-love-you": {
+   "t": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
+   "by": "Bibury Animation Studios",
+   "g": "Comedy / Romance",
+   "sum": "A boy destined to meet a hundred soulmates refuses to let any of them down.",
+   "img": "ca22",
+   "members": [
+    {
+     "w": "season-1-2023"
+    },
+    {
+     "w": "the-100-girlfriends-who-really-really-really-really-really-love-you-season-2-2025"
+    },
+    {
+     "w": "the-100-girlfriends-who-really-really-really-really-really-love-you-season-3-2026",
+     "no": "New"
+    }
+   ]
+  },
+  "you-and-i-are-polar-opposites": {
+   "t": "You and I Are Polar Opposites",
+   "by": "Lapin Track",
+   "g": "Comedy / Romance",
+   "sum": "A bubbly girl and a quiet boy with nothing in common slowly fall for each other.",
+   "img": "ca23",
+   "members": [
+    {
+     "w": "season-1-2026"
+    },
+    {
+     "w": "you-and-i-are-polar-opposites-season-2-2026",
+     "no": "New"
+    }
+   ]
+  },
+  "bleach-2": {
+   "t": "Bleach",
+   "by": "Studio Pierrot",
+   "g": "Action / Adventure / Supernatural",
+   "sum": "A teenager who can see ghosts gains the powers of a Soul Reaper and protects the living from evil spirits.",
+   "img": "a32",
+   "members": [
+    {
+     "w": "bleach-2004"
+    },
+    {
+     "w": "thousand-year-blood-war-2022"
+    },
+    {
+     "w": "thousand-year-blood-war-the-separation-2023"
+    },
+    {
+     "w": "thousand-year-blood-war-the-conflict-2024"
+    },
+    {
+     "w": "thousand-year-blood-war-the-calamity-2026",
+     "no": "New"
+    }
+   ]
+  },
+  "mushoku-tensei-jobless-reincarnation-2": {
+   "t": "Mushoku Tensei: Jobless Reincarnation",
+   "by": "Studio Bind",
+   "g": "Adventure / Drama / Fantasy",
+   "sum": "A shut-in reborn in a magical world sets out to live his new life to the fullest.",
+   "img": "a50",
+   "members": [
+    {
+     "w": "season-1-2021"
+    },
+    {
+     "w": "season-1-cour-2-2021"
+    },
+    {
+     "w": "season-2-2023"
+    },
+    {
+     "w": "season-2-part-2-2024"
+    },
+    {
+     "w": "mushoku-tensei-jobless-reincarnation-season-3-2026",
+     "no": "New"
+    }
+   ]
+  }
+ },
+ "lists": {
+  "M": ["fullmetal-alchemist-brotherhood-2009", "steins-gate-2011", "attack-on-titan", "frieren-beyond-journey-s-end", "hunter-x-hunter-2011-2011", "gintama", "vinland-saga", "monster-2004", "death-note-2006", "code-geass", "kaguya-sama-love-is-war", "mob-psycho-100", "one-punch-man", "jujutsu-kaisen", "demon-slayer-kimetsu-no-yaiba", "chainsaw-man-2022", "spy-x-family", "haikyu", "your-lie-in-april-2014", "violet-evergarden-2018", "clannad", "march-comes-in-like-a-lion", "made-in-abyss-2017", "the-promised-neverland", "mushishi-2005", "samurai-champloo-2004", "fullmetal-alchemist-2003-2003", "natsume-s-book-of-friends", "re-zero-starting-life-in-another-world", "tokyo-ghoul", "my-hero-academia", "naruto", "bleach", "dr-stone", "bocchi-the-rock-2022", "oshi-no-ko", "cyberpunk-edgerunners-2022", "dandadan", "solo-leveling", "blue-lock", "sword-art-online", "toradora-2008", "anohana-the-flower-we-saw-that-day-2011", "erased-2016", "parasyte-the-maxim-2014", "assassination-classroom", "hajime-no-ippo-2000", "great-pretender", "odd-taxi-2021", "ranking-of-kings", "mushoku-tensei-jobless-reincarnation", "kingdom", "black-lagoon", "psycho-pass", "fate-zero", "puella-magi-madoka-magica", "ping-pong-the-animation-2014", "the-melancholy-of-haruhi-suzumiya-2006", "k-on", "nichijou-2011", "hyouka-2012", "angel-beats-2010", "durarara", "baccano-2007", "ghost-in-the-shell-stand-alone-complex", "gurren-lagann-2007", "kill-la-kill-2013", "ergo-proxy-2006", "paranoia-agent-2004", "welcome-to-the-nhk-2006", "nana-2006", "fruits-basket", "horimiya-2021", "kaiji-ultimate-survivor", "jojo-s-bizarre-adventure-2012", "the-apothecary-diaries", "delicious-in-dungeon-2024", "86-eighty-six", "mononoke-2007", "from-the-new-world-2012", "barakamon-2014", "space-brothers-2012", "yuri-on-ice-2016", "food-wars-shokugeki-no-soma", "kuroko-s-basketball", "bungo-stray-dogs", "golden-kamuy", "wotakoi-love-is-hard-for-otaku-2018", "a-place-further-than-the-universe-2018", "kakegurui", "akame-ga-kill-2014", "vivy-fluorite-eye-s-song-2021", "pluto-2023", "spirited-away-2001", "your-name-2016", "howl-s-moving-castle-2004", "a-silent-voice-2016", "wolf-children-2012", "the-boy-and-the-heron-2023", "paprika-2006"],
+  "C": ["cowboy-bebop-1998", "neon-genesis-evangelion-1995", "dragon-ball", "one-piece-1999", "great-teacher-onizuka-1999", "rurouni-kenshin-1996", "trigun-1998", "serial-experiments-lain-1998", "legend-of-the-galactic-heroes-1988", "berserk-1997", "yu-yu-hakusho-1992", "slam-dunk-1993", "sailor-moon", "mobile-suit-gundam-1979", "hunter-x-hunter-1999-1999", "revolutionary-girl-utena-1997", "cardcaptor-sakura-1998", "pokemon", "digimon-adventure-1999", "detective-conan-1996", "ranma-1-2-1989", "fist-of-the-north-star", "saint-seiya-1986", "city-hunter", "astro-boy-1963", "lupin-the-third-part-ii-1977", "the-super-dimension-fortress-macross-1982", "the-rose-of-versailles-1979", "nadia-the-secret-of-blue-water-1990", "initial-d", "outlaw-star-1998", "his-and-her-circumstances-1998", "martian-successor-nadesico-1996", "mobile-suit-zeta-gundam-1985", "princess-mononoke-1997", "grave-of-the-fireflies-1988", "akira-1988", "my-neighbor-totoro-1988", "perfect-blue-1997", "ghost-in-the-shell-1995", "nausicaa-of-the-valley-of-the-wind-1984", "castle-in-the-sky-1986", "kiki-s-delivery-service-1989"],
+  "N": ["witch-hat-atelier-2026", "nippon-sangoku-the-three-nations-of-the-crimson-sun-2026", "jaadugar-a-witch-in-mongolia-2026", "the-ramparts-of-ice-2026", "love-unseen-beneath-the-clear-night-sky-2026", "botan-kamiina-fully-blossoms-when-drunk-2026", "smoking-behind-the-supermarket-with-you-2026", "go-for-it-nakamura-kun-2026", "i-made-friends-with-the-second-prettiest-girl-in-my-class-2026", "though-i-am-an-inept-villainess-2026", "akane-banashi-2026", "daemons-of-the-shadow-realm-2026", "the-cat-and-the-dragon-2026", "jojo-s-bizarre-adventure-steel-ball-run-2026", "saga-of-tanya-the-evil", "dorohedoro", "classroom-of-the-elite", "that-time-i-got-reincarnated-as-a-slime", "wistoria-wand-and-sword", "welcome-to-demon-school-iruma-kun", "clevatess", "grand-blue-dreaming", "the-100-girlfriends-who-really-really-really-really-really-love-you", "you-and-i-are-polar-opposites", "re-zero-starting-life-in-another-world", "bleach-2", "mushoku-tensei-jobless-reincarnation-2", "dr-stone", "puella-magi-madoka-magica"]
+ }
+}

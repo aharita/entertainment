@@ -17,9 +17,14 @@ Pre-launch review, 25 Oct 2026. One iteration at a time, review after each.
 - [ ] **Theme button.** It just says "Theme". Show the current mode, or cycle Auto / Light / Dark.
 - [ ] **Thin data.** 87 titles (counting each book or season in a series) are scored on fewer than 3 sites, mostly games and classic TV, and 13 on only one. Show "2 of 3 sites" on these, or require at least 2.
 
-## Iteration 3 — maintainability
+## Iteration 3 — data pipeline (done, in review)
 
-- [ ] Split `DATA` into `data.json` and covers into files, so refreshes produce readable diffs.
-- [ ] Keep the "3 Oct 2026" check date in one constant instead of six strings.
-- [ ] The scripts that fetched the ratings aren't in the repo. Rebuild or recover them before the next refresh.
-- [ ] Current lists cover April–October 2026 and will look stale within a few months. Decide on a refresh cadence.
+- [x] **Data out of the page.** Titles and ratings live in `data/<tab>.json`, one record per work (a title in two lists is stored once) with the date each rating was read. Scoring config moved to `ranking.js`, shared by the page and the tools.
+- [x] **Check dates come from the data.** The page works out "Ratings checked" from the stored dates instead of six hard-coded strings.
+- [x] **Refresh tools** in `tools/`: `refresh` (IMDb, Steam, AniList, MyAnimeList via APIs), `find-ids`, `todo` + `apply` for sites read in Chrome, `check`, `diff`. Each work keeps its page id per site, so later refreshes open pages directly.
+- [x] Page ids found: IMDb 650 of 670 films/shows/anime, Steam 118 of 190 games (most of the rest aren't on Steam), AniList and MyAnimeList 303 of 323 anime.
+- [ ] **Cadence.** Current lists cover April–October 2026. Suggest a monthly `refresh.mjs` (APIs only, minutes) and a quarterly full refresh with Current rebuilt.
+
+## Iteration 4 — first refresh on the pipeline
+
+- [ ] Run the API refresh, then the Chrome worklists site by site; rebuild Current; add new releases and awards; review `diff.mjs` before committing.
