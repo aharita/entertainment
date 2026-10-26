@@ -13,12 +13,14 @@
    "img": "g0",
    "aw": ["Game of the Year, The Game Awards 2015", "GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "292030"
+    "steam": "292030",
+    "mc": "game/the-witcher-3-wild-hunt",
+    "bl": "the-witcher-3-wild-hunt"
    },
    "s": {
-    "bl": [4.4, 95904, "2026-10-03"],
-    "steam": [96.4, 899136, "2026-10-03"],
-    "mc": [9.1, 20250, "2026-10-03"]
+    "bl": [4.402, 97876, "2026-10-26"],
+    "steam": [96, 840258, "2026-10-26"],
+    "mc": [9.1, 20315, "2026-10-26"]
    }
   },
   "elden-ring-2022": {
@@ -29,12 +31,14 @@
    "img": "g2",
    "aw": ["Game of the Year, The Game Awards 2022", "Game of the Year, D.I.C.E. Awards"],
    "ids": {
-    "steam": "1245620"
+    "steam": "1245620",
+    "mc": "game/elden-ring",
+    "bl": "elden-ring"
    },
    "s": {
-    "bl": [4.544, 144419, "2026-10-03"],
-    "steam": [93, 1157394, "2026-10-03"],
-    "mc": [8.4, 24733, "2026-10-03"]
+    "bl": [4.545, 147504, "2026-10-26"],
+    "steam": [93, 834397, "2026-10-26"],
+    "mc": [8.4, 24902, "2026-10-26"]
    }
   },
   "baldur-s-gate-3-2023": {
@@ -45,12 +49,14 @@
    "img": "g3",
    "aw": ["Game of the Year, The Game Awards 2023", "Game of the Year, D.I.C.E. Awards"],
    "ids": {
-    "steam": "1086940"
+    "steam": "1086940",
+    "mc": "game/baldurs-gate-3",
+    "bl": "baldurs-gate-iii"
    },
    "s": {
-    "bl": [4.619, 71656, "2026-10-03"],
-    "steam": [96.8, 860380, "2026-10-03"],
-    "mc": [9.1, 21672, "2026-10-03"]
+    "bl": [4.618, 73248, "2026-10-26"],
+    "steam": [96, 759332, "2026-10-26"],
+    "mc": [9.1, 21763, "2026-10-26"]
    }
   },
   "the-legend-of-zelda-breath-of-the-wild-2017": {
@@ -60,9 +66,11 @@
    "sum": "Link wakes after a century to a ruined Hyrule you can explore in any direction, climbing nearly anything.",
    "img": "g4",
    "aw": ["Game of the Year, The Game Awards 2017", "Game of the Year, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "the-legend-of-zelda-breath-of-the-wild"
+   },
    "s": {
-    "bl": [4.462, 124035, "2026-10-03"],
+    "bl": [4.463, 126200, "2026-10-26"],
     "mc": [8.9, 27338, "2026-10-03"]
    }
   },
@@ -73,10 +81,13 @@
    "sum": "Hyrule is torn apart by floating sky islands and caverns below, and Link can build vehicles and contraptions.",
    "img": "g5",
    "aw": ["GOTY nominee, The Game Awards 2023", "GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "the-legend-of-zelda-tears-of-the-kingdom",
+    "mc": "game/the-legend-of-zelda-tears-of-the-kingdom"
+   },
    "s": {
-    "bl": [4.311, 65309, "2026-10-03"],
-    "mc": [8.8, 14894, "2026-10-03"]
+    "bl": [4.31, 66422, "2026-10-26"],
+    "mc": [8.8, 14939, "2026-10-26"]
    }
   },
   "mass-effect-2-2010": {
@@ -86,10 +97,13 @@
    "sum": "Commander Shepard assembles a squad for a suicide mission against a threat abducting human colonies.",
    "img": "g12",
    "aw": ["Game of the Year, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "mass-effect-2",
+    "mc": "game/mass-effect-2"
+   },
    "s": {
-    "bl": [4.439, 27073, "2026-10-03"],
-    "mc": [8.9, 3852, "2026-10-03"]
+    "bl": [4.441, 27591, "2026-10-26"],
+    "mc": [8.9, 3871, "2026-10-26"]
    }
   },
   "hades-2020": {
@@ -100,12 +114,14 @@
    "img": "g13",
    "aw": ["GOTY nominee, The Game Awards 2020", "Game of the Year, D.I.C.E. Awards"],
    "ids": {
-    "steam": "1145360"
+    "steam": "1145360",
+    "mc": "game/hades",
+    "bl": "hades--1"
    },
    "s": {
-    "bl": [4.238, 104420, "2026-10-03"],
-    "steam": [98, 309233, "2026-10-03"],
-    "mc": [8.5, 5381, "2026-10-03"]
+    "bl": [4.236, 106426, "2026-10-26"],
+    "steam": [97, 287359, "2026-10-26"],
+    "mc": [8.5, 5445, "2026-10-26"]
    }
   },
   "hades-ii-2025": {
@@ -116,12 +132,14 @@
    "img": "g14",
    "aw": ["GOTY nominee, The Game Awards 2025"],
    "ids": {
-    "steam": "1145350"
+    "steam": "1145350",
+    "mc": "game/hades-ii",
+    "bl": "hades-ii"
    },
    "s": {
-    "bl": [4.382, 27955, "2026-10-03"],
-    "steam": [95.7, 123860, "2026-10-03"],
-    "mc": [8.5, 1859, "2026-10-03"]
+    "bl": [4.383, 28860, "2026-10-26"],
+    "steam": [95, 115457, "2026-10-26"],
+    "mc": [8.5, 1907, "2026-10-26"]
    }
   },
   "hollow-knight-2017": {
@@ -131,12 +149,14 @@
    "sum": "A silent knight explores a vast, ruined insect kingdom in this hand-drawn, challenging Metroidvania.",
    "img": "g15",
    "ids": {
-    "steam": "367520"
+    "steam": "367520",
+    "mc": "game/hollow-knight",
+    "bl": "hollow-knight"
    },
    "s": {
-    "bl": [4.426, 125532, "2026-10-03"],
-    "steam": [96.9, 563619, "2026-10-03"],
-    "mc": [9, 6407, "2026-10-03"]
+    "bl": [4.426, 127924, "2026-10-26"],
+    "steam": [96, 506872, "2026-10-26"],
+    "mc": [9, 6469, "2026-10-26"]
    }
   },
   "hollow-knight-silksong-2025": {
@@ -147,12 +167,14 @@
    "img": "g16",
    "aw": ["GOTY nominee, The Game Awards 2025"],
    "ids": {
-    "steam": "1030300"
+    "steam": "1030300",
+    "mc": "game/hollow-knight-silksong",
+    "bl": "hollow-knight-silksong"
    },
    "s": {
-    "bl": [4.519, 53320, "2026-10-03"],
-    "steam": [89.5, 424391, "2026-10-03"],
-    "mc": [8.9, 7512, "2026-10-03"]
+    "bl": [4.518, 54782, "2026-10-26"],
+    "steam": [89, 390018, "2026-10-26"],
+    "mc": [8.9, 7589, "2026-10-26"]
    }
   },
   "celeste-2018": {
@@ -163,12 +185,14 @@
    "img": "g17",
    "aw": ["GOTY nominee, The Game Awards 2018"],
    "ids": {
-    "steam": "504230"
+    "steam": "504230",
+    "mc": "game/celeste",
+    "bl": "celeste"
    },
    "s": {
-    "bl": [4.27, 81607, "2026-10-03"],
-    "steam": [97.4, 148110, "2026-10-03"],
-    "mc": [8.7, 2860, "2026-10-03"]
+    "bl": [4.269, 82865, "2026-10-26"],
+    "steam": [97, 133561, "2026-10-26"],
+    "mc": [8.7, 2877, "2026-10-26"]
    }
   },
   "stardew-valley-2016": {
@@ -178,12 +202,14 @@
    "sum": "You inherit your grandfather's run-down farm and build a new life in a small country town.",
    "img": "g18",
    "ids": {
-    "steam": "413150"
+    "steam": "413150",
+    "mc": "game/stardew-valley",
+    "bl": "stardew-valley"
    },
    "s": {
-    "bl": [4.164, 93571, "2026-10-03"],
-    "steam": [98.5, 1041923, "2026-10-03"],
-    "mc": [8.8, 3459, "2026-10-03"]
+    "bl": [4.163, 95280, "2026-10-26"],
+    "steam": [98, 901370, "2026-10-26"],
+    "mc": [8.8, 3494, "2026-10-26"]
    }
   },
   "terraria-2011": {
@@ -193,12 +219,14 @@
    "sum": "A 2D sandbox of digging, building, crafting and fighting through a world full of bosses.",
    "img": "g19",
    "ids": {
-    "steam": "105600"
+    "steam": "105600",
+    "mc": "game/terraria",
+    "bl": "terraria"
    },
    "s": {
-    "bl": [4.082, 76065, "2026-10-03"],
-    "steam": [97.4, 1559373, "2026-10-03"],
-    "mc": [8.4, 1408, "2026-10-03"]
+    "bl": [4.082, 77483, "2026-10-26"],
+    "steam": [97, 1247762, "2026-10-26"],
+    "mc": [8.4, 1421, "2026-10-26"]
    }
   },
   "minecraft-2011": {
@@ -207,10 +235,12 @@
    "by": "Mojang Studios",
    "sum": "An open block world where you mine, craft and build anything you can imagine, or survive the night.",
    "img": "g20",
-   "ids": {},
+   "ids": {
+    "mc": "game/minecraft"
+   },
    "s": {
     "bl": [4.308, 73884, "2026-10-03"],
-    "mc": [8.4, 11896, "2026-10-03"]
+    "mc": [8.4, 11985, "2026-10-26"]
    }
   },
   "undertale-2015": {
@@ -220,12 +250,14 @@
    "sum": "A child falls into a world of monsters, where you can choose to spare every enemy you meet.",
    "img": "g21",
    "ids": {
-    "steam": "391540"
+    "steam": "391540",
+    "mc": "game/undertale",
+    "bl": "undertale"
    },
    "s": {
-    "bl": [4.312, 107020, "2026-10-03"],
-    "steam": [96.5, 343765, "2026-10-03"],
-    "mc": [8.7, 8183, "2026-10-03"]
+    "bl": [4.311, 108748, "2026-10-26"],
+    "steam": [96, 311565, "2026-10-26"],
+    "mc": [8.7, 8233, "2026-10-26"]
    }
   },
   "disco-elysium-2019": {
@@ -236,12 +268,14 @@
    "img": "g22",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "632470"
+    "steam": "632470",
+    "mc": "game/disco-elysium",
+    "bl": "disco-elysium-the-final-cut"
    },
    "s": {
-    "bl": [4.553, 17657, "2026-10-03"],
-    "steam": [92.6, 131680, "2026-10-03"],
-    "mc": [8.6, 2152, "2026-10-03"]
+    "bl": [4.595, 36546, "2026-10-26"],
+    "steam": [92, 119051, "2026-10-26"],
+    "mc": [8.5, 2165, "2026-10-26"]
    }
   },
   "persona-5-royal-2019": {
@@ -251,12 +285,14 @@
    "sum": "High-school students lead double lives as Phantom Thieves who change the hearts of corrupt adults.",
    "img": "g23",
    "ids": {
-    "steam": "1687950"
+    "steam": "1687950",
+    "mc": "game/persona-5-royal",
+    "bl": "persona-5-royal"
    },
    "s": {
-    "bl": [4.487, 70219, "2026-10-03"],
-    "steam": [96.3, 141003, "2026-10-03"],
-    "mc": [8.8, 7056, "2026-10-03"]
+    "bl": [4.486, 71652, "2026-10-26"],
+    "steam": [96, 93373, "2026-10-26"],
+    "mc": [8.8, 7095, "2026-10-26"]
    }
   },
   "persona-3-reload-2024": {
@@ -266,12 +302,14 @@
    "sum": "Students fight shadows during a secret hidden hour each night, in a remake of the 2006 classic.",
    "img": "g24",
    "ids": {
-    "steam": "2161700"
+    "steam": "2161700",
+    "mc": "game/persona-3-reload",
+    "bl": "persona-3-reload"
    },
    "s": {
-    "bl": [4.34, 45464, "2026-10-03"],
-    "steam": [94.3, 64832, "2026-10-03"],
-    "mc": [8.6, 2237, "2026-10-03"]
+    "bl": [4.338, 46547, "2026-10-26"],
+    "steam": [95, 45484, "2026-10-26"],
+    "mc": [8.6, 2272, "2026-10-26"]
    }
   },
   "sekiro-shadows-die-twice-2019": {
@@ -282,12 +320,14 @@
    "img": "g27",
    "aw": ["Game of the Year, The Game Awards 2019"],
    "ids": {
-    "steam": "814380"
+    "steam": "814380",
+    "mc": "game/sekiro-shadows-die-twice",
+    "bl": "sekiro-shadows-die-twice"
    },
    "s": {
-    "bl": [4.504, 68375, "2026-10-03"],
-    "steam": [95.2, 356672, "2026-10-03"],
-    "mc": [8.6, 7614, "2026-10-03"]
+    "bl": [4.504, 69881, "2026-10-26"],
+    "steam": [95, 261270, "2026-10-26"],
+    "mc": [8.6, 7677, "2026-10-26"]
    }
   },
   "dark-souls-2011": {
@@ -296,11 +336,14 @@
    "by": "FromSoftware",
    "sum": "An undead warrior explores a dying kingdom in the punishing, interconnected game that defined a genre.",
    "img": "g28",
-   "ids": {},
+   "ids": {
+    "bl": "dark-souls",
+    "mc": "game/dark-souls"
+   },
    "s": {
-    "bl": [4.34, 45936, "2026-10-03"],
+    "bl": [4.34, 46705, "2026-10-26"],
     "steam": [92.4, 156287, "2026-10-03"],
-    "mc": [8.5, 2670, "2026-10-03"]
+    "mc": [8.5, 2685, "2026-10-26"]
    }
   },
   "dark-souls-iii-2016": {
@@ -310,12 +353,14 @@
    "sum": "The final Dark Souls, journeying through a decaying world to link the dying flame.",
    "img": "g29",
    "ids": {
-    "steam": "374320"
+    "steam": "374320",
+    "mc": "game/dark-souls-iii",
+    "bl": "dark-souls-iii"
    },
    "s": {
-    "bl": [4.346, 90481, "2026-10-03"],
-    "steam": [94.3, 440947, "2026-10-03"],
-    "mc": [8.8, 7409, "2026-10-03"]
+    "bl": [4.347, 92291, "2026-10-26"],
+    "steam": [94, 279659, "2026-10-26"],
+    "mc": [8.8, 7459, "2026-10-26"]
    }
   },
   "bloodborne-2015": {
@@ -325,10 +370,13 @@
    "sum": "A hunter fights nightmarish beasts in a gothic, Lovecraftian city, with fast, aggressive combat.",
    "img": "g30",
    "aw": ["GOTY nominee, The Game Awards 2015", "GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "bloodborne",
+    "mc": "game/bloodborne"
+   },
    "s": {
-    "bl": [4.531, 72588, "2026-10-03"],
-    "mc": [9, 14964, "2026-10-03"]
+    "bl": [4.531, 74174, "2026-10-26"],
+    "mc": [8.9, 15037, "2026-10-26"]
    }
   },
   "super-mario-odyssey-2017": {
@@ -338,10 +386,13 @@
    "sum": "Mario travels to colourful kingdoms with Cappy, a living hat that lets him possess enemies and objects.",
    "img": "g31",
    "aw": ["GOTY nominee, The Game Awards 2017", "GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "super-mario-odyssey",
+    "mc": "game/super-mario-odyssey"
+   },
    "s": {
-    "bl": [4.278, 95051, "2026-10-03"],
-    "mc": [9, 12117, "2026-10-03"]
+    "bl": [4.278, 96754, "2026-10-26"],
+    "mc": [9, 12193, "2026-10-26"]
    }
   },
   "super-mario-galaxy-2007": {
@@ -351,10 +402,13 @@
    "sum": "Mario leaps between tiny planets with their own gravity to rescue Peach.",
    "img": "g32",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "super-mario-galaxy",
+    "mc": "game/super-mario-galaxy"
+   },
    "s": {
-    "bl": [4.411, 61824, "2026-10-03"],
-    "mc": [9, 5433, "2026-10-03"]
+    "bl": [4.411, 62797, "2026-10-26"],
+    "mc": [9, 5469, "2026-10-26"]
    }
   },
   "super-mario-galaxy-2-2010": {
@@ -363,10 +417,13 @@
    "by": "Nintendo",
    "sum": "More gravity-bending Mario platforming across inventive planets, with Yoshi along for the ride.",
    "img": "g33",
-   "ids": {},
+   "ids": {
+    "bl": "super-mario-galaxy-2",
+    "mc": "game/super-mario-galaxy-2"
+   },
    "s": {
-    "bl": [4.396, 37130, "2026-10-03"],
-    "mc": [9, 3854, "2026-10-03"]
+    "bl": [4.395, 37719, "2026-10-26"],
+    "mc": [9, 3884, "2026-10-26"]
    }
   },
   "super-mario-bros-wonder-2023": {
@@ -376,10 +433,13 @@
    "sum": "Mario and friends explore the Flower Kingdom, where Wonder Flowers transform each level in surprising ways.",
    "img": "g34",
    "aw": ["GOTY nominee, The Game Awards 2023"],
-   "ids": {},
+   "ids": {
+    "bl": "super-mario-bros-wonder",
+    "mc": "game/super-mario-bros-wonder"
+   },
    "s": {
-    "bl": [4.086, 37351, "2026-10-03"],
-    "mc": [8.9, 3511, "2026-10-03"]
+    "bl": [4.083, 37947, "2026-10-26"],
+    "mc": [8.9, 3527, "2026-10-26"]
    }
   },
   "super-mario-3d-world-2013": {
@@ -388,10 +448,13 @@
    "by": "Nintendo",
    "sum": "Mario and friends race through bright 3D obstacle courses, with cat suits and local co-op.",
    "img": "g35",
-   "ids": {},
+   "ids": {
+    "bl": "super-mario-3d-world",
+    "mc": "game/super-mario-3d-world"
+   },
    "s": {
-    "bl": [3.94, 25763, "2026-10-03"],
-    "mc": [8.8, 2712, "2026-10-03"]
+    "bl": [3.94, 26220, "2026-10-26"],
+    "mc": [8.8, 2720, "2026-10-26"]
    }
   },
   "metroid-dread-2021": {
@@ -401,10 +464,13 @@
    "sum": "Samus Aran explores a hostile planet while hunted by nearly unstoppable robots.",
    "img": "g36",
    "aw": ["GOTY nominee, The Game Awards 2021"],
-   "ids": {},
+   "ids": {
+    "bl": "metroid-dread",
+    "mc": "game/metroid-dread"
+   },
    "s": {
-    "bl": [4.251, 27917, "2026-10-03"],
-    "mc": [8.8, 3567, "2026-10-03"]
+    "bl": [4.253, 28607, "2026-10-26"],
+    "mc": [8.8, 3605, "2026-10-26"]
    }
   },
   "animal-crossing-new-horizons-2020": {
@@ -414,10 +480,13 @@
    "sum": "You move to a deserted island and slowly turn it into a cosy community with animal neighbours.",
    "img": "g37",
    "aw": ["GOTY nominee, The Game Awards 2020", "GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "animal-crossing-new-horizons",
+    "mc": "game/animal-crossing-new-horizons"
+   },
    "s": {
-    "bl": [3.662, 59347, "2026-10-03"],
-    "mc": [6, 7638, "2026-10-03"]
+    "bl": [3.662, 60199, "2026-10-26"],
+    "mc": [6, 7652, "2026-10-26"]
    }
   },
   "super-smash-bros-ultimate-2018": {
@@ -427,10 +496,13 @@
    "sum": "Every fighter in Smash Bros. history brawls it out in Nintendo's crossover fighting game.",
    "img": "g38",
    "aw": ["GOTY nominee, The Game Awards 2019"],
-   "ids": {},
+   "ids": {
+    "bl": "super-smash-bros-ultimate",
+    "mc": "game/super-smash-bros-ultimate"
+   },
    "s": {
-    "bl": [4.093, 78346, "2026-10-03"],
-    "mc": [8.7, 5552, "2026-10-03"]
+    "bl": [4.094, 79678, "2026-10-26"],
+    "mc": [8.7, 5576, "2026-10-26"]
    }
   },
   "mario-kart-8-deluxe-2017": {
@@ -439,10 +511,13 @@
    "by": "Nintendo",
    "sum": "Nintendo's kart racer, with gravity-defying tracks and a huge roster.",
    "img": "g39",
-   "ids": {},
+   "ids": {
+    "bl": "mario-kart-8-deluxe",
+    "mc": "game/mario-kart-8-deluxe"
+   },
    "s": {
-    "bl": [4.077, 71702, "2026-10-03"],
-    "mc": [8.6, 4763, "2026-10-03"]
+    "bl": [4.077, 73038, "2026-10-26"],
+    "mc": [8.6, 4794, "2026-10-26"]
    }
   },
   "grand-theft-auto-v-2013": {
@@ -452,11 +527,14 @@
    "sum": "Three very different criminals pull off heists across a satirical version of Los Angeles.",
    "img": "g40",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "grand-theft-auto-v",
+    "mc": "game/grand-theft-auto-v"
+   },
    "s": {
-    "bl": [4.038, 149676, "2026-10-03"],
+    "bl": [4.039, 152999, "2026-10-26"],
     "steam": [87.7, 2080036, "2026-10-03"],
-    "mc": [8.3, 4288, "2026-10-03"]
+    "mc": [8.3, 4484, "2026-10-26"]
    }
   },
   "bioshock-2007": {
@@ -466,11 +544,14 @@
    "sum": "A plane crash survivor explores Rapture, a collapsed underwater utopia ruled by a megalomaniac.",
    "img": "g42",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "bioshock",
+    "mc": "game/bioshock"
+   },
    "s": {
-    "bl": [4.118, 53439, "2026-10-03"],
+    "bl": [4.119, 54426, "2026-10-26"],
     "steam": [94, 32239, "2026-10-03"],
-    "mc": [8.7, 4606, "2026-10-03"]
+    "mc": [8.7, 4630, "2026-10-26"]
    }
   },
   "bioshock-infinite-2013": {
@@ -481,12 +562,14 @@
    "img": "g43",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "8870"
+    "steam": "8870",
+    "mc": "game/bioshock-infinite",
+    "bl": "bioshock-infinite"
    },
    "s": {
-    "bl": [3.727, 57540, "2026-10-03"],
-    "steam": [93.5, 145839, "2026-10-03"],
-    "mc": [8.6, 11927, "2026-10-03"]
+    "bl": [3.729, 58518, "2026-10-26"],
+    "steam": [93, 109905, "2026-10-26"],
+    "mc": [8.6, 11952, "2026-10-26"]
    }
   },
   "uncharted-2-among-thieves-2009": {
@@ -496,10 +579,13 @@
    "sum": "Treasure hunter Nathan Drake chases Marco Polo's lost fleet to the Himalayas.",
    "img": "g46",
    "aw": ["Game of the Year, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "uncharted-2-among-thieves",
+    "mc": "game/uncharted-2-among-thieves"
+   },
    "s": {
-    "bl": [4.121, 42077, "2026-10-03"],
-    "mc": [8.9, 8736, "2026-10-03"]
+    "bl": [4.123, 42963, "2026-10-26"],
+    "mc": [8.9, 8782, "2026-10-26"]
    }
   },
   "uncharted-4-a-thief-s-end-2016": {
@@ -509,11 +595,14 @@
    "sum": "Nathan Drake is pulled out of retirement by his long-lost brother for one last pirate treasure.",
    "img": "g47",
    "aw": ["GOTY nominee, The Game Awards 2016", "GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "mc": "game/uncharted-4-a-thiefs-end",
+    "bl": "uncharted-4-a-thief-s-end"
+   },
    "s": {
-    "bl": [4.28, 62421, "2026-10-03"],
+    "bl": [4.282, 63805, "2026-10-26"],
     "steam": [90.6, 44221, "2026-10-03"],
-    "mc": [8.7, 18260, "2026-10-03"]
+    "mc": [8.7, 18336, "2026-10-26"]
    }
   },
   "ghost-of-tsushima-2020": {
@@ -524,12 +613,14 @@
    "img": "g48",
    "aw": ["GOTY nominee, The Game Awards 2020", "GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "2215430"
+    "steam": "2215430",
+    "mc": "game/ghost-of-tsushima",
+    "bl": "ghost-of-tsushima"
    },
    "s": {
-    "bl": [4.162, 63854, "2026-10-03"],
-    "steam": [94, 97210, "2026-10-03"],
-    "mc": [9.1, 23690, "2026-10-03"]
+    "bl": [4.165, 65684, "2026-10-26"],
+    "steam": [93, 65636, "2026-10-26"],
+    "mc": [9.1, 23739, "2026-10-26"]
    }
   },
   "horizon-zero-dawn-2017": {
@@ -539,11 +630,14 @@
    "sum": "An outcast hunter in a far-future world overrun by robotic beasts uncovers the truth about her origins.",
    "img": "g51",
    "aw": ["GOTY nominee, The Game Awards 2017", "GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "horizon-zero-dawn",
+    "mc": "game/horizon-zero-dawn"
+   },
    "s": {
-    "bl": [3.555, 58778, "2026-10-03"],
+    "bl": [3.556, 60021, "2026-10-26"],
     "steam": [88, 128325, "2026-10-03"],
-    "mc": [8.3, 13990, "2026-10-03"]
+    "mc": [8.3, 14020, "2026-10-26"]
    }
   },
   "death-stranding-2019": {
@@ -553,11 +647,14 @@
    "sum": "A courier reconnects a fractured America after a supernatural catastrophe, one delivery at a time.",
    "img": "g52",
    "aw": ["GOTY nominee, The Game Awards 2019", "GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "death-stranding",
+    "mc": "game/death-stranding"
+   },
    "s": {
-    "bl": [4.01, 41547, "2026-10-03"],
+    "bl": [4.009, 42287, "2026-10-26"],
     "steam": [92.2, 69242, "2026-10-03"],
-    "mc": [7.4, 20140, "2026-10-03"]
+    "mc": [7.4, 20152, "2026-10-26"]
    }
   },
   "resident-evil-4-2023": {
@@ -568,12 +665,14 @@
    "img": "g53",
    "aw": ["GOTY nominee, The Game Awards 2023"],
    "ids": {
-    "steam": "2050650"
+    "steam": "2050650",
+    "mc": "game/resident-evil-4",
+    "bl": "resident-evil-4--1"
    },
    "s": {
-    "bl": [4.483, 88451, "2026-10-03"],
-    "steam": [97.4, 280599, "2026-10-03"],
-    "mc": [9, 10111, "2026-10-03"]
+    "bl": [4.482, 91007, "2026-10-26"],
+    "steam": [97, 192174, "2026-10-26"],
+    "mc": [9, 10239, "2026-10-26"]
    }
   },
   "resident-evil-2-2019": {
@@ -584,12 +683,14 @@
    "img": "g54",
    "aw": ["GOTY nominee, The Game Awards 2019"],
    "ids": {
-    "steam": "883710"
+    "steam": "883710",
+    "mc": "game/resident-evil-2",
+    "bl": "resident-evil-2--1"
    },
    "s": {
-    "bl": [4.264, 108177, "2026-10-03"],
-    "steam": [97, 224750, "2026-10-03"],
-    "mc": [8.9, 9131, "2026-10-03"]
+    "bl": [4.263, 111461, "2026-10-26"],
+    "steam": [97, 159086, "2026-10-26"],
+    "mc": [8.9, 9244, "2026-10-26"]
    }
   },
   "resident-evil-village-2021": {
@@ -600,12 +701,14 @@
    "img": "g55",
    "aw": ["GOTY nominee, The Game Awards 2021"],
    "ids": {
-    "steam": "1196590"
+    "steam": "1196590",
+    "mc": "game/resident-evil-village",
+    "bl": "resident-evil-village"
    },
    "s": {
-    "bl": [3.926, 65914, "2026-10-03"],
-    "steam": [95.6, 154953, "2026-10-03"],
-    "mc": [8.4, 5354, "2026-10-03"]
+    "bl": [3.927, 67797, "2026-10-26"],
+    "steam": [95, 107821, "2026-10-26"],
+    "mc": [8.4, 5428, "2026-10-26"]
    }
   },
   "outer-wilds-2019": {
@@ -616,12 +719,14 @@
    "img": "g56",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "753640"
+    "steam": "753640",
+    "mc": "game/outer-wilds",
+    "bl": "outer-wilds"
    },
    "s": {
-    "bl": [4.584, 45912, "2026-10-03"],
-    "steam": [95.6, 108711, "2026-10-03"],
-    "mc": [8.9, 2099, "2026-10-03"]
+    "bl": [4.583, 46804, "2026-10-26"],
+    "steam": [95, 90722, "2026-10-26"],
+    "mc": [8.9, 2119, "2026-10-26"]
    }
   },
   "inside-2016": {
@@ -632,12 +737,14 @@
    "img": "g57",
    "aw": ["GOTY nominee, The Game Awards 2016", "GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "304430"
+    "steam": "304430",
+    "mc": "game/inside",
+    "bl": "inside"
    },
    "s": {
-    "bl": [3.888, 36848, "2026-10-03"],
-    "steam": [97, 76084, "2026-10-03"],
-    "mc": [8.3, 2145, "2026-10-03"]
+    "bl": [3.889, 37580, "2026-10-26"],
+    "steam": [97, 70178, "2026-10-26"],
+    "mc": [8.3, 2169, "2026-10-26"]
    }
   },
   "limbo-2010": {
@@ -647,12 +754,14 @@
    "sum": "A boy searches for his sister through a dark, monochrome forest of deadly traps.",
    "img": "g58",
    "ids": {
-    "steam": "48000"
+    "steam": "48000",
+    "mc": "game/limbo",
+    "bl": "limbo"
    },
    "s": {
-    "bl": [3.53, 41920, "2026-10-03"],
-    "steam": [92.2, 62181, "2026-10-03"],
-    "mc": [7.9, 1333, "2026-10-03"]
+    "bl": [3.531, 42739, "2026-10-26"],
+    "steam": [91, 40879, "2026-10-26"],
+    "mc": [7.9, 1350, "2026-10-26"]
    }
   },
   "it-takes-two-2021": {
@@ -663,12 +772,14 @@
    "img": "g59",
    "aw": ["Game of the Year, The Game Awards 2021", "Game of the Year, D.I.C.E. Awards"],
    "ids": {
-    "steam": "1426210"
+    "steam": "1426210",
+    "mc": "game/it-takes-two",
+    "bl": "it-takes-two"
    },
    "s": {
-    "bl": [4.17, 63852, "2026-10-03"],
-    "steam": [95.4, 271012, "2026-10-03"],
-    "mc": [8.8, 3424, "2026-10-03"]
+    "bl": [4.167, 65368, "2026-10-26"],
+    "steam": [95, 220441, "2026-10-26"],
+    "mc": [8.8, 3467, "2026-10-26"]
    }
   },
   "split-fiction-2025": {
@@ -678,12 +789,14 @@
    "sum": "Two writers trapped in their own stories must work together through sci-fi and fantasy worlds; a co-op game.",
    "img": "g60",
    "ids": {
-    "steam": "2001120"
+    "steam": "2001120",
+    "bl": "split-fiction",
+    "mc": "game/split-fiction"
    },
    "s": {
-    "bl": [4.157, 23964, "2026-10-03"],
-    "steam": [96.9, 127688, "2026-10-03"],
-    "mc": [8.6, 2468, "2026-10-03"]
+    "bl": [4.151, 24707, "2026-10-26"],
+    "steam": [97, 79362, "2026-10-26"],
+    "mc": [8.6, 2501, "2026-10-26"]
    }
   },
   "astro-bot-2024": {
@@ -693,10 +806,13 @@
    "sum": "A tiny robot rescues his scattered crew across playful, inventive platforming worlds.",
    "img": "g61",
    "aw": ["Game of the Year, The Game Awards 2024", "Game of the Year, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "astro-bot",
+    "mc": "game/astro-bot"
+   },
    "s": {
-    "bl": [4.483, 27604, "2026-10-03"],
-    "mc": [9, 6448, "2026-10-03"]
+    "bl": [4.48, 28276, "2026-10-26"],
+    "mc": [9, 6517, "2026-10-26"]
    }
   },
   "ori-and-the-will-of-the-wisps-2020": {
@@ -706,12 +822,14 @@
    "sum": "A forest spirit journeys beyond its home in a gorgeous, emotional Metroidvania.",
    "img": "g62",
    "ids": {
-    "steam": "1057090"
+    "steam": "1057090",
+    "mc": "game/ori-and-the-will-of-the-wisps",
+    "bl": "ori-and-the-will-of-the-wisps"
    },
    "s": {
-    "bl": [4.264, 23445, "2026-10-03"],
-    "steam": [96.4, 148307, "2026-10-03"],
-    "mc": [8.9, 2946, "2026-10-03"]
+    "bl": [4.265, 23941, "2026-10-26"],
+    "steam": [96, 141963, "2026-10-26"],
+    "mc": [8.9, 2967, "2026-10-26"]
    }
   },
   "cuphead-2017": {
@@ -722,12 +840,14 @@
    "img": "g63",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "268910"
+    "steam": "268910",
+    "mc": "game/cuphead",
+    "bl": "cuphead"
    },
    "s": {
-    "bl": [4.122, 77703, "2026-10-03"],
-    "steam": [96.1, 222135, "2026-10-03"],
-    "mc": [8.5, 2505, "2026-10-03"]
+    "bl": [4.121, 79153, "2026-10-26"],
+    "steam": [96, 200472, "2026-10-26"],
+    "mc": [8.5, 2532, "2026-10-26"]
    }
   },
   "dead-cells-2018": {
@@ -737,12 +857,14 @@
    "sum": "A roguelike action-platformer where a body-hopping blob fights through an ever-changing island.",
    "img": "g64",
    "ids": {
-    "steam": "588650"
+    "steam": "588650",
+    "mc": "game/dead-cells",
+    "bl": "dead-cells"
    },
    "s": {
-    "bl": [3.807, 41497, "2026-10-03"],
-    "steam": [97, 183955, "2026-10-03"],
-    "mc": [8.3, 1453, "2026-10-03"]
+    "bl": [3.806, 42279, "2026-10-26"],
+    "steam": [97, 157072, "2026-10-26"],
+    "mc": [8.3, 1466, "2026-10-26"]
    }
   },
   "slay-the-spire-2019": {
@@ -752,12 +874,14 @@
    "sum": "Build a deck of cards as you climb a tower full of monsters; the game that popularised deckbuilding roguelikes.",
    "img": "g65",
    "ids": {
-    "steam": "646570"
+    "steam": "646570",
+    "mc": "game/slay-the-spire",
+    "bl": "slay-the-spire"
    },
    "s": {
-    "bl": [4.068, 34273, "2026-10-03"],
-    "steam": [97.5, 219050, "2026-10-03"],
-    "mc": [7.9, 1480, "2026-10-03"]
+    "bl": [4.067, 35002, "2026-10-26"],
+    "steam": [97, 192799, "2026-10-26"],
+    "mc": [7.9, 1498, "2026-10-26"]
    }
   },
   "balatro-2024": {
@@ -768,12 +892,14 @@
    "img": "g66",
    "aw": ["GOTY nominee, The Game Awards 2024", "GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "2379780"
+    "steam": "2379780",
+    "mc": "game/balatro",
+    "bl": "balatro"
    },
    "s": {
-    "bl": [4.224, 74694, "2026-10-03"],
-    "steam": [97.8, 199379, "2026-10-03"],
-    "mc": [8.4, 2093, "2026-10-03"]
+    "bl": [4.221, 76277, "2026-10-26"],
+    "steam": [97, 162125, "2026-10-26"],
+    "mc": [8.4, 2113, "2026-10-26"]
    }
   },
   "vampire-survivors-2022": {
@@ -784,12 +910,14 @@
    "img": "g67",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "1794680"
+    "steam": "1794680",
+    "mc": "game/vampire-survivors",
+    "bl": "vampire-survivors"
    },
    "s": {
-    "bl": [3.728, 44120, "2026-10-03"],
-    "steam": [98.3, 266156, "2026-10-03"],
-    "mc": [8.1, 1030, "2026-10-03"]
+    "bl": [3.727, 44937, "2026-10-26"],
+    "steam": [98, 252599, "2026-10-26"],
+    "mc": [8.1, 1045, "2026-10-26"]
    }
   },
   "factorio-2020": {
@@ -799,12 +927,14 @@
    "sum": "Crash-land on an alien planet and build an ever-growing automated factory to launch a rocket.",
    "img": "g68",
    "ids": {
-    "steam": "427520"
+    "steam": "427520",
+    "mc": "game/factorio",
+    "bl": "factorio"
    },
    "s": {
-    "bl": [4.24, 8433, "2026-10-03"],
-    "steam": [97.5, 235380, "2026-10-03"],
-    "mc": [8.9, 1025, "2026-10-03"]
+    "bl": [4.241, 8605, "2026-10-26"],
+    "steam": [97, 193009, "2026-10-26"],
+    "mc": [8.9, 1036, "2026-10-26"]
    }
   },
   "subnautica-2018": {
@@ -814,12 +944,14 @@
    "sum": "Stranded on an ocean planet, you dive ever deeper to survive and find a way home.",
    "img": "g69",
    "ids": {
-    "steam": "264710"
+    "steam": "264710",
+    "mc": "game/subnautica",
+    "bl": "subnautica"
    },
    "s": {
-    "bl": [3.973, 40762, "2026-10-03"],
-    "steam": [97.1, 381040, "2026-10-03"],
-    "mc": [8.5, 2541, "2026-10-03"]
+    "bl": [3.974, 41725, "2026-10-26"],
+    "steam": [97, 343075, "2026-10-26"],
+    "mc": [8.5, 2560, "2026-10-26"]
    }
   },
   "fallout-new-vegas-2010": {
@@ -829,12 +961,14 @@
    "sum": "A courier shot and left for dead becomes a kingmaker in the post-nuclear Mojave.",
    "img": "g70",
    "ids": {
-    "steam": "22380"
+    "steam": "22380",
+    "mc": "game/fallout-new-vegas",
+    "bl": "fallout-new-vegas"
    },
    "s": {
-    "bl": [4.352, 57072, "2026-10-03"],
-    "steam": [96, 262098, "2026-10-03"],
-    "mc": [8.7, 2723, "2026-10-03"]
+    "bl": [4.352, 58134, "2026-10-26"],
+    "steam": [95, 212658, "2026-10-26"],
+    "mc": [8.7, 2750, "2026-10-26"]
    }
   },
   "the-elder-scrolls-v-skyrim-2011": {
@@ -845,12 +979,14 @@
    "img": "g71",
    "aw": ["Game of the Year, D.I.C.E. Awards"],
    "ids": {
-    "steam": "489830"
+    "steam": "489830",
+    "mc": "game/the-elder-scrolls-v-skyrim",
+    "bl": "the-elder-scrolls-v-skyrim"
    },
    "s": {
-    "bl": [4.007, 77519, "2026-10-03"],
-    "steam": [92.2, 378785, "2026-10-03"],
-    "mc": [8.7, 8231, "2026-10-03"]
+    "bl": [4.01, 78944, "2026-10-26"],
+    "steam": [94, 222388, "2026-10-26"],
+    "mc": [8.7, 8277, "2026-10-26"]
    }
   },
   "divinity-original-sin-2-2017": {
@@ -859,11 +995,14 @@
    "by": "Larian Studios",
    "sum": "Sorcerers hunted by a holy order fight for their freedom in a richly reactive tactical RPG.",
    "img": "g72",
-   "ids": {},
+   "ids": {
+    "bl": "divinity-original-sin-ii",
+    "mc": "game/divinity-original-sin-ii"
+   },
    "s": {
-    "bl": [4.172, 5266, "2026-10-03"],
+    "bl": [4.174, 5357, "2026-10-26"],
     "steam": [95.6, 206489, "2026-10-03"],
-    "mc": [8.8, 3300, "2026-10-03"]
+    "mc": [8.8, 3307, "2026-10-26"]
    }
   },
   "dragon-age-origins-2009": {
@@ -874,12 +1013,14 @@
    "img": "g73",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "47810"
+    "steam": "47810",
+    "mc": "game/dragon-age-origins",
+    "bl": "dragon-age-origins"
    },
    "s": {
-    "bl": [4.151, 17454, "2026-10-03"],
-    "steam": [85.6, 31517, "2026-10-03"],
-    "mc": [8.6, 1445, "2026-10-03"]
+    "bl": [4.155, 17762, "2026-10-26"],
+    "steam": [85, 28890, "2026-10-26"],
+    "mc": [8.6, 1455, "2026-10-26"]
    }
   },
   "cyberpunk-2077-2020": {
@@ -889,12 +1030,14 @@
    "sum": "A mercenary in the neon city of Night City hunts for a cure to a biochip that is rewriting their mind.",
    "img": "g74",
    "ids": {
-    "steam": "1091500"
+    "steam": "1091500",
+    "mc": "game/cyberpunk-2077",
+    "bl": "cyberpunk-2077"
    },
    "s": {
-    "bl": [4.202, 116767, "2026-10-03"],
-    "steam": [86.9, 983469, "2026-10-03"],
-    "mc": [7.3, 40334, "2026-10-03"]
+    "bl": [4.207, 119764, "2026-10-26"],
+    "steam": [87, 895960, "2026-10-26"],
+    "mc": [7.3, 40463, "2026-10-26"]
    }
   },
   "titanfall-2-2016": {
@@ -905,12 +1048,14 @@
    "img": "g77",
    "aw": ["GOTY nominee, The Game Awards 2016"],
    "ids": {
-    "steam": "1237970"
+    "steam": "1237970",
+    "mc": "game/titanfall-2",
+    "bl": "titanfall-2"
    },
    "s": {
-    "bl": [4.169, 53933, "2026-10-03"],
-    "steam": [95.7, 287475, "2026-10-03"],
-    "mc": [8.5, 3399, "2026-10-03"]
+    "bl": [4.17, 55222, "2026-10-26"],
+    "steam": [95, 257297, "2026-10-26"],
+    "mc": [8.5, 3419, "2026-10-26"]
    }
   },
   "left-4-dead-2-2009": {
@@ -920,12 +1065,14 @@
    "sum": "Four survivors fight through hordes of infected across the American South in co-op.",
    "img": "g79",
    "ids": {
-    "steam": "550"
+    "steam": "550",
+    "mc": "game/left-4-dead-2",
+    "bl": "left-4-dead-2"
    },
    "s": {
-    "bl": [3.96, 67429, "2026-10-03"],
-    "steam": [97.5, 1061097, "2026-10-03"],
-    "mc": [8.2, 1647, "2026-10-03"]
+    "bl": [3.962, 68704, "2026-10-26"],
+    "steam": [97, 822865, "2026-10-26"],
+    "mc": [8.2, 1659, "2026-10-26"]
    }
   },
   "monster-hunter-world-2018": {
@@ -936,12 +1083,14 @@
    "img": "g80",
    "aw": ["GOTY nominee, The Game Awards 2018"],
    "ids": {
-    "steam": "582010"
+    "steam": "582010",
+    "mc": "game/monster-hunter-world",
+    "bl": "monster-hunter-world"
    },
    "s": {
-    "bl": [3.921, 38005, "2026-10-03"],
-    "steam": [88.8, 518385, "2026-10-03"],
-    "mc": [7.8, 2747, "2026-10-03"]
+    "bl": [3.921, 38684, "2026-10-26"],
+    "steam": [89, 318792, "2026-10-26"],
+    "mc": [7.8, 2754, "2026-10-26"]
    }
   },
   "nier-automata-2017": {
@@ -950,11 +1099,14 @@
    "by": "PlatinumGames",
    "sum": "Androids fight machines for a humanity that has fled to the moon, in a story with many endings.",
    "img": "g82",
-   "ids": {},
+   "ids": {
+    "bl": "nier-automata",
+    "mc": "game/nier-automata"
+   },
    "s": {
-    "bl": [4.288, 62130, "2026-10-03"],
+    "bl": [4.289, 63078, "2026-10-26"],
     "steam": [87.4, 153862, "2026-10-03"],
-    "mc": [8.8, 5002, "2026-10-03"]
+    "mc": [8.8, 5013, "2026-10-26"]
    }
   },
   "yakuza-0-2015": {
@@ -963,9 +1115,11 @@
    "by": "Sega (Ryu Ga Gotoku)",
    "sum": "Two young yakuza get tangled in a land deal in glittering 1980s Tokyo and Osaka.",
    "img": "g83",
-   "ids": {},
+   "ids": {
+    "bl": "yakuza-0"
+   },
    "s": {
-    "bl": [4.429, 48650, "2026-10-03"],
+    "bl": [4.429, 49295, "2026-10-26"],
     "steam": [95.4, 77788, "2026-10-03"],
     "mc": [8.8, 2152, "2026-10-03"]
    }
@@ -977,12 +1131,14 @@
    "sum": "Ichiban Kasuga heads to Hawaii in a turn-based RPG full of side activities and heart.",
    "img": "g84",
    "ids": {
-    "steam": "2072450"
+    "steam": "2072450",
+    "mc": "game/like-a-dragon-infinite-wealth",
+    "bl": "like-a-dragon-infinite-wealth"
    },
    "s": {
-    "bl": [4.256, 12416, "2026-10-03"],
-    "steam": [90.5, 24155, "2026-10-03"],
-    "mc": [8.4, 1022, "2026-10-03"]
+    "bl": [4.253, 12642, "2026-10-26"],
+    "steam": [90, 16480, "2026-10-26"],
+    "mc": [8.4, 1027, "2026-10-26"]
    }
   },
   "clair-obscur-expedition-33-2025": {
@@ -993,12 +1149,14 @@
    "img": "g85",
    "aw": ["Game of the Year, The Game Awards 2025", "Game of the Year, D.I.C.E. Awards"],
    "ids": {
-    "steam": "1903340"
+    "steam": "1903340",
+    "mc": "game/clair-obscur-expedition-33",
+    "bl": "clair-obscur-expedition-33"
    },
    "s": {
-    "bl": [4.563, 87907, "2026-10-03"],
-    "steam": [95.2, 279932, "2026-10-03"],
-    "mc": [9.4, 27247, "2026-10-03"]
+    "bl": [4.56, 90116, "2026-10-26"],
+    "steam": [95, 183530, "2026-10-26"],
+    "mc": [9.4, 27396, "2026-10-26"]
    }
   },
   "kingdom-come-deliverance-ii-2025": {
@@ -1009,12 +1167,14 @@
    "img": "g86",
    "aw": ["GOTY nominee, The Game Awards 2025"],
    "ids": {
-    "steam": "1771300"
+    "steam": "1771300",
+    "mc": "game/kingdom-come-deliverance-ii",
+    "bl": "kingdom-come-deliverance-ii"
    },
    "s": {
-    "bl": [4.547, 14245, "2026-10-03"],
-    "steam": [93.9, 197184, "2026-10-03"],
-    "mc": [8.7, 5277, "2026-10-03"]
+    "bl": [4.546, 14885, "2026-10-26"],
+    "steam": [93, 147136, "2026-10-26"],
+    "mc": [8.7, 5321, "2026-10-26"]
    }
   },
   "lies-of-p-2023": {
@@ -1024,12 +1184,14 @@
    "sum": "A dark retelling of Pinocchio as a tough soulslike set in a Belle Époque city overrun by puppets.",
    "img": "g87",
    "ids": {
-    "steam": "1627720"
+    "steam": "1627720",
+    "mc": "game/lies-of-p",
+    "bl": "lies-of-p"
    },
    "s": {
-    "bl": [4.14, 40062, "2026-10-03"],
-    "steam": [91.6, 83405, "2026-10-03"],
-    "mc": [8.4, 3640, "2026-10-03"]
+    "bl": [4.14, 41105, "2026-10-26"],
+    "steam": [91, 59402, "2026-10-26"],
+    "mc": [8.4, 3678, "2026-10-26"]
    }
   },
   "sea-of-stars-2023": {
@@ -1039,12 +1201,14 @@
    "sum": "Two warriors of the sun and moon fight an alchemist's monsters in a retro-style turn-based RPG.",
    "img": "g88",
    "ids": {
-    "steam": "1244090"
+    "steam": "1244090",
+    "mc": "game/sea-of-stars",
+    "bl": "sea-of-stars"
    },
    "s": {
-    "bl": [3.787, 13053, "2026-10-03"],
-    "steam": [88.4, 15622, "2026-10-03"],
-    "mc": [8, 1266, "2026-10-03"]
+    "bl": [3.788, 13245, "2026-10-26"],
+    "steam": [87, 12235, "2026-10-26"],
+    "mc": [8, 1276, "2026-10-26"]
    }
   },
   "hi-fi-rush-2023": {
@@ -1054,12 +1218,14 @@
    "sum": "A wannabe rock star fights a sinister tech company in a rhythm-action game where everything moves to the beat.",
    "img": "g89",
    "ids": {
-    "steam": "1817230"
+    "steam": "1817230",
+    "mc": "game/hi-fi-rush",
+    "bl": "hi-fi-rush"
    },
    "s": {
-    "bl": [4.118, 25923, "2026-10-03"],
-    "steam": [96.9, 36003, "2026-10-03"],
-    "mc": [8.8, 3595, "2026-10-03"]
+    "bl": [4.116, 26286, "2026-10-26"],
+    "steam": [97, 27562, "2026-10-26"],
+    "mc": [8.8, 3597, "2026-10-26"]
    }
   },
   "dragon-quest-xi-echoes-of-an-elusive-age-2017": {
@@ -1069,12 +1235,14 @@
    "sum": "A reborn hero sets out to save the world in a big, classic turn-based Japanese RPG.",
    "img": "g90",
    "ids": {
-    "steam": "1295510"
+    "steam": "1295510",
+    "bl": "dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition",
+    "mc": "game/dragon-quest-xi-echoes-of-an-elusive-age"
    },
    "s": {
-    "bl": [4.105, 5100, "2026-10-03"],
-    "steam": [92.7, 12200, "2026-10-03"],
-    "mc": [8.5, 932, "2026-10-03"]
+    "bl": [4.221, 11482, "2026-10-26"],
+    "steam": [92, 10540, "2026-10-26"],
+    "mc": [8.5, 935, "2026-10-26"]
    }
   },
   "return-of-the-obra-dinn-2018": {
@@ -1085,12 +1253,14 @@
    "img": "g91",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "653530"
+    "steam": "653530",
+    "mc": "game/return-of-the-obra-dinn",
+    "bl": "return-of-the-obra-dinn"
    },
    "s": {
-    "bl": [4.403, 18828, "2026-10-03"],
-    "steam": [96.7, 35342, "2026-10-03"],
-    "mc": [8.7, 676, "2026-10-03"]
+    "bl": [4.402, 19185, "2026-10-26"],
+    "steam": [96, 32703, "2026-10-26"],
+    "mc": [8.7, 683, "2026-10-26"]
    }
   },
   "what-remains-of-edith-finch-2017": {
@@ -1100,12 +1270,14 @@
    "sum": "A young woman explores her strange family home and learns how each relative met their end.",
    "img": "g92",
    "ids": {
-    "steam": "501300"
+    "steam": "501300",
+    "mc": "game/what-remains-of-edith-finch",
+    "bl": "what-remains-of-edith-finch"
    },
    "s": {
-    "bl": [4.015, 35873, "2026-10-03"],
-    "steam": [95.6, 53057, "2026-10-03"],
-    "mc": [8.3, 1644, "2026-10-03"]
+    "bl": [4.014, 36601, "2026-10-26"],
+    "steam": [95, 47504, "2026-10-26"],
+    "mc": [8.3, 1661, "2026-10-26"]
    }
   },
   "journey-2012": {
@@ -1116,12 +1288,14 @@
    "img": "g93",
    "aw": ["Game of the Year, D.I.C.E. Awards"],
    "ids": {
-    "steam": "638230"
+    "steam": "638230",
+    "mc": "game/journey",
+    "bl": "journey"
    },
    "s": {
-    "bl": [3.91, 35974, "2026-10-03"],
-    "steam": [94.1, 38642, "2026-10-03"],
-    "mc": [8.5, 2352, "2026-10-03"]
+    "bl": [3.909, 36580, "2026-10-26"],
+    "steam": [94, 35026, "2026-10-26"],
+    "mc": [8.5, 2361, "2026-10-26"]
    }
   },
   "ratchet-and-clank-rift-apart-2021": {
@@ -1132,11 +1306,14 @@
    "img": "g94",
    "aw": ["GOTY nominee, The Game Awards 2021", "GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "1895880"
+    "steam": "1895880",
+    "mc": "game/ratchet-and-clank-rift-apart",
+    "bl": "ratchet-and-clank-rift-apart"
    },
    "s": {
-    "bl": [3.9, 24021, "2026-10-03"],
-    "steam": [90.7, 18180, "2026-10-03"]
+    "bl": [3.898, 24571, "2026-10-26"],
+    "steam": [90, 11683, "2026-10-26"],
+    "mc": [8.5, 4344, "2026-10-26"]
    }
   },
   "psychonauts-2-2021": {
@@ -1147,12 +1324,14 @@
    "img": "g95",
    "aw": ["GOTY nominee, The Game Awards 2021"],
    "ids": {
-    "steam": "607080"
+    "steam": "607080",
+    "mc": "game/psychonauts-2",
+    "bl": "psychonauts-2"
    },
    "s": {
-    "bl": [4.202, 13100, "2026-10-03"],
-    "steam": [95.6, 14540, "2026-10-03"],
-    "mc": [8.1, 1996, "2026-10-03"]
+    "bl": [4.201, 13295, "2026-10-26"],
+    "steam": [95, 12424, "2026-10-26"],
+    "mc": [8.1, 2003, "2026-10-26"]
    }
   },
   "fire-emblem-three-houses-2019": {
@@ -1161,10 +1340,13 @@
    "by": "Intelligent Systems",
    "sum": "A mercenary becomes a teacher at a military academy and leads one of three houses into war.",
    "img": "g96",
-   "ids": {},
+   "ids": {
+    "bl": "fire-emblem-three-houses",
+    "mc": "game/fire-emblem-three-houses"
+   },
    "s": {
-    "bl": [4.078, 29159, "2026-10-03"],
-    "mc": [8.9, 3544, "2026-10-03"]
+    "bl": [4.078, 29629, "2026-10-26"],
+    "mc": [8.9, 3572, "2026-10-26"]
    }
   },
   "shadow-of-the-colossus-2005": {
@@ -1174,9 +1356,11 @@
    "sum": "A young man must defeat sixteen giant colossi to bring a girl back to life.",
    "img": "g97",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "shadow-of-the-colossus"
+   },
    "s": {
-    "bl": [4.454, 27484, "2026-10-03"]
+    "bl": [4.454, 27874, "2026-10-26"]
    }
   },
   "metaphor-refantazio-2024": {
@@ -1187,12 +1371,14 @@
    "img": "g98",
    "aw": ["GOTY nominee, The Game Awards 2024"],
    "ids": {
-    "steam": "2679460"
+    "steam": "2679460",
+    "mc": "game/metaphor-refantazio",
+    "bl": "metaphor-refantazio"
    },
    "s": {
-    "bl": [4.278, 25184, "2026-10-03"],
-    "steam": [89.6, 43449, "2026-10-03"],
-    "mc": [8.5, 2987, "2026-10-03"]
+    "bl": [4.277, 25733, "2026-10-26"],
+    "steam": [89, 25636, "2026-10-26"],
+    "mc": [8.4, 3010, "2026-10-26"]
    }
   },
   "alan-wake-2-2023": {
@@ -1202,10 +1388,13 @@
    "sum": "A writer trapped in a dark dimension and an FBI agent investigating ritual murders try to escape a living horror story.",
    "img": "g99",
    "aw": ["GOTY nominee, The Game Awards 2023", "GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "alan-wake-ii",
+    "mc": "game/alan-wake-ii"
+   },
    "s": {
-    "bl": [4.437, 28798, "2026-10-03"],
-    "mc": [8.5, 4841, "2026-10-03"]
+    "bl": [4.437, 29684, "2026-10-26"],
+    "mc": [8.5, 4909, "2026-10-26"]
    }
   },
   "pizza-tower-2023": {
@@ -1215,12 +1404,14 @@
    "sum": "A frantic, cartoonish platformer about a pizza chef racing to save his restaurant from destruction.",
    "img": "g100",
    "ids": {
-    "steam": "2231450"
+    "steam": "2231450",
+    "mc": "game/pizza-tower",
+    "bl": "pizza-tower"
    },
    "s": {
-    "bl": [4.172, 12002, "2026-10-03"],
-    "steam": [98.3, 72853, "2026-10-03"],
-    "mc": [8.8, 515, "2026-10-03"]
+    "bl": [4.171, 12140, "2026-10-26"],
+    "steam": [98, 66682, "2026-10-26"],
+    "mc": [8.8, 516, "2026-10-26"]
    }
   },
   "the-last-of-us-2013": {
@@ -1228,10 +1419,13 @@
    "y": 2013,
    "img": "g8",
    "aw": ["Game of the Year, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "the-last-of-us",
+    "mc": "game/the-last-of-us"
+   },
    "s": {
-    "bl": [4.392, 74093, "2026-10-03"],
-    "mc": [9.2, 17746, "2026-10-03"]
+    "bl": [4.393, 75666, "2026-10-26"],
+    "mc": [9.2, 17798, "2026-10-26"]
    }
   },
   "the-last-of-us-part-ii-2020": {
@@ -1239,10 +1433,13 @@
    "y": 2020,
    "img": "g9",
    "aw": ["Game of the Year, The Game Awards 2020", "GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "the-last-of-us-part-ii",
+    "mc": "game/the-last-of-us-part-ii"
+   },
    "s": {
-    "bl": [4.252, 71694, "2026-10-03"],
-    "mc": [5.9, 168488, "2026-10-03"]
+    "bl": [4.252, 73306, "2026-10-26"],
+    "mc": [5.9, 168592, "2026-10-26"]
    }
   },
   "portal-2007": {
@@ -1250,12 +1447,14 @@
    "y": 2007,
    "img": "g11",
    "ids": {
-    "steam": "400"
+    "steam": "400",
+    "mc": "game/portal",
+    "bl": "portal"
    },
    "s": {
-    "bl": [4.139, 106542, "2026-10-03"],
-    "steam": [98.5, 199711, "2026-10-03"],
-    "mc": [8.8, 6174, "2026-10-03"]
+    "bl": [4.139, 108506, "2026-10-26"],
+    "steam": [98, 175004, "2026-10-26"],
+    "mc": [8.8, 6205, "2026-10-26"]
    }
   },
   "portal-2-2011": {
@@ -1264,12 +1463,14 @@
    "img": "g10",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "620"
+    "steam": "620",
+    "mc": "game/portal-2",
+    "bl": "portal-2"
    },
    "s": {
-    "bl": [4.471, 112991, "2026-10-03"],
-    "steam": [98.7, 467523, "2026-10-03"],
-    "mc": [8.9, 4140, "2026-10-03"]
+    "bl": [4.471, 114962, "2026-10-26"],
+    "steam": [98, 392259, "2026-10-26"],
+    "mc": [8.9, 4173, "2026-10-26"]
    }
   },
   "red-dead-redemption-2010": {
@@ -1278,12 +1479,14 @@
    "img": "g41",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "2668510"
+    "steam": "2668510",
+    "mc": "game/red-dead-redemption",
+    "bl": "red-dead-redemption"
    },
    "s": {
-    "bl": [4.232, 52485, "2026-10-03"],
-    "steam": [92.5, 22038, "2026-10-03"],
-    "mc": [8.9, 5378, "2026-10-03"]
+    "bl": [4.232, 53564, "2026-10-26"],
+    "steam": [92, 20948, "2026-10-26"],
+    "mc": [8.9, 5429, "2026-10-26"]
    }
   },
   "red-dead-redemption-2-2018": {
@@ -1292,12 +1495,14 @@
    "img": "g1",
    "aw": ["GOTY nominee, The Game Awards 2018", "GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "1174180"
+    "steam": "1174180",
+    "mc": "game/red-dead-redemption-2",
+    "bl": "red-dead-redemption-2"
    },
    "s": {
-    "bl": [4.617, 144747, "2026-10-03"],
-    "steam": [92.5, 923775, "2026-10-03"],
-    "mc": [9, 37503, "2026-10-03"]
+    "bl": [4.618, 148407, "2026-10-26"],
+    "steam": [92, 856892, "2026-10-26"],
+    "mc": [9, 37759, "2026-10-26"]
    }
   },
   "god-of-war-2018": {
@@ -1306,12 +1511,14 @@
    "img": "g6",
    "aw": ["Game of the Year, The Game Awards 2018", "Game of the Year, D.I.C.E. Awards"],
    "ids": {
-    "steam": "1593500"
+    "steam": "1593500",
+    "mc": "game/god-of-war",
+    "bl": "god-of-war--1"
    },
    "s": {
-    "bl": [4.267, 125302, "2026-10-03"],
-    "steam": [95.9, 185328, "2026-10-03"],
-    "mc": [9, 31530, "2026-10-03"]
+    "bl": [4.267, 128289, "2026-10-26"],
+    "steam": [95, 130694, "2026-10-26"],
+    "mc": [9, 31660, "2026-10-26"]
    }
   },
   "god-of-war-ragnarok-2022": {
@@ -1320,12 +1527,14 @@
    "img": "g7",
    "aw": ["GOTY nominee, The Game Awards 2022", "GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "2322010"
+    "steam": "2322010",
+    "mc": "game/god-of-war-ragnarok",
+    "bl": "god-of-war-ragnarok"
    },
    "s": {
-    "bl": [4.253, 68339, "2026-10-03"],
-    "steam": [88.9, 50588, "2026-10-03"],
-    "mc": [8.3, 17312, "2026-10-03"]
+    "bl": [4.252, 70273, "2026-10-26"],
+    "steam": [89, 33024, "2026-10-26"],
+    "mc": [8.3, 17428, "2026-10-26"]
    }
   },
   "final-fantasy-vii-remake-2020": {
@@ -1333,11 +1542,14 @@
    "y": 2020,
    "img": "g25",
    "aw": ["GOTY nominee, The Game Awards 2020", "GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "final-fantasy-vii-remake",
+    "mc": "game/final-fantasy-vii-remake"
+   },
    "s": {
-    "bl": [4.062, 47482, "2026-10-03"],
+    "bl": [4.061, 48424, "2026-10-26"],
     "steam": [86.5, 53795, "2026-10-03"],
-    "mc": [8.2, 9467, "2026-10-03"]
+    "mc": [8.2, 9481, "2026-10-26"]
    }
   },
   "final-fantasy-vii-rebirth-2024": {
@@ -1346,12 +1558,14 @@
    "img": "g26",
    "aw": ["GOTY nominee, The Game Awards 2024"],
    "ids": {
-    "steam": "2909400"
+    "steam": "2909400",
+    "mc": "game/final-fantasy-vii-rebirth",
+    "bl": "final-fantasy-vii-rebirth"
    },
    "s": {
-    "bl": [4.304, 24511, "2026-10-03"],
-    "steam": [74.6, 36237, "2026-10-03"],
-    "mc": [8.8, 7078, "2026-10-03"]
+    "bl": [4.3, 25185, "2026-10-26"],
+    "steam": [75, 26487, "2026-10-26"],
+    "mc": [8.8, 7124, "2026-10-26"]
    }
   },
   "batman-arkham-asylum-2009": {
@@ -1360,12 +1574,14 @@
    "img": "g45",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "35140"
+    "steam": "35140",
+    "mc": "game/batman-arkham-asylum",
+    "bl": "batman-arkham-asylum"
    },
    "s": {
-    "bl": [3.944, 78595, "2026-10-03"],
-    "steam": [96.4, 87952, "2026-10-03"],
-    "mc": [8.5, 3589, "2026-10-03"]
+    "bl": [3.945, 80530, "2026-10-26"],
+    "steam": [96, 62749, "2026-10-26"],
+    "mc": [8.5, 3641, "2026-10-26"]
    }
   },
   "batman-arkham-city-2011": {
@@ -1374,12 +1590,14 @@
    "img": "g44",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "200260"
+    "steam": "200260",
+    "mc": "game/batman-arkham-city",
+    "bl": "batman-arkham-city"
    },
    "s": {
-    "bl": [4.258, 66982, "2026-10-03"],
-    "steam": [96.2, 78539, "2026-10-03"],
-    "mc": [8.8, 4680, "2026-10-03"]
+    "bl": [4.26, 68596, "2026-10-26"],
+    "steam": [95, 56383, "2026-10-26"],
+    "mc": [8.8, 4732, "2026-10-26"]
    }
   },
   "batman-arkham-knight-2015": {
@@ -1387,12 +1605,14 @@
    "y": 2015,
    "img": "xg4",
    "ids": {
-    "steam": "208650"
+    "steam": "208650",
+    "mc": "game/batman-arkham-knight",
+    "bl": "batman-arkham-knight"
    },
    "s": {
-    "bl": [4.078, 68808, "2026-10-03"],
-    "steam": [89.7, 160477, "2026-10-03"],
-    "mc": [8.2, 7137, "2026-10-03"]
+    "bl": [4.08, 70598, "2026-10-26"],
+    "steam": [92, 112132, "2026-10-26"],
+    "mc": [8.2, 7175, "2026-10-26"]
    }
   },
   "marvel-s-spider-man-2018": {
@@ -1400,11 +1620,14 @@
    "y": 2018,
    "img": "g49",
    "aw": ["GOTY nominee, The Game Awards 2018", "GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "marvels-spider-man",
+    "mc": "game/marvels-spider-man"
+   },
    "s": {
-    "bl": [4.105, 111286, "2026-10-03"],
+    "bl": [4.105, 113990, "2026-10-26"],
     "steam": [96, 144484, "2026-10-03"],
-    "mc": [8.7, 12116, "2026-10-03"]
+    "mc": [8.7, 12167, "2026-10-26"]
    }
   },
   "marvel-s-spider-man-2-2023": {
@@ -1413,12 +1636,14 @@
    "img": "g50",
    "aw": ["GOTY nominee, The Game Awards 2023", "GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "2651280"
+    "steam": "2651280",
+    "mc": "game/marvels-spider-man-2",
+    "bl": "marvels-spider-man-2"
    },
    "s": {
-    "bl": [3.874, 60686, "2026-10-03"],
-    "steam": [83.5, 48303, "2026-10-03"],
-    "mc": [8.6, 11929, "2026-10-03"]
+    "bl": [3.865, 62692, "2026-10-26"],
+    "steam": [84, 34944, "2026-10-26"],
+    "mc": [8.6, 12021, "2026-10-26"]
    }
   },
   "doom-2016": {
@@ -1427,12 +1652,14 @@
    "img": "g75",
    "aw": ["GOTY nominee, The Game Awards 2016"],
    "ids": {
-    "steam": "379720"
+    "steam": "379720",
+    "mc": "game/doom",
+    "bl": "doom--2"
    },
    "s": {
-    "bl": [3.938, 67816, "2026-10-03"],
-    "steam": [95.5, 221961, "2026-10-03"],
-    "mc": [8.2, 1725, "2026-10-03"]
+    "bl": [3.938, 69117, "2026-10-26"],
+    "steam": [95, 155912, "2026-10-26"],
+    "mc": [8.2, 1750, "2026-10-26"]
    }
   },
   "doom-eternal-2020": {
@@ -1441,12 +1668,14 @@
    "img": "g76",
    "aw": ["GOTY nominee, The Game Awards 2020"],
    "ids": {
-    "steam": "782330"
+    "steam": "782330",
+    "mc": "game/doom-eternal",
+    "bl": "doom-eternal"
    },
    "s": {
-    "bl": [4.189, 55334, "2026-10-03"],
-    "steam": [91.4, 217634, "2026-10-03"],
-    "mc": [8.5, 6610, "2026-10-03"]
+    "bl": [4.189, 56447, "2026-10-26"],
+    "steam": [91, 187866, "2026-10-26"],
+    "mc": [8.5, 6635, "2026-10-26"]
    }
   },
   "doom-the-dark-ages-2025": {
@@ -1454,12 +1683,14 @@
    "y": 2025,
    "img": "xg5",
    "ids": {
-    "steam": "3017860"
+    "steam": "3017860",
+    "mc": "game/doom-the-dark-ages",
+    "bl": "doom-the-dark-ages"
    },
    "s": {
-    "bl": [3.824, 15699, "2026-10-03"],
-    "steam": [88.5, 46380, "2026-10-03"],
-    "mc": [7.9, 907, "2026-10-03"]
+    "bl": [3.823, 16173, "2026-10-26"],
+    "steam": [88, 32825, "2026-10-26"],
+    "mc": [7.9, 940, "2026-10-26"]
    }
   },
   "the-legend-of-zelda-ocarina-of-time-1998": {
@@ -1469,10 +1700,13 @@
    "sum": "Young Link travels through time to stop Ganondorf, in the game that defined 3D adventure.",
    "img": "g101",
    "aw": ["Game of the Year, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "the-legend-of-zelda-ocarina-of-time",
+    "mc": "game/the-legend-of-zelda-ocarina-of-time"
+   },
    "s": {
-    "bl": [4.455, 51584, "2026-10-03"],
-    "mc": [9.1, 14486, "2026-10-03"]
+    "bl": [4.457, 52681, "2026-10-26"],
+    "mc": [9.1, 14667, "2026-10-26"]
    }
   },
   "the-legend-of-zelda-a-link-to-the-past-1991": {
@@ -1481,9 +1715,11 @@
    "by": "Nintendo",
    "sum": "Link moves between the Light and Dark Worlds to rescue Hyrule from the wizard Agahnim.",
    "img": "g102",
-   "ids": {},
+   "ids": {
+    "bl": "the-legend-of-zelda-a-link-to-the-past"
+   },
    "s": {
-    "bl": [4.14, 29060, "2026-10-03"],
+    "bl": [4.141, 29561, "2026-10-26"],
     "mc": [8.8, 1053, "2026-10-03"]
    }
   },
@@ -1494,10 +1730,13 @@
    "sum": "Link has three days to stop the moon from crashing into Termina, reliving them again and again.",
    "img": "g103",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "mc": "game/the-legend-of-zelda-majoras-mask",
+    "bl": "the-legend-of-zelda-majora-s-mask"
+   },
    "s": {
-    "bl": [4.47, 33499, "2026-10-03"],
-    "mc": [9.2, 2647, "2026-10-03"]
+    "bl": [4.469, 34117, "2026-10-26"],
+    "mc": [9.2, 2670, "2026-10-26"]
    }
   },
   "the-legend-of-zelda-the-wind-waker-2002": {
@@ -1507,10 +1746,13 @@
    "sum": "A cel-shaded Link sails a flooded Hyrule to rescue his sister.",
    "img": "g104",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "the-legend-of-zelda-the-wind-waker",
+    "mc": "game/the-legend-of-zelda-the-wind-waker"
+   },
    "s": {
-    "bl": [4.309, 27344, "2026-10-03"],
-    "mc": [9, 2272, "2026-10-03"]
+    "bl": [4.307, 27806, "2026-10-26"],
+    "mc": [9, 2284, "2026-10-26"]
    }
   },
   "super-mario-64-1996": {
@@ -1519,10 +1761,13 @@
    "by": "Nintendo",
    "sum": "Mario explores Peach's castle and its painting worlds, the game that set the rules for 3D platformers.",
    "img": "g105",
-   "ids": {},
+   "ids": {
+    "bl": "super-mario-64",
+    "mc": "game/super-mario-64"
+   },
    "s": {
-    "bl": [4.159, 57332, "2026-10-03"],
-    "mc": [9, 2116, "2026-10-03"]
+    "bl": [4.16, 58193, "2026-10-26"],
+    "mc": [9, 2139, "2026-10-26"]
    }
   },
   "super-mario-bros-3-1988": {
@@ -1531,9 +1776,11 @@
    "by": "Nintendo",
    "sum": "Mario and Luigi cross eight worlds to stop Bowser's Koopalings, with suits like the tanooki tail.",
    "img": "g106",
-   "ids": {},
+   "ids": {
+    "bl": "super-mario-bros-3"
+   },
    "s": {
-    "bl": [4.072, 30097, "2026-10-03"],
+    "bl": [4.071, 30558, "2026-10-26"],
     "mc": [8.6, 638, "2026-10-03"]
    }
   },
@@ -1543,9 +1790,11 @@
    "by": "Nintendo",
    "sum": "Mario and Yoshi explore Dinosaur Land, full of secret exits and hidden paths.",
    "img": "g107",
-   "ids": {},
+   "ids": {
+    "bl": "super-mario-world"
+   },
    "s": {
-    "bl": [4.266, 44971, "2026-10-03"],
+    "bl": [4.266, 45628, "2026-10-26"],
     "mc": [8.8, 539, "2026-10-03"]
    }
   },
@@ -1555,9 +1804,11 @@
    "by": "Nintendo",
    "sum": "Samus returns to planet Zebes to recover a stolen Metroid larva, in a landmark of exploration design.",
    "img": "g108",
-   "ids": {},
+   "ids": {
+    "bl": "super-metroid"
+   },
    "s": {
-    "bl": [4.34, 25373, "2026-10-03"]
+    "bl": [4.34, 25886, "2026-10-26"]
    }
   },
   "metroid-prime-2002": {
@@ -1567,10 +1818,13 @@
    "sum": "Samus explores the planet Tallon IV from a first-person view, scanning its secrets.",
    "img": "g109",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "metroid-prime",
+    "mc": "game/metroid-prime"
+   },
    "s": {
-    "bl": [4.28, 14255, "2026-10-03"],
-    "mc": [9, 1858, "2026-10-03"]
+    "bl": [4.278, 14486, "2026-10-26"],
+    "mc": [9, 1867, "2026-10-26"]
    }
   },
   "chrono-trigger-1995": {
@@ -1580,12 +1834,14 @@
    "sum": "A group of heroes travel through time to stop a world-ending catastrophe.",
    "img": "g110",
    "ids": {
-    "steam": "613830"
+    "steam": "613830",
+    "mc": "game/chrono-trigger",
+    "bl": "chrono-trigger"
    },
    "s": {
-    "bl": [4.525, 20090, "2026-10-03"],
-    "steam": [88.2, 13618, "2026-10-03"],
-    "mc": [9.2, 1221, "2026-10-03"]
+    "bl": [4.527, 20320, "2026-10-26"],
+    "steam": [88, 12290, "2026-10-26"],
+    "mc": [9.2, 1233, "2026-10-26"]
    }
   },
   "final-fantasy-vi-1994": {
@@ -1599,7 +1855,7 @@
    },
    "s": {
     "bl": [4.38, 10964, "2026-10-03"],
-    "steam": [92, 5062, "2026-10-03"],
+    "steam": [92, 4672, "2026-10-26"],
     "mc": [8.4, 593, "2026-10-03"]
    }
   },
@@ -1611,12 +1867,14 @@
    "img": "g112",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "3837340"
+    "steam": "3837340",
+    "mc": "game/final-fantasy-vii",
+    "bl": "final-fantasy-vii"
    },
    "s": {
-    "bl": [4.344, 33612, "2026-10-03"],
-    "steam": [75.3, 1843, "2026-10-03"],
-    "mc": [8.9, 3195, "2026-10-03"]
+    "bl": [4.345, 34107, "2026-10-26"],
+    "steam": [76, 1599, "2026-10-26"],
+    "mc": [8.9, 3211, "2026-10-26"]
    }
   },
   "final-fantasy-ix-2000": {
@@ -1627,12 +1885,14 @@
    "img": "g113",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "377840"
+    "steam": "377840",
+    "mc": "game/final-fantasy-ix",
+    "bl": "final-fantasy-ix"
    },
    "s": {
-    "bl": [4.373, 15788, "2026-10-03"],
-    "steam": [95.1, 14398, "2026-10-03"],
-    "mc": [8.9, 2107, "2026-10-03"]
+    "bl": [4.373, 16026, "2026-10-26"],
+    "steam": [95, 12576, "2026-10-26"],
+    "mc": [8.9, 2118, "2026-10-26"]
    }
   },
   "final-fantasy-x-2001": {
@@ -1641,11 +1901,14 @@
    "by": "Square",
    "sum": "A star athlete is pulled into a strange world and joins a summoner on a pilgrimage to defeat Sin.",
    "img": "g114",
-   "ids": {},
+   "ids": {
+    "bl": "final-fantasy-x",
+    "mc": "game/final-fantasy-x"
+   },
    "s": {
-    "bl": [4.273, 23047, "2026-10-03"],
+    "bl": [4.275, 23400, "2026-10-26"],
     "steam": [87.8, 23750, "2026-10-03"],
-    "mc": [8.9, 2308, "2026-10-03"]
+    "mc": [8.9, 2321, "2026-10-26"]
    }
   },
   "earthbound-1994": {
@@ -1654,9 +1917,11 @@
    "by": "HAL Laboratory / Ape",
    "sum": "A boy from a small American town sets out to stop an alien invader, in a quirky, funny RPG.",
    "img": "g115",
-   "ids": {},
+   "ids": {
+    "bl": "earthbound"
+   },
    "s": {
-    "bl": [4.307, 19228, "2026-10-03"]
+    "bl": [4.306, 19443, "2026-10-26"]
    }
   },
   "pokemon-red-version-1996": {
@@ -1665,9 +1930,11 @@
    "by": "Game Freak",
    "sum": "A young trainer sets out to catch them all and become Pokémon Champion of Kanto.",
    "img": "g116",
-   "ids": {},
+   "ids": {
+    "bl": "pokemon-red-version"
+   },
    "s": {
-    "bl": [3.617, 20039, "2026-10-03"]
+    "bl": [3.619, 20341, "2026-10-26"]
    }
   },
   "pokemon-gold-version-1999": {
@@ -1676,9 +1943,11 @@
    "by": "Game Freak",
    "sum": "A new trainer explores Johto and later returns to Kanto, adding day-night cycles and new Pokémon.",
    "img": "g117",
-   "ids": {},
+   "ids": {
+    "bl": "pokemon-gold-version"
+   },
    "s": {
-    "bl": [3.912, 11021, "2026-10-03"]
+    "bl": [3.914, 11189, "2026-10-26"]
    }
   },
   "deus-ex-2000": {
@@ -1689,12 +1958,14 @@
    "img": "g120",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "6910"
+    "steam": "6910",
+    "mc": "game/deus-ex",
+    "bl": "deus-ex"
    },
    "s": {
-    "bl": [4.418, 8256, "2026-10-03"],
-    "steam": [94.8, 15708, "2026-10-03"],
-    "mc": [9, 1544, "2026-10-03"]
+    "bl": [4.419, 8372, "2026-10-26"],
+    "steam": [94, 13824, "2026-10-26"],
+    "mc": [9, 1547, "2026-10-26"]
    }
   },
   "baldur-s-gate-ii-shadows-of-amn-2000": {
@@ -1704,11 +1975,14 @@
    "sum": "A child of a dead god escapes a mad wizard's prison in a sprawling D&D adventure.",
    "img": "g121",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "baldurs-gate-ii-shadows-of-amn",
+    "mc": "game/baldurs-gate-ii-shadows-of-amn"
+   },
    "s": {
-    "bl": [4.297, 1924, "2026-10-03"],
+    "bl": [4.299, 1963, "2026-10-26"],
     "steam": [92.3, 10970, "2026-10-03"],
-    "mc": [9, 1775, "2026-10-03"]
+    "mc": [9, 1780, "2026-10-26"]
    }
   },
   "planescape-torment-1999": {
@@ -1718,12 +1992,14 @@
    "sum": "An immortal man with no memory searches for his identity across a strange multiverse.",
    "img": "g122",
    "ids": {
-    "steam": "466300"
+    "steam": "466300",
+    "mc": "game/planescape-torment",
+    "bl": "planescape-torment"
    },
    "s": {
-    "bl": [4.365, 2566, "2026-10-03"],
-    "steam": [94.6, 5685, "2026-10-03"],
-    "mc": [9.1, 1118, "2026-10-03"]
+    "bl": [4.367, 2601, "2026-10-26"],
+    "steam": [94, 4779, "2026-10-26"],
+    "mc": [9.1, 1121, "2026-10-26"]
    }
   },
   "fallout-2-1998": {
@@ -1733,12 +2009,14 @@
    "sum": "A tribal descendant of a vault dweller searches the wasteland for a device to save his village.",
    "img": "g123",
    "ids": {
-    "steam": "38410"
+    "steam": "38410",
+    "mc": "game/fallout-2",
+    "bl": "fallout-2"
    },
    "s": {
-    "bl": [4.113, 7661, "2026-10-03"],
-    "steam": [93.9, 17529, "2026-10-03"],
-    "mc": [9.1, 1873, "2026-10-03"]
+    "bl": [4.115, 7783, "2026-10-26"],
+    "steam": [93, 13935, "2026-10-26"],
+    "mc": [9, 1877, "2026-10-26"]
    }
   },
   "diablo-ii-2000": {
@@ -1748,10 +2026,13 @@
    "sum": "Heroes chase a mysterious wanderer possessed by the Lord of Terror across four acts of dungeon crawling.",
    "img": "g124",
    "aw": ["Game of the Year, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "diablo-ii",
+    "mc": "game/diablo-ii"
+   },
    "s": {
-    "bl": [4.189, 7861, "2026-10-03"],
-    "mc": [8.8, 2023, "2026-10-03"]
+    "bl": [4.191, 8030, "2026-10-26"],
+    "mc": [8.8, 2027, "2026-10-26"]
    }
   },
   "starcraft-1998": {
@@ -1760,10 +2041,13 @@
    "by": "Blizzard Entertainment",
    "sum": "Three species wage war across the galaxy in Blizzard's landmark real-time strategy game.",
    "img": "g125",
-   "ids": {},
+   "ids": {
+    "bl": "starcraft",
+    "mc": "game/starcraft"
+   },
    "s": {
-    "bl": [4.141, 4229, "2026-10-03"],
-    "mc": [9, 1316, "2026-10-03"]
+    "bl": [4.143, 4312, "2026-10-26"],
+    "mc": [9, 1319, "2026-10-26"]
    }
   },
   "warcraft-iii-reign-of-chaos-2002": {
@@ -1772,10 +2056,13 @@
    "by": "Blizzard Entertainment",
    "sum": "Humans, orcs, undead and night elves clash in a story-driven real-time strategy game.",
    "img": "g126",
-   "ids": {},
+   "ids": {
+    "bl": "warcraft-iii-reign-of-chaos",
+    "mc": "game/warcraft-iii-reign-of-chaos"
+   },
    "s": {
-    "bl": [4.258, 7709, "2026-10-03"],
-    "mc": [9.1, 2968, "2026-10-03"]
+    "bl": [4.263, 7912, "2026-10-26"],
+    "mc": [9.1, 2969, "2026-10-26"]
    }
   },
   "age-of-empires-ii-the-age-of-kings-1999": {
@@ -1785,11 +2072,14 @@
    "sum": "Lead medieval civilisations from the Dark Age to the Imperial Age in a classic strategy game.",
    "img": "g127",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "age-of-empires-ii-the-age-of-kings",
+    "mc": "game/age-of-empires-ii-the-age-of-kings"
+   },
    "s": {
-    "bl": [4.167, 6282, "2026-10-03"],
+    "bl": [4.168, 6383, "2026-10-26"],
     "steam": [95.8, 102889, "2026-10-03"],
-    "mc": [9, 1798, "2026-10-03"]
+    "mc": [9, 1799, "2026-10-26"]
    }
   },
   "doom-1993": {
@@ -1799,11 +2089,12 @@
    "sum": "A lone marine fights his way through the forces of Hell on Mars's moons, in the shooter that started it all.",
    "img": "g128",
    "ids": {
-    "steam": "379720"
+    "mc": "game/doom-1993",
+    "bl": "doom"
    },
    "s": {
-    "bl": [3.994, 23963, "2026-10-03"],
-    "mc": [8.3, 418, "2026-10-03"]
+    "bl": [3.993, 24350, "2026-10-26"],
+    "mc": [8.3, 420, "2026-10-26"]
    }
   },
   "quake-1996": {
@@ -1814,12 +2105,14 @@
    "img": "g129",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "2310"
+    "steam": "2310",
+    "mc": "game/quake",
+    "bl": "quake"
    },
    "s": {
-    "bl": [3.93, 7590, "2026-10-03"],
-    "steam": [96.4, 16490, "2026-10-03"],
-    "mc": [8.6, 1238, "2026-10-03"]
+    "bl": [3.929, 7707, "2026-10-26"],
+    "steam": [96, 14076, "2026-10-26"],
+    "mc": [8.6, 1243, "2026-10-26"]
    }
   },
   "silent-hill-2-2001": {
@@ -1829,11 +2122,12 @@
    "sum": "A widower is drawn to a fog-shrouded town after receiving a letter from his dead wife.",
    "img": "g132",
    "ids": {
-    "steam": "2124490"
+    "mc": "game/silent-hill-2-2001",
+    "bl": "silent-hill-2"
    },
    "s": {
-    "bl": [4.615, 34791, "2026-10-03"],
-    "mc": [9.3, 2660, "2026-10-03"]
+    "bl": [4.615, 35471, "2026-10-26"],
+    "mc": [9.3, 2685, "2026-10-26"]
    }
   },
   "castlevania-symphony-of-the-night-1997": {
@@ -1842,9 +2136,11 @@
    "by": "Konami",
    "sum": "Alucard explores Dracula's castle in the game that shaped the Metroidvania genre.",
    "img": "g133",
-   "ids": {},
+   "ids": {
+    "bl": "castlevania-symphony-of-the-night"
+   },
    "s": {
-    "bl": [4.448, 24001, "2026-10-03"],
+    "bl": [4.449, 24491, "2026-10-26"],
     "mc": [8.9, 424, "2026-10-03"]
    }
   },
@@ -1854,9 +2150,11 @@
    "by": "Capcom",
    "sum": "Eight fighters battle worldwide in the game that defined competitive fighting games.",
    "img": "g134",
-   "ids": {},
+   "ids": {
+    "bl": "street-fighter-ii-the-world-warrior"
+   },
    "s": {
-    "bl": [3.614, 1200, "2026-10-03"]
+    "bl": [3.62, 1215, "2026-10-26"]
    }
   },
   "super-smash-bros-melee-2001": {
@@ -1865,10 +2163,13 @@
    "by": "HAL Laboratory",
    "sum": "Nintendo's characters brawl in the fast, technical crossover fighter still played competitively.",
    "img": "g135",
-   "ids": {},
+   "ids": {
+    "bl": "super-smash-bros-melee",
+    "mc": "game/super-smash-bros-melee"
+   },
    "s": {
-    "bl": [4.096, 29598, "2026-10-03"],
-    "mc": [8.9, 1258, "2026-10-03"]
+    "bl": [4.099, 29998, "2026-10-26"],
+    "mc": [8.9, 1262, "2026-10-26"]
    }
   },
   "goldeneye-007-1997": {
@@ -1878,10 +2179,13 @@
    "sum": "James Bond infiltrates a Soviet operation, with the multiplayer that defined console shooters.",
    "img": "g136",
    "aw": ["Game of the Year, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "goldeneye-007",
+    "mc": "game/goldeneye-007"
+   },
    "s": {
-    "bl": [3.716, 9992, "2026-10-03"],
-    "mc": [8.8, 1236, "2026-10-03"]
+    "bl": [3.718, 10170, "2026-10-26"],
+    "mc": [8.8, 1245, "2026-10-26"]
    }
   },
   "tetris-1989": {
@@ -1890,9 +2194,11 @@
    "by": "Nintendo",
    "sum": "Falling blocks, endless lines; the Game Boy version that made the puzzle a global hit.",
    "img": "g137",
-   "ids": {},
+   "ids": {
+    "bl": "tetris"
+   },
    "s": {
-    "bl": [3.985, 6629, "2026-10-03"]
+    "bl": [4.025, 15963, "2026-10-26"]
    }
   },
   "sonic-the-hedgehog-2-1992": {
@@ -1901,9 +2207,11 @@
    "by": "Sonic Team",
    "sum": "Sonic and Tails race through high-speed zones to stop Dr. Robotnik's Death Egg.",
    "img": "g138",
-   "ids": {},
+   "ids": {
+    "bl": "sonic-the-hedgehog-2"
+   },
    "s": {
-    "bl": [3.788, 22112, "2026-10-03"],
+    "bl": [3.788, 22477, "2026-10-26"],
     "mc": [8.3, 207, "2026-10-03"]
    }
   },
@@ -1913,9 +2221,11 @@
    "by": "Rare",
    "sum": "Diddy and Dixie Kong sail to Crocodile Isle to rescue Donkey Kong.",
    "img": "g139",
-   "ids": {},
+   "ids": {
+    "bl": "donkey-kong-country-2-diddy-s-kong-quest"
+   },
    "s": {
-    "bl": [4.277, 15061, "2026-10-03"],
+    "bl": [4.276, 15224, "2026-10-26"],
     "mc": [8.9, 140, "2026-10-03"]
    }
   },
@@ -1926,10 +2236,13 @@
    "sum": "A bear and a bird collect puzzle pieces across colourful worlds to rescue Banjo's sister from a witch.",
    "img": "g140",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "banjo-kazooie",
+    "mc": "game/banjo-kazooie"
+   },
    "s": {
-    "bl": [4.05, 15163, "2026-10-03"],
-    "mc": [9, 861, "2026-10-03"]
+    "bl": [4.051, 15354, "2026-10-26"],
+    "mc": [9, 867, "2026-10-26"]
    }
   },
   "kingdom-hearts-2002": {
@@ -1938,10 +2251,13 @@
    "by": "Square",
    "sum": "A boy teams up with Donald and Goofy to save Disney worlds from the darkness.",
    "img": "g141",
-   "ids": {},
+   "ids": {
+    "bl": "kingdom-hearts",
+    "mc": "game/kingdom-hearts"
+   },
    "s": {
-    "bl": [3.895, 30923, "2026-10-03"],
-    "mc": [8.5, 1380, "2026-10-03"]
+    "bl": [3.897, 31457, "2026-10-26"],
+    "mc": [8.5, 1392, "2026-10-26"]
    }
   },
   "ico-2001": {
@@ -1951,10 +2267,13 @@
    "sum": "A horned boy escapes a castle while leading a mysterious girl by the hand.",
    "img": "g142",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "ico",
+    "mc": "game/ico"
+   },
    "s": {
-    "bl": [4.098, 7805, "2026-10-03"],
-    "mc": [8.6, 635, "2026-10-03"]
+    "bl": [4.1, 7927, "2026-10-26"],
+    "mc": [8.6, 637, "2026-10-26"]
    }
   },
   "grand-theft-auto-san-andreas-2004": {
@@ -1964,10 +2283,13 @@
    "sum": "CJ returns home to Los Santos and rebuilds his gang across a whole 1990s state.",
    "img": "g143",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "grand-theft-auto-san-andreas",
+    "mc": "game/grand-theft-auto-san-andreas"
+   },
    "s": {
-    "bl": [4.262, 72648, "2026-10-03"],
-    "mc": [9.1, 6751, "2026-10-03"]
+    "bl": [4.264, 74240, "2026-10-26"],
+    "mc": [9.1, 6813, "2026-10-26"]
    }
   },
   "grand-theft-auto-vice-city-2002": {
@@ -1977,10 +2299,13 @@
    "sum": "A mobster builds a criminal empire in a neon-soaked 1980s Miami.",
    "img": "g144",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "grand-theft-auto-vice-city",
+    "mc": "game/grand-theft-auto-vice-city"
+   },
    "s": {
-    "bl": [3.936, 40807, "2026-10-03"],
-    "mc": [8.6, 3631, "2026-10-03"]
+    "bl": [3.937, 41803, "2026-10-26"],
+    "mc": [8.6, 3675, "2026-10-26"]
    }
   },
   "star-wars-knights-of-the-old-republic-2003": {
@@ -1990,11 +2315,14 @@
    "sum": "Four thousand years before the films, an amnesiac hero chooses between the Jedi and the Sith.",
    "img": "g145",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "star-wars-knights-of-the-old-republic",
+    "mc": "game/star-wars-knights-of-the-old-republic"
+   },
    "s": {
-    "bl": [4.233, 15218, "2026-10-03"],
+    "bl": [4.235, 15503, "2026-10-26"],
     "steam": [91.1, 34061, "2026-10-03"],
-    "mc": [8.9, 1000, "2026-10-03"]
+    "mc": [8.9, 1007, "2026-10-26"]
    }
   },
   "prince-of-persia-the-sands-of-time-2003": {
@@ -2005,12 +2333,14 @@
    "img": "g146",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "13600"
+    "steam": "13600",
+    "mc": "game/prince-of-persia-the-sands-of-time",
+    "bl": "prince-of-persia-the-sands-of-time"
    },
    "s": {
-    "bl": [3.751, 14776, "2026-10-03"],
-    "steam": [85.6, 5342, "2026-10-03"],
-    "mc": [8.5, 892, "2026-10-03"]
+    "bl": [3.752, 15060, "2026-10-26"],
+    "steam": [85, 5146, "2026-10-26"],
+    "mc": [8.5, 903, "2026-10-26"]
    }
   },
   "the-elder-scrolls-iii-morrowind-2002": {
@@ -2020,12 +2350,14 @@
    "sum": "A prisoner arrives on a strange alien island and may be the reincarnation of a legendary hero.",
    "img": "g149",
    "ids": {
-    "steam": "22320"
+    "steam": "22320",
+    "mc": "game/the-elder-scrolls-iii-morrowind",
+    "bl": "the-elder-scrolls-iii-morrowind"
    },
    "s": {
-    "bl": [4.038, 8798, "2026-10-03"],
-    "steam": [95.2, 28708, "2026-10-03"],
-    "mc": [8.4, 360, "2026-10-03"]
+    "bl": [4.038, 8942, "2026-10-26"],
+    "steam": [95, 22426, "2026-10-26"],
+    "mc": [8.5, 361, "2026-10-26"]
    }
   },
   "paper-mario-the-thousand-year-door-2004": {
@@ -2034,9 +2366,11 @@
    "by": "Intelligent Systems",
    "sum": "A paper-thin Mario hunts for Crystal Stars in a witty, theatrical RPG.",
    "img": "g150",
-   "ids": {},
+   "ids": {
+    "bl": "paper-mario-the-thousand-year-door"
+   },
    "s": {
-    "bl": [4.427, 13648, "2026-10-03"],
+    "bl": [4.427, 13808, "2026-10-26"],
     "mc": [8.7, 1010, "2026-10-03"]
    }
   },
@@ -2047,10 +2381,12 @@
    "sum": "Skate open levels chaining tricks and combos, set to a classic punk soundtrack.",
    "img": "g151",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "mc": "game/tony-hawks-pro-skater-2"
+   },
    "s": {
     "bl": [4.017, 7389, "2026-10-03"],
-    "mc": [8.2, 520, "2026-10-03"]
+    "mc": [8.2, 523, "2026-10-26"]
    }
   },
   "half-life-1998": {
@@ -2059,12 +2395,14 @@
    "img": "g118",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "70"
+    "steam": "70",
+    "mc": "game/half-life",
+    "bl": "half-life"
    },
    "s": {
-    "bl": [4.058, 45838, "2026-10-03"],
-    "steam": [96.5, 164527, "2026-10-03"],
-    "mc": [8.9, 6195, "2026-10-03"]
+    "bl": [4.057, 46649, "2026-10-26"],
+    "steam": [96, 118252, "2026-10-26"],
+    "mc": [8.9, 6229, "2026-10-26"]
    }
   },
   "half-life-2-2004": {
@@ -2073,12 +2411,14 @@
    "img": "g119",
    "aw": ["Game of the Year, D.I.C.E. Awards"],
    "ids": {
-    "steam": "220"
+    "steam": "220",
+    "mc": "game/half-life-2",
+    "bl": "half-life-2"
    },
    "s": {
-    "bl": [4.375, 52388, "2026-10-03"],
-    "steam": [97.6, 280161, "2026-10-03"],
-    "mc": [9.1, 11300, "2026-10-03"]
+    "bl": [4.375, 53330, "2026-10-26"],
+    "steam": [97, 204454, "2026-10-26"],
+    "mc": [9.1, 11344, "2026-10-26"]
    }
   },
   "half-life-alyx-2020": {
@@ -2086,12 +2426,14 @@
    "y": 2020,
    "img": "g78",
    "ids": {
-    "steam": "546560"
+    "steam": "546560",
+    "mc": "game/half-life-alyx",
+    "bl": "half-life-alyx"
    },
    "s": {
-    "bl": [4.529, 7937, "2026-10-03"],
-    "steam": [98.3, 105653, "2026-10-03"],
-    "mc": [9.1, 3084, "2026-10-03"]
+    "bl": [4.531, 8095, "2026-10-26"],
+    "steam": [98, 93533, "2026-10-26"],
+    "mc": [9.1, 3088, "2026-10-26"]
    }
   },
   "halo-combat-evolved-2001": {
@@ -2099,10 +2441,13 @@
    "y": 2001,
    "img": "g147",
    "aw": ["Game of the Year, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "halo-combat-evolved",
+    "mc": "game/halo-combat-evolved"
+   },
    "s": {
-    "bl": [3.918, 33387, "2026-10-03"],
-    "mc": [8.6, 3687, "2026-10-03"]
+    "bl": [3.918, 34121, "2026-10-26"],
+    "mc": [8.6, 3713, "2026-10-26"]
    }
   },
   "halo-2-2004": {
@@ -2110,10 +2455,13 @@
    "y": 2004,
    "img": "g148",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "halo-2",
+    "mc": "game/halo-2"
+   },
    "s": {
-    "bl": [4.163, 26235, "2026-10-03"],
-    "mc": [8.7, 2313, "2026-10-03"]
+    "bl": [4.164, 26858, "2026-10-26"],
+    "mc": [8.7, 2330, "2026-10-26"]
    }
   },
   "halo-3-2007": {
@@ -2121,12 +2469,14 @@
    "y": 2007,
    "img": "xg1",
    "ids": {
-    "steam": "1064271"
+    "steam": "1064271",
+    "mc": "game/halo-3",
+    "bl": "halo-3"
    },
    "s": {
-    "bl": [4.285, 38179, "2026-10-03"],
-    "steam": [90.8, 3094, "2026-10-03"],
-    "mc": [8.7, 3643, "2026-10-03"]
+    "bl": [4.286, 38964, "2026-10-26"],
+    "steam": [90, 2840, "2026-10-26"],
+    "mc": [8.7, 3660, "2026-10-26"]
    }
   },
   "metal-gear-solid-1998": {
@@ -2134,10 +2484,13 @@
    "y": 1998,
    "img": "g130",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
-   "ids": {},
+   "ids": {
+    "bl": "metal-gear-solid",
+    "mc": "game/metal-gear-solid"
+   },
    "s": {
-    "bl": [4.311, 42964, "2026-10-03"],
-    "mc": [9.2, 2980, "2026-10-03"]
+    "bl": [4.312, 43715, "2026-10-26"],
+    "mc": [9.2, 2998, "2026-10-26"]
    }
   },
   "metal-gear-solid-2-sons-of-liberty-2001": {
@@ -2145,22 +2498,27 @@
    "y": 2001,
    "img": "xg6",
    "ids": {
-    "steam": "2131640"
+    "steam": "2131640",
+    "bl": "metal-gear-solid-2-sons-of-liberty",
+    "mc": "game/metal-gear-solid-2-sons-of-liberty"
    },
    "s": {
-    "bl": [4.505, 29642, "2026-10-03"],
-    "steam": [89.9, 4770, "2026-10-03"],
-    "mc": [8.9, 2769, "2026-10-03"]
+    "bl": [4.506, 30135, "2026-10-26"],
+    "steam": [90, 3669, "2026-10-26"],
+    "mc": [8.9, 2785, "2026-10-26"]
    }
   },
   "metal-gear-solid-3-snake-eater-2004": {
    "t": "Metal Gear Solid 3: Snake Eater",
    "y": 2004,
    "img": "g131",
-   "ids": {},
+   "ids": {
+    "bl": "metal-gear-solid-3-snake-eater",
+    "mc": "game/metal-gear-solid-3-snake-eater"
+   },
    "s": {
-    "bl": [4.615, 27012, "2026-10-03"],
-    "mc": [9.3, 2514, "2026-10-03"]
+    "bl": [4.615, 27468, "2026-10-26"],
+    "mc": [9.2, 2534, "2026-10-26"]
    }
   },
   "metal-gear-solid-4-guns-of-the-patriots-2008": {
@@ -2169,12 +2527,14 @@
    "img": "xg7",
    "aw": ["GOTY nominee, D.I.C.E. Awards"],
    "ids": {
-    "steam": "2492670"
+    "steam": "2492670",
+    "bl": "metal-gear-solid-4-guns-of-the-patriots",
+    "mc": "game/metal-gear-solid-4-guns-of-the-patriots"
    },
    "s": {
-    "bl": [4.085, 22482, "2026-10-03"],
-    "steam": [96.4, 3593, "2026-10-03"],
-    "mc": [8.7, 3147, "2026-10-03"]
+    "bl": [4.088, 22982, "2026-10-26"],
+    "steam": [96, 2767, "2026-10-26"],
+    "mc": [8.7, 3161, "2026-10-26"]
    }
   },
   "metal-gear-solid-v-the-phantom-pain-2015": {
@@ -2183,12 +2543,14 @@
    "img": "g81",
    "aw": ["GOTY nominee, The Game Awards 2015"],
    "ids": {
-    "steam": "287700"
+    "steam": "287700",
+    "mc": "game/metal-gear-solid-v-the-phantom-pain",
+    "bl": "metal-gear-solid-v-the-phantom-pain"
    },
    "s": {
-    "bl": [3.952, 44260, "2026-10-03"],
-    "steam": [91.8, 108533, "2026-10-03"],
-    "mc": [8.1, 7338, "2026-10-03"]
+    "bl": [3.955, 45095, "2026-10-26"],
+    "steam": [91, 73591, "2026-10-26"],
+    "mc": [8.1, 7356, "2026-10-26"]
    }
   },
   "pragmata-2026": {
@@ -2198,12 +2560,14 @@
    "sum": "An astronaut and an android girl team up to escape a hostile lunar research station, combining hacking and gunplay.",
    "img": "cg0",
    "ids": {
-    "steam": "3357650"
+    "steam": "3357650",
+    "mc": "game/pragmata",
+    "bl": "pragmata"
    },
    "s": {
-    "bl": [4.111, 15905, "2026-10-03"],
-    "steam": [96.5, 53961, "2026-10-03"],
-    "mc": [8.7, 2557, "2026-10-03"]
+    "bl": [4.106, 16838, "2026-10-26"],
+    "steam": [96, 34206, "2026-10-26"],
+    "mc": [8.7, 2644, "2026-10-26"]
    }
   },
   "big-walk-2026": {
@@ -2213,12 +2577,14 @@
    "sum": "A co-operative adventure about walking and talking, where friends explore a wild landscape together.",
    "img": "cg1",
    "ids": {
-    "steam": "1478500"
+    "steam": "1478500",
+    "bl": "big-walk",
+    "mc": "game/big-walk"
    },
    "s": {
-    "bl": [4.339, 6432, "2026-10-03"],
-    "steam": [96, 40401, "2026-10-03"],
-    "mc": [8.4, 364, "2026-10-03"]
+    "bl": [4.338, 7523, "2026-10-26"],
+    "steam": [95, 39248, "2026-10-26"],
+    "mc": [8.1, 410, "2026-10-26"]
    }
   },
   "007-first-light-2026": {
@@ -2228,12 +2594,14 @@
    "sum": "A young James Bond earns his double-O status in an origin story built around stealth, gadgets and set pieces.",
    "img": "cg2",
    "ids": {
-    "steam": "3768760"
+    "steam": "3768760",
+    "mc": "game/007-first-light",
+    "bl": "007-first-light"
    },
    "s": {
-    "bl": [4.075, 18292, "2026-10-03"],
-    "steam": [91.2, 47453, "2026-10-03"],
-    "mc": [8.3, 2677, "2026-10-03"]
+    "bl": [4.068, 19697, "2026-10-26"],
+    "steam": [90, 34837, "2026-10-26"],
+    "mc": [8.3, 2825, "2026-10-26"]
    }
   },
   "onimusha-way-of-the-sword-2026": {
@@ -2243,12 +2611,14 @@
    "sum": "A samurai in Edo-period Kyoto wields an oni gauntlet to fight demons in this revival of the action series.",
    "img": "cg4",
    "ids": {
-    "steam": "2638890"
+    "steam": "2638890",
+    "bl": "onimusha-way-of-the-sword",
+    "mc": "game/onimusha-way-of-the-sword"
    },
    "s": {
-    "bl": [4.23, 3303, "2026-10-03"],
-    "steam": [90.8, 27086, "2026-10-03"],
-    "mc": [8.6, 960, "2026-10-03"]
+    "bl": [4.224, 4626, "2026-10-26"],
+    "steam": [90, 16609, "2026-10-26"],
+    "mc": [8.5, 1124, "2026-10-26"]
    }
   },
   "lego-batman-legacy-of-the-dark-knight-2026": {
@@ -2258,12 +2628,14 @@
    "sum": "Batman's whole history, rebuilt in LEGO, with an open Gotham City to explore.",
    "img": "cg5",
    "ids": {
-    "steam": "2215200"
+    "steam": "2215200",
+    "mc": "game/lego-batman-legacy-of-the-dark-knight",
+    "bl": "lego-batman-legacy-of-the-dark-knight"
    },
    "s": {
-    "bl": [3.902, 6524, "2026-10-03"],
-    "steam": [95.4, 13966, "2026-10-03"],
-    "mc": [8.3, 733, "2026-10-03"]
+    "bl": [3.891, 6964, "2026-10-26"],
+    "steam": [95, 9135, "2026-10-26"],
+    "mc": [8.3, 762, "2026-10-26"]
    }
   },
   "denshattack-2026": {
@@ -2273,12 +2645,14 @@
    "sum": "A high-speed stunt game where you ride, grind and jump a train across a stylised Japan.",
    "img": "cg6",
    "ids": {
-    "steam": "2524850"
+    "steam": "2524850",
+    "mc": "game/denshattack",
+    "bl": "denshattack"
    },
    "s": {
-    "bl": [4.28, 2410, "2026-10-03"],
-    "steam": [98.3, 3593, "2026-10-03"],
-    "mc": [8.6, 163, "2026-10-03"]
+    "bl": [4.255, 2699, "2026-10-26"],
+    "steam": [98, 3172, "2026-10-26"],
+    "mc": [8.5, 179, "2026-10-26"]
    }
   },
   "mina-the-hollower-2026": {
@@ -2288,12 +2662,14 @@
    "sum": "A mouse who burrows underground fights through a gothic island in a Game Boy Color–style action adventure.",
    "img": "cg7",
    "ids": {
-    "steam": "1875580"
+    "steam": "1875580",
+    "mc": "game/mina-the-hollower",
+    "bl": "mina-the-hollower"
    },
    "s": {
-    "bl": [4.215, 6000, "2026-10-03"],
-    "steam": [88.2, 8729, "2026-10-03"],
-    "mc": [8.1, 469, "2026-10-03"]
+    "bl": [4.206, 6327, "2026-10-26"],
+    "steam": [87, 7789, "2026-10-26"],
+    "mc": [8.1, 486, "2026-10-26"]
    }
   },
   "fire-emblem-fortune-s-weave-2026": {
@@ -2302,10 +2678,13 @@
    "by": "Intelligent Systems",
    "sum": "A new tactical role-playing story in the Fire Emblem series, about battles where every unit counts.",
    "img": "cg8",
-   "ids": {},
+   "ids": {
+    "bl": "fire-emblem-fortunes-weave",
+    "mc": "game/fire-emblem-fortunes-weave"
+   },
    "s": {
-    "bl": [3.983, 351, "2026-10-03"],
-    "mc": [8.8, 758, "2026-10-03"]
+    "bl": [4.028, 1283, "2026-10-26"],
+    "mc": [8.5, 909, "2026-10-26"]
    }
   },
   "well-dweller-2026": {
@@ -2315,12 +2694,14 @@
    "sum": "A tiny bird armed with a matchstick explores a wretched fairy-tale kingdom in this dark metroidvania.",
    "img": "cg10",
    "ids": {
-    "steam": "3699590"
+    "steam": "3699590",
+    "bl": "well-dweller",
+    "mc": "game/well-dweller"
    },
    "s": {
-    "bl": [4.11, 403, "2026-10-03"],
-    "steam": [97.6, 2281, "2026-10-03"],
-    "mc": [8.7, 112, "2026-10-03"]
+    "bl": [4.081, 1071, "2026-10-26"],
+    "steam": [98, 3806, "2026-10-26"],
+    "mc": [8.4, 198, "2026-10-26"]
    }
   },
   "the-incident-at-galley-house-2026": {
@@ -2330,12 +2711,14 @@
    "sum": "Something terrible happened at Galley House in 1936; decades later, a device that replays echoes of the past helps you find out what.",
    "img": "cg11",
    "ids": {
-    "steam": "3641000"
+    "steam": "3641000",
+    "mc": "game/the-incident-at-galley-house",
+    "bl": "the-incident-at-galley-house"
    },
    "s": {
-    "bl": [4.072, 720, "2026-10-03"],
-    "steam": [94, 4439, "2026-10-03"],
-    "mc": [8.3, 12, "2026-10-03"]
+    "bl": [4.067, 835, "2026-10-26"],
+    "steam": [93, 4746, "2026-10-26"],
+    "mc": [8.5, 15, "2026-10-26"]
    }
   },
   "sovereign-tower-2026": {
@@ -2345,12 +2728,14 @@
    "sum": "Rule a magical tower in a story-rich management RPG, recruiting eccentric knights, sending them on quests and balancing their egos.",
    "img": "cg12",
    "ids": {
-    "steam": "4113940"
+    "steam": "4113940",
+    "bl": "sovereign-tower",
+    "mc": "game/sovereign-tower"
    },
    "s": {
-    "bl": [4.114, 574, "2026-10-03"],
-    "steam": [93.7, 3820, "2026-10-03"],
-    "mc": [8.1, 32, "2026-10-03"]
+    "bl": [4.044, 721, "2026-10-26"],
+    "steam": [93, 3925, "2026-10-26"],
+    "mc": [8.2, 35, "2026-10-26"]
    }
   },
   "desktop-explorer-2026": {
@@ -2360,12 +2745,14 @@
    "sum": "Your uncle's old PC holds a letter about a missing person, and the answers are hidden in its files.",
    "img": "cg13",
    "ids": {
-    "steam": "2527160"
+    "steam": "2527160",
+    "bl": "desktop-explorer",
+    "mc": "game/desktop-explorer"
    },
    "s": {
-    "bl": [3.898, 412, "2026-10-03"],
-    "steam": [96.1, 2342, "2026-10-03"],
-    "mc": [6.3, 11, "2026-10-03"]
+    "bl": [3.845, 489, "2026-10-26"],
+    "steam": [95, 2458, "2026-10-26"],
+    "mc": [5.6, 12, "2026-10-26"]
    }
   },
   "and-roger-2026": {
@@ -2375,12 +2762,14 @@
    "sum": "A girl wakes up to find her dad missing in this short, emotional interactive story.",
    "img": "cg14",
    "ids": {
-    "steam": "3308870"
+    "steam": "3308870",
+    "bl": "and-roger",
+    "mc": "game/and-roger"
    },
    "s": {
-    "bl": [3.879, 1531, "2026-10-03"],
-    "steam": [95, 2865, "2026-10-03"],
-    "mc": [6.6, 49, "2026-10-03"]
+    "bl": [3.882, 1598, "2026-10-26"],
+    "steam": [94, 2868, "2026-10-26"],
+    "mc": [6.5, 55, "2026-10-26"]
    }
   },
   "the-blood-of-dawnwalker-2026": {
@@ -2390,12 +2779,14 @@
    "sum": "A young man who is human by day and vampire by night tries to save his family in a dark medieval open world.",
    "img": "cg15",
    "ids": {
-    "steam": "3751260"
+    "steam": "3751260",
+    "bl": "the-blood-of-dawnwalker",
+    "mc": "game/the-blood-of-dawnwalker"
    },
    "s": {
-    "bl": [3.995, 3278, "2026-10-03"],
-    "steam": [87.3, 28411, "2026-10-03"],
-    "mc": [8.3, 1434, "2026-10-03"]
+    "bl": [3.99, 4482, "2026-10-26"],
+    "steam": [87, 21006, "2026-10-26"],
+    "mc": [8.3, 1581, "2026-10-26"]
    }
   },
   "phonopolis-2026": {
@@ -2405,12 +2796,14 @@
    "sum": "A cardboard city in a totalitarian world, where a young man tries to break the hold of the Leader, from the makers of Machinarium.",
    "img": "cg16",
    "ids": {
-    "steam": "1206070"
+    "steam": "1206070",
+    "bl": "phonopolis",
+    "mc": "game/phonopolis"
    },
    "s": {
-    "bl": [3.846, 283, "2026-10-03"],
-    "steam": [93, 1765, "2026-10-03"],
-    "mc": [8.1, 39, "2026-10-03"]
+    "bl": [3.743, 319, "2026-10-26"],
+    "steam": [92, 1640, "2026-10-26"],
+    "mc": [8.1, 39, "2026-10-26"]
    }
   },
   "opus-prism-peak-2026": {
@@ -2420,12 +2813,14 @@
    "sum": "A photographer wanders a dreamlike mountain town, helping lost spirits by capturing their memories on film.",
    "img": "cg17",
    "ids": {
-    "steam": "1947910"
+    "steam": "1947910",
+    "bl": "opus-prism-peak",
+    "mc": "game/opus-prism-peak"
    },
    "s": {
-    "bl": [3.863, 157, "2026-10-03"],
-    "steam": [93, 1241, "2026-10-03"],
-    "mc": [8.3, 44, "2026-10-03"]
+    "bl": [3.67, 161, "2026-10-26"],
+    "steam": [92, 1106, "2026-10-26"],
+    "mc": [8.3, 44, "2026-10-26"]
    }
   },
   "schrodinger-s-cat-burglar-2026": {
@@ -2435,12 +2830,14 @@
    "sum": "A cat who can be in two places at once solves quantum puzzles; think Portal, with cats.",
    "img": "cg18",
    "ids": {
-    "steam": "2111550"
+    "steam": "2111550",
+    "bl": "schrodingers-cat-burglar",
+    "mc": "game/schrodingers-cat-burglar"
    },
    "s": {
-    "bl": [3.327, 26, "2026-10-03"],
-    "steam": [97.7, 690, "2026-10-03"],
-    "mc": [7.7, 6, "2026-10-03"]
+    "bl": [3.127, 28, "2026-10-26"],
+    "steam": [97, 640, "2026-10-26"],
+    "mc": [7.7, 6, "2026-10-26"]
    }
   },
   "schrodinger-s-call-2026": {
@@ -2450,11 +2847,14 @@
    "sum": "As the world ends, a visual novel asks who you would call one last time.",
    "img": "cg19",
    "ids": {
-    "steam": "2090390"
+    "steam": "2090390",
+    "bl": "schrodingers-call",
+    "mc": "game/schrodingers-call"
    },
    "s": {
-    "bl": [4.078, 198, "2026-10-03"],
-    "mc": [8, 61, "2026-10-03"]
+    "bl": [3.901, 221, "2026-10-26"],
+    "mc": [8, 65, "2026-10-26"],
+    "steam": [94, 1193, "2026-10-26"]
    }
   },
   "titanium-court-2026": {
@@ -2464,12 +2864,14 @@
    "sum": "You stumble into a realm of magic and faeries and must find your place among the many odd amenities of the Court.",
    "img": "cg20",
    "ids": {
-    "steam": "2364580"
+    "steam": "2364580",
+    "bl": "titanium-court",
+    "mc": "game/titanium-court"
    },
    "s": {
-    "bl": [3.876, 459, "2026-10-03"],
-    "steam": [94.3, 1192, "2026-10-03"],
-    "mc": [6.1, 24, "2026-10-03"]
+    "bl": [3.811, 500, "2026-10-26"],
+    "steam": [94, 1184, "2026-10-26"],
+    "mc": [6.3, 25, "2026-10-26"]
    }
   },
   "sektori-2026": {
@@ -2479,12 +2881,14 @@
    "sum": "A fast, intense twin-stick shooter driven by hard-hitting techno.",
    "img": "cg21",
    "ids": {
-    "steam": "2105620"
+    "steam": "2105620",
+    "bl": "sektori",
+    "mc": "game/sektori"
    },
    "s": {
-    "bl": [4.109, 486, "2026-10-03"],
-    "steam": [96.3, 949, "2026-10-03"],
-    "mc": [6.1, 72, "2026-10-03"]
+    "bl": [4.024, 496, "2026-10-26"],
+    "steam": [96, 916, "2026-10-26"],
+    "mc": [6.1, 94, "2026-10-26"]
    }
   },
   "steins-gate-re-boot-2026": {
@@ -2494,11 +2898,12 @@
    "sum": "A full remake of the time-travel visual novel, with new art and expanded story.",
    "img": "cg22",
    "ids": {
-    "steam": "4012810"
+    "steam": "4012810",
+    "bl": "steins-gate-re-boot"
    },
    "s": {
-    "bl": [3.941, 59, "2026-10-03"],
-    "steam": [90.2, 1099, "2026-10-03"],
+    "bl": [3.591, 65, "2026-10-26"],
+    "steam": [89, 670, "2026-10-26"],
     "mc": [7.8, 6, "2026-10-03"]
    }
   },
@@ -2509,12 +2914,14 @@
    "sum": "A grim card-battle RPG where nothing stays dead, leading survivors through a world whose laws have shattered.",
    "img": "cg23",
    "ids": {
-    "steam": "3432480"
+    "steam": "3432480",
+    "bl": "shards-of-order",
+    "mc": "game/shards-of-order"
    },
    "s": {
-    "bl": [3.75, 18, "2026-10-03"],
-    "steam": [90.2, 654, "2026-10-03"],
-    "mc": [6.4, 5, "2026-10-03"]
+    "bl": [3.21, 20, "2026-10-26"],
+    "steam": [89, 666, "2026-10-26"],
+    "mc": [6.4, 5, "2026-10-26"]
    }
   },
   "wax-heads-2026": {
@@ -2524,12 +2931,14 @@
    "sum": "Work in a struggling record store, chatting to quirky customers and finding them the music they love.",
    "img": "cg24",
    "ids": {
-    "steam": "2769240"
+    "steam": "2769240",
+    "bl": "wax-heads",
+    "mc": "game/wax-heads"
    },
    "s": {
-    "bl": [3.689, 238, "2026-10-03"],
-    "steam": [96.7, 607, "2026-10-03"],
-    "mc": [6.1, 25, "2026-10-03"]
+    "bl": [3.578, 260, "2026-10-26"],
+    "steam": [96, 542, "2026-10-26"],
+    "mc": [6.1, 25, "2026-10-26"]
    }
   },
   "saros-2026": {
@@ -2538,10 +2947,13 @@
    "by": "Housemarque",
    "sum": "A soldier stranded on a shape-shifting alien planet fights through endless loops, from the makers of Returnal.",
    "img": "cg25",
-   "ids": {},
+   "ids": {
+    "bl": "saros",
+    "mc": "game/saros"
+   },
    "s": {
-    "bl": [3.997, 2460, "2026-10-03"],
-    "mc": [7.7, 1134, "2026-10-03"]
+    "bl": [3.993, 2614, "2026-10-26"],
+    "mc": [7.7, 1184, "2026-10-26"]
    }
   },
   "zero-parades-for-dead-spies-2026": {
@@ -2550,10 +2962,13 @@
    "by": "ZA/UM",
    "sum": "A spy role-playing game about memory and betrayal, from the studio behind Disco Elysium.",
    "img": "cg26",
-   "ids": {},
+   "ids": {
+    "bl": "zero-parades-for-dead-spies",
+    "mc": "game/zero-parades-for-dead-spies"
+   },
    "s": {
-    "bl": [3.887, 843, "2026-10-03"],
-    "mc": [6.7, 93, "2026-10-03"]
+    "bl": [3.891, 897, "2026-10-26"],
+    "mc": [6.6, 105, "2026-10-26"]
    }
   },
   "welcome-to-elderfield-2026": {
@@ -2563,12 +2978,14 @@
    "sum": "A cosy horror farming game: tend your farm, befriend the locals and fight the creatures in the dark.",
    "img": "cg27",
    "ids": {
-    "steam": "3195440"
+    "steam": "3195440",
+    "bl": "welcome-to-elderfield",
+    "mc": "game/welcome-to-elderfield"
    },
    "s": {
-    "bl": [3.714, 56, "2026-10-03"],
-    "steam": [84.6, 2275, "2026-10-03"],
-    "mc": [8.5, 35, "2026-10-03"]
+    "bl": [3.366, 75, "2026-10-26"],
+    "steam": [83, 2431, "2026-10-26"],
+    "mc": [8.6, 37, "2026-10-26"]
    }
   },
   "marvel-tokon-fighting-souls-2026": {
@@ -2578,11 +2995,14 @@
    "sum": "A tag-team fighting game with Marvel heroes in a bold anime style.",
    "img": "cg28",
    "ids": {
-    "steam": "3787240"
+    "steam": "3787240",
+    "mc": "game/marvel-tokon-fighting-souls",
+    "bl": "marvel-tokon-fighting-souls"
    },
    "s": {
-    "bl": [3.667, 1249, "2026-10-03"],
-    "mc": [8, 330, "2026-10-03"]
+    "bl": [3.642, 1427, "2026-10-26"],
+    "mc": [7.8, 346, "2026-10-26"],
+    "steam": [48, 5047, "2026-10-26"]
    }
   },
   "star-wars-zero-company-2026": {
@@ -2592,12 +3012,14 @@
    "sum": "Turn-based tactics in the Clone Wars, leading a squad of misfits behind enemy lines.",
    "img": "cg29",
    "ids": {
-    "steam": "2075800"
+    "steam": "2075800",
+    "mc": "game/star-wars-zero-company",
+    "bl": "star-wars-zero-company"
    },
    "s": {
-    "bl": [3.999, 1970, "2026-10-03"],
-    "steam": [83.4, 22502, "2026-10-03"],
-    "mc": [8, 314, "2026-10-03"]
+    "bl": [3.994, 2481, "2026-10-26"],
+    "steam": [83, 22922, "2026-10-26"],
+    "mc": [7.9, 343, "2026-10-26"]
    }
   },
   "assassin-s-creed-black-flag-resynced-2026": {
@@ -2607,12 +3029,14 @@
    "sum": "A full remake of the pirate adventure, sailing the Caribbean as Edward Kenway.",
    "img": "cg30",
    "ids": {
-    "steam": "3751950"
+    "steam": "3751950",
+    "mc": "game/assassins-creed-black-flag-resynced",
+    "bl": "assassins-creed-black-flag-resynced"
    },
    "s": {
-    "bl": [3.994, 4780, "2026-10-03"],
-    "steam": [80.6, 30747, "2026-10-03"],
-    "mc": [8.4, 1357, "2026-10-03"]
+    "bl": [3.982, 5320, "2026-10-26"],
+    "steam": [81, 27705, "2026-10-26"],
+    "mc": [8.3, 1415, "2026-10-26"]
    }
   },
   "forza-horizon-6-2026": {
@@ -2622,12 +3046,14 @@
    "sum": "An open-world racing festival, this time set across Japan.",
    "img": "cg31",
    "ids": {
-    "steam": "2483190"
+    "steam": "2483190",
+    "mc": "game/forza-horizon-6",
+    "bl": "forza-horizon-6"
    },
    "s": {
-    "bl": [3.978, 9241, "2026-10-03"],
-    "steam": [81, 100361, "2026-10-03"],
-    "mc": [8.2, 1056, "2026-10-03"]
+    "bl": [3.964, 9873, "2026-10-26"],
+    "steam": [80, 91133, "2026-10-26"],
+    "mc": [8.2, 1133, "2026-10-26"]
    }
   },
   "mixtape-2026": {
@@ -2637,12 +3063,14 @@
    "sum": "Three friends spend one last night together before growing up, set to a soundtrack of their favourite songs.",
    "img": "cg32",
    "ids": {
-    "steam": "2582320"
+    "steam": "2582320",
+    "mc": "game/mixtape",
+    "bl": "mixtape--1"
    },
    "s": {
-    "bl": [3.388, 9250, "2026-10-03"],
-    "steam": [87.9, 8659, "2026-10-03"],
-    "mc": [5.9, 1178, "2026-10-03"]
+    "bl": [3.384, 9592, "2026-10-26"],
+    "steam": [87, 7528, "2026-10-26"],
+    "mc": [6.1, 1162, "2026-10-26"]
    }
   },
   "trails-in-the-sky-1st-chapter-2025": {
@@ -2650,12 +3078,14 @@
    "y": 2025,
    "img": "cg3",
    "ids": {
-    "steam": "3375780"
+    "steam": "3375780",
+    "bl": "trails-in-the-sky-1st-chapter",
+    "mc": "game/trails-in-the-sky-1st-chapter"
    },
    "s": {
-    "bl": [4.305, 3949, "2026-10-03"],
-    "steam": [95.3, 5211, "2026-10-03"],
-    "mc": [8.7, 541, "2026-10-03"]
+    "bl": [4.298, 4216, "2026-10-26"],
+    "steam": [95, 5082, "2026-10-26"],
+    "mc": [8.7, 554, "2026-10-26"]
    }
   },
   "trails-in-the-sky-2nd-chapter-2026": {
@@ -2663,12 +3093,14 @@
    "y": 2026,
    "img": "cg9",
    "ids": {
-    "steam": "4225980"
+    "steam": "4225980",
+    "bl": "trails-in-the-sky-2nd-chapter",
+    "mc": "game/trails-in-the-sky-2nd-chapter"
    },
    "s": {
-    "bl": [4.605, 253, "2026-10-03"],
-    "steam": [96.7, 2322, "2026-10-03"],
-    "mc": [8.8, 229, "2026-10-03"]
+    "bl": [4.565, 711, "2026-10-26"],
+    "steam": [96, 2405, "2026-10-26"],
+    "mc": [8.8, 273, "2026-10-26"]
    }
   }
  },

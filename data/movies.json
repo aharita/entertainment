@@ -14,12 +14,15 @@
    "img": "m0",
    "aw": ["7 Oscar nominations"],
    "ids": {
-    "imdb": "tt0111161"
+    "imdb": "tt0111161",
+    "rt": "m/shawshank_redemption",
+    "mc": "movie/the-shawshank-redemption",
+    "lbx": "the-shawshank-redemption"
    },
    "s": {
-    "imdb": [9.3, 3246980, "2026-10-03"],
-    "lbx": [4.6, 3153021, "2026-10-03"],
-    "rt": [98, 181955, "2026-10-03"]
+    "imdb": [9.3, 3256959, "2026-10-26"],
+    "lbx": [4.6, 3204744, "2026-10-26"],
+    "rt": [98, 181995, "2026-10-26"]
    }
   },
   "schindler-s-list-1993": {
@@ -31,12 +34,15 @@
    "img": "m2",
    "aw": ["Won 7 Oscars of 12 nominations"],
    "ids": {
-    "imdb": "tt0108052"
+    "imdb": "tt0108052",
+    "rt": "m/schindlers_list",
+    "mc": "movie/schindlers-list",
+    "lbx": "schindlers-list"
    },
    "s": {
-    "imdb": [9, 1606529, "2026-10-03"],
-    "lbx": [4.55, 1534927, "2026-10-03"],
-    "rt": [97, 86181, "2026-10-03"]
+    "imdb": [9, 1610641, "2026-10-26"],
+    "lbx": [4.55, 1553859, "2026-10-26"],
+    "rt": [97, 86200, "2026-10-26"]
    }
   },
   "pulp-fiction-1994": {
@@ -48,12 +54,15 @@
    "img": "m4",
    "aw": ["Won 1 Oscar of 7 nominations"],
    "ids": {
-    "imdb": "tt0110912"
+    "imdb": "tt0110912",
+    "rt": "m/pulp_fiction",
+    "mc": "movie/pulp-fiction",
+    "lbx": "pulp-fiction"
    },
    "s": {
-    "imdb": [8.8, 2472485, "2026-10-03"],
-    "lbx": [4.23, 4613671, "2026-10-03"],
-    "rt": [96, 240301, "2026-10-03"]
+    "imdb": [8.8, 2478831, "2026-10-26"],
+    "lbx": [4.23, 4668381, "2026-10-26"],
+    "rt": [96, 240332, "2026-10-26"]
    }
   },
   "forrest-gump-1994": {
@@ -65,12 +74,15 @@
    "img": "m6",
    "aw": ["Won 6 Oscars of 13 nominations"],
    "ids": {
-    "imdb": "tt0109830"
+    "imdb": "tt0109830",
+    "rt": "m/forrest_gump",
+    "mc": "movie/forrest-gump",
+    "lbx": "forrest-gump"
    },
    "s": {
-    "imdb": [8.8, 2540698, "2026-10-03"],
-    "lbx": [4.19, 4330353, "2026-10-03"],
-    "rt": [95, 179588, "2026-10-03"]
+    "imdb": [8.8, 2547786, "2026-10-26"],
+    "lbx": [4.19, 4393879, "2026-10-26"],
+    "rt": [95, 179588, "2026-10-26"]
    }
   },
   "fight-club-1999": {
@@ -82,12 +94,15 @@
    "img": "m7",
    "aw": ["1 Oscar nomination"],
    "ids": {
-    "imdb": "tt0137523"
+    "imdb": "tt0137523",
+    "rt": "m/fight_club",
+    "mc": "movie/fight-club",
+    "lbx": "fight-club"
    },
    "s": {
-    "imdb": [8.8, 2668228, "2026-10-03"],
-    "lbx": [4.27, 6137345, "2026-10-03"],
-    "rt": [96, 262074, "2026-10-03"]
+    "imdb": [8.8, 2676627, "2026-10-26"],
+    "lbx": [4.27, 6238339, "2026-10-26"],
+    "rt": [96, 262105, "2026-10-26"]
    }
   },
   "inception-2010": {
@@ -99,12 +114,15 @@
    "img": "m9",
    "aw": ["Won 4 Oscars of 8 nominations"],
    "ids": {
-    "imdb": "tt1375666"
+    "imdb": "tt1375666",
+    "rt": "m/inception",
+    "mc": "movie/inception",
+    "lbx": "inception"
    },
    "s": {
-    "imdb": [8.8, 2875479, "2026-10-03"],
-    "lbx": [4.24, 4495335, "2026-10-03"],
-    "rt": [91, 184397, "2026-10-03"]
+    "imdb": [8.8, 2883157, "2026-10-26"],
+    "lbx": [4.24, 4555618, "2026-10-26"],
+    "rt": [91, 184424, "2026-10-26"]
    }
   },
   "the-matrix-1999": {
@@ -116,12 +134,15 @@
    "img": "m10",
    "aw": ["Won 4 Oscars"],
    "ids": {
-    "imdb": "tt0133093"
+    "imdb": "tt0133093",
+    "rt": "m/matrix",
+    "mc": "movie/the-matrix",
+    "lbx": "the-matrix"
    },
    "s": {
-    "imdb": [8.7, 2283197, "2026-10-03"],
-    "lbx": [4.18, 3123868, "2026-10-03"],
-    "rt": [85, 167410, "2026-10-03"]
+    "imdb": [8.7, 2289341, "2026-10-26"],
+    "lbx": [4.18, 3167681, "2026-10-26"],
+    "rt": [85, 167410, "2026-10-26"]
    }
   },
   "goodfellas-1990": {
@@ -133,12 +154,15 @@
    "img": "m11",
    "aw": ["Won 1 Oscar of 6 nominations"],
    "ids": {
-    "imdb": "tt0099685"
+    "imdb": "tt0099685",
+    "rt": "m/1032176-goodfellas",
+    "mc": "movie/goodfellas",
+    "lbx": "goodfellas"
    },
    "s": {
-    "imdb": [8.7, 1416528, "2026-10-03"],
-    "lbx": [4.46, 2374850, "2026-10-03"],
-    "rt": [97, 122506, "2026-10-03"]
+    "imdb": [8.7, 1420678, "2026-10-26"],
+    "lbx": [4.46, 2408464, "2026-10-26"],
+    "rt": [97, 122527, "2026-10-26"]
    }
   },
   "interstellar-2014": {
@@ -150,12 +174,15 @@
    "img": "m12",
    "aw": ["Won 1 Oscar of 5 nominations"],
    "ids": {
-    "imdb": "tt0816692"
+    "imdb": "tt0816692",
+    "rt": "m/interstellar_2014",
+    "mc": "movie/interstellar",
+    "lbx": "interstellar"
    },
    "s": {
-    "imdb": [8.7, 2615508, "2026-10-03"],
-    "lbx": [4.46, 6479917, "2026-10-03"],
-    "rt": [87, 107502, "2026-10-03"]
+    "imdb": [8.7, 2625141, "2026-10-26"],
+    "lbx": [4.46, 6582759, "2026-10-26"],
+    "rt": [87, 107584, "2026-10-26"]
    }
   },
   "se7en-1995": {
@@ -167,12 +194,15 @@
    "img": "m14",
    "aw": ["1 Oscar nomination"],
    "ids": {
-    "imdb": "tt0114369"
+    "imdb": "tt0114369",
+    "rt": "m/seven",
+    "mc": "movie/seven",
+    "lbx": "se7en"
    },
    "s": {
-    "imdb": [8.6, 2064803, "2026-10-03"],
-    "lbx": [4.39, 4026695, "2026-10-03"],
-    "rt": [95, 109361, "2026-10-03"]
+    "imdb": [8.6, 2071589, "2026-10-26"],
+    "lbx": [4.39, 4099536, "2026-10-26"],
+    "rt": [95, 109382, "2026-10-26"]
    }
   },
   "the-silence-of-the-lambs-1991": {
@@ -184,12 +214,15 @@
    "img": "m15",
    "aw": ["Won 5 Oscars of 7 nominations"],
    "ids": {
-    "imdb": "tt0102926"
+    "imdb": "tt0102926",
+    "rt": "m/silence_of_the_lambs",
+    "mc": "movie/the-silence-of-the-lambs",
+    "lbx": "the-silence-of-the-lambs"
    },
    "s": {
-    "imdb": [8.6, 1754173, "2026-10-03"],
-    "lbx": [4.34, 3390654, "2026-10-03"],
-    "rt": [95, 91796, "2026-10-03"]
+    "imdb": [8.6, 1761461, "2026-10-26"],
+    "lbx": [4.34, 3481517, "2026-10-26"],
+    "rt": [95, 91841, "2026-10-26"]
    }
   },
   "saving-private-ryan-1998": {
@@ -201,12 +234,15 @@
    "img": "m16",
    "aw": ["Won 5 Oscars of 11 nominations"],
    "ids": {
-    "imdb": "tt0120815"
+    "imdb": "tt0120815",
+    "rt": "m/saving_private_ryan",
+    "mc": "movie/saving-private-ryan",
+    "lbx": "saving-private-ryan"
    },
    "s": {
-    "imdb": [8.6, 1665499, "2026-10-03"],
-    "lbx": [4.26, 1613458, "2026-10-03"],
-    "rt": [95, 120834, "2026-10-03"]
+    "imdb": [8.6, 1669692, "2026-10-26"],
+    "lbx": [4.26, 1634182, "2026-10-26"],
+    "rt": [95, 120846, "2026-10-26"]
    }
   },
   "the-green-mile-1999": {
@@ -218,12 +254,15 @@
    "img": "m17",
    "aw": ["4 Oscar nominations"],
    "ids": {
-    "imdb": "tt0120689"
+    "imdb": "tt0120689",
+    "rt": "m/green_mile",
+    "mc": "movie/the-green-mile",
+    "lbx": "the-green-mile"
    },
    "s": {
-    "imdb": [8.6, 1589021, "2026-10-03"],
-    "lbx": [4.3, 1501677, "2026-10-03"],
-    "rt": [94, 99777, "2026-10-03"]
+    "imdb": [8.6, 1593843, "2026-10-26"],
+    "lbx": [4.31, 1525916, "2026-10-26"],
+    "rt": [94, 99790, "2026-10-26"]
    }
   },
   "parasite-2019": {
@@ -235,12 +274,15 @@
    "img": "m19",
    "aw": ["Won 4 Oscars of 6 nominations"],
    "ids": {
-    "imdb": "tt6751668"
+    "imdb": "tt6751668",
+    "rt": "m/parasite_2019",
+    "mc": "movie/parasite",
+    "lbx": "parasite-2019"
    },
    "s": {
-    "imdb": [8.5, 1200026, "2026-10-03"],
-    "lbx": [4.52, 5897979, "2026-10-03"],
-    "rt": [90, 7538, "2026-10-03"]
+    "imdb": [8.5, 1204954, "2026-10-26"],
+    "lbx": [4.51, 5970782, "2026-10-26"],
+    "rt": [90, 7538, "2026-10-26"]
    }
   },
   "leon-the-professional-1994": {
@@ -251,12 +293,15 @@
    "sum": "A solitary hitman reluctantly takes in a twelve-year-old girl after her family is murdered by a corrupt cop.",
    "img": "m20",
    "ids": {
-    "imdb": "tt0110413"
+    "imdb": "tt0110413",
+    "rt": "m/leon_the_professional",
+    "mc": "movie/the-professional",
+    "lbx": "leon-the-professional"
    },
    "s": {
-    "imdb": [8.5, 1368148, "2026-10-03"],
-    "lbx": [4, 1518079, "2026-10-03"],
-    "rt": [95, 55977, "2026-10-03"]
+    "imdb": [8.5, 1370998, "2026-10-26"],
+    "lbx": [4, 1537140, "2026-10-26"],
+    "rt": [95, 55986, "2026-10-26"]
    }
   },
   "the-usual-suspects-1995": {
@@ -268,12 +313,15 @@
    "img": "m21",
    "aw": ["Won 2 Oscars"],
    "ids": {
-    "imdb": "tt0114814"
+    "imdb": "tt0114814",
+    "rt": "m/usual_suspects",
+    "mc": "movie/the-usual-suspects",
+    "lbx": "the-usual-suspects"
    },
    "s": {
-    "imdb": [8.5, 1256674, "2026-10-03"],
-    "lbx": [4.08, 1131256, "2026-10-03"],
-    "rt": [96, 97558, "2026-10-03"]
+    "imdb": [8.5, 1260050, "2026-10-26"],
+    "lbx": [4.08, 1150828, "2026-10-26"],
+    "rt": [96, 97566, "2026-10-26"]
    }
   },
   "the-lion-king-1994": {
@@ -285,12 +333,15 @@
    "img": "m22",
    "aw": ["Won 2 Oscars of 4 nominations"],
    "ids": {
-    "imdb": "tt0110357"
+    "imdb": "tt0110357",
+    "rt": "m/the_lion_king",
+    "mc": "movie/the-lion-king",
+    "lbx": "the-lion-king"
    },
    "s": {
-    "imdb": [8.5, 1280208, "2026-10-03"],
-    "lbx": [4.23, 2278012, "2026-10-03"],
-    "rt": [93, 128660, "2026-10-03"]
+    "imdb": [8.5, 1283103, "2026-10-26"],
+    "lbx": [4.23, 2306975, "2026-10-26"],
+    "rt": [93, 128660, "2026-10-26"]
    }
   },
   "the-prestige-2006": {
@@ -302,12 +353,15 @@
    "img": "m23",
    "aw": ["2 Oscar nominations"],
    "ids": {
-    "imdb": "tt0482571"
+    "imdb": "tt0482571",
+    "rt": "m/prestige",
+    "mc": "movie/the-prestige",
+    "lbx": "the-prestige"
    },
    "s": {
-    "imdb": [8.5, 1630791, "2026-10-03"],
-    "lbx": [4.31, 2212532, "2026-10-03"],
-    "rt": [92, 114496, "2026-10-03"]
+    "imdb": [8.5, 1636590, "2026-10-26"],
+    "lbx": [4.31, 2266744, "2026-10-26"],
+    "rt": [92, 114541, "2026-10-26"]
    }
   },
   "gladiator-2000": {
@@ -319,12 +373,15 @@
    "img": "m24",
    "aw": ["Won 5 Oscars of 12 nominations"],
    "ids": {
-    "imdb": "tt0172495"
+    "imdb": "tt0172495",
+    "rt": "m/gladiator",
+    "mc": "movie/gladiator",
+    "lbx": "gladiator-2000"
    },
    "s": {
-    "imdb": [8.5, 1885965, "2026-10-03"],
-    "lbx": [4.2, 2337885, "2026-10-03"],
-    "rt": [87, 194939, "2026-10-03"]
+    "imdb": [8.5, 1891003, "2026-10-26"],
+    "lbx": [4.21, 2368142, "2026-10-26"],
+    "rt": [87, 194939, "2026-10-26"]
    }
   },
   "the-departed-2006": {
@@ -336,12 +393,15 @@
    "img": "m25",
    "aw": ["Won 4 Oscars of 5 nominations"],
    "ids": {
-    "imdb": "tt0407887"
+    "imdb": "tt0407887",
+    "rt": "m/departed",
+    "mc": "movie/the-departed",
+    "lbx": "the-departed"
    },
    "s": {
-    "imdb": [8.5, 1582205, "2026-10-03"],
-    "lbx": [4.35, 1760268, "2026-10-03"],
-    "rt": [94, 175985, "2026-10-03"]
+    "imdb": [8.5, 1586682, "2026-10-26"],
+    "lbx": [4.35, 1794511, "2026-10-26"],
+    "rt": [94, 176008, "2026-10-26"]
    }
   },
   "whiplash-2014": {
@@ -353,12 +413,15 @@
    "img": "m26",
    "aw": ["Won 3 Oscars of 5 nominations"],
    "ids": {
-    "imdb": "tt2582802"
+    "imdb": "tt2582802",
+    "rt": "m/whiplash_2014",
+    "mc": "movie/whiplash",
+    "lbx": "whiplash-2014"
    },
    "s": {
-    "imdb": [8.5, 1185001, "2026-10-03"],
-    "lbx": [4.42, 4844696, "2026-10-03"],
-    "rt": [94, 42657, "2026-10-03"]
+    "imdb": [8.5, 1189284, "2026-10-26"],
+    "lbx": [4.42, 4913020, "2026-10-26"],
+    "rt": [94, 42682, "2026-10-26"]
    }
   },
   "back-to-the-future-1985": {
@@ -370,12 +433,15 @@
    "img": "m27",
    "aw": ["Won 1 Oscar of 4 nominations"],
    "ids": {
-    "imdb": "tt0088763"
+    "imdb": "tt0088763",
+    "rt": "m/back_to_the_future",
+    "mc": "movie/back-to-the-future",
+    "lbx": "back-to-the-future"
    },
    "s": {
-    "imdb": [8.5, 1479414, "2026-10-03"],
-    "lbx": [4.22, 2976018, "2026-10-03"],
-    "rt": [95, 114930, "2026-10-03"]
+    "imdb": [8.5, 1484070, "2026-10-26"],
+    "lbx": [4.22, 3017099, "2026-10-26"],
+    "rt": [95, 115024, "2026-10-26"]
    }
   },
   "terminator-2-judgment-day-1991": {
@@ -387,12 +453,15 @@
    "img": "m28",
    "aw": ["Won 4 Oscars of 6 nominations"],
    "ids": {
-    "imdb": "tt0103064"
+    "imdb": "tt0103064",
+    "rt": "m/terminator_2_judgment_day",
+    "mc": "movie/terminator-2-judgment-day",
+    "lbx": "terminator-2-judgment-day"
    },
    "s": {
-    "imdb": [8.6, 1304162, "2026-10-03"],
-    "lbx": [4.3, 1101443, "2026-10-03"],
-    "rt": [95, 68214, "2026-10-03"]
+    "imdb": [8.6, 1307986, "2026-10-26"],
+    "lbx": [4.3, 1118165, "2026-10-26"],
+    "rt": [95, 68255, "2026-10-26"]
    }
   },
   "the-pianist-2002": {
@@ -404,12 +473,15 @@
    "img": "m29",
    "aw": ["Won 3 Oscars of 7 nominations"],
    "ids": {
-    "imdb": "tt0253474"
+    "imdb": "tt0253474",
+    "rt": "m/pianist",
+    "mc": "movie/the-pianist",
+    "lbx": "the-pianist"
    },
    "s": {
-    "imdb": [8.5, 1027133, "2026-10-03"],
-    "lbx": [4.41, 1380071, "2026-10-03"],
-    "rt": [96, 50626, "2026-10-03"]
+    "imdb": [8.5, 1029723, "2026-10-26"],
+    "lbx": [4.41, 1400572, "2026-10-26"],
+    "rt": [96, 50640, "2026-10-26"]
    }
   },
   "american-history-x-1998": {
@@ -421,12 +493,15 @@
    "img": "m30",
    "aw": ["1 Oscar nomination"],
    "ids": {
-    "imdb": "tt0120586"
+    "imdb": "tt0120586",
+    "rt": "m/american_history_x",
+    "mc": "movie/american-history-x",
+    "lbx": "american-history-x"
    },
    "s": {
-    "imdb": [8.5, 1288765, "2026-10-03"],
-    "lbx": [4.17, 1004756, "2026-10-03"],
-    "rt": [96, 128393, "2026-10-03"]
+    "imdb": [8.5, 1291062, "2026-10-26"],
+    "lbx": [4.17, 1018634, "2026-10-26"],
+    "rt": [96, 128399, "2026-10-26"]
    }
   },
   "django-unchained-2012": {
@@ -438,12 +513,15 @@
    "img": "m35",
    "aw": ["Won 2 Oscars of 5 nominations"],
    "ids": {
-    "imdb": "tt1853728"
+    "imdb": "tt1853728",
+    "rt": "m/django_unchained_2012",
+    "mc": "movie/django-unchained",
+    "lbx": "django-unchained"
    },
    "s": {
-    "imdb": [8.5, 1917704, "2026-10-03"],
-    "lbx": [4.34, 3532999, "2026-10-03"],
-    "rt": [92, 136554, "2026-10-03"]
+    "imdb": [8.5, 1922521, "2026-10-26"],
+    "lbx": [4.35, 3575546, "2026-10-26"],
+    "rt": [92, 136580, "2026-10-26"]
    }
   },
   "wall-e-2008": {
@@ -455,12 +533,15 @@
    "img": "m37",
    "aw": ["Won 1 Oscar of 6 nominations"],
    "ids": {
-    "imdb": "tt0910970"
+    "imdb": "tt0910970",
+    "rt": "m/wall_e",
+    "mc": "movie/wall-e",
+    "lbx": "walle"
    },
    "s": {
-    "imdb": [8.4, 1344344, "2026-10-03"],
-    "lbx": [4.25, 2956321, "2026-10-03"],
-    "rt": [90, 151064, "2026-10-03"]
+    "imdb": [8.4, 1347232, "2026-10-26"],
+    "lbx": [4.25, 2997141, "2026-10-26"],
+    "rt": [90, 151080, "2026-10-26"]
    }
   },
   "coco-2017": {
@@ -472,12 +553,15 @@
    "img": "m38",
    "aw": ["Won 2 Oscars"],
    "ids": {
-    "imdb": "tt2380307"
+    "imdb": "tt2380307",
+    "rt": "m/coco_2017",
+    "mc": "movie/coco-2017",
+    "lbx": "coco-2017"
    },
    "s": {
-    "imdb": [8.4, 729194, "2026-10-03"],
-    "lbx": [4.13, 3326182, "2026-10-03"],
-    "rt": [94, 17393, "2026-10-03"]
+    "imdb": [8.4, 731962, "2026-10-26"],
+    "lbx": [4.13, 3376335, "2026-10-26"],
+    "rt": [94, 17432, "2026-10-26"]
    }
   },
   "oppenheimer-2023": {
@@ -489,12 +573,15 @@
    "img": "m39",
    "aw": ["Won 7 Oscars of 13 nominations"],
    "ids": {
-    "imdb": "tt15398776"
+    "imdb": "tt15398776",
+    "rt": "m/oppenheimer_2023",
+    "mc": "movie/oppenheimer",
+    "lbx": "oppenheimer-2023"
    },
    "s": {
-    "imdb": [8.2, 1102171, "2026-10-03"],
-    "lbx": [4.16, 4661268, "2026-10-03"],
-    "rt": [91, 15588, "2026-10-03"]
+    "imdb": [8.2, 1107764, "2026-10-26"],
+    "lbx": [4.15, 4719543, "2026-10-26"],
+    "rt": [91, 15588, "2026-10-26"]
    }
   },
   "joker-2019": {
@@ -506,12 +593,15 @@
    "img": "m41",
    "aw": ["Won 2 Oscars of 11 nominations"],
    "ids": {
-    "imdb": "tt7286456"
+    "imdb": "tt7286456",
+    "rt": "m/joker_2019",
+    "mc": "movie/joker",
+    "lbx": "joker-2019"
    },
    "s": {
-    "imdb": [8.3, 1729020, "2026-10-03"],
-    "lbx": [3.85, 4939084, "2026-10-03"],
-    "rt": [89, 66601, "2026-10-03"]
+    "imdb": [8.3, 1733188, "2026-10-26"],
+    "lbx": [3.85, 4992137, "2026-10-26"],
+    "rt": [89, 66601, "2026-10-26"]
    }
   },
   "raiders-of-the-lost-ark-1981": {
@@ -523,12 +613,15 @@
    "img": "m43",
    "aw": ["Won 4 Oscars of 8 nominations"],
    "ids": {
-    "imdb": "tt0082971"
+    "imdb": "tt0082971",
+    "rt": "m/raiders_of_the_lost_ark",
+    "mc": "movie/raiders-of-the-lost-ark",
+    "lbx": "raiders-of-the-lost-ark"
    },
    "s": {
-    "imdb": [8.4, 1122443, "2026-10-03"],
-    "lbx": [4.16, 1378668, "2026-10-03"],
-    "rt": [96, 81424, "2026-10-03"]
+    "imdb": [8.4, 1124268, "2026-10-26"],
+    "lbx": [4.16, 1392929, "2026-10-26"],
+    "rt": [96, 81434, "2026-10-26"]
    }
   },
   "the-shining-1980": {
@@ -539,12 +632,15 @@
    "sum": "A writer takes a winter caretaker job at an isolated hotel, and its malevolent presence takes hold of him.",
    "img": "m44",
    "ids": {
-    "imdb": "tt0081505"
+    "imdb": "tt0081505",
+    "rt": "m/shining",
+    "mc": "movie/the-shining",
+    "lbx": "the-shining"
    },
    "s": {
-    "imdb": [8.4, 1245881, "2026-10-03"],
-    "lbx": [4.21, 3428638, "2026-10-03"],
-    "rt": [93, 88044, "2026-10-03"]
+    "imdb": [8.4, 1249950, "2026-10-26"],
+    "lbx": [4.21, 3508201, "2026-10-26"],
+    "rt": [93, 88167, "2026-10-26"]
    }
   },
   "amadeus-1984": {
@@ -556,12 +652,15 @@
    "img": "m45",
    "aw": ["Won 8 Oscars of 11 nominations"],
    "ids": {
-    "imdb": "tt0086879"
+    "imdb": "tt0086879",
+    "rt": "m/amadeus",
+    "mc": "movie/amadeus",
+    "lbx": "amadeus"
    },
    "s": {
-    "imdb": [8.4, 474139, "2026-10-03"],
-    "lbx": [4.37, 594292, "2026-10-03"],
-    "rt": [95, 25710, "2026-10-03"]
+    "imdb": [8.4, 475033, "2026-10-26"],
+    "lbx": [4.37, 603824, "2026-10-26"],
+    "rt": [95, 25715, "2026-10-26"]
    }
   },
   "good-will-hunting-1997": {
@@ -573,12 +672,15 @@
    "img": "m46",
    "aw": ["Won 2 Oscars of 9 nominations"],
    "ids": {
-    "imdb": "tt0119217"
+    "imdb": "tt0119217",
+    "rt": "m/good_will_hunting",
+    "mc": "movie/good-will-hunting",
+    "lbx": "good-will-hunting"
    },
    "s": {
-    "imdb": [8.4, 1245706, "2026-10-03"],
-    "lbx": [4.39, 3638602, "2026-10-03"],
-    "rt": [94, 68321, "2026-10-03"]
+    "imdb": [8.4, 1249900, "2026-10-26"],
+    "lbx": [4.39, 3708143, "2026-10-26"],
+    "rt": [94, 68343, "2026-10-26"]
    }
   },
   "toy-story-1995": {
@@ -587,12 +689,15 @@
    "img": "m47",
    "aw": ["3 Oscar nominations"],
    "ids": {
-    "imdb": "tt0114709"
+    "imdb": "tt0114709",
+    "rt": "m/toy_story",
+    "mc": "movie/toy-story",
+    "lbx": "toy-story"
    },
    "s": {
-    "imdb": [8.3, 1201672, "2026-10-03"],
-    "lbx": [4.11, 2772208, "2026-10-03"],
-    "rt": [92, 81277, "2026-10-03"]
+    "imdb": [8.3, 1204497, "2026-10-26"],
+    "lbx": [4.11, 2807944, "2026-10-26"],
+    "rt": [92, 81277, "2026-10-26"]
    }
   },
   "toy-story-2-1999": {
@@ -601,12 +706,15 @@
    "img": "cm24",
    "aw": ["1 Oscar nomination"],
    "ids": {
-    "imdb": "tt0120363"
+    "imdb": "tt0120363",
+    "rt": "m/toy_story_2",
+    "mc": "movie/toy-story-2",
+    "lbx": "toy-story-2"
    },
    "s": {
-    "imdb": [7.9, 685823, "2026-10-03"],
-    "lbx": [3.94, 1819917, "2026-10-03"],
-    "rt": [87, 62466, "2026-10-03"]
+    "imdb": [7.9, 687308, "2026-10-26"],
+    "lbx": [3.94, 1843816, "2026-10-26"],
+    "rt": [87, 62485, "2026-10-26"]
    }
   },
   "toy-story-3-2010": {
@@ -615,12 +723,15 @@
    "img": "cm25",
    "aw": ["Won 2 Oscars of 5 nominations"],
    "ids": {
-    "imdb": "tt0435761"
+    "imdb": "tt0435761",
+    "rt": "m/toy_story_3",
+    "mc": "movie/toy-story-3",
+    "lbx": "toy-story-3"
    },
    "s": {
-    "imdb": [8.3, 992563, "2026-10-03"],
-    "lbx": [4.06, 1931115, "2026-10-03"],
-    "rt": [90, 178435, "2026-10-03"]
+    "imdb": [8.3, 994679, "2026-10-26"],
+    "lbx": [4.06, 1955645, "2026-10-26"],
+    "rt": [90, 178458, "2026-10-26"]
    }
   },
   "toy-story-4-2019": {
@@ -629,12 +740,15 @@
    "img": "cm26",
    "aw": ["Won 1 Oscar of 2 nominations"],
    "ids": {
-    "imdb": "tt1979376"
+    "imdb": "tt1979376",
+    "rt": "m/toy_story_4",
+    "mc": "movie/toy-story-4",
+    "lbx": "toy-story-4"
    },
    "s": {
-    "imdb": [7.6, 331117, "2026-10-03"],
-    "lbx": [3.29, 1456245, "2026-10-03"],
-    "rt": [94, 53247, "2026-10-03"]
+    "imdb": [7.6, 332495, "2026-10-26"],
+    "lbx": [3.29, 1474333, "2026-10-26"],
+    "rt": [94, 53247, "2026-10-26"]
    }
   },
   "toy-story-5-2026": {
@@ -642,12 +756,15 @@
    "y": 2026,
    "img": "cm14",
    "ids": {
-    "imdb": "tt29355505"
+    "imdb": "tt29355505",
+    "rt": "m/toy_story_5",
+    "mc": "movie/toy-story-5",
+    "lbx": "toy-story-5"
    },
    "s": {
-    "imdb": [7.3, 93470, "2026-10-03"],
-    "lbx": [3.63, 1169705, "2026-10-03"],
-    "rt": [94, 10641, "2026-10-03"]
+    "imdb": [7.3, 103027, "2026-10-26"],
+    "lbx": [3.61, 1251857, "2026-10-26"],
+    "rt": [94, 10731, "2026-10-26"]
    }
   },
   "up-2009": {
@@ -659,12 +776,15 @@
    "img": "m48",
    "aw": ["Won 2 Oscars of 5 nominations"],
    "ids": {
-    "imdb": "tt1049413"
+    "imdb": "tt1049413",
+    "rt": "m/up",
+    "mc": "movie/up",
+    "lbx": "up"
    },
    "s": {
-    "imdb": [8.3, 1258397, "2026-10-03"],
-    "lbx": [4.1, 3321504, "2026-10-03"],
-    "rt": [90, 126622, "2026-10-03"]
+    "imdb": [8.3, 1261022, "2026-10-26"],
+    "lbx": [4.1, 3364335, "2026-10-26"],
+    "rt": [90, 126635, "2026-10-26"]
    }
   },
   "inglourious-basterds-2009": {
@@ -676,12 +796,15 @@
    "img": "m49",
    "aw": ["Won 1 Oscar of 8 nominations"],
    "ids": {
-    "imdb": "tt0361748"
+    "imdb": "tt0361748",
+    "rt": "m/inglourious_basterds",
+    "mc": "movie/inglourious-basterds",
+    "lbx": "inglourious-basterds"
    },
    "s": {
-    "imdb": [8.4, 1821826, "2026-10-03"],
-    "lbx": [4.37, 3990858, "2026-10-03"],
-    "rt": [88, 113753, "2026-10-03"]
+    "imdb": [8.4, 1826056, "2026-10-26"],
+    "lbx": [4.37, 4044404, "2026-10-26"],
+    "rt": [88, 113778, "2026-10-26"]
    }
   },
   "memento-2000": {
@@ -693,12 +816,15 @@
    "img": "m50",
    "aw": ["2 Oscar nominations"],
    "ids": {
-    "imdb": "tt0209144"
+    "imdb": "tt0209144",
+    "rt": "m/memento",
+    "mc": "movie/memento",
+    "lbx": "memento"
    },
    "s": {
-    "imdb": [8.4, 1461634, "2026-10-03"],
-    "lbx": [4.18, 2208158, "2026-10-03"],
-    "rt": [94, 103087, "2026-10-03"]
+    "imdb": [8.4, 1464563, "2026-10-26"],
+    "lbx": [4.18, 2242432, "2026-10-26"],
+    "rt": [94, 103114, "2026-10-26"]
    }
   },
   "eternal-sunshine-of-the-spotless-mind-2004": {
@@ -710,12 +836,15 @@
    "img": "m51",
    "aw": ["Won 1 Oscar of 2 nominations"],
    "ids": {
-    "imdb": "tt0338013"
+    "imdb": "tt0338013",
+    "rt": "m/eternal_sunshine_of_the_spotless_mind",
+    "mc": "movie/eternal-sunshine-of-the-spotless-mind",
+    "lbx": "eternal-sunshine-of-the-spotless-mind"
    },
    "s": {
-    "imdb": [8.3, 1198286, "2026-10-03"],
-    "lbx": [4.24, 3838525, "2026-10-03"],
-    "rt": [94, 163933, "2026-10-03"]
+    "imdb": [8.3, 1200539, "2026-10-26"],
+    "lbx": [4.24, 3888069, "2026-10-26"],
+    "rt": [94, 163946, "2026-10-26"]
    }
   },
   "requiem-for-a-dream-2000": {
@@ -727,12 +856,15 @@
    "img": "m52",
    "aw": ["1 Oscar nomination"],
    "ids": {
-    "imdb": "tt0180093"
+    "imdb": "tt0180093",
+    "rt": "m/requiem_for_a_dream",
+    "mc": "movie/requiem-for-a-dream",
+    "lbx": "requiem-for-a-dream"
    },
    "s": {
-    "imdb": [8.3, 986551, "2026-10-03"],
-    "lbx": [4.11, 1806952, "2026-10-03"],
-    "rt": [93, 99132, "2026-10-03"]
+    "imdb": [8.3, 988314, "2026-10-26"],
+    "lbx": [4.11, 1832391, "2026-10-26"],
+    "rt": [93, 99140, "2026-10-26"]
    }
   },
   "reservoir-dogs-1992": {
@@ -743,12 +875,15 @@
    "sum": "After a botched diamond heist, the surviving robbers suspect one of them is an undercover cop.",
    "img": "m53",
    "ids": {
-    "imdb": "tt0105236"
+    "imdb": "tt0105236",
+    "rt": "m/reservoir_dogs",
+    "mc": "movie/reservoir-dogs",
+    "lbx": "reservoir-dogs"
    },
    "s": {
-    "imdb": [8.2, 1183528, "2026-10-03"],
-    "lbx": [4.14, 1732982, "2026-10-03"],
-    "rt": [94, 117991, "2026-10-03"]
+    "imdb": [8.2, 1185463, "2026-10-26"],
+    "lbx": [4.13, 1751512, "2026-10-26"],
+    "rt": [94, 118009, "2026-10-26"]
    }
   },
   "braveheart-1995": {
@@ -760,12 +895,15 @@
    "img": "m54",
    "aw": ["Won 5 Oscars of 10 nominations"],
    "ids": {
-    "imdb": "tt0112573"
+    "imdb": "tt0112573",
+    "rt": "m/1065684-braveheart",
+    "mc": "movie/braveheart",
+    "lbx": "braveheart"
    },
    "s": {
-    "imdb": [8.3, 1173764, "2026-10-03"],
-    "lbx": [3.93, 558539, "2026-10-03"],
-    "rt": [85, 149095, "2026-10-03"]
+    "imdb": [8.3, 1175467, "2026-10-26"],
+    "lbx": [3.93, 565187, "2026-10-26"],
+    "rt": [85, 149095, "2026-10-26"]
    }
   },
   "heat-1995": {
@@ -776,12 +914,15 @@
    "sum": "A meticulous LA crew of thieves and an obsessive detective circle each other toward a final showdown.",
    "img": "m55",
    "ids": {
-    "imdb": "tt0113277"
+    "imdb": "tt0113277",
+    "rt": "m/heat_1995",
+    "mc": "movie/heat",
+    "lbx": "heat-1995"
    },
    "s": {
-    "imdb": [8.3, 820225, "2026-10-03"],
-    "lbx": [4.32, 1310804, "2026-10-03"],
-    "rt": [94, 40861, "2026-10-03"]
+    "imdb": [8.3, 822340, "2026-10-26"],
+    "lbx": [4.32, 1332176, "2026-10-26"],
+    "rt": [94, 40876, "2026-10-26"]
    }
   },
   "cinema-paradiso-1988": {
@@ -793,12 +934,15 @@
    "img": "m59",
    "aw": ["Won 1 Oscar"],
    "ids": {
-    "imdb": "tt0095765"
+    "imdb": "tt0095765",
+    "rt": "m/cinema_paradiso",
+    "mc": "movie/cinema-paradiso",
+    "lbx": "cinema-paradiso"
    },
    "s": {
-    "imdb": [8.5, 321469, "2026-10-03"],
-    "lbx": [4.52, 561299, "2026-10-03"],
-    "rt": [96, 18987, "2026-10-03"]
+    "imdb": [8.5, 322232, "2026-10-26"],
+    "lbx": [4.52, 570722, "2026-10-26"],
+    "rt": [96, 18991, "2026-10-26"]
    }
   },
   "life-is-beautiful-1997": {
@@ -810,12 +954,15 @@
    "img": "m60",
    "aw": ["Won 3 Oscars of 7 nominations"],
    "ids": {
-    "imdb": "tt0118799"
+    "imdb": "tt0118799",
+    "rt": "m/1084398-life_is_beautiful",
+    "mc": "movie/life-is-beautiful",
+    "lbx": "life-is-beautiful"
    },
    "s": {
-    "imdb": [8.6, 824489, "2026-10-03"],
-    "lbx": [4.42, 854246, "2026-10-03"],
-    "rt": [96, 58834, "2026-10-03"]
+    "imdb": [8.6, 826406, "2026-10-26"],
+    "lbx": [4.42, 867034, "2026-10-26"],
+    "rt": [96, 58837, "2026-10-26"]
    }
   },
   "city-of-god-2002": {
@@ -827,12 +974,15 @@
    "img": "m61",
    "aw": ["4 Oscar nominations"],
    "ids": {
-    "imdb": "tt0317248"
+    "imdb": "tt0317248",
+    "rt": "m/city_of_god",
+    "mc": "movie/city-of-god",
+    "lbx": "city-of-god"
    },
    "s": {
-    "imdb": [8.6, 883736, "2026-10-03"],
-    "lbx": [4.58, 1306558, "2026-10-03"],
-    "rt": [97, 62727, "2026-10-03"]
+    "imdb": [8.6, 885690, "2026-10-26"],
+    "lbx": [4.58, 1329837, "2026-10-26"],
+    "rt": [97, 62734, "2026-10-26"]
    }
   },
   "oldboy-2003": {
@@ -843,12 +993,15 @@
    "sum": "A man imprisoned in a room for fifteen years without explanation is suddenly released and hunts for answers.",
    "img": "m62",
    "ids": {
-    "imdb": "tt0364569"
+    "imdb": "tt0364569",
+    "rt": "m/oldboy",
+    "mc": "movie/oldboy",
+    "lbx": "oldboy"
    },
    "s": {
-    "imdb": [8.3, 734375, "2026-10-03"],
-    "lbx": [4.36, 1730878, "2026-10-03"],
-    "rt": [94, 39688, "2026-10-03"]
+    "imdb": [8.3, 736500, "2026-10-26"],
+    "lbx": [4.36, 1758073, "2026-10-26"],
+    "rt": [94, 39698, "2026-10-26"]
    }
   },
   "the-intouchables-2011": {
@@ -859,12 +1012,15 @@
    "sum": "A wealthy quadriplegic hires a streetwise young man from the projects as his carer, and they become close friends.",
    "img": "m63",
    "ids": {
-    "imdb": "tt1675434"
+    "imdb": "tt1675434",
+    "rt": "m/the_intouchables",
+    "mc": "movie/the-intouchables",
+    "lbx": "the-intouchables"
    },
    "s": {
-    "imdb": [8.5, 1044315, "2026-10-03"],
-    "lbx": [4.16, 1021008, "2026-10-03"],
-    "rt": [93, 19240, "2026-10-03"]
+    "imdb": [8.5, 1046733, "2026-10-26"],
+    "lbx": [4.16, 1044374, "2026-10-26"],
+    "rt": [93, 19246, "2026-10-26"]
    }
   },
   "amelie-2001": {
@@ -876,12 +1032,15 @@
    "img": "m64",
    "aw": ["5 Oscar nominations"],
    "ids": {
-    "imdb": "tt0211915"
+    "imdb": "tt0211915",
+    "rt": "m/amelie",
+    "mc": "movie/amelie",
+    "lbx": "amelie"
    },
    "s": {
-    "imdb": [8.2, 848158, "2026-10-03"],
-    "lbx": [4.2, 1464421, "2026-10-03"],
-    "rt": [95, 135390, "2026-10-03"]
+    "imdb": [8.2, 849254, "2026-10-26"],
+    "lbx": [4.2, 1482862, "2026-10-26"],
+    "rt": [95, 135392, "2026-10-26"]
    }
   },
   "pan-s-labyrinth-2006": {
@@ -893,12 +1052,15 @@
    "img": "m65",
    "aw": ["Won 3 Oscars of 6 nominations"],
    "ids": {
-    "imdb": "tt0457430"
+    "imdb": "tt0457430",
+    "rt": "m/pans_labyrinth",
+    "mc": "movie/pans-labyrinth",
+    "lbx": "pans-labyrinth"
    },
    "s": {
-    "imdb": [8.2, 754004, "2026-10-03"],
-    "lbx": [4.15, 1071438, "2026-10-03"],
-    "rt": [91, 146926, "2026-10-03"]
+    "imdb": [8.2, 755824, "2026-10-26"],
+    "lbx": [4.15, 1109393, "2026-10-26"],
+    "rt": [91, 147318, "2026-10-26"]
    }
   },
   "no-country-for-old-men-2007": {
@@ -910,12 +1072,15 @@
    "img": "m66",
    "aw": ["Won 4 Oscars of 8 nominations"],
    "ids": {
-    "imdb": "tt0477348"
+    "imdb": "tt0477348",
+    "rt": "m/no_country_for_old_men",
+    "mc": "movie/no-country-for-old-men",
+    "lbx": "no-country-for-old-men"
    },
    "s": {
-    "imdb": [8.2, 1216359, "2026-10-03"],
-    "lbx": [4.3, 2426641, "2026-10-03"],
-    "rt": [86, 144612, "2026-10-03"]
+    "imdb": [8.2, 1219623, "2026-10-26"],
+    "lbx": [4.3, 2463786, "2026-10-26"],
+    "rt": [86, 144638, "2026-10-26"]
    }
   },
   "there-will-be-blood-2007": {
@@ -927,12 +1092,15 @@
    "img": "m67",
    "aw": ["Won 2 Oscars of 8 nominations"],
    "ids": {
-    "imdb": "tt0469494"
+    "imdb": "tt0469494",
+    "rt": "m/there_will_be_blood",
+    "mc": "movie/there-will-be-blood",
+    "lbx": "there-will-be-blood"
    },
    "s": {
-    "imdb": [8.2, 720686, "2026-10-03"],
-    "lbx": [4.46, 1421881, "2026-10-03"],
-    "rt": [86, 85871, "2026-10-03"]
+    "imdb": [8.2, 722397, "2026-10-26"],
+    "lbx": [4.46, 1441638, "2026-10-26"],
+    "rt": [86, 85883, "2026-10-26"]
    }
   },
   "mad-max-fury-road-2015": {
@@ -944,12 +1112,15 @@
    "img": "m68",
    "aw": ["Won 6 Oscars of 10 nominations"],
    "ids": {
-    "imdb": "tt1392190"
+    "imdb": "tt1392190",
+    "rt": "m/mad_max_fury_road",
+    "mc": "movie/mad-max-fury-road",
+    "lbx": "mad-max-fury-road"
    },
    "s": {
-    "imdb": [8.1, 1223065, "2026-10-03"],
-    "lbx": [4.17, 2282836, "2026-10-03"],
-    "rt": [86, 84783, "2026-10-03"]
+    "imdb": [8.1, 1225230, "2026-10-26"],
+    "lbx": [4.17, 2302667, "2026-10-26"],
+    "rt": [86, 84798, "2026-10-26"]
    }
   },
   "everything-everywhere-all-at-once-2022": {
@@ -961,12 +1132,15 @@
    "img": "m71",
    "aw": ["Won 7 Oscars of 11 nominations"],
    "ids": {
-    "imdb": "tt6710474"
+    "imdb": "tt6710474",
+    "rt": "m/everything_everywhere_all_at_once",
+    "mc": "movie/everything-everywhere-all-at-once",
+    "lbx": "everything-everywhere-all-at-once"
    },
    "s": {
-    "imdb": [7.7, 662842, "2026-10-03"],
-    "lbx": [4.24, 4166103, "2026-10-03"],
-    "rt": [79, 22946, "2026-10-03"]
+    "imdb": [7.7, 664536, "2026-10-26"],
+    "lbx": [4.24, 4203106, "2026-10-26"],
+    "rt": [79, 22966, "2026-10-26"]
    }
   },
   "top-gun-maverick-2022": {
@@ -978,12 +1152,15 @@
    "img": "m72",
    "aw": ["Won 1 Oscar of 6 nominations"],
    "ids": {
-    "imdb": "tt1745960"
+    "imdb": "tt1745960",
+    "rt": "m/top_gun_maverick",
+    "mc": "movie/top-gun-maverick",
+    "lbx": "top-gun-maverick"
    },
    "s": {
-    "imdb": [8.2, 907898, "2026-10-03"],
-    "lbx": [3.98, 2419312, "2026-10-03"],
-    "rt": [99, 64243, "2026-10-03"]
+    "imdb": [8.2, 910721, "2026-10-26"],
+    "lbx": [3.98, 2448390, "2026-10-26"],
+    "rt": [99, 64243, "2026-10-26"]
    }
   },
   "the-truman-show-1998": {
@@ -995,12 +1172,15 @@
    "img": "m73",
    "aw": ["3 Oscar nominations"],
    "ids": {
-    "imdb": "tt0120382"
+    "imdb": "tt0120382",
+    "rt": "m/truman_show",
+    "mc": "movie/the-truman-show",
+    "lbx": "the-truman-show"
    },
    "s": {
-    "imdb": [8.2, 1410345, "2026-10-03"],
-    "lbx": [4.22, 5374395, "2026-10-03"],
-    "rt": [89, 60585, "2026-10-03"]
+    "imdb": [8.2, 1415021, "2026-10-26"],
+    "lbx": [4.22, 5465554, "2026-10-26"],
+    "rt": [89, 60602, "2026-10-26"]
    }
   },
   "jurassic-park-1993": {
@@ -1012,12 +1192,15 @@
    "img": "m74",
    "aw": ["Won 3 Oscars"],
    "ids": {
-    "imdb": "tt0107290"
+    "imdb": "tt0107290",
+    "rt": "m/jurassic_park",
+    "mc": "movie/jurassic-park",
+    "lbx": "jurassic-park"
    },
    "s": {
-    "imdb": [8.2, 1201518, "2026-10-03"],
-    "lbx": [4.13, 2478765, "2026-10-03"],
-    "rt": [91, 93231, "2026-10-03"]
+    "imdb": [8.2, 1204081, "2026-10-26"],
+    "lbx": [4.13, 2510091, "2026-10-26"],
+    "rt": [91, 93251, "2026-10-26"]
    }
   },
   "die-hard-1988": {
@@ -1029,12 +1212,15 @@
    "img": "m75",
    "aw": ["4 Oscar nominations"],
    "ids": {
-    "imdb": "tt0095016"
+    "imdb": "tt0095016",
+    "rt": "m/die_hard",
+    "mc": "movie/die-hard",
+    "lbx": "die-hard"
    },
    "s": {
-    "imdb": [8.2, 1041398, "2026-10-03"],
-    "lbx": [4.06, 1279662, "2026-10-03"],
-    "rt": [94, 83651, "2026-10-03"]
+    "imdb": [8.2, 1043099, "2026-10-26"],
+    "lbx": [4.06, 1290316, "2026-10-26"],
+    "rt": [94, 83661, "2026-10-26"]
    }
   },
   "titanic-1997": {
@@ -1046,12 +1232,15 @@
    "img": "m76",
    "aw": ["Won 11 Oscars of 14 nominations"],
    "ids": {
-    "imdb": "tt0120338"
+    "imdb": "tt0120338",
+    "rt": "m/titanic",
+    "mc": "movie/titanic",
+    "lbx": "titanic-1997"
    },
    "s": {
-    "imdb": [8, 1415385, "2026-10-03"],
-    "lbx": [3.84, 3502779, "2026-10-03"],
-    "rt": [69, 426012, "2026-10-03"]
+    "imdb": [8, 1418173, "2026-10-26"],
+    "lbx": [3.84, 3552810, "2026-10-26"],
+    "rt": [69, 426012, "2026-10-26"]
    }
   },
   "the-social-network-2010": {
@@ -1063,12 +1252,15 @@
    "img": "m77",
    "aw": ["Won 3 Oscars of 8 nominations"],
    "ids": {
-    "imdb": "tt1285016"
+    "imdb": "tt1285016",
+    "rt": "m/the-social-network",
+    "mc": "movie/the-social-network",
+    "lbx": "the-social-network"
    },
    "s": {
-    "imdb": [7.8, 830887, "2026-10-03"],
-    "lbx": [3.92, 2865708, "2026-10-03"],
-    "rt": [87, 95093, "2026-10-03"]
+    "imdb": [7.8, 833532, "2026-10-26"],
+    "lbx": [3.92, 2919910, "2026-10-26"],
+    "rt": [87, 95179, "2026-10-26"]
    }
   },
   "gone-girl-2014": {
@@ -1080,12 +1272,15 @@
    "img": "m78",
    "aw": ["1 Oscar nomination"],
    "ids": {
-    "imdb": "tt2267998"
+    "imdb": "tt2267998",
+    "rt": "m/gone_girl",
+    "mc": "movie/gone-girl",
+    "lbx": "gone-girl"
    },
    "s": {
-    "imdb": [8.1, 1190329, "2026-10-03"],
-    "lbx": [4.07, 3340487, "2026-10-03"],
-    "rt": [87, 73825, "2026-10-03"]
+    "imdb": [8.1, 1193179, "2026-10-26"],
+    "lbx": [4.07, 3373863, "2026-10-26"],
+    "rt": [87, 73839, "2026-10-26"]
    }
   },
   "prisoners-2013": {
@@ -1097,12 +1292,15 @@
    "img": "m79",
    "aw": ["1 Oscar nomination"],
    "ids": {
-    "imdb": "tt1392214"
+    "imdb": "tt1392214",
+    "rt": "m/prisoners_2013",
+    "mc": "movie/prisoners",
+    "lbx": "prisoners"
    },
    "s": {
-    "imdb": [8.2, 961770, "2026-10-03"],
-    "lbx": [4.34, 2508880, "2026-10-03"],
-    "rt": [87, 50363, "2026-10-03"]
+    "imdb": [8.2, 964997, "2026-10-26"],
+    "lbx": [4.34, 2547899, "2026-10-26"],
+    "rt": [87, 50379, "2026-10-26"]
    }
   },
   "shutter-island-2010": {
@@ -1113,12 +1311,15 @@
    "sum": "A US marshal investigates a patient's disappearance from an island hospital for the criminally insane.",
    "img": "m80",
    "ids": {
-    "imdb": "tt1130884"
+    "imdb": "tt1130884",
+    "rt": "m/1198124-shutter_island",
+    "mc": "movie/shutter-island",
+    "lbx": "shutter-island"
    },
    "s": {
-    "imdb": [8.2, 1688385, "2026-10-03"],
-    "lbx": [4.2, 3818781, "2026-10-03"],
-    "rt": [77, 92658, "2026-10-03"]
+    "imdb": [8.2, 1693387, "2026-10-26"],
+    "lbx": [4.2, 3882048, "2026-10-26"],
+    "rt": [77, 92686, "2026-10-26"]
    }
   },
   "the-wolf-of-wall-street-2013": {
@@ -1130,12 +1331,15 @@
    "img": "m81",
    "aw": ["5 Oscar nominations"],
    "ids": {
-    "imdb": "tt0993846"
+    "imdb": "tt0993846",
+    "rt": "m/the_wolf_of_wall_street_2013",
+    "mc": "movie/the-wolf-of-wall-street",
+    "lbx": "the-wolf-of-wall-street"
    },
    "s": {
-    "imdb": [8.2, 1829808, "2026-10-03"],
-    "lbx": [4, 4405097, "2026-10-03"],
-    "rt": [83, 85540, "2026-10-03"]
+    "imdb": [8.2, 1834321, "2026-10-26"],
+    "lbx": [4, 4464912, "2026-10-26"],
+    "rt": [83, 85567, "2026-10-26"]
    }
   },
   "the-grand-budapest-hotel-2014": {
@@ -1147,12 +1351,15 @@
    "img": "m82",
    "aw": ["Won 4 Oscars of 9 nominations"],
    "ids": {
-    "imdb": "tt2278388"
+    "imdb": "tt2278388",
+    "rt": "m/the_grand_budapest_hotel",
+    "mc": "movie/the-grand-budapest-hotel",
+    "lbx": "the-grand-budapest-hotel"
    },
    "s": {
-    "imdb": [8.1, 988458, "2026-10-03"],
-    "lbx": [4.24, 3491541, "2026-10-03"],
-    "rt": [87, 52315, "2026-10-03"]
+    "imdb": [8.1, 990389, "2026-10-26"],
+    "lbx": [4.24, 3528558, "2026-10-26"],
+    "rt": [87, 52328, "2026-10-26"]
    }
   },
   "inside-out-2015": {
@@ -1164,12 +1371,15 @@
    "img": "m83",
    "aw": ["Won 1 Oscar of 2 nominations"],
    "ids": {
-    "imdb": "tt2096673"
+    "imdb": "tt2096673",
+    "rt": "m/inside_out_2015",
+    "mc": "movie/inside-out-2015",
+    "lbx": "inside-out-2015"
    },
    "s": {
-    "imdb": [8.1, 934731, "2026-10-03"],
-    "lbx": [3.82, 3462309, "2026-10-03"],
-    "rt": [89, 70606, "2026-10-03"]
+    "imdb": [8.1, 936938, "2026-10-26"],
+    "lbx": [3.82, 3503697, "2026-10-26"],
+    "rt": [89, 70616, "2026-10-26"]
    }
   },
   "ratatouille-2007": {
@@ -1181,12 +1391,15 @@
    "img": "m84",
    "aw": ["Won 1 Oscar of 5 nominations"],
    "ids": {
-    "imdb": "tt0382932"
+    "imdb": "tt0382932",
+    "rt": "m/ratatouille",
+    "mc": "movie/ratatouille",
+    "lbx": "ratatouille"
    },
    "s": {
-    "imdb": [8.1, 968289, "2026-10-03"],
-    "lbx": [4.23, 4073930, "2026-10-03"],
-    "rt": [87, 180265, "2026-10-03"]
+    "imdb": [8.1, 971111, "2026-10-26"],
+    "lbx": [4.23, 4133959, "2026-10-26"],
+    "rt": [87, 180275, "2026-10-26"]
    }
   },
   "finding-nemo-2003": {
@@ -1198,12 +1411,15 @@
    "img": "m85",
    "aw": ["Won 1 Oscar of 4 nominations"],
    "ids": {
-    "imdb": "tt0266543"
+    "imdb": "tt0266543",
+    "rt": "m/finding_nemo",
+    "mc": "movie/finding-nemo",
+    "lbx": "finding-nemo"
    },
    "s": {
-    "imdb": [8.2, 1227252, "2026-10-03"],
-    "lbx": [4.02, 2623231, "2026-10-03"],
-    "rt": [86, 319558, "2026-10-03"]
+    "imdb": [8.2, 1229535, "2026-10-26"],
+    "lbx": [4.02, 2656707, "2026-10-26"],
+    "rt": [86, 319558, "2026-10-26"]
    }
   },
   "monsters-inc-2001": {
@@ -1215,12 +1431,15 @@
    "img": "m86",
    "aw": ["Won 1 Oscar of 4 nominations"],
    "ids": {
-    "imdb": "tt0198781"
+    "imdb": "tt0198781",
+    "rt": "m/monsters_inc",
+    "mc": "movie/monsters-inc",
+    "lbx": "monsters-inc"
    },
    "s": {
-    "imdb": [8.1, 1093539, "2026-10-03"],
-    "lbx": [4.08, 2597888, "2026-10-03"],
-    "rt": [90, 103168, "2026-10-03"]
+    "imdb": [8.1, 1095829, "2026-10-26"],
+    "lbx": [4.08, 2635463, "2026-10-26"],
+    "rt": [90, 103168, "2026-10-26"]
    }
   },
   "how-to-train-your-dragon-2010": {
@@ -1232,12 +1451,15 @@
    "img": "m87",
    "aw": ["2 Oscar nominations"],
    "ids": {
-    "imdb": "tt0892769"
+    "imdb": "tt0892769",
+    "rt": "m/how_to_train_your_dragon",
+    "mc": "movie/how-to-train-your-dragon",
+    "lbx": "how-to-train-your-dragon"
    },
    "s": {
-    "imdb": [8.1, 910473, "2026-10-03"],
-    "lbx": [4.16, 2118501, "2026-10-03"],
-    "rt": [91, 89187, "2026-10-03"]
+    "imdb": [8.1, 912421, "2026-10-26"],
+    "lbx": [4.16, 2154167, "2026-10-26"],
+    "rt": [91, 89201, "2026-10-26"]
    }
   },
   "hacksaw-ridge-2016": {
@@ -1249,12 +1471,15 @@
    "img": "m88",
    "aw": ["Won 2 Oscars of 6 nominations"],
    "ids": {
-    "imdb": "tt2119532"
+    "imdb": "tt2119532",
+    "rt": "m/hacksaw_ridge",
+    "mc": "movie/hacksaw-ridge",
+    "lbx": "hacksaw-ridge"
    },
    "s": {
-    "imdb": [8.1, 698743, "2026-10-03"],
-    "lbx": [4.07, 1254873, "2026-10-03"],
-    "rt": [92, 27301, "2026-10-03"]
+    "imdb": [8.1, 700907, "2026-10-26"],
+    "lbx": [4.07, 1273818, "2026-10-26"],
+    "rt": [92, 27313, "2026-10-26"]
    }
   },
   "1917-2019": {
@@ -1266,12 +1491,15 @@
    "img": "m89",
    "aw": ["Won 3 Oscars of 10 nominations"],
    "ids": {
-    "imdb": "tt8579674"
+    "imdb": "tt8579674",
+    "rt": "m/1917_2019",
+    "mc": "movie/1917",
+    "lbx": "1917"
    },
    "s": {
-    "imdb": [8.2, 787999, "2026-10-03"],
-    "lbx": [4.13, 2014436, "2026-10-03"],
-    "rt": [88, 30623, "2026-10-03"]
+    "imdb": [8.2, 790204, "2026-10-26"],
+    "lbx": [4.13, 2032834, "2026-10-26"],
+    "rt": [88, 30623, "2026-10-26"]
    }
   },
   "ford-v-ferrari-2019": {
@@ -1283,12 +1511,15 @@
    "img": "m90",
    "aw": ["Won 2 Oscars of 4 nominations"],
    "ids": {
-    "imdb": "tt1950186"
+    "imdb": "tt1950186",
+    "rt": "m/ford_v_ferrari",
+    "mc": "movie/ford-v-ferrari",
+    "lbx": "ford-v-ferrari"
    },
    "s": {
-    "imdb": [8.1, 588519, "2026-10-03"],
-    "lbx": [4.06, 1141747, "2026-10-03"],
-    "rt": [98, 24198, "2026-10-03"]
+    "imdb": [8.1, 590592, "2026-10-26"],
+    "lbx": [4.06, 1154314, "2026-10-26"],
+    "rt": [98, 24198, "2026-10-26"]
    }
   },
   "the-sixth-sense-1999": {
@@ -1300,12 +1531,15 @@
    "img": "m91",
    "aw": ["6 Oscar nominations"],
    "ids": {
-    "imdb": "tt0167404"
+    "imdb": "tt0167404",
+    "rt": "m/sixth_sense",
+    "mc": "movie/the-sixth-sense",
+    "lbx": "the-sixth-sense"
    },
    "s": {
-    "imdb": [8.2, 1167061, "2026-10-03"],
-    "lbx": [4.11, 1617332, "2026-10-03"],
-    "rt": [90, 79693, "2026-10-03"]
+    "imdb": [8.2, 1172428, "2026-10-26"],
+    "lbx": [4.12, 1693215, "2026-10-26"],
+    "rt": [90, 79757, "2026-10-26"]
    }
   },
   "catch-me-if-you-can-2002": {
@@ -1317,12 +1551,15 @@
    "img": "m92",
    "aw": ["2 Oscar nominations"],
    "ids": {
-    "imdb": "tt0264464"
+    "imdb": "tt0264464",
+    "rt": "m/catch_me_if_you_can",
+    "mc": "movie/catch-me-if-you-can",
+    "lbx": "catch-me-if-you-can-2002"
    },
    "s": {
-    "imdb": [8.1, 1267764, "2026-10-03"],
-    "lbx": [4.06, 2710895, "2026-10-03"],
-    "rt": [89, 68424, "2026-10-03"]
+    "imdb": [8.1, 1271094, "2026-10-26"],
+    "lbx": [4.06, 2748307, "2026-10-26"],
+    "rt": [89, 68433, "2026-10-26"]
    }
   },
   "a-beautiful-mind-2001": {
@@ -1334,12 +1571,15 @@
    "img": "m93",
    "aw": ["Won 4 Oscars of 8 nominations"],
    "ids": {
-    "imdb": "tt0268978"
+    "imdb": "tt0268978",
+    "rt": "m/beautiful_mind",
+    "mc": "movie/a-beautiful-mind",
+    "lbx": "a-beautiful-mind"
    },
    "s": {
-    "imdb": [8.2, 1065259, "2026-10-03"],
-    "lbx": [3.88, 679633, "2026-10-03"],
-    "rt": [93, 88609, "2026-10-03"]
+    "imdb": [8.2, 1066935, "2026-10-26"],
+    "lbx": [3.89, 688802, "2026-10-26"],
+    "rt": [93, 88612, "2026-10-26"]
    }
   },
   "spotlight-2015": {
@@ -1351,12 +1591,15 @@
    "img": "m94",
    "aw": ["Won 2 Oscars of 6 nominations"],
    "ids": {
-    "imdb": "tt1895587"
+    "imdb": "tt1895587",
+    "rt": "m/spotlight_2015",
+    "mc": "movie/spotlight",
+    "lbx": "spotlight"
    },
    "s": {
-    "imdb": [8.1, 541734, "2026-10-03"],
-    "lbx": [4.13, 649826, "2026-10-03"],
-    "rt": [93, 33737, "2026-10-03"]
+    "imdb": [8.1, 542666, "2026-10-26"],
+    "lbx": [4.13, 655569, "2026-10-26"],
+    "rt": [93, 33743, "2026-10-26"]
    }
   },
   "arrival-2016": {
@@ -1368,12 +1611,15 @@
    "img": "m95",
    "aw": ["Won 1 Oscar of 8 nominations"],
    "ids": {
-    "imdb": "tt2543164"
+    "imdb": "tt2543164",
+    "rt": "m/arrival_2016",
+    "mc": "movie/arrival",
+    "lbx": "arrival-2016"
    },
    "s": {
-    "imdb": [7.9, 881850, "2026-10-03"],
-    "lbx": [4.14, 2748015, "2026-10-03"],
-    "rt": [83, 47533, "2026-10-03"]
+    "imdb": [7.9, 884346, "2026-10-26"],
+    "lbx": [4.14, 2783565, "2026-10-26"],
+    "rt": [83, 47562, "2026-10-26"]
    }
   },
   "groundhog-day-1993": {
@@ -1384,12 +1630,15 @@
    "sum": "A cynical TV weatherman is stuck reliving the same day in a small town, over and over.",
    "img": "m97",
    "ids": {
-    "imdb": "tt0107048"
+    "imdb": "tt0107048",
+    "rt": "m/groundhog_day",
+    "mc": "movie/groundhog-day",
+    "lbx": "groundhog-day"
    },
    "s": {
-    "imdb": [8, 741692, "2026-10-03"],
-    "lbx": [3.81, 949010, "2026-10-03"],
-    "rt": [88, 37117, "2026-10-03"]
+    "imdb": [8, 742610, "2026-10-26"],
+    "lbx": [3.81, 957629, "2026-10-26"],
+    "rt": [88, 37130, "2026-10-26"]
    }
   },
   "the-thing-1982": {
@@ -1400,12 +1649,15 @@
    "sum": "Researchers in Antarctica are hunted by a shape-shifting alien that can imitate any of them.",
    "img": "m98",
    "ids": {
-    "imdb": "tt0084787"
+    "imdb": "tt0084787",
+    "rt": "m/1021244-thing",
+    "mc": "movie/the-thing-1982",
+    "lbx": "the-thing"
    },
    "s": {
-    "imdb": [8.2, 537038, "2026-10-03"],
-    "lbx": [4.35, 1442212, "2026-10-03"],
-    "rt": [92, 28230, "2026-10-03"]
+    "imdb": [8.2, 539917, "2026-10-26"],
+    "lbx": [4.35, 1495531, "2026-10-26"],
+    "rt": [92, 28324, "2026-10-26"]
    }
   },
   "stand-by-me-1986": {
@@ -1417,12 +1669,15 @@
    "img": "m99",
    "aw": ["1 Oscar nomination"],
    "ids": {
-    "imdb": "tt0092005"
+    "imdb": "tt0092005",
+    "rt": "m/stand_by_me_1986",
+    "mc": "movie/stand-by-me",
+    "lbx": "stand-by-me"
    },
    "s": {
-    "imdb": [8.1, 496012, "2026-10-03"],
-    "lbx": [4.2, 1382388, "2026-10-03"],
-    "rt": [94, 40952, "2026-10-03"]
+    "imdb": [8.1, 497123, "2026-10-26"],
+    "lbx": [4.2, 1399449, "2026-10-26"],
+    "rt": [94, 40958, "2026-10-26"]
    }
   },
   "the-lord-of-the-rings-the-fellowship-of-the-ring-2001": {
@@ -1431,12 +1686,15 @@
    "img": "m5",
    "aw": ["Won 4 Oscars of 13 nominations"],
    "ids": {
-    "imdb": "tt0120737"
+    "imdb": "tt0120737",
+    "rt": "m/the_lord_of_the_rings_the_fellowship_of_the_ring",
+    "mc": "movie/the-lord-of-the-rings-the-fellowship-of-the-ring",
+    "lbx": "the-lord-of-the-rings-the-fellowship-of-the-ring"
    },
    "s": {
-    "imdb": [8.9, 2241687, "2026-10-03"],
-    "lbx": [4.39, 3294199, "2026-10-03"],
-    "rt": [95, 176022, "2026-10-03"]
+    "imdb": [8.9, 2247612, "2026-10-26"],
+    "lbx": [4.39, 3345599, "2026-10-26"],
+    "rt": [95, 176022, "2026-10-26"]
    }
   },
   "the-lord-of-the-rings-the-two-towers-2002": {
@@ -1445,12 +1703,15 @@
    "img": "m8",
    "aw": ["Won 2 Oscars of 6 nominations"],
    "ids": {
-    "imdb": "tt0167261"
+    "imdb": "tt0167261",
+    "rt": "m/the_lord_of_the_rings_the_two_towers",
+    "mc": "movie/the-lord-of-the-rings-the-two-towers",
+    "lbx": "the-lord-of-the-rings-the-two-towers"
    },
    "s": {
-    "imdb": [8.8, 1987937, "2026-10-03"],
-    "lbx": [4.44, 2453640, "2026-10-03"],
-    "rt": [95, 159555, "2026-10-03"]
+    "imdb": [8.8, 1992920, "2026-10-26"],
+    "lbx": [4.44, 2491153, "2026-10-26"],
+    "rt": [95, 159555, "2026-10-26"]
    }
   },
   "the-lord-of-the-rings-the-return-of-the-king-2003": {
@@ -1459,12 +1720,15 @@
    "img": "m3",
    "aw": ["Won 11 Oscars"],
    "ids": {
-    "imdb": "tt0167260"
+    "imdb": "tt0167260",
+    "rt": "m/the_lord_of_the_rings_the_return_of_the_king",
+    "mc": "movie/the-lord-of-the-rings-the-return-of-the-king",
+    "lbx": "the-lord-of-the-rings-the-return-of-the-king"
    },
    "s": {
-    "imdb": [9, 2197829, "2026-10-03"],
-    "lbx": [4.56, 2506560, "2026-10-03"],
-    "rt": [86, 224859, "2026-10-03"]
+    "imdb": [9, 2203404, "2026-10-26"],
+    "lbx": [4.56, 2545240, "2026-10-26"],
+    "rt": [86, 224859, "2026-10-26"]
    }
   },
   "batman-begins-2005": {
@@ -1473,12 +1737,15 @@
    "img": "xm0",
    "aw": ["1 Oscar nomination"],
    "ids": {
-    "imdb": "tt0372784"
+    "imdb": "tt0372784",
+    "rt": "m/batman_begins",
+    "mc": "movie/batman-begins",
+    "lbx": "batman-begins"
    },
    "s": {
-    "imdb": [8.2, 1747535, "2026-10-03"],
-    "lbx": [3.85, 2399892, "2026-10-03"],
-    "rt": [94, 183004, "2026-10-03"]
+    "imdb": [8.2, 1751085, "2026-10-26"],
+    "lbx": [3.85, 2435006, "2026-10-26"],
+    "rt": [94, 183025, "2026-10-26"]
    }
   },
   "the-dark-knight-2008": {
@@ -1487,12 +1754,15 @@
    "img": "m1",
    "aw": ["Won 2 Oscars of 8 nominations"],
    "ids": {
-    "imdb": "tt0468569"
+    "imdb": "tt0468569",
+    "rt": "m/the_dark_knight",
+    "mc": "movie/the-dark-knight",
+    "lbx": "the-dark-knight"
    },
    "s": {
-    "imdb": [9.1, 3234485, "2026-10-03"],
-    "lbx": [4.5, 4886959, "2026-10-03"],
-    "rt": [94, 524110, "2026-10-03"]
+    "imdb": [9.1, 3243164, "2026-10-26"],
+    "lbx": [4.5, 4959116, "2026-10-26"],
+    "rt": [94, 524110, "2026-10-26"]
    }
   },
   "the-dark-knight-rises-2012": {
@@ -1500,12 +1770,15 @@
    "y": 2012,
    "img": "m36",
    "ids": {
-    "imdb": "tt1345836"
+    "imdb": "tt1345836",
+    "rt": "m/the_dark_knight_rises",
+    "mc": "movie/the-dark-knight-rises",
+    "lbx": "the-dark-knight-rises"
    },
    "s": {
-    "imdb": [8.4, 2031102, "2026-10-03"],
-    "lbx": [3.83, 2296939, "2026-10-03"],
-    "rt": [90, 332106, "2026-10-03"]
+    "imdb": [8.4, 2034809, "2026-10-26"],
+    "lbx": [3.83, 2326661, "2026-10-26"],
+    "rt": [90, 332125, "2026-10-26"]
    }
   },
   "spider-man-into-the-spider-verse-2018": {
@@ -1514,12 +1787,15 @@
    "img": "m32",
    "aw": ["Won 1 Oscar"],
    "ids": {
-    "imdb": "tt4633694"
+    "imdb": "tt4633694",
+    "rt": "m/spider_man_into_the_spider_verse",
+    "mc": "movie/spider-man-into-the-spider-verse",
+    "lbx": "spider-man-into-the-spider-verse"
    },
    "s": {
-    "imdb": [8.4, 819138, "2026-10-03"],
-    "lbx": [4.4, 5032748, "2026-10-03"],
-    "rt": [93, 24637, "2026-10-03"]
+    "imdb": [8.4, 822026, "2026-10-26"],
+    "lbx": [4.4, 5098219, "2026-10-26"],
+    "rt": [93, 24664, "2026-10-26"]
    }
   },
   "spider-man-across-the-spider-verse-2023": {
@@ -1528,12 +1804,15 @@
    "img": "m31",
    "aw": ["1 Oscar nomination"],
    "ids": {
-    "imdb": "tt9362722"
+    "imdb": "tt9362722",
+    "rt": "m/spider_man_across_the_spider_verse",
+    "mc": "movie/spider-man-across-the-spider-verse",
+    "lbx": "spider-man-across-the-spider-verse"
    },
    "s": {
-    "imdb": [8.5, 556197, "2026-10-03"],
-    "lbx": [4.4, 4137184, "2026-10-03"],
-    "rt": [95, 15580, "2026-10-03"]
+    "imdb": [8.5, 559709, "2026-10-26"],
+    "lbx": [4.4, 4197585, "2026-10-26"],
+    "rt": [95, 15580, "2026-10-26"]
    }
   },
   "the-avengers-2012": {
@@ -1542,12 +1821,15 @@
    "img": "xm3",
    "aw": ["1 Oscar nomination"],
    "ids": {
-    "imdb": "tt0848228"
+    "imdb": "tt0848228",
+    "rt": "m/marvels_the_avengers",
+    "mc": "movie/the-avengers-2012",
+    "lbx": "the-avengers-2012"
    },
    "s": {
-    "imdb": [8, 1586114, "2026-10-03"],
-    "lbx": [3.78, 3053954, "2026-10-03"],
-    "rt": [91, 315482, "2026-10-03"]
+    "imdb": [8, 1589250, "2026-10-26"],
+    "lbx": [3.78, 3117388, "2026-10-26"],
+    "rt": [91, 315517, "2026-10-26"]
    }
   },
   "avengers-age-of-ultron-2015": {
@@ -1555,12 +1837,15 @@
    "y": 2015,
    "img": "xm4",
    "ids": {
-    "imdb": "tt2395427"
+    "imdb": "tt2395427",
+    "rt": "m/avengers_age_of_ultron",
+    "mc": "movie/avengers-age-of-ultron",
+    "lbx": "avengers-age-of-ultron"
    },
    "s": {
-    "imdb": [7.3, 1024713, "2026-10-03"],
-    "lbx": [3.33, 2333038, "2026-10-03"],
-    "rt": [82, 101718, "2026-10-03"]
+    "imdb": [7.3, 1027813, "2026-10-26"],
+    "lbx": [3.34, 2386824, "2026-10-26"],
+    "rt": [82, 101753, "2026-10-26"]
    }
   },
   "avengers-infinity-war-2018": {
@@ -1569,12 +1854,15 @@
    "img": "m34",
    "aw": ["1 Oscar nomination"],
    "ids": {
-    "imdb": "tt4154756"
+    "imdb": "tt4154756",
+    "rt": "m/avengers_infinity_war",
+    "mc": "movie/avengers-infinity-war",
+    "lbx": "avengers-infinity-war"
    },
    "s": {
-    "imdb": [8.4, 1414689, "2026-10-03"],
-    "lbx": [4.09, 4062211, "2026-10-03"],
-    "rt": [92, 48208, "2026-10-03"]
+    "imdb": [8.4, 1419885, "2026-10-26"],
+    "lbx": [4.1, 4136077, "2026-10-26"],
+    "rt": [92, 48265, "2026-10-26"]
    }
   },
   "avengers-endgame-2019": {
@@ -1583,12 +1871,15 @@
    "img": "m33",
    "aw": ["1 Oscar nomination"],
    "ids": {
-    "imdb": "tt4154796"
+    "imdb": "tt4154796",
+    "rt": "m/avengers_endgame",
+    "mc": "movie/avengers-endgame",
+    "lbx": "avengers-endgame"
    },
    "s": {
-    "imdb": [8.4, 1494990, "2026-10-03"],
-    "lbx": [4.03, 4091706, "2026-10-03"],
-    "rt": [96, 3443, "2026-10-03"]
+    "imdb": [8.4, 1502957, "2026-10-26"],
+    "lbx": [4.03, 4198467, "2026-10-26"],
+    "rt": [96, 3871, "2026-10-26"]
    }
   },
   "dune-part-one-2021": {
@@ -1597,12 +1888,15 @@
    "img": "xm2",
    "aw": ["Won 6 Oscars of 10 nominations"],
    "ids": {
-    "imdb": "tt1160419"
+    "imdb": "tt1160419",
+    "rt": "m/dune_2021",
+    "mc": "movie/dune-part-one",
+    "lbx": "dune-2021"
    },
    "s": {
-    "imdb": [8, 1093581, "2026-10-03"],
-    "lbx": [3.89, 4495485, "2026-10-03"],
-    "rt": [90, 7121, "2026-10-03"]
+    "imdb": [8, 1097541, "2026-10-26"],
+    "lbx": [3.89, 4555726, "2026-10-26"],
+    "rt": [90, 7121, "2026-10-26"]
    }
   },
   "dune-part-two-2024": {
@@ -1611,12 +1905,15 @@
    "img": "m40",
    "aw": ["Won 2 Oscars of 5 nominations"],
    "ids": {
-    "imdb": "tt15239678"
+    "imdb": "tt15239678",
+    "rt": "m/dune_part_two",
+    "mc": "movie/dune-part-two",
+    "lbx": "dune-part-two"
    },
    "s": {
-    "imdb": [8.4, 796839, "2026-10-03"],
-    "lbx": [4.38, 3685818, "2026-10-03"],
-    "rt": [95, 7880, "2026-10-03"]
+    "imdb": [8.4, 801465, "2026-10-26"],
+    "lbx": [4.37, 3737906, "2026-10-26"],
+    "rt": [95, 7880, "2026-10-26"]
    }
   },
   "blade-runner-1982": {
@@ -1625,12 +1922,15 @@
    "img": "m69",
    "aw": ["2 Oscar nominations"],
    "ids": {
-    "imdb": "tt0083658"
+    "imdb": "tt0083658",
+    "rt": "m/blade_runner",
+    "mc": "movie/blade-runner",
+    "lbx": "blade-runner"
    },
    "s": {
-    "imdb": [8.1, 892851, "2026-10-03"],
-    "lbx": [4.09, 1549133, "2026-10-03"],
-    "rt": [91, 85233, "2026-10-03"]
+    "imdb": [8.1, 894896, "2026-10-26"],
+    "lbx": [4.09, 1569491, "2026-10-26"],
+    "rt": [91, 85248, "2026-10-26"]
    }
   },
   "blade-runner-2049-2017": {
@@ -1639,12 +1939,15 @@
    "img": "m70",
    "aw": ["Won 2 Oscars of 5 nominations"],
    "ids": {
-    "imdb": "tt1856101"
+    "imdb": "tt1856101",
+    "rt": "m/blade_runner_2049",
+    "mc": "movie/blade-runner-2049",
+    "lbx": "blade-runner-2049"
    },
    "s": {
-    "imdb": [8, 770702, "2026-10-03"],
-    "lbx": [4.1, 2357317, "2026-10-03"],
-    "rt": [88, 4043, "2026-10-03"]
+    "imdb": [8, 773550, "2026-10-26"],
+    "lbx": [4.1, 2389593, "2026-10-26"],
+    "rt": [88, 4088, "2026-10-26"]
    }
   },
   "12-angry-men-1957": {
@@ -1656,12 +1959,15 @@
    "img": "m102",
    "aw": ["3 Oscar nominations"],
    "ids": {
-    "imdb": "tt0050083"
+    "imdb": "tt0050083",
+    "rt": "m/1000013_12_angry_men",
+    "mc": "movie/12-angry-men",
+    "lbx": "12-angry-men"
    },
    "s": {
-    "imdb": [9, 1005842, "2026-10-03"],
-    "lbx": [4.63, 1756663, "2026-10-03"],
-    "rt": [97, 29369, "2026-10-03"]
+    "imdb": [9, 1009334, "2026-10-26"],
+    "lbx": [4.63, 1788673, "2026-10-26"],
+    "rt": [97, 29387, "2026-10-26"]
    }
   },
   "the-good-the-bad-and-the-ugly-1966": {
@@ -1672,12 +1978,15 @@
    "sum": "Three gunslingers compete to find a buried fortune in Confederate gold during the Civil War.",
    "img": "m103",
    "ids": {
-    "imdb": "tt0060196"
+    "imdb": "tt0060196",
+    "rt": "m/the_good_the_bad_and_the_ugly",
+    "mc": "movie/the-good-the-bad-and-the-ugly",
+    "lbx": "the-good-the-bad-and-the-ugly"
    },
    "s": {
-    "imdb": [8.8, 903028, "2026-10-03"],
-    "lbx": [4.51, 831238, "2026-10-03"],
-    "rt": [97, 38997, "2026-10-03"]
+    "imdb": [8.8, 905301, "2026-10-26"],
+    "lbx": [4.51, 842001, "2026-10-26"],
+    "rt": [97, 39004, "2026-10-26"]
    }
   },
   "seven-samurai-1954": {
@@ -1689,12 +1998,15 @@
    "img": "m104",
    "aw": ["2 Oscar nominations"],
    "ids": {
-    "imdb": "tt0047478"
+    "imdb": "tt0047478",
+    "rt": "m/seven_samurai_1956",
+    "mc": "movie/seven-samurai-1954",
+    "lbx": "seven-samurai"
    },
    "s": {
-    "imdb": [8.6, 406489, "2026-10-03"],
-    "lbx": [4.6, 475349, "2026-10-03"],
-    "rt": [97, 25659, "2026-10-03"]
+    "imdb": [8.6, 407252, "2026-10-26"],
+    "lbx": [4.6, 481109, "2026-10-26"],
+    "rt": [97, 25669, "2026-10-26"]
    }
   },
   "one-flew-over-the-cuckoo-s-nest-1975": {
@@ -1706,12 +2018,15 @@
    "img": "m106",
    "aw": ["Won 5 Oscars of 9 nominations"],
    "ids": {
-    "imdb": "tt0073486"
+    "imdb": "tt0073486",
+    "rt": "m/one_flew_over_the_cuckoos_nest",
+    "mc": "movie/one-flew-over-the-cuckoos-nest",
+    "lbx": "one-flew-over-the-cuckoos-nest"
    },
    "s": {
-    "imdb": [8.6, 1169179, "2026-10-03"],
-    "lbx": [4.37, 1051853, "2026-10-03"],
-    "rt": [96, 64903, "2026-10-03"]
+    "imdb": [8.6, 1171899, "2026-10-26"],
+    "lbx": [4.37, 1065069, "2026-10-26"],
+    "rt": [96, 64914, "2026-10-26"]
    }
   },
   "it-s-a-wonderful-life-1946": {
@@ -1723,12 +2038,15 @@
    "img": "m107",
    "aw": ["5 Oscar nominations"],
    "ids": {
-    "imdb": "tt0038650"
+    "imdb": "tt0038650",
+    "rt": "m/its_a_wonderful_life",
+    "mc": "movie/its-a-wonderful-life",
+    "lbx": "its-a-wonderful-life"
    },
    "s": {
-    "imdb": [8.6, 560646, "2026-10-03"],
-    "lbx": [4.45, 794798, "2026-10-03"],
-    "rt": [95, 37324, "2026-10-03"]
+    "imdb": [8.6, 562268, "2026-10-26"],
+    "lbx": [4.45, 801440, "2026-10-26"],
+    "rt": [95, 37326, "2026-10-26"]
    }
   },
   "psycho-1960": {
@@ -1740,12 +2058,15 @@
    "img": "m108",
    "aw": ["4 Oscar nominations"],
    "ids": {
-    "imdb": "tt0054215"
+    "imdb": "tt0054215",
+    "rt": "m/psycho",
+    "mc": "movie/psycho-1960",
+    "lbx": "psycho"
    },
    "s": {
-    "imdb": [8.5, 795670, "2026-10-03"],
-    "lbx": [4.31, 1465431, "2026-10-03"],
-    "rt": [95, 35499, "2026-10-03"]
+    "imdb": [8.5, 798116, "2026-10-26"],
+    "lbx": [4.31, 1496025, "2026-10-26"],
+    "rt": [95, 35540, "2026-10-26"]
    }
   },
   "casablanca-1942": {
@@ -1757,11 +2078,14 @@
    "img": "m109",
    "aw": ["Won 3 Oscars of 8 nominations"],
    "ids": {
-    "imdb": "tt0034583"
+    "imdb": "tt0034583",
+    "rt": "m/1003707-casablanca",
+    "mc": "movie/casablanca",
+    "lbx": "casablanca"
    },
    "s": {
-    "imdb": [8.5, 662050, "2026-10-03"],
-    "lbx": [4.28, 888606, "2026-10-03"],
+    "imdb": [8.5, 663323, "2026-10-26"],
+    "lbx": [4.28, 898939, "2026-10-26"],
     "rt": [95, 61767, "2026-10-03"]
    }
   },
@@ -1774,12 +2098,15 @@
    "img": "m110",
    "aw": ["4 Oscar nominations"],
    "ids": {
-    "imdb": "tt0047396"
+    "imdb": "tt0047396",
+    "rt": "m/1017289-rear_window",
+    "mc": "movie/rear-window",
+    "lbx": "rear-window"
    },
    "s": {
-    "imdb": [8.4, 574888, "2026-10-03"],
-    "lbx": [4.36, 895663, "2026-10-03"],
-    "rt": [95, 36323, "2026-10-03"]
+    "imdb": [8.4, 575996, "2026-10-26"],
+    "lbx": [4.36, 907599, "2026-10-26"],
+    "rt": [95, 36332, "2026-10-26"]
    }
   },
   "vertigo-1958": {
@@ -1791,12 +2118,15 @@
    "img": "m111",
    "aw": ["2 Oscar nominations"],
    "ids": {
-    "imdb": "tt0052357"
+    "imdb": "tt0052357",
+    "rt": "m/vertigo",
+    "mc": "movie/vertigo-1958",
+    "lbx": "vertigo"
    },
    "s": {
-    "imdb": [8.2, 463556, "2026-10-03"],
-    "lbx": [4.21, 873194, "2026-10-03"],
-    "rt": [92, 28149, "2026-10-03"]
+    "imdb": [8.2, 464321, "2026-10-26"],
+    "lbx": [4.21, 884300, "2026-10-26"],
+    "rt": [92, 28158, "2026-10-26"]
    }
   },
   "city-lights-1931": {
@@ -1807,12 +2137,15 @@
    "sum": "Chaplin's Tramp falls for a blind flower seller and tries to raise money for an operation to restore her sight.",
    "img": "m112",
    "ids": {
-    "imdb": "tt0021749"
+    "imdb": "tt0021749",
+    "rt": "m/city_lights",
+    "mc": "movie/city-lights",
+    "lbx": "city-lights"
    },
    "s": {
-    "imdb": [8.5, 218576, "2026-10-03"],
-    "lbx": [4.31, 198937, "2026-10-03"],
-    "rt": [95, 7039, "2026-10-03"]
+    "imdb": [8.5, 218912, "2026-10-26"],
+    "lbx": [4.31, 200831, "2026-10-26"],
+    "rt": [95, 7040, "2026-10-26"]
    }
   },
   "modern-times-1936": {
@@ -1823,12 +2156,15 @@
    "sum": "The Tramp struggles to survive in an industrialised world of factories and machines.",
    "img": "m113",
    "ids": {
-    "imdb": "tt0027977"
+    "imdb": "tt0027977",
+    "rt": "m/modern_times",
+    "mc": "movie/modern-times-re-release",
+    "lbx": "modern-times"
    },
    "s": {
-    "imdb": [8.5, 288254, "2026-10-03"],
-    "lbx": [4.24, 296068, "2026-10-03"],
-    "rt": [95, 9270, "2026-10-03"]
+    "imdb": [8.5, 288752, "2026-10-26"],
+    "lbx": [4.24, 299642, "2026-10-26"],
+    "rt": [95, 9276, "2026-10-26"]
    }
   },
   "the-great-dictator-1940": {
@@ -1840,12 +2176,14 @@
    "img": "m114",
    "aw": ["5 Oscar nominations"],
    "ids": {
-    "imdb": "tt0032553"
+    "imdb": "tt0032553",
+    "rt": "m/great_dictator",
+    "lbx": "the-great-dictator"
    },
    "s": {
-    "imdb": [8.4, 260707, "2026-10-03"],
-    "lbx": [4.33, 206773, "2026-10-03"],
-    "rt": [95, 8100, "2026-10-03"]
+    "imdb": [8.4, 261087, "2026-10-26"],
+    "lbx": [4.33, 208957, "2026-10-26"],
+    "rt": [95, 8102, "2026-10-26"]
    }
   },
   "sunset-boulevard-1950": {
@@ -1857,12 +2195,15 @@
    "img": "m115",
    "aw": ["Won 3 Oscars of 11 nominations"],
    "ids": {
-    "imdb": "tt0043014"
+    "imdb": "tt0043014",
+    "rt": "m/sunset_boulevard",
+    "mc": "movie/sunset-boulevard",
+    "lbx": "sunset-boulevard"
    },
    "s": {
-    "imdb": [8.4, 264208, "2026-10-03"],
-    "lbx": [4.44, 387284, "2026-10-03"],
-    "rt": [95, 13280, "2026-10-03"]
+    "imdb": [8.4, 264692, "2026-10-26"],
+    "lbx": [4.44, 391706, "2026-10-26"],
+    "rt": [95, 13290, "2026-10-26"]
    }
   },
   "dr-strangelove-1964": {
@@ -1874,12 +2215,15 @@
    "img": "m116",
    "aw": ["4 Oscar nominations"],
    "ids": {
-    "imdb": "tt0057012"
+    "imdb": "tt0057012",
+    "rt": "m/dr_strangelove",
+    "mc": "movie/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb",
+    "lbx": "dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb"
    },
    "s": {
-    "imdb": [8.3, 555205, "2026-10-03"],
-    "lbx": [4.3, 663776, "2026-10-03"],
-    "rt": [94, 39829, "2026-10-03"]
+    "imdb": [8.3, 556249, "2026-10-26"],
+    "lbx": [4.3, 679671, "2026-10-26"],
+    "rt": [94, 39841, "2026-10-26"]
    }
   },
   "2001-a-space-odyssey-1968": {
@@ -1891,12 +2235,15 @@
    "img": "m117",
    "aw": ["Won 1 Oscar of 4 nominations"],
    "ids": {
-    "imdb": "tt0062622"
+    "imdb": "tt0062622",
+    "rt": "m/2001_a_space_odyssey",
+    "mc": "movie/2001-a-space-odyssey",
+    "lbx": "2001-a-space-odyssey"
    },
    "s": {
-    "imdb": [8.3, 794208, "2026-10-03"],
-    "lbx": [4.23, 1618003, "2026-10-03"],
-    "rt": [88, 52583, "2026-10-03"]
+    "imdb": [8.3, 795789, "2026-10-26"],
+    "lbx": [4.23, 1638107, "2026-10-26"],
+    "rt": [88, 52599, "2026-10-26"]
    }
   },
   "apocalypse-now-1979": {
@@ -1908,12 +2255,15 @@
    "img": "m118",
    "aw": ["Won 2 Oscars of 8 nominations"],
    "ids": {
-    "imdb": "tt0078788"
+    "imdb": "tt0078788",
+    "rt": "m/apocalypse_now",
+    "mc": "movie/apocalypse-now",
+    "lbx": "apocalypse-now"
    },
    "s": {
-    "imdb": [8.4, 779333, "2026-10-03"],
-    "lbx": [4.43, 1073652, "2026-10-03"],
-    "rt": [94, 68112, "2026-10-03"]
+    "imdb": [8.4, 780775, "2026-10-26"],
+    "lbx": [4.43, 1087363, "2026-10-26"],
+    "rt": [94, 68121, "2026-10-26"]
    }
   },
   "taxi-driver-1976": {
@@ -1925,12 +2275,15 @@
    "img": "m120",
    "aw": ["4 Oscar nominations"],
    "ids": {
-    "imdb": "tt0075314"
+    "imdb": "tt0075314",
+    "rt": "m/taxi_driver",
+    "mc": "movie/taxi-driver-1976",
+    "lbx": "taxi-driver"
    },
    "s": {
-    "imdb": [8.2, 1044224, "2026-10-03"],
-    "lbx": [4.1, 2578300, "2026-10-03"],
-    "rt": [93, 64513, "2026-10-03"]
+    "imdb": [8.2, 1046537, "2026-10-26"],
+    "lbx": [4.1, 2612251, "2026-10-26"],
+    "rt": [93, 64528, "2026-10-26"]
    }
   },
   "lawrence-of-arabia-1962": {
@@ -1942,12 +2295,15 @@
    "img": "m121",
    "aw": ["Won 7 Oscars of 10 nominations"],
    "ids": {
-    "imdb": "tt0056172"
+    "imdb": "tt0056172",
+    "rt": "m/lawrence_of_arabia",
+    "mc": "movie/lawrence-of-arabia",
+    "lbx": "lawrence-of-arabia"
    },
    "s": {
-    "imdb": [8.3, 346844, "2026-10-03"],
-    "lbx": [4.42, 420200, "2026-10-03"],
-    "rt": [93, 20637, "2026-10-03"]
+    "imdb": [8.3, 347613, "2026-10-26"],
+    "lbx": [4.42, 427713, "2026-10-26"],
+    "rt": [93, 20645, "2026-10-26"]
    }
   },
   "singin-in-the-rain-1952": {
@@ -1959,12 +2315,15 @@
    "img": "m122",
    "aw": ["2 Oscar nominations"],
    "ids": {
-    "imdb": "tt0045152"
+    "imdb": "tt0045152",
+    "rt": "m/singin_in_the_rain",
+    "mc": "movie/singin-in-the-rain",
+    "lbx": "singin-in-the-rain"
    },
    "s": {
-    "imdb": [8.3, 286317, "2026-10-03"],
-    "lbx": [4.35, 692879, "2026-10-03"],
-    "rt": [94, 23160, "2026-10-03"]
+    "imdb": [8.3, 286826, "2026-10-26"],
+    "lbx": [4.35, 701699, "2026-10-26"],
+    "rt": [94, 23169, "2026-10-26"]
    }
   },
   "some-like-it-hot-1959": {
@@ -1976,12 +2335,15 @@
    "img": "m123",
    "aw": ["Won 1 Oscar of 6 nominations"],
    "ids": {
-    "imdb": "tt0053291"
+    "imdb": "tt0053291",
+    "rt": "m/some_like_it_hot",
+    "mc": "movie/some-like-it-hot",
+    "lbx": "some-like-it-hot"
    },
    "s": {
-    "imdb": [8.2, 307823, "2026-10-03"],
-    "lbx": [4.28, 424783, "2026-10-03"],
-    "rt": [94, 19182, "2026-10-03"]
+    "imdb": [8.2, 308287, "2026-10-26"],
+    "lbx": [4.28, 429341, "2026-10-26"],
+    "rt": [94, 19186, "2026-10-26"]
    }
   },
   "north-by-northwest-1959": {
@@ -1993,12 +2355,15 @@
    "img": "m124",
    "aw": ["3 Oscar nominations"],
    "ids": {
-    "imdb": "tt0053125"
+    "imdb": "tt0053125",
+    "rt": "m/north_by_northwest",
+    "mc": "movie/north-by-northwest",
+    "lbx": "north-by-northwest"
    },
    "s": {
-    "imdb": [8.2, 372165, "2026-10-03"],
-    "lbx": [4.2, 363145, "2026-10-03"],
-    "rt": [94, 23875, "2026-10-03"]
+    "imdb": [8.2, 372871, "2026-10-26"],
+    "lbx": [4.2, 367598, "2026-10-26"],
+    "rt": [94, 23888, "2026-10-26"]
    }
   },
   "once-upon-a-time-in-the-west-1968": {
@@ -2009,12 +2374,15 @@
    "sum": "A mysterious harmonica player helps a widow defend her land from a ruthless railroad hitman.",
    "img": "m125",
    "ids": {
-    "imdb": "tt0064116"
+    "imdb": "tt0064116",
+    "rt": "m/once_upon_a_time_in_the_west",
+    "mc": "movie/once-upon-a-time-in-the-west",
+    "lbx": "once-upon-a-time-in-the-west"
    },
    "s": {
-    "imdb": [8.5, 388318, "2026-10-03"],
-    "lbx": [4.39, 310478, "2026-10-03"],
-    "rt": [94, 17995, "2026-10-03"]
+    "imdb": [8.5, 388853, "2026-10-26"],
+    "lbx": [4.39, 313918, "2026-10-26"],
+    "rt": [94, 17998, "2026-10-26"]
    }
   },
   "paths-of-glory-1957": {
@@ -2025,12 +2393,15 @@
    "sum": "A French colonel defends three soldiers court-martialled for cowardice after a suicidal WWI attack.",
    "img": "m126",
    "ids": {
-    "imdb": "tt0050825"
+    "imdb": "tt0050825",
+    "rt": "m/paths_of_glory",
+    "mc": "movie/paths-of-glory",
+    "lbx": "paths-of-glory"
    },
    "s": {
-    "imdb": [8.4, 243102, "2026-10-03"],
-    "lbx": [4.45, 343136, "2026-10-03"],
-    "rt": [95, 8163, "2026-10-03"]
+    "imdb": [8.4, 243605, "2026-10-26"],
+    "lbx": [4.45, 347849, "2026-10-26"],
+    "rt": [95, 8169, "2026-10-26"]
    }
   },
   "the-apartment-1960": {
@@ -2042,12 +2413,15 @@
    "img": "m127",
    "aw": ["Won 5 Oscars of 10 nominations"],
    "ids": {
-    "imdb": "tt0053604"
+    "imdb": "tt0053604",
+    "rt": "m/1001115-apartment",
+    "mc": "movie/the-apartment",
+    "lbx": "the-apartment"
    },
    "s": {
-    "imdb": [8.3, 223497, "2026-10-03"],
-    "lbx": [4.43, 414051, "2026-10-03"],
-    "rt": [94, 9091, "2026-10-03"]
+    "imdb": [8.3, 223934, "2026-10-26"],
+    "lbx": [4.43, 418555, "2026-10-26"],
+    "rt": [94, 9096, "2026-10-26"]
    }
   },
   "witness-for-the-prosecution-1957": {
@@ -2059,12 +2433,15 @@
    "img": "m128",
    "aw": ["6 Oscar nominations"],
    "ids": {
-    "imdb": "tt0051201"
+    "imdb": "tt0051201",
+    "rt": "m/witness_for_the_prosecution",
+    "mc": "movie/witness-for-the-prosecution",
+    "lbx": "witness-for-the-prosecution-1957"
    },
    "s": {
-    "imdb": [8.4, 164865, "2026-10-03"],
-    "lbx": [4.41, 143482, "2026-10-03"],
-    "rt": [95, 3006, "2026-10-03"]
+    "imdb": [8.4, 165441, "2026-10-26"],
+    "lbx": [4.42, 147014, "2026-10-26"],
+    "rt": [95, 3011, "2026-10-26"]
    }
   },
   "double-indemnity-1944": {
@@ -2076,12 +2453,15 @@
    "img": "m129",
    "aw": ["7 Oscar nominations"],
    "ids": {
-    "imdb": "tt0036775"
+    "imdb": "tt0036775",
+    "rt": "m/double_indemnity",
+    "mc": "movie/double-indemnity",
+    "lbx": "double-indemnity"
    },
    "s": {
-    "imdb": [8.3, 183541, "2026-10-03"],
-    "lbx": [4.26, 238869, "2026-10-03"],
-    "rt": [95, 7841, "2026-10-03"]
+    "imdb": [8.3, 183838, "2026-10-26"],
+    "lbx": [4.26, 241297, "2026-10-26"],
+    "rt": [95, 7842, "2026-10-26"]
    }
   },
   "citizen-kane-1941": {
@@ -2093,12 +2473,15 @@
    "img": "m130",
    "aw": ["Won 1 Oscar of 9 nominations"],
    "ids": {
-    "imdb": "tt0033467"
+    "imdb": "tt0033467",
+    "rt": "m/citizen_kane",
+    "mc": "movie/citizen-kane-1941",
+    "lbx": "citizen-kane"
    },
    "s": {
-    "imdb": [8.2, 497352, "2026-10-03"],
-    "lbx": [4.19, 690338, "2026-10-03"],
-    "rt": [98, 107, "2026-10-03"]
+    "imdb": [8.2, 498036, "2026-10-26"],
+    "lbx": [4.19, 698313, "2026-10-26"],
+    "rt": [98, 107, "2026-10-26"]
    }
   },
   "the-wizard-of-oz-1939": {
@@ -2110,12 +2493,15 @@
    "img": "m131",
    "aw": ["Won 2 Oscars of 5 nominations"],
    "ids": {
-    "imdb": "tt0032138"
+    "imdb": "tt0032138",
+    "rt": "m/the_wizard_of_oz_1939",
+    "mc": "movie/the-wizard-of-oz-1939",
+    "lbx": "the-wizard-of-oz-1939"
    },
    "s": {
-    "imdb": [8.1, 473360, "2026-10-03"],
-    "lbx": [3.91, 1004899, "2026-10-03"],
-    "rt": [89, 54221, "2026-10-03"]
+    "imdb": [8.1, 474236, "2026-10-26"],
+    "lbx": [3.91, 1014915, "2026-10-26"],
+    "rt": [89, 54231, "2026-10-26"]
    }
   },
   "gone-with-the-wind-1939": {
@@ -2127,12 +2513,15 @@
    "img": "m132",
    "aw": ["Won 8 Oscars of 13 nominations"],
    "ids": {
-    "imdb": "tt0031381"
+    "imdb": "tt0031381",
+    "rt": "m/gone_with_the_wind",
+    "mc": "movie/gone-with-the-wind",
+    "lbx": "gone-with-the-wind"
    },
    "s": {
-    "imdb": [8.2, 359211, "2026-10-03"],
-    "lbx": [3.86, 281075, "2026-10-03"],
-    "rt": [92, 47862, "2026-10-03"]
+    "imdb": [8.2, 359833, "2026-10-26"],
+    "lbx": [3.86, 285003, "2026-10-26"],
+    "rt": [92, 47990, "2026-10-26"]
    }
   },
   "to-kill-a-mockingbird-1962": {
@@ -2144,12 +2533,15 @@
    "img": "m133",
    "aw": ["Won 3 Oscars of 8 nominations"],
    "ids": {
-    "imdb": "tt0056592"
+    "imdb": "tt0056592",
+    "rt": "m/to_kill_a_mockingbird",
+    "mc": "movie/to-kill-a-mockingbird",
+    "lbx": "to-kill-a-mockingbird"
    },
    "s": {
-    "imdb": [8.2, 353671, "2026-10-03"],
-    "lbx": [4.12, 281572, "2026-10-03"],
-    "rt": [93, 19662, "2026-10-03"]
+    "imdb": [8.2, 354131, "2026-10-26"],
+    "lbx": [4.12, 283882, "2026-10-26"],
+    "rt": [93, 19667, "2026-10-26"]
    }
   },
   "the-sound-of-music-1965": {
@@ -2161,12 +2553,15 @@
    "img": "m134",
    "aw": ["Won 5 Oscars of 10 nominations"],
    "ids": {
-    "imdb": "tt0059742"
+    "imdb": "tt0059742",
+    "rt": "m/sound_of_music",
+    "mc": "movie/the-sound-of-music",
+    "lbx": "the-sound-of-music"
    },
    "s": {
-    "imdb": [8.1, 295823, "2026-10-03"],
-    "lbx": [4.26, 737497, "2026-10-03"],
-    "rt": [99, 552, "2026-10-03"]
+    "imdb": [8.1, 296508, "2026-10-26"],
+    "lbx": [4.26, 748794, "2026-10-26"],
+    "rt": [99, 552, "2026-10-26"]
    }
   },
   "jaws-1975": {
@@ -2178,12 +2573,15 @@
    "img": "m135",
    "aw": ["Won 3 Oscars of 4 nominations"],
    "ids": {
-    "imdb": "tt0073195"
+    "imdb": "tt0073195",
+    "rt": "m/jaws",
+    "mc": "movie/jaws",
+    "lbx": "jaws"
    },
    "s": {
-    "imdb": [8.1, 751276, "2026-10-03"],
-    "lbx": [3.91, 1850098, "2026-10-03"],
-    "rt": [98, 2044, "2026-10-03"]
+    "imdb": [8.1, 752931, "2026-10-26"],
+    "lbx": [3.91, 1873979, "2026-10-26"],
+    "rt": [98, 2044, "2026-10-26"]
    }
   },
   "rocky-1976": {
@@ -2195,12 +2593,15 @@
    "img": "m136",
    "aw": ["Won 3 Oscars of 10 nominations"],
    "ids": {
-    "imdb": "tt0075148"
+    "imdb": "tt0075148",
+    "rt": "m/1017776-rocky",
+    "mc": "movie/rocky",
+    "lbx": "rocky"
    },
    "s": {
-    "imdb": [8.1, 703112, "2026-10-03"],
-    "lbx": [4.12, 1095008, "2026-10-03"],
-    "rt": [69, 108040, "2026-10-03"]
+    "imdb": [8.1, 705182, "2026-10-26"],
+    "lbx": [4.12, 1116807, "2026-10-26"],
+    "rt": [69, 108040, "2026-10-26"]
    }
   },
   "a-clockwork-orange-1971": {
@@ -2212,12 +2613,15 @@
    "img": "m137",
    "aw": ["4 Oscar nominations"],
    "ids": {
-    "imdb": "tt0066921"
+    "imdb": "tt0066921",
+    "rt": "m/clockwork_orange",
+    "mc": "movie/a-clockwork-orange",
+    "lbx": "a-clockwork-orange"
    },
    "s": {
-    "imdb": [8.2, 946276, "2026-10-03"],
-    "lbx": [4.09, 1574061, "2026-10-03"],
-    "rt": [93, 109676, "2026-10-03"]
+    "imdb": [8.2, 948218, "2026-10-26"],
+    "lbx": [4.09, 1602303, "2026-10-26"],
+    "rt": [93, 109692, "2026-10-26"]
    }
   },
   "the-sting-1973": {
@@ -2229,12 +2633,15 @@
    "img": "m138",
    "aw": ["Won 7 Oscars of 10 nominations"],
    "ids": {
-    "imdb": "tt0070735"
+    "imdb": "tt0070735",
+    "rt": "m/1020130-sting",
+    "mc": "movie/the-sting",
+    "lbx": "the-sting"
    },
    "s": {
-    "imdb": [8.2, 306483, "2026-10-03"],
-    "lbx": [4.21, 230357, "2026-10-03"],
-    "rt": [95, 13142, "2026-10-03"]
+    "imdb": [8.2, 307696, "2026-10-26"],
+    "lbx": [4.21, 236339, "2026-10-26"],
+    "rt": [95, 13146, "2026-10-26"]
    }
   },
   "chinatown-1974": {
@@ -2246,12 +2653,15 @@
    "img": "m139",
    "aw": ["Won 1 Oscar of 11 nominations"],
    "ids": {
-    "imdb": "tt0071315"
+    "imdb": "tt0071315",
+    "rt": "m/chinatown",
+    "mc": "movie/chinatown",
+    "lbx": "chinatown"
    },
    "s": {
-    "imdb": [8.1, 380759, "2026-10-03"],
-    "lbx": [4.3, 526255, "2026-10-03"],
-    "rt": [93, 24363, "2026-10-03"]
+    "imdb": [8.1, 381513, "2026-10-26"],
+    "lbx": [4.3, 532357, "2026-10-26"],
+    "rt": [93, 24371, "2026-10-26"]
    }
   },
   "network-1976": {
@@ -2263,12 +2673,15 @@
    "img": "m140",
    "aw": ["Won 4 Oscars of 10 nominations"],
    "ids": {
-    "imdb": "tt0074958"
+    "imdb": "tt0074958",
+    "rt": "m/network",
+    "mc": "movie/network",
+    "lbx": "network"
    },
    "s": {
-    "imdb": [8, 188272, "2026-10-03"],
-    "lbx": [4.26, 257487, "2026-10-03"],
-    "rt": [93, 9860, "2026-10-03"]
+    "imdb": [8, 188550, "2026-10-26"],
+    "lbx": [4.26, 260747, "2026-10-26"],
+    "rt": [93, 9863, "2026-10-26"]
    }
   },
   "annie-hall-1977": {
@@ -2280,12 +2693,15 @@
    "img": "m141",
    "aw": ["Won 4 Oscars of 5 nominations"],
    "ids": {
-    "imdb": "tt0075686"
+    "imdb": "tt0075686",
+    "rt": "m/annie_hall",
+    "mc": "movie/annie-hall-1977",
+    "lbx": "annie-hall"
    },
    "s": {
-    "imdb": [7.9, 292990, "2026-10-03"],
-    "lbx": [4, 378995, "2026-10-03"],
-    "rt": [92, 25870, "2026-10-03"]
+    "imdb": [7.9, 293277, "2026-10-26"],
+    "lbx": [4, 381440, "2026-10-26"],
+    "rt": [92, 25878, "2026-10-26"]
    }
   },
   "rashomon-1950": {
@@ -2297,12 +2713,15 @@
    "img": "m142",
    "aw": ["1 Oscar nomination"],
    "ids": {
-    "imdb": "tt0042876"
+    "imdb": "tt0042876",
+    "rt": "m/rashomon",
+    "mc": "movie/rashomon",
+    "lbx": "rashomon"
    },
    "s": {
-    "imdb": [8.1, 199072, "2026-10-03"],
-    "lbx": [4.19, 316305, "2026-10-03"],
-    "rt": [93, 11834, "2026-10-03"]
+    "imdb": [8.1, 199397, "2026-10-26"],
+    "lbx": [4.19, 320040, "2026-10-26"],
+    "rt": [93, 11836, "2026-10-26"]
    }
   },
   "ikiru-1952": {
@@ -2313,12 +2732,15 @@
    "sum": "A dull bureaucrat diagnosed with cancer searches for meaning in his final months.",
    "img": "m143",
    "ids": {
-    "imdb": "tt0044741"
+    "imdb": "tt0044741",
+    "rt": "m/ikiru",
+    "mc": "movie/ikiru",
+    "lbx": "ikiru"
    },
    "s": {
-    "imdb": [8.3, 104212, "2026-10-03"],
-    "lbx": [4.52, 213447, "2026-10-03"],
-    "rt": [96, 4706, "2026-10-03"]
+    "imdb": [8.3, 104470, "2026-10-26"],
+    "lbx": [4.52, 216255, "2026-10-26"],
+    "rt": [96, 4708, "2026-10-26"]
    }
   },
   "bicycle-thieves-1948": {
@@ -2330,12 +2752,14 @@
    "img": "m144",
    "aw": ["1 Oscar nomination"],
    "ids": {
-    "imdb": "tt0040522"
+    "imdb": "tt0040522",
+    "rt": "m/bicycle_thieves",
+    "lbx": "bicycle-thieves"
    },
    "s": {
-    "imdb": [8.2, 193603, "2026-10-03"],
-    "lbx": [4.28, 294185, "2026-10-03"],
-    "rt": [94, 8542, "2026-10-03"]
+    "imdb": [8.2, 193950, "2026-10-26"],
+    "lbx": [4.28, 297868, "2026-10-26"],
+    "rt": [94, 8545, "2026-10-26"]
    }
   },
   "tokyo-story-1953": {
@@ -2346,12 +2770,15 @@
    "sum": "An elderly couple visit their grown children in Tokyo, who are too busy to make time for them.",
    "img": "m145",
    "ids": {
-    "imdb": "tt0046438"
+    "imdb": "tt0046438",
+    "rt": "m/tokyo_story",
+    "mc": "movie/tokyo-story",
+    "lbx": "tokyo-story"
    },
    "s": {
-    "imdb": [8.1, 79011, "2026-10-03"],
-    "lbx": [4.43, 157117, "2026-10-03"],
-    "rt": [93, 3564, "2026-10-03"]
+    "imdb": [8.1, 79195, "2026-10-26"],
+    "lbx": [4.43, 158567, "2026-10-26"],
+    "rt": [93, 3564, "2026-10-26"]
    }
   },
   "the-bridge-on-the-river-kwai-1957": {
@@ -2363,12 +2790,15 @@
    "img": "m146",
    "aw": ["Won 7 Oscars of 8 nominations"],
    "ids": {
-    "imdb": "tt0050212"
+    "imdb": "tt0050212",
+    "rt": "m/bridge_on_the_river_kwai",
+    "mc": "movie/the-bridge-on-the-river-kwai",
+    "lbx": "the-bridge-on-the-river-kwai"
    },
    "s": {
-    "imdb": [8.1, 251657, "2026-10-03"],
-    "lbx": [4.25, 129588, "2026-10-03"],
-    "rt": [93, 8678, "2026-10-03"]
+    "imdb": [8.1, 252341, "2026-10-26"],
+    "lbx": [4.25, 132486, "2026-10-26"],
+    "rt": [93, 8683, "2026-10-26"]
    }
   },
   "ben-hur-1959": {
@@ -2380,12 +2810,15 @@
    "img": "m147",
    "aw": ["Won 11 Oscars of 12 nominations"],
    "ids": {
-    "imdb": "tt0052618"
+    "imdb": "tt0052618",
+    "rt": "m/benhur",
+    "mc": "movie/ben-hur-1959",
+    "lbx": "ben-hur-1959"
    },
    "s": {
-    "imdb": [8.1, 273922, "2026-10-03"],
-    "lbx": [4.12, 148491, "2026-10-03"],
-    "rt": [90, 12544, "2026-10-03"]
+    "imdb": [8.1, 274338, "2026-10-26"],
+    "lbx": [4.12, 149852, "2026-10-26"],
+    "rt": [90, 12547, "2026-10-26"]
    }
   },
   "the-deer-hunter-1978": {
@@ -2397,12 +2830,15 @@
    "img": "m148",
    "aw": ["Won 5 Oscars of 9 nominations"],
    "ids": {
-    "imdb": "tt0077416"
+    "imdb": "tt0077416",
+    "rt": "m/the_deer_hunter",
+    "mc": "movie/the-deer-hunter",
+    "lbx": "the-deer-hunter"
    },
    "s": {
-    "imdb": [8.1, 390177, "2026-10-03"],
-    "lbx": [4.22, 328390, "2026-10-03"],
-    "rt": [91, 23646, "2026-10-03"]
+    "imdb": [8.1, 390896, "2026-10-26"],
+    "lbx": [4.22, 334043, "2026-10-26"],
+    "rt": [91, 23656, "2026-10-26"]
    }
   },
   "the-third-man-1949": {
@@ -2414,12 +2850,15 @@
    "img": "m149",
    "aw": ["Won 1 Oscar of 3 nominations"],
    "ids": {
-    "imdb": "tt0041959"
+    "imdb": "tt0041959",
+    "rt": "m/the_third_man",
+    "mc": "movie/the-third-man",
+    "lbx": "the-third-man"
    },
    "s": {
-    "imdb": [8.1, 197649, "2026-10-03"],
-    "lbx": [4.24, 208710, "2026-10-03"],
-    "rt": [93, 13311, "2026-10-03"]
+    "imdb": [8.1, 197988, "2026-10-26"],
+    "lbx": [4.24, 210789, "2026-10-26"],
+    "rt": [93, 13316, "2026-10-26"]
    }
   },
   "metropolis-1927": {
@@ -2430,12 +2869,15 @@
    "sum": "In a futuristic city divided between rich thinkers and underground workers, a revolution brews.",
    "img": "m150",
    "ids": {
-    "imdb": "tt0017136"
+    "imdb": "tt0017136",
+    "rt": "m/metropolis",
+    "mc": "movie/metropolis-re-release",
+    "lbx": "metropolis"
    },
    "s": {
-    "imdb": [8.2, 203418, "2026-10-03"],
-    "lbx": [4.24, 285593, "2026-10-03"],
-    "rt": [91, 14127, "2026-10-03"]
+    "imdb": [8.2, 203792, "2026-10-26"],
+    "lbx": [4.24, 289200, "2026-10-26"],
+    "rt": [91, 14132, "2026-10-26"]
    }
   },
   "the-godfather-1972": {
@@ -2444,12 +2886,15 @@
    "img": "m100",
    "aw": ["Won 3 Oscars of 11 nominations"],
    "ids": {
-    "imdb": "tt0068646"
+    "imdb": "tt0068646",
+    "rt": "m/the_godfather",
+    "mc": "movie/the-godfather",
+    "lbx": "the-godfather"
    },
    "s": {
-    "imdb": [9.2, 2261421, "2026-10-03"],
-    "lbx": [4.51, 2966632, "2026-10-03"],
-    "rt": [98, 170170, "2026-10-03"]
+    "imdb": [9.2, 2267861, "2026-10-26"],
+    "lbx": [4.51, 3010366, "2026-10-26"],
+    "rt": [98, 170213, "2026-10-26"]
    }
   },
   "the-godfather-part-ii-1974": {
@@ -2458,12 +2903,15 @@
    "img": "m101",
    "aw": ["Won 6 Oscars of 11 nominations"],
    "ids": {
-    "imdb": "tt0071562"
+    "imdb": "tt0071562",
+    "rt": "m/godfather_part_ii",
+    "mc": "movie/the-godfather-part-ii",
+    "lbx": "the-godfather-part-ii"
    },
    "s": {
-    "imdb": [9, 1516633, "2026-10-03"],
-    "lbx": [4.59, 1553129, "2026-10-03"],
-    "rt": [97, 89568, "2026-10-03"]
+    "imdb": [9, 1520957, "2026-10-26"],
+    "lbx": [4.59, 1576622, "2026-10-26"],
+    "rt": [97, 89587, "2026-10-26"]
    }
   },
   "the-godfather-part-iii-1990": {
@@ -2472,12 +2920,15 @@
    "img": "xm1",
    "aw": ["7 Oscar nominations"],
    "ids": {
-    "imdb": "tt0099674"
+    "imdb": "tt0099674",
+    "rt": "m/godfather_part_iii",
+    "mc": "movie/the-godfather-part-iii",
+    "lbx": "the-godfather-part-iii"
    },
    "s": {
-    "imdb": [7.5, 461465, "2026-10-03"],
-    "lbx": [3.5, 523302, "2026-10-03"],
-    "rt": [68, 1134, "2026-10-03"]
+    "imdb": [7.5, 462360, "2026-10-26"],
+    "lbx": [3.5, 530726, "2026-10-26"],
+    "rt": [68, 1145, "2026-10-26"]
    }
   },
   "star-wars-1977": {
@@ -2486,12 +2937,15 @@
    "img": "m105",
    "aw": ["Won 6 Oscars of 10 nominations"],
    "ids": {
-    "imdb": "tt0076759"
+    "imdb": "tt0076759",
+    "rt": "m/star_wars_episode_iv_a_new_hope",
+    "mc": "movie/star-wars-episode-iv---a-new-hope",
+    "lbx": "star-wars"
    },
    "s": {
-    "imdb": [8.6, 1591689, "2026-10-03"],
-    "lbx": [4.16, 2860916, "2026-10-03"],
-    "rt": [96, 124514, "2026-10-03"]
+    "imdb": [8.6, 1595259, "2026-10-26"],
+    "lbx": [4.16, 2898084, "2026-10-26"],
+    "rt": [96, 124532, "2026-10-26"]
    }
   },
   "the-empire-strikes-back-1980": {
@@ -2500,12 +2954,15 @@
    "img": "m13",
    "aw": ["Won 1 Oscar of 3 nominations"],
    "ids": {
-    "imdb": "tt0080684"
+    "imdb": "tt0080684",
+    "rt": "m/star_wars_episode_v_the_empire_strikes_back",
+    "mc": "movie/star-wars-episode-v---the-empire-strikes-back",
+    "lbx": "the-empire-strikes-back"
    },
    "s": {
-    "imdb": [8.7, 1526751, "2026-10-03"],
-    "lbx": [4.4, 2441468, "2026-10-03"],
-    "rt": [97, 128630, "2026-10-03"]
+    "imdb": [8.7, 1530513, "2026-10-26"],
+    "lbx": [4.4, 2471684, "2026-10-26"],
+    "rt": [97, 128643, "2026-10-26"]
    }
   },
   "return-of-the-jedi-1983": {
@@ -2514,12 +2971,15 @@
    "img": "m96",
    "aw": ["4 Oscar nominations"],
    "ids": {
-    "imdb": "tt0086190"
+    "imdb": "tt0086190",
+    "rt": "m/star_wars_episode_vi_return_of_the_jedi",
+    "mc": "movie/star-wars-episode-vi---return-of-the-jedi",
+    "lbx": "return-of-the-jedi"
    },
    "s": {
-    "imdb": [8.3, 1225799, "2026-10-03"],
-    "lbx": [4.11, 2014007, "2026-10-03"],
-    "rt": [94, 105612, "2026-10-03"]
+    "imdb": [8.3, 1227713, "2026-10-26"],
+    "lbx": [4.11, 2038684, "2026-10-26"],
+    "rt": [94, 105630, "2026-10-26"]
    }
   },
   "alien-1979": {
@@ -2528,12 +2988,15 @@
    "img": "m119",
    "aw": ["Won 1 Oscar of 2 nominations"],
    "ids": {
-    "imdb": "tt0078748"
+    "imdb": "tt0078748",
+    "rt": "m/alien",
+    "mc": "movie/alien-re-release",
+    "lbx": "alien"
    },
    "s": {
-    "imdb": [8.4, 1078719, "2026-10-03"],
-    "lbx": [4.25, 2026448, "2026-10-03"],
-    "rt": [94, 79692, "2026-10-03"]
+    "imdb": [8.4, 1081110, "2026-10-26"],
+    "lbx": [4.24, 2059132, "2026-10-26"],
+    "rt": [94, 79729, "2026-10-26"]
    }
   },
   "aliens-1986": {
@@ -2542,12 +3005,15 @@
    "img": "m42",
    "aw": ["Won 2 Oscars of 7 nominations"],
    "ids": {
-    "imdb": "tt0090605"
+    "imdb": "tt0090605",
+    "rt": "m/1000617-aliens",
+    "mc": "movie/aliens",
+    "lbx": "aliens"
    },
    "s": {
-    "imdb": [8.4, 849592, "2026-10-03"],
-    "lbx": [4.12, 966816, "2026-10-03"],
-    "rt": [94, 74127, "2026-10-03"]
+    "imdb": [8.4, 851163, "2026-10-26"],
+    "lbx": [4.11, 979369, "2026-10-26"],
+    "rt": [94, 74156, "2026-10-26"]
    }
   },
   "alien3-1992": {
@@ -2556,12 +3022,15 @@
    "img": "xm5",
    "aw": ["1 Oscar nomination"],
    "ids": {
-    "imdb": "tt0103644"
+    "imdb": "tt0103644",
+    "rt": "m/alien3",
+    "mc": "movie/alien-3",
+    "lbx": "alien-3"
    },
    "s": {
-    "imdb": [6.4, 356164, "2026-10-03"],
-    "lbx": [2.84, 443277, "2026-10-03"],
-    "rt": [46, 24056, "2026-10-03"]
+    "imdb": [6.4, 356781, "2026-10-26"],
+    "lbx": [2.84, 447953, "2026-10-26"],
+    "rt": [46, 24069, "2026-10-26"]
    }
   },
   "alien-resurrection-1997": {
@@ -2569,12 +3038,15 @@
    "y": 1997,
    "img": "xm6",
    "ids": {
-    "imdb": "tt0118583"
+    "imdb": "tt0118583",
+    "rt": "m/alien_resurrection",
+    "mc": "movie/alien-resurrection",
+    "lbx": "alien-resurrection"
    },
    "s": {
-    "imdb": [6.2, 294929, "2026-10-03"],
-    "lbx": [2.63, 325733, "2026-10-03"],
-    "rt": [39, 19769, "2026-10-03"]
+    "imdb": [6.2, 295443, "2026-10-26"],
+    "lbx": [2.64, 329155, "2026-10-26"],
+    "rt": [39, 19781, "2026-10-26"]
    }
   },
   "the-odyssey-2026": {
@@ -2585,12 +3057,15 @@
    "sum": "After the Trojan War, Odysseus fights his way home to Ithaca past monsters, gods and temptations, while rivals circle his wife and son.",
    "img": "cm0",
    "ids": {
-    "imdb": "tt33764258"
+    "imdb": "tt33764258",
+    "rt": "m/the_odyssey_2026",
+    "mc": "movie/the-odyssey-2026",
+    "lbx": "the-odyssey-2026"
    },
    "s": {
-    "imdb": [8.4, 517820, "2026-10-03"],
-    "lbx": [4.35, 4500729, "2026-10-03"],
-    "rt": [96, 34247, "2026-10-03"]
+    "imdb": [8.4, 535976, "2026-10-26"],
+    "lbx": [4.34, 4641076, "2026-10-26"],
+    "rt": [96, 34950, "2026-10-26"]
    }
   },
   "spider-man-homecoming-2017": {
@@ -2598,12 +3073,15 @@
    "y": 2017,
    "img": "cm27",
    "ids": {
-    "imdb": "tt2250912"
+    "imdb": "tt2250912",
+    "rt": "m/spider_man_homecoming",
+    "mc": "movie/spider-man-homecoming",
+    "lbx": "spider-man-homecoming"
    },
    "s": {
-    "imdb": [7.4, 840709, "2026-10-03"],
-    "lbx": [3.51, 3434196, "2026-10-03"],
-    "rt": [87, 53278, "2026-10-03"]
+    "imdb": [7.4, 844290, "2026-10-26"],
+    "lbx": [3.51, 3493880, "2026-10-26"],
+    "rt": [87, 53308, "2026-10-26"]
    }
   },
   "spider-man-far-from-home-2019": {
@@ -2611,12 +3089,15 @@
    "y": 2019,
    "img": "cm28",
    "ids": {
-    "imdb": "tt6320628"
+    "imdb": "tt6320628",
+    "rt": "m/spider_man_far_from_home",
+    "mc": "movie/spider-man-far-from-home",
+    "lbx": "spider-man-far-from-home"
    },
    "s": {
-    "imdb": [7.3, 678306, "2026-10-03"],
-    "lbx": [3.42, 3075305, "2026-10-03"],
-    "rt": [95, 69542, "2026-10-03"]
+    "imdb": [7.3, 681781, "2026-10-26"],
+    "lbx": [3.42, 3131293, "2026-10-26"],
+    "rt": [95, 69542, "2026-10-26"]
    }
   },
   "spider-man-no-way-home-2021": {
@@ -2625,12 +3106,15 @@
    "img": "cm29",
    "aw": ["1 Oscar nomination"],
    "ids": {
-    "imdb": "tt10872600"
+    "imdb": "tt10872600",
+    "rt": "m/spider_man_no_way_home",
+    "mc": "movie/spider-man-no-way-home",
+    "lbx": "spider-man-no-way-home"
    },
    "s": {
-    "imdb": [8.1, 1078676, "2026-10-03"],
-    "lbx": [3.86, 4273257, "2026-10-03"],
-    "rt": [97, 50223, "2026-10-03"]
+    "imdb": [8.1, 1083954, "2026-10-26"],
+    "lbx": [3.86, 4338519, "2026-10-26"],
+    "rt": [97, 50223, "2026-10-26"]
    }
   },
   "spider-man-brand-new-day-2026": {
@@ -2638,12 +3122,15 @@
    "y": 2026,
    "img": "cm1",
    "ids": {
-    "imdb": "tt22084616"
+    "imdb": "tt22084616",
+    "rt": "m/spider_man_brand_new_day",
+    "mc": "movie/spider-man-brand-new-day",
+    "lbx": "spider-man-brand-new-day"
    },
    "s": {
-    "imdb": [8, 317734, "2026-10-03"],
-    "lbx": [4.04, 4310839, "2026-10-03"],
-    "rt": [97, 35662, "2026-10-03"]
+    "imdb": [7.9, 364384, "2026-10-26"],
+    "lbx": [4.03, 4631626, "2026-10-26"],
+    "rt": [97, 36639, "2026-10-26"]
    }
   },
   "punjab-95-2026": {
@@ -2654,11 +3141,12 @@
    "sum": "The true story of human rights activist Jaswant Singh Khalra, who uncovered thousands of secret cremations during the Punjab insurgency.",
    "img": "cm2",
    "ids": {
-    "imdb": "tt28089784"
+    "imdb": "tt28089784",
+    "lbx": "satluj-2026"
    },
    "s": {
-    "imdb": [8.8, 106790, "2026-10-03"],
-    "lbx": [4.2, 8857, "2026-10-03"],
+    "imdb": [8.8, 106948, "2026-10-26"],
+    "lbx": [4.2, 9100, "2026-10-26"],
     "rt": [76, 237, "2026-10-03"]
    }
   },
@@ -2698,12 +3186,15 @@
    "sum": "When the shepherd who reads them murder mysteries every night is found dead, his flock sets out to solve the case.",
    "img": "cm5",
    "ids": {
-    "imdb": "tt32565993"
+    "imdb": "tt32565993",
+    "rt": "m/the_sheep_detectives",
+    "mc": "movie/the-sheep-detectives",
+    "lbx": "the-sheep-detectives"
    },
    "s": {
-    "imdb": [7.4, 118516, "2026-10-03"],
-    "lbx": [3.78, 1078740, "2026-10-03"],
-    "rt": [96, 3884, "2026-10-03"]
+    "imdb": [7.4, 123267, "2026-10-26"],
+    "lbx": [3.77, 1111552, "2026-10-26"],
+    "rt": [96, 3895, "2026-10-26"]
    }
   },
   "michael-2026": {
@@ -2714,12 +3205,15 @@
    "sum": "The life of Michael Jackson, from the Jackson 5 to the ambition that made him the biggest star in the world.",
    "img": "cm6",
    "ids": {
-    "imdb": "tt11378946"
+    "imdb": "tt11378946",
+    "rt": "m/michael",
+    "mc": "movie/michael-2026",
+    "lbx": "michael-2026"
    },
    "s": {
-    "imdb": [7.3, 191619, "2026-10-03"],
-    "lbx": [3.6, 1871323, "2026-10-03"],
-    "rt": [97, 29738, "2026-10-03"]
+    "imdb": [7.3, 195282, "2026-10-26"],
+    "lbx": [3.6, 1915613, "2026-10-26"],
+    "rt": [97, 29840, "2026-10-26"]
    }
   },
   "tony-2026": {
@@ -2730,12 +3224,15 @@
    "sum": "A 19-year-old Anthony Bourdain spends a chaotic summer in a Provincetown restaurant kitchen that shapes the rest of his life.",
    "img": "cm7",
    "ids": {
-    "imdb": "tt33095251"
+    "imdb": "tt33095251",
+    "rt": "m/tony_2026",
+    "mc": "movie/tony",
+    "lbx": "tony-2026"
    },
    "s": {
-    "imdb": [7.4, 15196, "2026-10-03"],
-    "lbx": [3.82, 331587, "2026-10-03"],
-    "rt": [93, 971, "2026-10-03"]
+    "imdb": [7.3, 18546, "2026-10-26"],
+    "lbx": [3.81, 365214, "2026-10-26"],
+    "rt": [92, 1004, "2026-10-26"]
    }
   },
   "main-vaapas-aaunga-2026": {
@@ -2746,11 +3243,12 @@
    "sum": "A story of love, memory and longing for home, rooted in the families torn apart by the Partition of India.",
    "img": "cm8",
    "ids": {
-    "imdb": "tt37333137"
+    "imdb": "tt37333137",
+    "lbx": "main-vaapas-aaunga"
    },
    "s": {
-    "imdb": [8, 13751, "2026-10-03"],
-    "lbx": [3.98, 31701, "2026-10-03"],
+    "imdb": [7.9, 14126, "2026-10-26"],
+    "lbx": [3.98, 33035, "2026-10-26"],
     "rt": [92, 64, "2026-10-03"]
    }
   },
@@ -2762,12 +3260,15 @@
    "sum": "A widow working night shifts at an aquarium forms an unlikely friendship with a very clever octopus, who helps her uncover a family secret.",
    "img": "cm9",
    "ids": {
-    "imdb": "tt33100314"
+    "imdb": "tt33100314",
+    "rt": "m/remarkably_bright_creatures",
+    "mc": "movie/remarkably-bright-creatures",
+    "lbx": "remarkably-bright-creatures"
    },
    "s": {
-    "imdb": [7.6, 53138, "2026-10-03"],
-    "lbx": [3.8, 265843, "2026-10-03"],
-    "rt": [90, 1478, "2026-10-03"]
+    "imdb": [7.6, 55047, "2026-10-26"],
+    "lbx": [3.8, 275557, "2026-10-26"],
+    "rt": [90, 1513, "2026-10-26"]
    }
   },
   "batman-knightfall-part-1-2026": {
@@ -2792,12 +3293,14 @@
    "sum": "A grieving boy searching for God to meet his late mother learns to serve others with love, food and quiet miracles.",
    "img": "cm11",
    "ids": {
-    "imdb": "tt39390582"
+    "imdb": "tt39390582",
+    "rt": "m/hanuman_ansh",
+    "lbx": "hanuman-ansh"
    },
    "s": {
-    "imdb": [8.6, 11863, "2026-10-03"],
-    "lbx": [3.12, 3671, "2026-10-03"],
-    "rt": [97, 146, "2026-10-03"]
+    "imdb": [8.5, 12605, "2026-10-26"],
+    "lbx": [3.12, 4323, "2026-10-26"],
+    "rt": [97, 161, "2026-10-26"]
    }
   },
   "mandaadi-2026": {
@@ -2822,12 +3325,15 @@
    "sum": "Grown-up Aang and his friends set out on a new adventure when he learns of an ancient power that could save the Air Nomads.",
    "img": "cm13",
    "ids": {
-    "imdb": "tt18259538"
+    "imdb": "tt18259538",
+    "rt": "m/the_legend_of_aang_the_last_airbender",
+    "mc": "movie/avatar-aang-the-last-airbender",
+    "lbx": "avatar-aang-the-last-airbender"
    },
    "s": {
-    "imdb": [7.7, 28902, "2026-10-03"],
-    "lbx": [3.72, 279448, "2026-10-03"],
-    "rt": [99, 96, "2026-10-03"]
+    "imdb": [7.7, 31415, "2026-10-26"],
+    "lbx": [3.72, 302347, "2026-10-26"],
+    "rt": [99, 97, "2026-10-26"]
    }
   },
   "dc-2026": {
@@ -2838,12 +3344,14 @@
    "sum": "A rebel and a dangerous woman form a turbulent alliance in a violent underworld where loyalty is tested in blood.",
    "img": "cm15",
    "ids": {
-    "imdb": "tt37501035"
+    "imdb": "tt37501035",
+    "rt": "m/dc",
+    "lbx": "dc"
    },
    "s": {
-    "imdb": [7.9, 8475, "2026-10-03"],
-    "lbx": [3.7, 48395, "2026-10-03"],
-    "rt": [92, 143, "2026-10-03"]
+    "imdb": [7.8, 9658, "2026-10-26"],
+    "lbx": [3.69, 51736, "2026-10-26"],
+    "rt": [92, 144, "2026-10-26"]
    }
   },
   "primetime-2026": {
@@ -2868,12 +3376,15 @@
    "sum": "In the 72 hours before D-Day, Eisenhower and his chief meteorologist must decide whether the weather will allow the invasion to go ahead.",
    "img": "cm17",
    "ids": {
-    "imdb": "tt32547691"
+    "imdb": "tt32547691",
+    "rt": "m/pressure_2026",
+    "mc": "movie/pressure",
+    "lbx": "pressure-2026"
    },
    "s": {
-    "imdb": [7.3, 36298, "2026-10-03"],
-    "lbx": [3.54, 124235, "2026-10-03"],
-    "rt": [95, 2049, "2026-10-03"]
+    "imdb": [7.3, 40684, "2026-10-26"],
+    "lbx": [3.54, 136357, "2026-10-26"],
+    "rt": [95, 2051, "2026-10-26"]
    }
   },
   "teenage-sex-and-death-at-camp-miasma-2026": {
@@ -2898,12 +3409,14 @@
    "sum": "An angry convict sets out for revenge against the former girlfriend who betrayed him.",
    "img": "cm19",
    "ids": {
-    "imdb": "tt30413898"
+    "imdb": "tt30413898",
+    "rt": "m/dacoit_a_love_story",
+    "lbx": "dacoit"
    },
    "s": {
-    "imdb": [7.4, 10331, "2026-10-03"],
-    "lbx": [2.69, 12190, "2026-10-03"],
-    "rt": [51, 63, "2026-10-03"]
+    "imdb": [7.4, 10434, "2026-10-26"],
+    "lbx": [2.68, 12603, "2026-10-26"],
+    "rt": [51, 63, "2026-10-26"]
    }
   },
   "facing-el-chapo-2026": {
@@ -2914,11 +3427,12 @@
    "sum": "Two police officers on a routine traffic stop find themselves face to face with the world's most wanted drug lord.",
    "img": "cm20",
    "ids": {
-    "imdb": "tt39390497"
+    "imdb": "tt39390497",
+    "lbx": "facing-el-chapo"
    },
    "s": {
-    "imdb": [6.7, 8774, "2026-10-03"],
-    "lbx": [3.11, 22404, "2026-10-03"],
+    "imdb": [6.7, 9605, "2026-10-26"],
+    "lbx": [3.11, 24451, "2026-10-26"],
     "rt": [79, 121, "2026-10-03"]
    }
   },
@@ -2944,12 +3458,14 @@
    "sum": "An ageing international shooting champion faces family duties, an unexpected romance and the end of his career.",
    "img": "cm22",
    "ids": {
-    "imdb": "tt35836025"
+    "imdb": "tt35836025",
+    "rt": "m/vishwanath_and_sons",
+    "lbx": "vishwanath-sons"
    },
    "s": {
-    "imdb": [7.2, 8230, "2026-10-03"],
-    "lbx": [3.09, 40966, "2026-10-03"],
-    "rt": [89, 175, "2026-10-03"]
+    "imdb": [7.2, 9381, "2026-10-26"],
+    "lbx": [3.07, 44468, "2026-10-26"],
+    "rt": [89, 178, "2026-10-26"]
    }
   },
   "voicemails-for-isabelle-2026": {
@@ -2960,12 +3476,15 @@
    "sum": "A woman keeps leaving voicemails for her late sister, not knowing a stranger in Austin is receiving them.",
    "img": "cm23",
    "ids": {
-    "imdb": "tt10375624"
+    "imdb": "tt10375624",
+    "rt": "m/voicemails_for_isabelle",
+    "mc": "movie/voicemails-for-isabelle",
+    "lbx": "voicemails-for-isabelle"
    },
    "s": {
-    "imdb": [7.3, 55704, "2026-10-03"],
-    "lbx": [3.48, 809373, "2026-10-03"],
-    "rt": [86, 1102, "2026-10-03"]
+    "imdb": [7.2, 58217, "2026-10-26"],
+    "lbx": [3.48, 838976, "2026-10-26"],
+    "rt": [85, 1116, "2026-10-26"]
    }
   }
  },

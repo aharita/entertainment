@@ -19,12 +19,28 @@ Run with Node 18 or newer from the repo root. None need installing.
 |---|---|
 | `node tools/refresh.mjs` | Re-reads IMDb (official daily data files), Steam (store review summary), AniList (public API) and MyAnimeList (Jikan API) for every work with that site's id. Lists any jump that looks like a wrong id. `--dry` to preview. |
 | `node tools/find-ids.mjs [imdb\|steam\|al]` | Finds missing ids on those sites, keeping a match only when its rating agrees with the one on file. Leftovers go to `.cache/find-ids.txt`. |
-| `node tools/todo.mjs <tab> <site>` | Worklist for a site that has to be read in the browser: due titles with their page (or a search) and a patch template in `.cache/`. `--list N` for one list, `--stale DAYS` (default 21). |
+| `node tools/link-ids.mjs` | Fills in Rotten Tomatoes, Metacritic and Backloggd page ids from Wikidata, starting from IMDb and Steam ids. Skips game pages for re-releases (Director's Cut, remasters, `--1` slugs). `--dry` to preview. |
+| `node tools/browser.mjs <tab> <site>` | Writes a script that reads every due title of one site from a Chrome tab on that site (see below). `--merge out.json` turns its results into a patch. `--stale DAYS` (default 21). |
+| `node tools/todo.mjs <tab> <site>` | Worklist for titles `browser.mjs` can't read (no page id): due titles with a search link and a patch template in `.cache/`. `--list N` for one list. |
 | `node tools/apply.mjs patch.json` | Merges ratings, page ids, new works, series and list changes from a patch file (format at the top of the script). |
 | `node tools/check.mjs` | Checks the data, then shows per-site coverage and age, thin titles, a stale Current window and unused covers. |
 | `node tools/diff.mjs [REV]` | Rank changes against a git revision (default `HEAD`), for reviewing a refresh before committing. |
 
-Sites without an API (Goodreads, Amazon, Audible, Letterboxd, Rotten Tomatoes, Backloggd, Metacritic) are read in the user's own Chrome through Claude in Chrome. Only read pages; never sign in or submit forms. Save each page's id with its rating (`ids` in the patch) so the next refresh can open the page directly. Letterboxd needs no id when the film has an IMDb id, because `letterboxd.com/imdb/<tt id>/` redirects to the film.
+Sites without an API (Goodreads, Amazon, Audible, Letterboxd, Rotten Tomatoes, Backloggd, Metacritic, MyAnimeList pages) are read in the user's own Chrome through Claude in Chrome. Only read pages; never sign in or submit forms.
+
+### Reading a site in Chrome
+
+1. `node tools/browser.mjs <tab> <site>` writes `.cache/browser-<tab>-<site>.js`.
+2. Open any page of that site in a Chrome tab and run the script there with `javascript_tool`. It fetches each title's page from that tab, one every second or two, and keeps going in the background. Check progress with `__ranked.done + '/' + __ranked.total`.
+3. When it's done, run `__ranked.show()`, which puts the results on the page as JSON, read them with `get_page_text` and save them to `.cache/browser-<tab>-<site>.out.json`. (`javascript_tool` cuts long output short, so don't return the results from it directly.)
+4. `node tools/browser.mjs <tab> <site> --merge .cache/browser-<tab>-<site>.out.json`, look over the titles it couldn't read and any big jumps, then `node tools/apply.mjs` on the patch.
+
+How each site is found:
+- **Rotten Tomatoes, Metacritic, Backloggd, MyAnimeList**: by page id (`link-ids.mjs` finds most; the rest by hand with `todo.mjs`).
+- **Metacritic and Backloggd games without an id**: the script guesses the page address from the title (`&` as "and" or dropped, an apostrophe dropped or turned into `-`, a closing number as a Roman numeral, `--1` for a reused name). It keeps a page only when its release year is within one year of ours, and then saves the page id. Pre-1995 games are mostly missing from Metacritic, and its pages for some classics are later remakes, so those keep the rating already on file.
+- **Letterboxd**: by page id, or `letterboxd.com/imdb/<tt id>/`, which redirects to the film.
+- **Goodreads**: by book id, otherwise a title search (adding the author fills the results with study guides). It keeps the most-rated result with the same title by the same author and saves its id.
+- **Amazon, Audible**: a title-and-author search every time, keeping the most-rated listing with the same title by the same author. No id is kept, because ratings move between editions. Harry Potter should come out as the Jim Dale recordings on Audible; check it.
 
 Notes on counts:
 - **Steam** is the store's "All Reviews" summary across languages (whole-number percent). Before October 2026 the counts came from a different Steam endpoint and were higher, so the first refresh lowers them. Scores barely move, because the counts are far above the 50,000 threshold.
@@ -40,7 +56,7 @@ Refresh the ratings for "Ranked" in this repo. Read REFRESH.md, ROADMAP.md and r
 
 1. Run node tools/refresh.mjs, then node tools/find-ids.mjs for titles still missing ids. Check every "looks odd" line and fix wrong ids before going on.
 
-2. For each site without an API (Goodreads, Amazon, Audible, Letterboxd, Rotten Tomatoes, Backloggd, Metacritic), run node tools/todo.mjs <tab> <site>, open the pages in my Chrome with Claude in Chrome (read only), fill in the patch with [rating, count] and the page id, and apply it with node tools/apply.mjs. Use the most-rated listing for each title. Watch for wrong matches: editions, translations, study guides, remakes vs originals, and titles that start with the same words. Harry Potter uses the Jim Dale Audible recordings.
+2. Run node tools/link-ids.mjs. Then for each site without an API (Goodreads, Amazon, Audible, Letterboxd, Rotten Tomatoes, Backloggd, Metacritic), read it in my Chrome with Claude in Chrome (read only) using node tools/browser.mjs as described in "Reading a site in Chrome", and apply the patch with node tools/apply.mjs. Titles without a page id go through node tools/todo.mjs. Use the most-rated listing for each title. Watch for wrong matches: editions, translations, study guides, remakes vs originals, and titles that start with the same words. Harry Potter uses the Jim Dale Audible recordings.
 
 3. Rebuild the Current lists: titles released in the six months before today (for TV, shows with new episodes in that window; for anime, the two most recent seasons). Take the best-rated 25–30 per tab with at least two sources. A series with a new entry in that window goes in with all its entries, ranked by its best one, and its new entries are tagged "New". Update "current" (from, to, about) in each data file.
 
