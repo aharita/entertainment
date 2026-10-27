@@ -1,8 +1,8 @@
 {
  "current": {
-  "from": "2026-04-03",
-  "to": "2026-10-03",
-  "about": "Books published April–September 2026, or a series with a new book in that time"
+  "from": "2026-04-26",
+  "to": "2026-10-26",
+  "about": "Books published May–October 2026, or a series with a new book in that time"
  },
  "works": {
   "dungeon-crawler-carl-2021": {
@@ -2149,10 +2149,10 @@
   },
   "dracula-2026": {
    "t": "Dracula",
-   "y": 2026,
+   "y": 1897,
    "by": "Bram Stoker",
    "g": "Horror",
-   "sum": "An Audible Original adaptation of the classic vampire tale, told through letters, diaries and recordings.",
+   "sum": "A young English solicitor travels to Transylvania on business with a mysterious count, and a group of friends must later hunt the vampire who follows him to London, told through letters and diaries.",
    "img": "b12216503",
    "note": "Audible rating is for the Audible Original adaptation.",
    "audQ": "Bram Stoker's Dracula",
@@ -2789,22 +2789,6 @@
     "aud": [4.6, 364, "2026-10-26"]
    }
   },
-  "we-burned-so-bright-2026": {
-   "t": "We Burned So Bright",
-   "y": 2026,
-   "by": "T.J. Klune",
-   "g": "Fiction",
-   "sum": "An older couple sets out on one last road trip as the world approaches its end.",
-   "img": "cb11",
-   "ids": {
-    "gr": "231126885"
-   },
-   "s": {
-    "gr": [4.16, 56350, "2026-10-26"],
-    "amz": [4.4, 3406, "2026-10-26"],
-    "aud": [4.7, 638, "2026-10-26"]
-   }
-  },
   "daughters-of-the-sun-and-moon-2026": {
    "t": "Daughters of the Sun and Moon",
    "y": 2026,
@@ -2821,70 +2805,6 @@
     "aud": [4.6, 322, "2026-10-26"]
    }
   },
-  "fruit-fly-2026": {
-   "t": "Fruit Fly",
-   "y": 2026,
-   "by": "Josh Silver",
-   "g": "Thriller / Fiction",
-   "sum": "A washed-up author will do anything to be relevant again, even steal someone else’s story.",
-   "img": "cb13",
-   "ids": {
-    "gr": "243596291"
-   },
-   "s": {
-    "gr": [4.13, 63724, "2026-10-26"],
-    "amz": [4.3, 6700, "2026-10-26"],
-    "aud": [4.5, 625, "2026-10-26"]
-   }
-  },
-  "the-burning-side-2026": {
-   "t": "The Burning Side",
-   "y": 2026,
-   "by": "Sarah Damoff",
-   "g": "Fiction",
-   "sum": "When their house goes up in flames, a couple on the brink of collapse has to decide what is worth saving.",
-   "img": "cb14",
-   "ids": {
-    "gr": "242977911"
-   },
-   "s": {
-    "gr": [4.16, 87255, "2026-10-26"],
-    "amz": [4.4, 8627, "2026-10-26"],
-    "aud": [4.1, 297, "2026-10-26"]
-   }
-  },
-  "harvest-season-2026": {
-   "t": "Harvest Season",
-   "y": 2026,
-   "by": "Brynne Weaver",
-   "g": "Romance / Thriller",
-   "sum": "The second book in the darkly funny, steamy Seasons of Carnage trilogy.",
-   "img": "cb15",
-   "ids": {
-    "gr": "242624490"
-   },
-   "s": {
-    "gr": [4.08, 49430, "2026-10-26"],
-    "amz": [4.3, 3858, "2026-10-26"],
-    "aud": [4.7, 1915, "2026-10-26"]
-   }
-  },
-  "every-version-of-you-2026": {
-   "t": "Every Version of You",
-   "y": 2026,
-   "by": "Natalie Messier",
-   "g": "Romance",
-   "sum": "A love story told across the many versions of two people over the years.",
-   "img": "cb16",
-   "ids": {
-    "gr": "235992376"
-   },
-   "s": {
-    "gr": [4, 18787, "2026-10-26"],
-    "amz": [4.3, 2142, "2026-10-26"],
-    "aud": [4.5, 155, "2026-10-26"]
-   }
-  },
   "the-secrets-we-hide-2026": {
    "t": "The Secrets We Hide",
    "y": 2026,
@@ -2899,46 +2819,6 @@
     "gr": [4.19, 41617, "2026-10-26"],
     "amz": [4.5, 8764, "2026-10-26"],
     "aud": [4.7, 4036, "2026-10-26"]
-   }
-  },
-  "london-falling-2026": {
-   "t": "London Falling",
-   "y": 2026,
-   "by": "Patrick Radden Keefe",
-   "g": "True Crime / History",
-   "sum": "A mysterious death in a gilded city and one family’s search for the truth, from the author of Say Nothing.",
-   "img": "cb18",
-   "ids": {
-    "gr": "238226991"
-   },
-   "s": {
-    "gr": [4.26, 100351, "2026-10-26"],
-    "amz": [4.4, 15920, "2026-10-26"],
-    "aud": [4.6, 2202, "2026-10-26"]
-   }
-  },
-  "shield-of-sparrows-2025": {
-   "t": "Shield of Sparrows",
-   "y": 2025,
-   "ids": {
-    "gr": "217171544"
-   },
-   "s": {
-    "gr": [4.36, 441303, "2026-10-26"],
-    "amz": [4.6, 109995, "2026-10-26"],
-    "aud": [4.7, 10440, "2026-10-26"]
-   }
-  },
-  "rites-of-the-starling-2026": {
-   "t": "Rites of the Starling",
-   "y": 2026,
-   "ids": {
-    "gr": "241058997"
-   },
-   "s": {
-    "gr": [4.42, 226302, "2026-10-26"],
-    "amz": [4.6, 65300, "2026-10-26"],
-    "aud": [4.8, 7668, "2026-10-26"]
    }
   },
   "when-the-moon-hatched-2024": {
@@ -3013,40 +2893,163 @@
     "aud": [4.9, 658, "2026-10-26"]
    }
   },
-  "big-little-truths-2026": {
-   "t": "Big Little Truths",
+  "into-the-fading-twilight-2026": {
+   "t": "Into the Fading Twilight",
    "y": 2026,
+   "by": "Catherine Cowles",
+   "g": "Romance",
+   "sum": "Home after a year in captivity, a woman chasing every thrill she can find is drawn to the single dad set on keeping her safe.",
+   "img": "cb29",
    "ids": {
-    "gr": "249186882"
+    "gr": "243390305"
    },
    "s": {
-    "gr": [4.14, 55525, "2026-10-26"],
-    "amz": [4.4, 15603, "2026-10-26"],
-    "aud": [4.5, 2127, "2026-10-26"]
+    "gr": [4.3, 32400, "2026-10-26"],
+    "amz": [4.4, 13064, "2026-10-26"],
+    "aud": [4.7, 1429, "2026-10-26"]
    }
   },
-  "nightshade-2025": {
-   "t": "Nightshade",
-   "y": 2025,
+  "sunlight-finds-you-2026": {
+   "t": "Sunlight Finds You",
+   "y": 2026,
+   "by": "Laura Moriarty",
+   "g": "Historical Fiction",
+   "sum": "In booming 1949 Florida, a seventeen-year-old's forbidden first love sends her life down a path she never planned.",
+   "img": "cb30",
    "ids": {
-    "gr": "229003381"
+    "gr": "244206039"
    },
    "s": {
-    "gr": [4.08, 95147, "2026-10-26"],
-    "amz": [4.4, 17407, "2026-10-26"],
-    "aud": [4.5, 537, "2026-10-26"]
+    "gr": [4.27, 16900, "2026-10-26"],
+    "amz": [4.5, 3688, "2026-10-26"],
+    "aud": [4.7, 543, "2026-10-26"]
    }
   },
-  "daybreak-2026": {
-   "t": "Daybreak",
+  "the-pirate-queen-2026": {
+   "t": "The Pirate Queen",
    "y": 2026,
+   "by": "Ariel Lawhon",
+   "g": "Historical Fiction",
+   "sum": "The Irish chieftain's daughter Grace O'Malley defies her family's plans for her and takes to the sea to defend her people.",
+   "img": "cb28",
    "ids": {
-    "gr": "243315086"
+    "gr": "223641004"
    },
    "s": {
-    "gr": [4.03, 35590, "2026-10-26"],
-    "amz": [4.3, 7299, "2026-10-26"],
-    "aud": [4.6, 421, "2026-10-26"]
+    "gr": [4.34, 26400, "2026-10-26"],
+    "amz": [4.5, 3994, "2026-10-26"],
+    "aud": [4.7, 1104, "2026-10-26"]
+   }
+  },
+  "dead-beat-2026": {
+   "t": "Dead Beat",
+   "y": 2026,
+   "by": "Leigh Bardugo",
+   "g": "Fantasy",
+   "sum": "With demons loose in New Haven, Alex Stern must dig into Yale's secret societies and her own past before the gates of hell open for good.",
+   "img": "cb27",
+   "ids": {
+    "gr": "247785403"
+   },
+   "s": {
+    "gr": [4.4, 19600, "2026-10-26"],
+    "amz": [4.6, 2571, "2026-10-26"],
+    "aud": [4.8, 677, "2026-10-26"]
+   }
+  },
+  "trust-fall-2026": {
+   "t": "Trust Fall",
+   "y": 2026,
+   "by": "Lynn Painter",
+   "g": "Romance",
+   "sum": "A small-town Nebraska girl whose family inherits a fortune moves to New York and falls for a classmate with a secret.",
+   "img": "cb31",
+   "ids": {
+    "gr": "248283842"
+   },
+   "s": {
+    "gr": [4.22, 22100, "2026-10-26"],
+    "amz": [4.4, 1552, "2026-10-26"],
+    "aud": [4.8, 165, "2026-10-26"]
+   }
+  },
+  "the-wretched-divine-2026": {
+   "t": "The Wretched Divine",
+   "y": 2026,
+   "by": "Adalyn Grace",
+   "g": "Fantasy Romance",
+   "sum": "A knight raised to fight demons chases the first kill that will bind her to an angel, in an ancient war between heaven and hell.",
+   "img": "cb33",
+   "ids": {
+    "gr": "243263467"
+   },
+   "s": {
+    "gr": [4.19, 6735, "2026-10-26"],
+    "amz": [4.5, 1342, "2026-10-26"],
+    "aud": [4.6, 111, "2026-10-26"]
+   }
+  },
+  "the-washwoman-at-the-rivers-end-2026": {
+   "t": "The Washwoman at the River's End",
+   "y": 2026,
+   "by": "Megan Shade",
+   "g": "Fantasy Romance",
+   "sum": "A cursed immortal who washes the grave clothes of the dying meets the man sworn to kill her, in a gothic romance drawn from Scottish legend.",
+   "img": "cb26",
+   "ids": {
+    "gr": "255803383"
+   },
+   "s": {
+    "gr": [4.48, 11700, "2026-10-26"],
+    "amz": [4.6, 4948, "2026-10-26"]
+   }
+  },
+  "bad-words-2026": {
+   "t": "Bad Words",
+   "y": 2026,
+   "by": "Rioghnach Robinson",
+   "g": "Romance",
+   "sum": "A novelist and the critic who sank his debut start a very public feud when she reviews his comeback book.",
+   "img": "cb34",
+   "ids": {
+    "gr": "241344658"
+   },
+   "s": {
+    "gr": [4.17, 11000, "2026-10-26"],
+    "amz": [4.4, 706, "2026-10-26"],
+    "aud": [4.5, 127, "2026-10-26"]
+   }
+  },
+  "under-the-iron-sky-2026": {
+   "t": "Under the Iron Sky",
+   "y": 2026,
+   "by": "A.T. Emerald",
+   "g": "Fantasy Romance",
+   "sum": "In a land where a dark sky has blotted out the suns, a warrior is taken prisoner behind enemy lines by a masked soldier.",
+   "img": "cb32",
+   "ids": {
+    "gr": "248285113"
+   },
+   "s": {
+    "gr": [4.47, 3722, "2026-10-26"],
+    "amz": [4.6, 370, "2026-10-26"],
+    "aud": [4.9, 122, "2026-10-26"]
+   }
+  },
+  "in-the-shadow-of-eight-2026": {
+   "t": "In the Shadow of Eight",
+   "y": 2026,
+   "by": "Collin Gosselin",
+   "g": "Memoir",
+   "sum": "One of the sextuplets raised on a reality TV show describes the childhood that carried on after the cameras were switched off.",
+   "img": "cb25",
+   "ids": {
+    "gr": "253943224"
+   },
+   "s": {
+    "gr": [4.64, 14800, "2026-10-26"],
+    "amz": [4.9, 3448, "2026-10-26"],
+    "aud": [5, 3975, "2026-10-26"]
    }
   }
  },
@@ -3228,23 +3231,6 @@
     }
    ]
   },
-  "shield-of-sparrows": {
-   "t": "Shield of Sparrows",
-   "by": "Devney Perry",
-   "g": "Fantasy Romance",
-   "sum": "A princess sent to marry a stranger in a far kingdom finds herself at the centre of a war for survival against deadly beasts.",
-   "img": "cb20",
-   "members": [
-    {
-     "w": "shield-of-sparrows-2025",
-     "no": "#1"
-    },
-    {
-     "w": "rites-of-the-starling-2026",
-     "no": "#2 · New"
-    }
-   ]
-  },
   "moonfall": {
    "t": "Moonfall",
    "by": "Sarah A. Parker",
@@ -3296,40 +3282,6 @@
     }
    ]
   },
-  "big-little-lies": {
-   "t": "Big Little Lies",
-   "by": "Liane Moriarty",
-   "g": "Fiction / Mystery",
-   "sum": "Three mothers in a wealthy seaside town are drawn into a school-gate feud that ends in a death, and years later the secrets resurface.",
-   "img": "cb23",
-   "members": [
-    {
-     "w": "big-little-lies-2014",
-     "no": "#1"
-    },
-    {
-     "w": "big-little-truths-2026",
-     "no": "#2 · New"
-    }
-   ]
-  },
-  "sorrowsong-university": {
-   "t": "Sorrowsong University",
-   "by": "Autumn Woods",
-   "g": "Romance",
-   "sum": "A dark-academia romance of snarky banter and secrets at an elite university.",
-   "img": "cb24",
-   "members": [
-    {
-     "w": "nightshade-2025",
-     "no": "#1"
-    },
-    {
-     "w": "daybreak-2026",
-     "no": "#2 · New"
-    }
-   ]
-  },
   "dungeon-crawler-carl-2": {
    "t": "Dungeon Crawler Carl",
    "by": "Matt Dinniman",
@@ -3374,6 +3326,6 @@
  "lists": {
   "M": ["dungeon-crawler-carl", "harry-potter", "throne-of-glass", "the-empyrean", "the-hunger-games", "project-hail-mary-2021", "can-t-hurt-me-2018", "becoming-2018", "atomic-habits-2018", "born-a-crime-2016", "greenlights-2020", "the-martian-2011", "where-the-crawdads-sing-2018", "the-midnight-library-2020", "i-m-glad-my-mom-died-2022", "the-nightingale-2015", "house-of-earth-and-blood-2020", "theo-of-golden-2025", "the-correspondent-2025", "the-seven-husbands-of-evelyn-hugo-2017", "lessons-in-chemistry-2022", "a-court-of-thorns-and-roses-2015", "verity-2019", "the-invisible-life-of-addie-larue-2020", "all-the-light-we-cannot-see-2014", "the-let-them-theory-2024", "the-four-winds-2021", "the-love-hypothesis-2021", "malibu-rising-2021", "the-great-alone-2018", "the-women-2024", "remarkably-bright-creatures-2022", "daisy-jones-and-the-six-2019", "the-7-habits-of-highly-effective-people-1989", "educated-2018", "the-song-of-achilles-2011", "circe-2018", "the-book-thief-2005", "the-help-2009", "the-dutch-house-2019", "cloud-cuckoo-land-2021", "the-vanishing-half-2020", "anxious-people-2020", "the-lincoln-highway-2021", "tomorrow-and-tomorrow-and-tomorrow-2022", "demon-copperhead-2022", "carrie-soto-is-back-2022", "the-rose-code-2021", "the-alice-network-2017", "the-tattooist-of-auschwitz-2018", "a-promised-land-2020", "caste-2020", "sapiens-2011", "the-psychology-of-money-2020", "the-power-of-habit-2012", "shoe-dog-2016", "bad-blood-2018", "empire-of-pain-2021", "the-wager-2023", "killers-of-the-flower-moon-2017", "the-boys-in-the-boat-2013", "unbroken-2010", "the-immortal-life-of-henrietta-lacks-2010", "the-glass-castle-2005", "when-breath-becomes-air-2016", "outlive-2023", "why-we-sleep-2017", "the-subtle-art-of-not-giving-a-f-ck-2016", "gone-girl-2012", "the-girl-on-the-train-2015", "big-little-lies-2014", "the-silent-patient-2019", "the-maid-2022", "the-housemaid-2022", "none-of-this-is-true-2023", "the-guest-list-2020", "the-paris-apartment-2022", "the-thursday-murder-club-2020", "magpie-murders-2016", "the-lincoln-lawyer-2005", "atmosphere-2025", "the-calamity-club-2026", "mad-mabel-2026", "yesteryear-2026", "hollow-bones-2026", "the-french-illusion-2026", "a-man-called-ove-2012", "the-kite-runner-2003", "a-thousand-splendid-suns-2007", "pachinko-2017", "the-covenant-of-water-2023", "lonesome-dove-1985", "hamnet-2020", "the-road-2006", "life-of-pi-2001", "just-mercy-2014", "the-body-keeps-the-score-2014", "thinking-fast-and-slow-2011", "into-thin-air-1997", "the-pillars-of-the-earth-1989", "threshing-day-2026", "the-ballad-of-songbirds-and-snakes-2020", "sunrise-on-the-reaping-2025"],
   "C": ["the-lord-of-the-rings", "how-to-win-friends-and-influence-people-1936", "man-s-search-for-meaning-1946", "endurance-1959", "night-1956", "think-and-grow-rich-1937", "dune-1965", "the-hobbit-1937", "dracula-2026", "pride-and-prejudice-1813", "jane-eyre-1847", "wuthering-heights-1847", "frankenstein-1818", "moby-dick-1851", "great-expectations-1861", "les-miserables-1862", "the-count-of-monte-cristo-1844", "little-women-1868", "crime-and-punishment-1866", "anna-karenina-1877", "the-picture-of-dorian-gray-1890", "the-great-gatsby-1925", "to-kill-a-mockingbird-1960", "1984-1949", "animal-farm-1945", "brave-new-world-1932", "of-mice-and-men-1937", "east-of-eden-1952", "fahrenheit-451-1953", "the-catcher-in-the-rye-1951", "lord-of-the-flies-1954", "catch-22-1961", "slaughterhouse-five-1969", "one-hundred-years-of-solitude-1967", "rebecca-1938", "the-diary-of-a-young-girl-1947", "meditations-180", "in-cold-blood-1966", "silent-spring-1962"],
-  "N": ["the-calamity-club-2026", "mad-mabel-2026", "the-poison-daughter-2026", "the-lion-and-the-deathless-dark-2026", "whistler-2026", "dolly-all-the-time-2026", "a-trade-of-blood-2026", "tempting-venom-2026", "john-of-john-2026", "land-2026", "grim-tidings-2026", "we-burned-so-bright-2026", "daughters-of-the-sun-and-moon-2026", "fruit-fly-2026", "the-burning-side-2026", "harvest-season-2026", "every-version-of-you-2026", "the-secrets-we-hide-2026", "london-falling-2026", "shield-of-sparrows", "moonfall", "the-stonewater-kingdom", "dearly-beloathed", "big-little-lies", "sorrowsong-university", "dungeon-crawler-carl-2", "threshing-day-2026"]
+  "N": ["the-calamity-club-2026", "the-poison-daughter-2026", "the-lion-and-the-deathless-dark-2026", "whistler-2026", "dolly-all-the-time-2026", "a-trade-of-blood-2026", "tempting-venom-2026", "john-of-john-2026", "land-2026", "grim-tidings-2026", "daughters-of-the-sun-and-moon-2026", "the-secrets-we-hide-2026", "moonfall", "the-stonewater-kingdom", "dearly-beloathed", "dungeon-crawler-carl-2", "threshing-day-2026", "in-the-shadow-of-eight-2026", "hollow-bones-2026", "the-washwoman-at-the-rivers-end-2026", "dead-beat-2026", "the-pirate-queen-2026", "into-the-fading-twilight-2026", "sunlight-finds-you-2026", "trust-fall-2026", "under-the-iron-sky-2026", "the-wretched-divine-2026", "bad-words-2026"]
  }
 }

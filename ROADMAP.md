@@ -29,5 +29,7 @@ Pre-launch review, 25 Oct 2026. One iteration at a time, review after each.
 
 - [x] **Ratings re-read, 25–26 Oct.** APIs (IMDb, Steam, AniList, MyAnimeList), then every Chrome site with `browser.mjs`: Rotten Tomatoes, Metacritic, Letterboxd, Backloggd, Goodreads, Audible, Amazon. Games without a page id are found by guessing the page address and checking the year. Goodreads now keeps book ids. Wrong matches dropped by hand: Prime Suspect on Metacritic (it was the 2011 US remake), Anne Frank on Audible, Wuthering Heights and East of Eden on Amazon.
 - [x] Biggest moves come from titles that gained a second or third site: Cosmos: A Spacetime Odyssey #2 → #17 and The Last Dance #19 → #38 (TV Modern). No title entered or left a list.
-- [ ] Still to do: rebuild Current, add new releases and awards, covers and summaries for new titles.
-- [ ] Data question: *Dracula* (Stoker) is stored with year 2026.
+- [x] **Current rebuilt** for 26 April – 26 October 2026 in every tab: 77 titles entered and 72 left. TV Current now includes long-running shows with new episodes (The Simpsons, SVU, SpongeBob), as the rule says. *Project Hail Mary* added to Modern movies (#40). Every new title has a cover, a summary and its genre and creator.
+- [x] **Awards:** 2026 Emmys added (Widow's Bay, The Bear, Stranger Things, The Boys). Oscars, Game Awards, D.I.C.E., Goodreads Choice and Crunchyroll had nothing new for listed titles.
+- [x] **Cleanup:** 220 unlisted works and 8 unused series dropped, 67 unused covers deleted. Tools now date ratings by local day, not UTC. *Dracula* fixed to 1897.
+- [ ] Not in the data at all: *The Pitt* (25 Emmy nominations, Drama Series winner). Candidate for Modern TV next time.

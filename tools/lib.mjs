@@ -9,7 +9,7 @@ import { fileURLToPath } from 'node:url';
 
 export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 export const TABS = ['books', 'movies', 'games', 'tv', 'anime'];
-export const today = () => new Date().toISOString().slice(0, 10);
+export const today = () => new Date().toLocaleDateString("en-CA"); // local date, YYYY-MM-DD
 
 export const dataPath = tab => path.join(ROOT, 'data', tab + '.json');
 export const load = tab => JSON.parse(fs.readFileSync(dataPath(tab), 'utf8'));

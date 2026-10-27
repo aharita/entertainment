@@ -1,8 +1,8 @@
 {
  "current": {
-  "from": "2026-04-03",
-  "to": "2026-10-03",
-  "about": "Released 3 April – 3 October 2026"
+  "from": "2026-04-26",
+  "to": "2026-10-26",
+  "about": "Released 26 April – 26 October 2026"
  },
  "works": {
   "the-witcher-3-wild-hunt-2015": {
@@ -19,7 +19,7 @@
    },
    "s": {
     "bl": [4.402, 97876, "2026-10-26"],
-    "steam": [96, 840258, "2026-10-26"],
+    "steam": [96, 840812, "2026-10-26"],
     "mc": [9.1, 20315, "2026-10-26"]
    }
   },
@@ -67,11 +67,12 @@
    "img": "g4",
    "aw": ["Game of the Year, The Game Awards 2017", "Game of the Year, D.I.C.E. Awards"],
    "ids": {
-    "bl": "the-legend-of-zelda-breath-of-the-wild"
+    "bl": "the-legend-of-zelda-breath-of-the-wild",
+    "mc": "game/the-legend-of-zelda-breath-of-the-wild"
    },
    "s": {
     "bl": [4.463, 126200, "2026-10-26"],
-    "mc": [8.9, 27338, "2026-10-03"]
+    "mc": [8.9, 27440, "2026-10-26"]
    }
   },
   "the-legend-of-zelda-tears-of-the-kingdom-2023": {
@@ -138,7 +139,7 @@
    },
    "s": {
     "bl": [4.383, 28860, "2026-10-26"],
-    "steam": [95, 115457, "2026-10-26"],
+    "steam": [95, 115503, "2026-10-26"],
     "mc": [8.5, 1907, "2026-10-26"]
    }
   },
@@ -208,7 +209,7 @@
    },
    "s": {
     "bl": [4.163, 95280, "2026-10-26"],
-    "steam": [98, 901370, "2026-10-26"],
+    "steam": [98, 902080, "2026-10-26"],
     "mc": [8.8, 3494, "2026-10-26"]
    }
   },
@@ -359,7 +360,7 @@
    },
    "s": {
     "bl": [4.347, 92291, "2026-10-26"],
-    "steam": [94, 279659, "2026-10-26"],
+    "steam": [94, 279822, "2026-10-26"],
     "mc": [8.8, 7459, "2026-10-26"]
    }
   },
@@ -689,7 +690,7 @@
    },
    "s": {
     "bl": [4.263, 111461, "2026-10-26"],
-    "steam": [97, 159086, "2026-10-26"],
+    "steam": [97, 159531, "2026-10-26"],
     "mc": [8.9, 9244, "2026-10-26"]
    }
   },
@@ -846,7 +847,7 @@
    },
    "s": {
     "bl": [4.121, 79153, "2026-10-26"],
-    "steam": [96, 200472, "2026-10-26"],
+    "steam": [96, 200699, "2026-10-26"],
     "mc": [8.5, 2532, "2026-10-26"]
    }
   },
@@ -863,7 +864,7 @@
    },
    "s": {
     "bl": [3.806, 42279, "2026-10-26"],
-    "steam": [97, 157072, "2026-10-26"],
+    "steam": [97, 157197, "2026-10-26"],
     "mc": [8.3, 1466, "2026-10-26"]
    }
   },
@@ -916,7 +917,7 @@
    },
    "s": {
     "bl": [3.727, 44937, "2026-10-26"],
-    "steam": [98, 252599, "2026-10-26"],
+    "steam": [98, 252617, "2026-10-26"],
     "mc": [8.1, 1045, "2026-10-26"]
    }
   },
@@ -1330,7 +1331,7 @@
    },
    "s": {
     "bl": [4.201, 13295, "2026-10-26"],
-    "steam": [95, 12424, "2026-10-26"],
+    "steam": [95, 12427, "2026-10-26"],
     "mc": [8.1, 2003, "2026-10-26"]
    }
   },
@@ -1485,7 +1486,7 @@
    },
    "s": {
     "bl": [4.232, 53564, "2026-10-26"],
-    "steam": [92, 20948, "2026-10-26"],
+    "steam": [92, 20991, "2026-10-26"],
     "mc": [8.9, 5429, "2026-10-26"]
    }
   },
@@ -1501,7 +1502,7 @@
    },
    "s": {
     "bl": [4.618, 148407, "2026-10-26"],
-    "steam": [92, 856892, "2026-10-26"],
+    "steam": [92, 857903, "2026-10-26"],
     "mc": [9, 37759, "2026-10-26"]
    }
   },
@@ -1642,7 +1643,7 @@
    },
    "s": {
     "bl": [3.865, 62692, "2026-10-26"],
-    "steam": [84, 34944, "2026-10-26"],
+    "steam": [83, 34967, "2026-10-26"],
     "mc": [8.6, 12021, "2026-10-26"]
    }
   },
@@ -1689,7 +1690,7 @@
    },
    "s": {
     "bl": [3.823, 16173, "2026-10-26"],
-    "steam": [88, 32825, "2026-10-26"],
+    "steam": [88, 32871, "2026-10-26"],
     "mc": [7.9, 940, "2026-10-26"]
    }
   },
@@ -2401,7 +2402,7 @@
    },
    "s": {
     "bl": [4.057, 46649, "2026-10-26"],
-    "steam": [96, 118252, "2026-10-26"],
+    "steam": [96, 118281, "2026-10-26"],
     "mc": [8.9, 6229, "2026-10-26"]
    }
   },
@@ -2417,7 +2418,7 @@
    },
    "s": {
     "bl": [4.375, 53330, "2026-10-26"],
-    "steam": [97, 204454, "2026-10-26"],
+    "steam": [97, 204478, "2026-10-26"],
     "mc": [9.1, 11344, "2026-10-26"]
    }
   },
@@ -2432,7 +2433,7 @@
    },
    "s": {
     "bl": [4.531, 8095, "2026-10-26"],
-    "steam": [98, 93533, "2026-10-26"],
+    "steam": [98, 93601, "2026-10-26"],
     "mc": [9.1, 3088, "2026-10-26"]
    }
   },
@@ -2533,7 +2534,7 @@
    },
    "s": {
     "bl": [4.088, 22982, "2026-10-26"],
-    "steam": [96, 2767, "2026-10-26"],
+    "steam": [96, 2809, "2026-10-26"],
     "mc": [8.7, 3161, "2026-10-26"]
    }
   },
@@ -2553,23 +2554,6 @@
     "mc": [8.1, 7356, "2026-10-26"]
    }
   },
-  "pragmata-2026": {
-   "t": "Pragmata",
-   "y": 2026,
-   "by": "Capcom",
-   "sum": "An astronaut and an android girl team up to escape a hostile lunar research station, combining hacking and gunplay.",
-   "img": "cg0",
-   "ids": {
-    "steam": "3357650",
-    "mc": "game/pragmata",
-    "bl": "pragmata"
-   },
-   "s": {
-    "bl": [4.106, 16838, "2026-10-26"],
-    "steam": [96, 34206, "2026-10-26"],
-    "mc": [8.7, 2644, "2026-10-26"]
-   }
-  },
   "big-walk-2026": {
    "t": "Big Walk",
    "y": 2026,
@@ -2583,7 +2567,7 @@
    },
    "s": {
     "bl": [4.338, 7523, "2026-10-26"],
-    "steam": [95, 39248, "2026-10-26"],
+    "steam": [95, 39878, "2026-10-26"],
     "mc": [8.1, 410, "2026-10-26"]
    }
   },
@@ -2600,7 +2584,7 @@
    },
    "s": {
     "bl": [4.068, 19697, "2026-10-26"],
-    "steam": [90, 34837, "2026-10-26"],
+    "steam": [90, 35054, "2026-10-26"],
     "mc": [8.3, 2825, "2026-10-26"]
    }
   },
@@ -2634,7 +2618,7 @@
    },
    "s": {
     "bl": [3.891, 6964, "2026-10-26"],
-    "steam": [95, 9135, "2026-10-26"],
+    "steam": [95, 9169, "2026-10-26"],
     "mc": [8.3, 762, "2026-10-26"]
    }
   },
@@ -2651,7 +2635,7 @@
    },
    "s": {
     "bl": [4.255, 2699, "2026-10-26"],
-    "steam": [98, 3172, "2026-10-26"],
+    "steam": [98, 3197, "2026-10-26"],
     "mc": [8.5, 179, "2026-10-26"]
    }
   },
@@ -2755,23 +2739,6 @@
     "mc": [5.6, 12, "2026-10-26"]
    }
   },
-  "and-roger-2026": {
-   "t": "and Roger",
-   "y": 2026,
-   "by": "TearyHand Studio",
-   "sum": "A girl wakes up to find her dad missing in this short, emotional interactive story.",
-   "img": "cg14",
-   "ids": {
-    "steam": "3308870",
-    "bl": "and-roger",
-    "mc": "game/and-roger"
-   },
-   "s": {
-    "bl": [3.882, 1598, "2026-10-26"],
-    "steam": [94, 2868, "2026-10-26"],
-    "mc": [6.5, 55, "2026-10-26"]
-   }
-  },
   "the-blood-of-dawnwalker-2026": {
    "t": "The Blood of Dawnwalker",
    "y": 2026,
@@ -2785,7 +2752,7 @@
    },
    "s": {
     "bl": [3.99, 4482, "2026-10-26"],
-    "steam": [87, 21006, "2026-10-26"],
+    "steam": [87, 21057, "2026-10-26"],
     "mc": [8.3, 1581, "2026-10-26"]
    }
   },
@@ -2806,23 +2773,6 @@
     "mc": [8.1, 39, "2026-10-26"]
    }
   },
-  "opus-prism-peak-2026": {
-   "t": "OPUS: Prism Peak",
-   "y": 2026,
-   "by": "Sigono",
-   "sum": "A photographer wanders a dreamlike mountain town, helping lost spirits by capturing their memories on film.",
-   "img": "cg17",
-   "ids": {
-    "steam": "1947910",
-    "bl": "opus-prism-peak",
-    "mc": "game/opus-prism-peak"
-   },
-   "s": {
-    "bl": [3.67, 161, "2026-10-26"],
-    "steam": [92, 1106, "2026-10-26"],
-    "mc": [8.3, 44, "2026-10-26"]
-   }
-  },
   "schrodinger-s-cat-burglar-2026": {
    "t": "Schrödinger's Cat Burglar",
    "y": 2026,
@@ -2836,7 +2786,7 @@
    },
    "s": {
     "bl": [3.127, 28, "2026-10-26"],
-    "steam": [97, 640, "2026-10-26"],
+    "steam": [97, 643, "2026-10-26"],
     "mc": [7.7, 6, "2026-10-26"]
    }
   },
@@ -2854,223 +2804,7 @@
    "s": {
     "bl": [3.901, 221, "2026-10-26"],
     "mc": [8, 65, "2026-10-26"],
-    "steam": [94, 1193, "2026-10-26"]
-   }
-  },
-  "titanium-court-2026": {
-   "t": "Titanium Court",
-   "y": 2026,
-   "by": "AP Thomson",
-   "sum": "You stumble into a realm of magic and faeries and must find your place among the many odd amenities of the Court.",
-   "img": "cg20",
-   "ids": {
-    "steam": "2364580",
-    "bl": "titanium-court",
-    "mc": "game/titanium-court"
-   },
-   "s": {
-    "bl": [3.811, 500, "2026-10-26"],
-    "steam": [94, 1184, "2026-10-26"],
-    "mc": [6.3, 25, "2026-10-26"]
-   }
-  },
-  "sektori-2026": {
-   "t": "Sektori",
-   "y": 2026,
-   "by": "Kimmo Lahtinen",
-   "sum": "A fast, intense twin-stick shooter driven by hard-hitting techno.",
-   "img": "cg21",
-   "ids": {
-    "steam": "2105620",
-    "bl": "sektori",
-    "mc": "game/sektori"
-   },
-   "s": {
-    "bl": [4.024, 496, "2026-10-26"],
-    "steam": [96, 916, "2026-10-26"],
-    "mc": [6.1, 94, "2026-10-26"]
-   }
-  },
-  "steins-gate-re-boot-2026": {
-   "t": "Steins;Gate Re:Boot",
-   "y": 2026,
-   "by": "Spike Chunsoft",
-   "sum": "A full remake of the time-travel visual novel, with new art and expanded story.",
-   "img": "cg22",
-   "ids": {
-    "steam": "4012810",
-    "bl": "steins-gate-re-boot"
-   },
-   "s": {
-    "bl": [3.591, 65, "2026-10-26"],
-    "steam": [89, 670, "2026-10-26"],
-    "mc": [7.8, 6, "2026-10-03"]
-   }
-  },
-  "shards-of-order-2026": {
-   "t": "Shards of Order",
-   "y": 2026,
-   "by": "Fardust",
-   "sum": "A grim card-battle RPG where nothing stays dead, leading survivors through a world whose laws have shattered.",
-   "img": "cg23",
-   "ids": {
-    "steam": "3432480",
-    "bl": "shards-of-order",
-    "mc": "game/shards-of-order"
-   },
-   "s": {
-    "bl": [3.21, 20, "2026-10-26"],
-    "steam": [89, 666, "2026-10-26"],
-    "mc": [6.4, 5, "2026-10-26"]
-   }
-  },
-  "wax-heads-2026": {
-   "t": "Wax Heads",
-   "y": 2026,
-   "by": "Patattie Games",
-   "sum": "Work in a struggling record store, chatting to quirky customers and finding them the music they love.",
-   "img": "cg24",
-   "ids": {
-    "steam": "2769240",
-    "bl": "wax-heads",
-    "mc": "game/wax-heads"
-   },
-   "s": {
-    "bl": [3.578, 260, "2026-10-26"],
-    "steam": [96, 542, "2026-10-26"],
-    "mc": [6.1, 25, "2026-10-26"]
-   }
-  },
-  "saros-2026": {
-   "t": "Saros",
-   "y": 2026,
-   "by": "Housemarque",
-   "sum": "A soldier stranded on a shape-shifting alien planet fights through endless loops, from the makers of Returnal.",
-   "img": "cg25",
-   "ids": {
-    "bl": "saros",
-    "mc": "game/saros"
-   },
-   "s": {
-    "bl": [3.993, 2614, "2026-10-26"],
-    "mc": [7.7, 1184, "2026-10-26"]
-   }
-  },
-  "zero-parades-for-dead-spies-2026": {
-   "t": "Zero Parades: For Dead Spies",
-   "y": 2026,
-   "by": "ZA/UM",
-   "sum": "A spy role-playing game about memory and betrayal, from the studio behind Disco Elysium.",
-   "img": "cg26",
-   "ids": {
-    "bl": "zero-parades-for-dead-spies",
-    "mc": "game/zero-parades-for-dead-spies"
-   },
-   "s": {
-    "bl": [3.891, 897, "2026-10-26"],
-    "mc": [6.6, 105, "2026-10-26"]
-   }
-  },
-  "welcome-to-elderfield-2026": {
-   "t": "Welcome to Elderfield",
-   "y": 2026,
-   "by": "Chris Cote",
-   "sum": "A cosy horror farming game: tend your farm, befriend the locals and fight the creatures in the dark.",
-   "img": "cg27",
-   "ids": {
-    "steam": "3195440",
-    "bl": "welcome-to-elderfield",
-    "mc": "game/welcome-to-elderfield"
-   },
-   "s": {
-    "bl": [3.366, 75, "2026-10-26"],
-    "steam": [83, 2431, "2026-10-26"],
-    "mc": [8.6, 37, "2026-10-26"]
-   }
-  },
-  "marvel-tokon-fighting-souls-2026": {
-   "t": "Marvel Tokon: Fighting Souls",
-   "y": 2026,
-   "by": "Arc System Works",
-   "sum": "A tag-team fighting game with Marvel heroes in a bold anime style.",
-   "img": "cg28",
-   "ids": {
-    "steam": "3787240",
-    "mc": "game/marvel-tokon-fighting-souls",
-    "bl": "marvel-tokon-fighting-souls"
-   },
-   "s": {
-    "bl": [3.642, 1427, "2026-10-26"],
-    "mc": [7.8, 346, "2026-10-26"],
-    "steam": [48, 5047, "2026-10-26"]
-   }
-  },
-  "star-wars-zero-company-2026": {
-   "t": "Star Wars Zero Company",
-   "y": 2026,
-   "by": "Bit Reactor",
-   "sum": "Turn-based tactics in the Clone Wars, leading a squad of misfits behind enemy lines.",
-   "img": "cg29",
-   "ids": {
-    "steam": "2075800",
-    "mc": "game/star-wars-zero-company",
-    "bl": "star-wars-zero-company"
-   },
-   "s": {
-    "bl": [3.994, 2481, "2026-10-26"],
-    "steam": [83, 22922, "2026-10-26"],
-    "mc": [7.9, 343, "2026-10-26"]
-   }
-  },
-  "assassin-s-creed-black-flag-resynced-2026": {
-   "t": "Assassin's Creed Black Flag Resynced",
-   "y": 2026,
-   "by": "Ubisoft Singapore",
-   "sum": "A full remake of the pirate adventure, sailing the Caribbean as Edward Kenway.",
-   "img": "cg30",
-   "ids": {
-    "steam": "3751950",
-    "mc": "game/assassins-creed-black-flag-resynced",
-    "bl": "assassins-creed-black-flag-resynced"
-   },
-   "s": {
-    "bl": [3.982, 5320, "2026-10-26"],
-    "steam": [81, 27705, "2026-10-26"],
-    "mc": [8.3, 1415, "2026-10-26"]
-   }
-  },
-  "forza-horizon-6-2026": {
-   "t": "Forza Horizon 6",
-   "y": 2026,
-   "by": "Playground Games",
-   "sum": "An open-world racing festival, this time set across Japan.",
-   "img": "cg31",
-   "ids": {
-    "steam": "2483190",
-    "mc": "game/forza-horizon-6",
-    "bl": "forza-horizon-6"
-   },
-   "s": {
-    "bl": [3.964, 9873, "2026-10-26"],
-    "steam": [80, 91133, "2026-10-26"],
-    "mc": [8.2, 1133, "2026-10-26"]
-   }
-  },
-  "mixtape-2026": {
-   "t": "Mixtape",
-   "y": 2026,
-   "by": "Beethoven & Dinosaur",
-   "sum": "Three friends spend one last night together before growing up, set to a soundtrack of their favourite songs.",
-   "img": "cg32",
-   "ids": {
-    "steam": "2582320",
-    "mc": "game/mixtape",
-    "bl": "mixtape--1"
-   },
-   "s": {
-    "bl": [3.384, 9592, "2026-10-26"],
-    "steam": [87, 7528, "2026-10-26"],
-    "mc": [6.1, 1162, "2026-10-26"]
+    "steam": [94, 1198, "2026-10-26"]
    }
   },
   "trails-in-the-sky-1st-chapter-2025": {
@@ -3099,8 +2833,219 @@
    },
    "s": {
     "bl": [4.565, 711, "2026-10-26"],
-    "steam": [96, 2405, "2026-10-26"],
+    "steam": [96, 2430, "2026-10-26"],
     "mc": [8.8, 273, "2026-10-26"]
+   }
+  },
+  "control-resonant-2026": {
+   "t": "Control Resonant",
+   "y": 2026,
+   "by": "Remedy Entertainment",
+   "sum": "Dylan Faden fights through a Manhattan warped by a paranatural threat, using reality-bending powers in a faster, more RPG-like follow-up to Control.",
+   "img": "cg34",
+   "ids": {
+    "bl": "control-resonant--1",
+    "steam": "3669870",
+    "mc": "game/control-resonant"
+   },
+   "s": {
+    "bl": [4.254, 4965, "2026-10-26"],
+    "steam": [91, 13883, "2026-10-26"],
+    "mc": [8.8, 1257, "2026-10-26"]
+   }
+  },
+  "splatoon-raiders-2026": {
+   "t": "Splatoon Raiders",
+   "y": 2026,
+   "by": "Nintendo",
+   "sum": "A mostly single-player Splatoon spin-off: a mechanic raids the Spirhalite Islands for salvage, inking waves of Salmonids alongside a member of Deep Cut.",
+   "img": "cg33",
+   "ids": {
+    "bl": "splatoon-raiders",
+    "mc": "game/splatoon-raiders"
+   },
+   "s": {
+    "bl": [4.184, 4637, "2026-10-26"],
+    "mc": [9.2, 2003, "2026-10-26"]
+   }
+  },
+  "rhythm-heaven-groove-2026": {
+   "t": "Rhythm Heaven Groove",
+   "y": 2026,
+   "by": "TNX, Nintendo",
+   "sum": "The rhythm series returns with a fresh batch of oddball minigames, played by tapping and flicking in time with the music.",
+   "img": "cg37",
+   "ids": {
+    "bl": "rhythm-heaven-groove",
+    "mc": "game/rhythm-heaven-groove"
+   },
+   "s": {
+    "bl": [4.077, 3046, "2026-10-26"],
+    "mc": [8.5, 157, "2026-10-26"]
+   }
+  },
+  "resonance-a-plague-tale-legacy-2026": {
+   "t": "Resonance: A Plague Tale Legacy",
+   "y": 2026,
+   "by": "Asobo Studio",
+   "sum": "A prequel to A Plague Tale: Sophia travels to the Minotaur's island to unravel the ancient curse at its heart.",
+   "img": "cg41",
+   "ids": {
+    "bl": "resonance-a-plague-tale-legacy",
+    "steam": "2713000",
+    "mc": "game/resonance-a-plague-tale-legacy"
+   },
+   "s": {
+    "bl": [3.939, 2912, "2026-10-26"],
+    "steam": [92, 4323, "2026-10-26"],
+    "mc": [8.2, 854, "2026-10-26"]
+   }
+  },
+  "star-fox-2026": {
+   "t": "Star Fox",
+   "y": 2026,
+   "by": "Velan Studios",
+   "sum": "A full remake of Star Fox 64 with redesigned characters and stages, voiced cutscenes, an orchestral score and new mouse controls.",
+   "img": "cg39",
+   "ids": {
+    "bl": "star-fox--5",
+    "mc": "game/star-fox"
+   },
+   "s": {
+    "bl": [3.931, 3337, "2026-10-26"],
+    "mc": [8.2, 515, "2026-10-26"]
+   }
+  },
+  "endacopia-2026": {
+   "t": "Endacopia",
+   "y": 2026,
+   "by": "Andyl4nd",
+   "sum": "A point-and-click puzzle adventure dressed like an old educational computer game, with something much darker underneath.",
+   "img": "cg36",
+   "ids": {
+    "bl": "endacopia",
+    "steam": "2684630",
+    "mc": "game/endacopia"
+   },
+   "s": {
+    "bl": [4.296, 1413, "2026-10-26"],
+    "steam": [99, 7825, "2026-10-26"],
+    "mc": [9, 23, "2026-10-26"]
+   }
+  },
+  "star-wars-galactic-racer-2026": {
+   "t": "Star Wars: Galactic Racer",
+   "y": 2026,
+   "by": "Fuse Games",
+   "sum": "A run-based racer set after the fall of the Empire, in an outlaw Outer Rim circuit bankrolled by crime syndicates.",
+   "img": "cg45",
+   "ids": {
+    "bl": "star-wars-galactic-racer",
+    "steam": "4078430",
+    "mc": "game/star-wars-galactic-racer"
+   },
+   "s": {
+    "bl": [4.266, 912, "2026-10-26"],
+    "steam": [86, 6677, "2026-10-26"],
+    "mc": [8.1, 234, "2026-10-26"]
+   }
+  },
+  "silver-pines-2026": {
+   "t": "Silver Pines",
+   "y": 2026,
+   "by": "Wych Elm",
+   "sum": "A survival horror metroidvania in a small American town: scarce supplies, nightmarish creatures and puzzles that unlock its secrets.",
+   "img": "cg38",
+   "ids": {
+    "bl": "silver-pines",
+    "steam": "2333000",
+    "mc": "game/silver-pines"
+   },
+   "s": {
+    "bl": [4.233, 827, "2026-10-26"],
+    "steam": [95, 4255, "2026-10-26"],
+    "mc": [8.6, 141, "2026-10-26"]
+   }
+  },
+  "the-mermaid-mask-2026": {
+   "t": "The Mermaid Mask",
+   "y": 2026,
+   "by": "SFB Games",
+   "sum": "A hand-drawn point-and-click mystery about a locked-room murder aboard a very strange submarine, from the makers of Tangle Tower.",
+   "img": "cg40",
+   "ids": {
+    "bl": "the-mermaid-mask--1",
+    "steam": "1696770",
+    "mc": "game/the-mermaid-mask"
+   },
+   "s": {
+    "bl": [4.248, 618, "2026-10-26"],
+    "steam": [99, 3028, "2026-10-26"],
+    "mc": [7.8, 24, "2026-10-26"]
+   }
+  },
+  "mesmalie-2026": {
+   "t": "Mesmalie",
+   "y": 2026,
+   "by": "Rain (orbitaldot)",
+   "sum": "An occult adventure about a woman who joins a tiny witches' coven after a magical mishap and learns to control her power.",
+   "img": "cg42",
+   "ids": {
+    "bl": "mesmalie",
+    "steam": "3534790"
+   },
+   "s": {
+    "bl": [4.085, 322, "2026-10-26"],
+    "steam": [99, 1414, "2026-10-26"]
+   }
+  },
+  "dressmaker-2026": {
+   "t": "Dressmaker",
+   "y": 2026,
+   "by": "raithza",
+   "sum": "A cozy crafting game built on real dressmaking: pick fabric, cut out pattern pieces and sew them into the dresses you design.",
+   "img": "cg35",
+   "ids": {
+    "bl": "dressmaker--1",
+    "steam": "4019220",
+    "mc": "game/dressmaker"
+   },
+   "s": {
+    "bl": [4.074, 445, "2026-10-26"],
+    "steam": [98, 17339, "2026-10-26"],
+    "mc": [8.1, 8, "2026-10-26"]
+   }
+  },
+  "money-for-girls-amortized-2026": {
+   "t": "Money for Girls: Amortized",
+   "y": 2026,
+   "by": "Porpentine",
+   "sum": "A horror-romance visual novel in which a teenage detective takes on her darkest case, with stickers, fashion and many bad endings.",
+   "img": "cg43",
+   "ids": {
+    "bl": "money-for-girls-amortized",
+    "steam": "4833450"
+   },
+   "s": {
+    "bl": [4.275, 270, "2026-10-26"],
+    "steam": [98, 1191, "2026-10-26"]
+   }
+  },
+  "toem-2-2026": {
+   "t": "TOEM 2",
+   "y": 2026,
+   "by": "Something We Made",
+   "sum": "The hand-drawn photography adventure returns: wander new places, help the locals and snap the little details everyone else misses.",
+   "img": "cg44",
+   "ids": {
+    "bl": "toem-2",
+    "steam": "2900640",
+    "mc": "game/toem-2"
+   },
+   "s": {
+    "bl": [3.787, 251, "2026-10-26"],
+    "steam": [92, 727, "2026-10-26"],
+    "mc": [7, 9, "2026-10-26"]
    }
   }
  },
@@ -3318,6 +3263,6 @@
  "lists": {
   "M": ["the-witcher-3-wild-hunt-2015", "elden-ring-2022", "baldur-s-gate-3-2023", "the-legend-of-zelda-breath-of-the-wild-2017", "the-legend-of-zelda-tears-of-the-kingdom-2023", "mass-effect-2-2010", "hades-2020", "hades-ii-2025", "hollow-knight-2017", "hollow-knight-silksong-2025", "celeste-2018", "stardew-valley-2016", "terraria-2011", "minecraft-2011", "undertale-2015", "disco-elysium-2019", "persona-5-royal-2019", "persona-3-reload-2024", "sekiro-shadows-die-twice-2019", "dark-souls-2011", "dark-souls-iii-2016", "bloodborne-2015", "super-mario-odyssey-2017", "super-mario-galaxy-2007", "super-mario-galaxy-2-2010", "super-mario-bros-wonder-2023", "super-mario-3d-world-2013", "metroid-dread-2021", "animal-crossing-new-horizons-2020", "super-smash-bros-ultimate-2018", "mario-kart-8-deluxe-2017", "grand-theft-auto-v-2013", "bioshock-2007", "bioshock-infinite-2013", "uncharted-2-among-thieves-2009", "uncharted-4-a-thief-s-end-2016", "ghost-of-tsushima-2020", "horizon-zero-dawn-2017", "death-stranding-2019", "resident-evil-4-2023", "resident-evil-2-2019", "resident-evil-village-2021", "outer-wilds-2019", "inside-2016", "limbo-2010", "it-takes-two-2021", "split-fiction-2025", "astro-bot-2024", "ori-and-the-will-of-the-wisps-2020", "cuphead-2017", "dead-cells-2018", "slay-the-spire-2019", "balatro-2024", "vampire-survivors-2022", "factorio-2020", "subnautica-2018", "fallout-new-vegas-2010", "the-elder-scrolls-v-skyrim-2011", "divinity-original-sin-2-2017", "dragon-age-origins-2009", "cyberpunk-2077-2020", "titanfall-2-2016", "left-4-dead-2-2009", "monster-hunter-world-2018", "nier-automata-2017", "yakuza-0-2015", "like-a-dragon-infinite-wealth-2024", "clair-obscur-expedition-33-2025", "kingdom-come-deliverance-ii-2025", "lies-of-p-2023", "sea-of-stars-2023", "hi-fi-rush-2023", "dragon-quest-xi-echoes-of-an-elusive-age-2017", "return-of-the-obra-dinn-2018", "what-remains-of-edith-finch-2017", "journey-2012", "ratchet-and-clank-rift-apart-2021", "psychonauts-2-2021", "fire-emblem-three-houses-2019", "shadow-of-the-colossus-2005", "metaphor-refantazio-2024", "alan-wake-2-2023", "pizza-tower-2023", "the-last-of-us", "portal", "red-dead-redemption", "god-of-war-norse-saga", "final-fantasy-vii-remake", "batman-arkham", "marvel-s-spider-man", "doom-modern-trilogy"],
   "C": ["the-legend-of-zelda-ocarina-of-time-1998", "the-legend-of-zelda-a-link-to-the-past-1991", "the-legend-of-zelda-majora-s-mask-2000", "the-legend-of-zelda-the-wind-waker-2002", "super-mario-64-1996", "super-mario-bros-3-1988", "super-mario-world-1990", "super-metroid-1994", "metroid-prime-2002", "chrono-trigger-1995", "final-fantasy-vi-1994", "final-fantasy-vii-1997", "final-fantasy-ix-2000", "final-fantasy-x-2001", "earthbound-1994", "pokemon-red-version-1996", "pokemon-gold-version-1999", "deus-ex-2000", "baldur-s-gate-ii-shadows-of-amn-2000", "planescape-torment-1999", "fallout-2-1998", "diablo-ii-2000", "starcraft-1998", "warcraft-iii-reign-of-chaos-2002", "age-of-empires-ii-the-age-of-kings-1999", "doom-1993", "quake-1996", "silent-hill-2-2001", "castlevania-symphony-of-the-night-1997", "street-fighter-ii-the-world-warrior-1991", "super-smash-bros-melee-2001", "goldeneye-007-1997", "tetris-1989", "sonic-the-hedgehog-2-1992", "donkey-kong-country-2-diddy-s-kong-quest-1995", "banjo-kazooie-1998", "kingdom-hearts-2002", "ico-2001", "grand-theft-auto-san-andreas-2004", "grand-theft-auto-vice-city-2002", "star-wars-knights-of-the-old-republic-2003", "prince-of-persia-the-sands-of-time-2003", "the-elder-scrolls-iii-morrowind-2002", "paper-mario-the-thousand-year-door-2004", "tony-hawk-s-pro-skater-2-2000", "half-life", "halo-trilogy", "metal-gear-solid"],
-  "N": ["pragmata-2026", "big-walk-2026", "007-first-light-2026", "onimusha-way-of-the-sword-2026", "lego-batman-legacy-of-the-dark-knight-2026", "denshattack-2026", "mina-the-hollower-2026", "fire-emblem-fortune-s-weave-2026", "well-dweller-2026", "the-incident-at-galley-house-2026", "sovereign-tower-2026", "desktop-explorer-2026", "and-roger-2026", "the-blood-of-dawnwalker-2026", "phonopolis-2026", "opus-prism-peak-2026", "schrodinger-s-cat-burglar-2026", "schrodinger-s-call-2026", "titanium-court-2026", "sektori-2026", "steins-gate-re-boot-2026", "shards-of-order-2026", "wax-heads-2026", "saros-2026", "zero-parades-for-dead-spies-2026", "welcome-to-elderfield-2026", "marvel-tokon-fighting-souls-2026", "star-wars-zero-company-2026", "assassin-s-creed-black-flag-resynced-2026", "forza-horizon-6-2026", "mixtape-2026", "trails-in-the-sky"]
+  "N": ["big-walk-2026", "007-first-light-2026", "onimusha-way-of-the-sword-2026", "lego-batman-legacy-of-the-dark-knight-2026", "denshattack-2026", "mina-the-hollower-2026", "fire-emblem-fortune-s-weave-2026", "well-dweller-2026", "the-incident-at-galley-house-2026", "sovereign-tower-2026", "desktop-explorer-2026", "the-blood-of-dawnwalker-2026", "phonopolis-2026", "schrodinger-s-cat-burglar-2026", "schrodinger-s-call-2026", "trails-in-the-sky", "splatoon-raiders-2026", "control-resonant-2026", "dressmaker-2026", "endacopia-2026", "rhythm-heaven-groove-2026", "silver-pines-2026", "star-fox-2026", "the-mermaid-mask-2026", "resonance-a-plague-tale-legacy-2026", "mesmalie-2026", "money-for-girls-amortized-2026", "toem-2-2026", "star-wars-galactic-racer-2026"]
  }
 }
