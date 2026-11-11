@@ -1,5 +1,6 @@
 // Reads a site's ratings in the user's own Chrome (Claude in Chrome), for sites that block scripts.
-//   node tools/browser.mjs <tab> <site> [--stale DAYS] [--limit N]   writes .cache/browser-<tab>-<site>.js
+//   node tools/browser.mjs <tab> <site> [--stale DAYS] [--limit N] [--list N]   writes .cache/browser-<tab>-<site>.js
+//   --list N reads only the titles in that list (M, C or N), e.g. Current between full refreshes: --list N --stale 1
 //   node tools/browser.mjs <tab> <site> --merge results.json          turns the results into a patch
 // Steps:
 //   1. open any page of the printed site in a Chrome tab (read only: no sign-in, no forms),
@@ -45,9 +46,11 @@ const SITES = {
   rt: {
     origin: 'https://www.rottentomatoes.com',
     path: w => w.ids.rt && `/${w.ids.rt}`,
-    // films: liked + not-liked totals; series: only a banded count ("25,000+ Ratings") is shown
-    read: `h => { const m = h.match(/<script[^>]*id="media-scorecard-json"[^>]*>([\\s\\S]*?)<\\/script>/); const a = m && JSON.parse(m[1]).audienceScore; if (!a || !a.score) return null;
-      const n = a.likedCount != null ? a.likedCount + a.notLikedCount : parseInt(String(a.bandedRatingCount).replace(/\\D/g, '')); return [+a.score, n]; }`,
+    // only a banded count ("25,000+ Ratings") is shown (films lost their exact totals in November 2026),
+    // so --merge keeps a larger count already on file
+    band: true,
+    read: `h => { const m = h.match(/<script[^>]*id="media-scorecard-json"[^>]*>([\\s\\S]*?)<\\/script>/); const a = m && JSON.parse(m[1]).audienceScore; const sc = a && parseInt(a.scorePercent ?? a.score); if (!sc) return null;
+      const n = a.likedCount != null ? a.likedCount + a.notLikedCount : parseInt(String(a.bandedRatingCount).replace(/\\D/g, '')); return [sc, n]; }`,
   },
   mc: {
     origin: 'https://www.metacritic.com',
@@ -132,7 +135,8 @@ if (rest.includes('--merge')) {
   jobs.forEach(([id, p], i) => {
     const v = out[i];
     if (!v) return miss.push(`${id}  ${S.origin}${p}`);
-    patch[tab][id] = { [site]: [v[0], v[1]], ...(v[2] ? { ids: { [site]: v[2] } } : {}) };
+    const was = S.band && load(tab).works[id]?.s[site]?.[1] || 0;
+    patch[tab][id] = { [site]: [v[0], Math.max(v[1], was)], ...(v[2] ? { ids: { [site]: v[2] } } : {}) };
   });
   fs.writeFileSync(base + '.patch.json', JSON.stringify(patch, null, 1) + '\n');
   console.log(`${jobs.length - miss.length} read, patch in ${path.relative(ROOT, base)}.patch.json${miss.length ? `\n${miss.length} not read:\n  ${miss.join('\n  ')}` : ''}`);
@@ -145,7 +149,10 @@ const d = load(tab), jobs = [], noId = [];
 // a work in a series takes the series' author
 const by = {};
 for (const sr of Object.values(d.series || {})) for (const m of sr.members) by[m.w] = sr.by;
+// --list: only the works in that list (a series counts with all its members)
+const LIST = opt('--list', ''), only = LIST && new Set(d.lists[LIST].flatMap(k => d.series[k] ? d.series[k].members.map(m => m.w) : [k]));
 for (const [id, w] of Object.entries(d.works)) {
+  if (only && !only.has(id)) continue;
   const v = w.s[site];
   if (v && v[2] >= cutoff) continue;
   const p = S.path(w, w.by || by[id] || '') || S.guess?.tabs.includes(tab) && S.guess.paths(w);

@@ -1,8 +1,8 @@
 {
  "current": {
-  "from": "2026-04-26",
-  "to": "2026-10-26",
-  "about": "Books published May–October 2026, or a series with a new book in that time"
+  "from": "2026-05-11",
+  "to": "2026-11-11",
+  "about": "Books published 11 May – 11 November 2026, or a series with a new book in that time"
  },
  "works": {
   "dungeon-crawler-carl-2021": {
@@ -14,8 +14,8 @@
    },
    "s": {
     "gr": [4.42, 696613, "2026-10-26"],
-    "amz": [4.6, 123902, "2026-10-26"],
-    "aud": [4.8, 72481, "2026-10-26"]
+    "amz": [4.6, 127747, "2026-11-11"],
+    "aud": [4.8, 73665, "2026-11-11"]
    }
   },
   "carl-s-doomsday-scenario-2021": {
@@ -27,8 +27,8 @@
    },
    "s": {
     "gr": [4.47, 463818, "2026-10-26"],
-    "amz": [4.7, 101138, "2026-10-26"],
-    "aud": [4.9, 41288, "2026-10-26"]
+    "amz": [4.7, 104338, "2026-11-11"],
+    "aud": [4.9, 42005, "2026-11-11"]
    }
   },
   "the-dungeon-anarchist-s-cookbook-2021": {
@@ -40,8 +40,8 @@
    },
    "s": {
     "gr": [4.37, 379660, "2026-10-26"],
-    "amz": [4.6, 93558, "2026-10-26"],
-    "aud": [4.9, 39612, "2026-10-26"]
+    "amz": [4.6, 96739, "2026-11-11"],
+    "aud": [4.9, 40266, "2026-11-11"]
    }
   },
   "the-gate-of-the-feral-gods-2021": {
@@ -53,8 +53,8 @@
    },
    "s": {
     "gr": [4.52, 312209, "2026-10-26"],
-    "amz": [4.7, 71818, "2026-10-26"],
-    "aud": [4.9, 32654, "2026-10-26"]
+    "amz": [4.7, 74233, "2026-11-11"],
+    "aud": [4.9, 33180, "2026-11-11"]
    }
   },
   "the-butcher-s-masquerade-2022": {
@@ -66,8 +66,8 @@
    },
    "s": {
     "gr": [4.67, 268061, "2026-10-26"],
-    "amz": [4.8, 64853, "2026-10-26"],
-    "aud": [4.9, 35190, "2026-10-26"]
+    "amz": [4.8, 67161, "2026-11-11"],
+    "aud": [4.9, 35697, "2026-11-11"]
    }
   },
   "the-eye-of-the-bedlam-bride-2023": {
@@ -79,8 +79,8 @@
    },
    "s": {
     "gr": [4.63, 228517, "2026-10-26"],
-    "amz": [4.8, 66735, "2026-10-26"],
-    "aud": [4.9, 25251, "2026-10-26"]
+    "amz": [4.8, 69255, "2026-11-11"],
+    "aud": [4.9, 25682, "2026-11-11"]
    }
   },
   "this-inevitable-ruin-2025": {
@@ -92,8 +92,8 @@
    },
    "s": {
     "gr": [4.66, 188463, "2026-10-26"],
-    "amz": [4.8, 54396, "2026-10-26"],
-    "aud": [4.9, 31481, "2026-10-26"]
+    "amz": [4.8, 56338, "2026-11-11"],
+    "aud": [4.9, 31846, "2026-11-11"]
    }
   },
   "a-parade-of-horribles-2026": {
@@ -104,9 +104,9 @@
     "gr": "228928465"
    },
    "s": {
-    "gr": [4.6, 137434, "2026-10-26"],
-    "amz": [4.8, 40102, "2026-10-26"],
-    "aud": [4.9, 31820, "2026-10-26"]
+    "gr": [4.59, 145625, "2026-11-11"],
+    "amz": [4.8, 42188, "2026-11-11"],
+    "aud": [4.9, 33033, "2026-11-11"]
    }
   },
   "harry-potter-and-the-sorcerer-s-stone-1997": {
@@ -1696,9 +1696,9 @@
     "gr": "245670591"
    },
    "s": {
-    "gr": [4.44, 47029, "2026-10-26"],
-    "amz": [4.6, 11066, "2026-10-26"],
-    "aud": [4.6, 1767, "2026-10-26"]
+    "gr": [4.41, 67565, "2026-11-11"],
+    "amz": [4.6, 15354, "2026-11-11"],
+    "aud": [4.6, 2403, "2026-11-11"]
    }
   },
   "the-french-illusion-2026": {
@@ -1957,9 +1957,9 @@
     "gr": "251172932"
    },
    "s": {
-    "gr": [4.48, 370207, "2026-10-26"],
-    "amz": [4.7, 54209, "2026-10-26"],
-    "aud": [4.8, 8387, "2026-10-26"]
+    "gr": [4.43, 454234, "2026-11-11"],
+    "amz": [4.6, 64618, "2026-11-11"],
+    "aud": [4.8, 9555, "2026-11-11"]
    }
   },
   "the-ballad-of-songbirds-and-snakes-2020": {
@@ -2656,9 +2656,9 @@
     "gr": "250163569"
    },
    "s": {
-    "gr": [4.37, 160448, "2026-10-26"],
-    "amz": [4.6, 77075, "2026-10-26"],
-    "aud": [4.8, 3297, "2026-10-26"]
+    "gr": [4.36, 171969, "2026-11-11"],
+    "amz": [4.6, 80343, "2026-11-11"],
+    "aud": [4.8, 3739, "2026-11-11"]
    }
   },
   "the-lion-and-the-deathless-dark-2026": {
@@ -2672,9 +2672,9 @@
     "gr": "239937277"
    },
    "s": {
-    "gr": [4.46, 16688, "2026-10-26"],
-    "aud": [4.7, 202, "2026-10-26"],
-    "amz": [4.6, 6636, "2026-10-26"]
+    "gr": [4.45, 17866, "2026-11-11"],
+    "aud": [4.7, 215, "2026-11-11"],
+    "amz": [4.6, 7101, "2026-11-11"]
    }
   },
   "whistler-2026": {
@@ -2688,9 +2688,9 @@
     "gr": "242693052"
    },
    "s": {
-    "gr": [4.3, 251229, "2026-10-26"],
-    "amz": [4.5, 49966, "2026-10-26"],
-    "aud": [4.6, 10914, "2026-10-26"]
+    "gr": [4.29, 273600, "2026-11-11"],
+    "amz": [4.5, 53475, "2026-11-11"],
+    "aud": [4.5, 11590, "2026-11-11"]
    }
   },
   "dolly-all-the-time-2026": {
@@ -2704,9 +2704,9 @@
     "gr": "240687665"
    },
    "s": {
-    "gr": [4.27, 189771, "2026-10-26"],
-    "amz": [4.5, 13848, "2026-10-26"],
-    "aud": [4.7, 5604, "2026-10-26"]
+    "gr": [4.27, 202763, "2026-11-11"],
+    "amz": [4.5, 14548, "2026-11-11"],
+    "aud": [4.7, 5895, "2026-11-11"]
    }
   },
   "a-trade-of-blood-2026": {
@@ -2720,9 +2720,9 @@
     "gr": "102615935"
    },
    "s": {
-    "gr": [4.54, 23874, "2026-10-26"],
-    "amz": [4.7, 4745, "2026-10-26"],
-    "aud": [4.8, 995, "2026-10-26"]
+    "gr": [4.53, 26493, "2026-11-11"],
+    "amz": [4.7, 5171, "2026-11-11"],
+    "aud": [4.8, 1069, "2026-11-11"]
    }
   },
   "tempting-venom-2026": {
@@ -2736,25 +2736,9 @@
     "gr": "244241746"
    },
    "s": {
-    "gr": [4.32, 31782, "2026-10-26"],
-    "amz": [4.6, 11655, "2026-10-26"],
-    "aud": [4.9, 2185, "2026-10-26"]
-   }
-  },
-  "john-of-john-2026": {
-   "t": "John of John",
-   "y": 2026,
-   "by": "Douglas Stuart",
-   "g": "Fiction",
-   "sum": "Broke after art school, a young man takes the ferry home to the Isle of Harris and his stern, religious father.",
-   "img": "cb8",
-   "ids": {
-    "gr": "235260861"
-   },
-   "s": {
-    "gr": [4.25, 52250, "2026-10-26"],
-    "amz": [4.5, 5191, "2026-10-26"],
-    "aud": [4.6, 1109, "2026-10-26"]
+    "gr": [4.32, 33011, "2026-11-11"],
+    "amz": [4.6, 12024, "2026-11-11"],
+    "aud": [4.9, 2281, "2026-11-11"]
    }
   },
   "land-2026": {
@@ -2768,9 +2752,9 @@
     "gr": "241126782"
    },
    "s": {
-    "gr": [4.19, 61000, "2026-10-26"],
-    "amz": [4.4, 14536, "2026-10-26"],
-    "aud": [4.6, 1731, "2026-10-26"]
+    "gr": [4.18, 66168, "2026-11-11"],
+    "amz": [4.4, 15520, "2026-11-11"],
+    "aud": [4.6, 1867, "2026-11-11"]
    }
   },
   "grim-tidings-2026": {
@@ -2784,9 +2768,9 @@
     "gr": "243395030"
    },
    "s": {
-    "gr": [4.21, 29055, "2026-10-26"],
-    "amz": [4.4, 2817, "2026-10-26"],
-    "aud": [4.6, 364, "2026-10-26"]
+    "gr": [4.16, 40599, "2026-11-11"],
+    "amz": [4.4, 3875, "2026-11-11"],
+    "aud": [4.5, 498, "2026-11-11"]
    }
   },
   "daughters-of-the-sun-and-moon-2026": {
@@ -2800,9 +2784,9 @@
     "gr": "242975698"
    },
    "s": {
-    "gr": [4.18, 22037, "2026-10-26"],
-    "amz": [4.5, 2869, "2026-10-26"],
-    "aud": [4.6, 322, "2026-10-26"]
+    "gr": [4.17, 24099, "2026-11-11"],
+    "amz": [4.5, 3072, "2026-11-11"],
+    "aud": [4.6, 339, "2026-11-11"]
    }
   },
   "the-secrets-we-hide-2026": {
@@ -2816,9 +2800,9 @@
     "gr": "238549268"
    },
    "s": {
-    "gr": [4.19, 41617, "2026-10-26"],
-    "amz": [4.5, 8764, "2026-10-26"],
-    "aud": [4.7, 4036, "2026-10-26"]
+    "gr": [4.17, 46803, "2026-11-11"],
+    "amz": [4.5, 9482, "2026-11-11"],
+    "aud": [4.7, 4374, "2026-11-11"]
    }
   },
   "when-the-moon-hatched-2024": {
@@ -2829,8 +2813,8 @@
    },
    "s": {
     "gr": [4.01, 379488, "2026-10-26"],
-    "amz": [4.4, 69746, "2026-10-26"],
-    "aud": [4.3, 6590, "2026-10-26"]
+    "amz": [4.4, 70112, "2026-11-11"],
+    "aud": [4.3, 6622, "2026-11-11"]
    }
   },
   "the-ballad-of-falling-dragons-2026": {
@@ -2840,9 +2824,9 @@
     "gr": "216815055"
    },
    "s": {
-    "gr": [4.35, 81406, "2026-10-26"],
-    "amz": [4.6, 15586, "2026-10-26"],
-    "aud": [4.7, 2224, "2026-10-26"]
+    "gr": [4.34, 84834, "2026-11-11"],
+    "amz": [4.6, 16095, "2026-11-11"],
+    "aud": [4.7, 2295, "2026-11-11"]
    }
   },
   "the-knight-and-the-moth-2025": {
@@ -2853,8 +2837,8 @@
    },
    "s": {
     "gr": [4.22, 317963, "2026-10-26"],
-    "amz": [4.5, 39677, "2026-10-26"],
-    "aud": [4.6, 4304, "2026-10-26"]
+    "amz": [4.5, 41084, "2026-11-11"],
+    "aud": [4.6, 4347, "2026-11-11"]
    }
   },
   "the-knave-and-the-moon-2026": {
@@ -2864,9 +2848,9 @@
     "gr": "241564688"
    },
    "s": {
-    "gr": [4.21, 71529, "2026-10-26"],
-    "amz": [4.5, 10783, "2026-10-26"],
-    "aud": [4.7, 1133, "2026-10-26"]
+    "gr": [4.18, 83271, "2026-11-11"],
+    "amz": [4.4, 12282, "2026-11-11"],
+    "aud": [4.6, 1259, "2026-11-11"]
    }
   },
   "the-irresistible-urge-to-fall-for-your-enemy-2025": {
@@ -2877,8 +2861,8 @@
    },
    "s": {
     "gr": [3.81, 81686, "2026-10-26"],
-    "amz": [4.2, 5884, "2026-10-26"],
-    "aud": [4.5, 914, "2026-10-26"]
+    "amz": [4.2, 6018, "2026-11-11"],
+    "aud": [4.5, 919, "2026-11-11"]
    }
   },
   "the-exquisite-torment-of-loving-your-enemy-2026": {
@@ -2888,9 +2872,9 @@
     "gr": "239205900"
    },
    "s": {
-    "gr": [4.45, 27853, "2026-10-26"],
-    "amz": [4.6, 2911, "2026-10-26"],
-    "aud": [4.9, 658, "2026-10-26"]
+    "gr": [4.44, 29995, "2026-11-11"],
+    "amz": [4.6, 3076, "2026-11-11"],
+    "aud": [4.9, 682, "2026-11-11"]
    }
   },
   "into-the-fading-twilight-2026": {
@@ -2904,9 +2888,9 @@
     "gr": "243390305"
    },
    "s": {
-    "gr": [4.3, 32400, "2026-10-26"],
-    "amz": [4.4, 13064, "2026-10-26"],
-    "aud": [4.7, 1429, "2026-10-26"]
+    "gr": [4.29, 33728, "2026-11-11"],
+    "amz": [4.4, 13453, "2026-11-11"],
+    "aud": [4.7, 1499, "2026-11-11"]
    }
   },
   "sunlight-finds-you-2026": {
@@ -2920,9 +2904,9 @@
     "gr": "244206039"
    },
    "s": {
-    "gr": [4.27, 16900, "2026-10-26"],
-    "amz": [4.5, 3688, "2026-10-26"],
-    "aud": [4.7, 543, "2026-10-26"]
+    "gr": [4.26, 19917, "2026-11-11"],
+    "amz": [4.5, 4125, "2026-11-11"],
+    "aud": [4.7, 607, "2026-11-11"]
    }
   },
   "the-pirate-queen-2026": {
@@ -2936,9 +2920,9 @@
     "gr": "223641004"
    },
    "s": {
-    "gr": [4.34, 26400, "2026-10-26"],
-    "amz": [4.5, 3994, "2026-10-26"],
-    "aud": [4.7, 1104, "2026-10-26"]
+    "gr": [4.32, 37414, "2026-11-11"],
+    "amz": [4.5, 5666, "2026-11-11"],
+    "aud": [4.7, 1539, "2026-11-11"]
    }
   },
   "dead-beat-2026": {
@@ -2952,9 +2936,9 @@
     "gr": "247785403"
    },
    "s": {
-    "gr": [4.4, 19600, "2026-10-26"],
-    "amz": [4.6, 2571, "2026-10-26"],
-    "aud": [4.8, 677, "2026-10-26"]
+    "gr": [4.37, 25257, "2026-11-11"],
+    "amz": [4.6, 3260, "2026-11-11"],
+    "aud": [4.8, 838, "2026-11-11"]
    }
   },
   "trust-fall-2026": {
@@ -2968,9 +2952,9 @@
     "gr": "248283842"
    },
    "s": {
-    "gr": [4.22, 22100, "2026-10-26"],
-    "amz": [4.4, 1552, "2026-10-26"],
-    "aud": [4.8, 165, "2026-10-26"]
+    "gr": [4.19, 33242, "2026-11-11"],
+    "amz": [4.4, 2273, "2026-11-11"],
+    "aud": [4.7, 193, "2026-11-11"]
    }
   },
   "the-wretched-divine-2026": {
@@ -2985,8 +2969,8 @@
    },
    "s": {
     "gr": [4.19, 6735, "2026-10-26"],
-    "amz": [4.5, 1342, "2026-10-26"],
-    "aud": [4.6, 111, "2026-10-26"]
+    "amz": [4.4, 1946, "2026-11-11"],
+    "aud": [4.6, 149, "2026-11-11"]
    }
   },
   "the-washwoman-at-the-rivers-end-2026": {
@@ -3000,8 +2984,8 @@
     "gr": "255803383"
    },
    "s": {
-    "gr": [4.48, 11700, "2026-10-26"],
-    "amz": [4.6, 4948, "2026-10-26"]
+    "gr": [4.42, 23213, "2026-11-11"],
+    "amz": [4.6, 11324, "2026-11-11"]
    }
   },
   "bad-words-2026": {
@@ -3015,9 +2999,9 @@
     "gr": "241344658"
    },
    "s": {
-    "gr": [4.17, 11000, "2026-10-26"],
-    "amz": [4.4, 706, "2026-10-26"],
-    "aud": [4.5, 127, "2026-10-26"]
+    "gr": [4.11, 19314, "2026-11-11"],
+    "amz": [4.3, 1388, "2026-11-11"],
+    "aud": [4.4, 238, "2026-11-11"]
    }
   },
   "under-the-iron-sky-2026": {
@@ -3031,9 +3015,9 @@
     "gr": "248285113"
    },
    "s": {
-    "gr": [4.47, 3722, "2026-10-26"],
-    "amz": [4.6, 370, "2026-10-26"],
-    "aud": [4.9, 122, "2026-10-26"]
+    "gr": [4.46, 6242, "2026-11-11"],
+    "amz": [4.6, 768, "2026-11-11"],
+    "aud": [4.8, 258, "2026-11-11"]
    }
   },
   "in-the-shadow-of-eight-2026": {
@@ -3047,9 +3031,73 @@
     "gr": "253943224"
    },
    "s": {
-    "gr": [4.64, 14800, "2026-10-26"],
-    "amz": [4.9, 3448, "2026-10-26"],
-    "aud": [5, 3975, "2026-10-26"]
+    "gr": [4.57, 31443, "2026-11-11"],
+    "amz": [4.8, 7280, "2026-11-11"],
+    "aud": [4.9, 6907, "2026-11-11"]
+   }
+  },
+  "the-last-king-of-faerie-2026": {
+   "t": "The Last King of Faerie",
+   "y": 2026,
+   "by": "Cassandra Clare",
+   "g": "Fantasy",
+   "sum": "Shadowhunter student Drusilla Blackthorn is kidnapped into Faerie by Prince Ash Morgenstern while a disappearance shakes her world, opening the final Shadowhunters trilogy.",
+   "img": "cb36",
+   "ids": {
+    "gr": "247655090"
+   },
+   "s": {
+    "gr": [4.36, 2936, "2026-11-11"],
+    "amz": [4.7, 150, "2026-11-11"],
+    "aud": [4.7, 52, "2026-11-11"]
+   }
+  },
+  "dangerous-impulses-2026": {
+   "t": "Dangerous Impulses",
+   "y": 2026,
+   "by": "Jennifer Lynn Barnes",
+   "g": "Mystery",
+   "sum": "Profiler Cassie Hobbes and the FBI's team of gifted young Naturals, still shaken by their last case, are pulled into a new hunt for a killer.",
+   "img": "cb37",
+   "ids": {
+    "gr": "249218771"
+   },
+   "s": {
+    "gr": [4.42, 2482, "2026-11-11"],
+    "amz": [4.6, 249, "2026-11-11"],
+    "aud": [3.9, 8, "2026-11-11"]
+   }
+  },
+  "defy-the-dusk-2026": {
+   "t": "Defy the Dusk",
+   "y": 2026,
+   "by": "Danielle L. Jensen",
+   "g": "Fantasy Romance",
+   "sum": "Twenty years after her magic broke the world and loosed creatures that hunt at night, Lirien has to survive among those racing to stay ahead of the dark.",
+   "img": "cb38",
+   "ids": {
+    "gr": "249687122"
+   },
+   "s": {
+    "gr": [4.43, 1364, "2026-11-11"],
+    "amz": [4.7, 114, "2026-11-11"],
+    "aud": [4.9, 44, "2026-11-11"]
+   }
+  },
+  "victorious-2026": {
+   "t": "Victorious",
+   "y": 2026,
+   "by": "V.E. Schwab",
+   "g": "Fantasy",
+   "sum": "The Villains trilogy ends as Victor Vale, Eli Ever and their allies and rivals are drawn into one last game, set up by an opponent none of them saw coming.",
+   "img": "cb35",
+   "ids": {
+    "gr": "44232064"
+   },
+   "s": {
+    "gr": [4.43, 7405, "2026-11-11"],
+    "amz": [4.6, 510, "2026-11-11"],
+    "aud": [4.8, 147, "2026-11-11"]
    }
   }
  },
@@ -3326,6 +3374,6 @@
  "lists": {
   "M": ["dungeon-crawler-carl", "harry-potter", "throne-of-glass", "the-empyrean", "the-hunger-games", "project-hail-mary-2021", "can-t-hurt-me-2018", "becoming-2018", "atomic-habits-2018", "born-a-crime-2016", "greenlights-2020", "the-martian-2011", "where-the-crawdads-sing-2018", "the-midnight-library-2020", "i-m-glad-my-mom-died-2022", "the-nightingale-2015", "house-of-earth-and-blood-2020", "theo-of-golden-2025", "the-correspondent-2025", "the-seven-husbands-of-evelyn-hugo-2017", "lessons-in-chemistry-2022", "a-court-of-thorns-and-roses-2015", "verity-2019", "the-invisible-life-of-addie-larue-2020", "all-the-light-we-cannot-see-2014", "the-let-them-theory-2024", "the-four-winds-2021", "the-love-hypothesis-2021", "malibu-rising-2021", "the-great-alone-2018", "the-women-2024", "remarkably-bright-creatures-2022", "daisy-jones-and-the-six-2019", "the-7-habits-of-highly-effective-people-1989", "educated-2018", "the-song-of-achilles-2011", "circe-2018", "the-book-thief-2005", "the-help-2009", "the-dutch-house-2019", "cloud-cuckoo-land-2021", "the-vanishing-half-2020", "anxious-people-2020", "the-lincoln-highway-2021", "tomorrow-and-tomorrow-and-tomorrow-2022", "demon-copperhead-2022", "carrie-soto-is-back-2022", "the-rose-code-2021", "the-alice-network-2017", "the-tattooist-of-auschwitz-2018", "a-promised-land-2020", "caste-2020", "sapiens-2011", "the-psychology-of-money-2020", "the-power-of-habit-2012", "shoe-dog-2016", "bad-blood-2018", "empire-of-pain-2021", "the-wager-2023", "killers-of-the-flower-moon-2017", "the-boys-in-the-boat-2013", "unbroken-2010", "the-immortal-life-of-henrietta-lacks-2010", "the-glass-castle-2005", "when-breath-becomes-air-2016", "outlive-2023", "why-we-sleep-2017", "the-subtle-art-of-not-giving-a-f-ck-2016", "gone-girl-2012", "the-girl-on-the-train-2015", "big-little-lies-2014", "the-silent-patient-2019", "the-maid-2022", "the-housemaid-2022", "none-of-this-is-true-2023", "the-guest-list-2020", "the-paris-apartment-2022", "the-thursday-murder-club-2020", "magpie-murders-2016", "the-lincoln-lawyer-2005", "atmosphere-2025", "the-calamity-club-2026", "mad-mabel-2026", "yesteryear-2026", "hollow-bones-2026", "the-french-illusion-2026", "a-man-called-ove-2012", "the-kite-runner-2003", "a-thousand-splendid-suns-2007", "pachinko-2017", "the-covenant-of-water-2023", "lonesome-dove-1985", "hamnet-2020", "the-road-2006", "life-of-pi-2001", "just-mercy-2014", "the-body-keeps-the-score-2014", "thinking-fast-and-slow-2011", "into-thin-air-1997", "the-pillars-of-the-earth-1989", "threshing-day-2026", "the-ballad-of-songbirds-and-snakes-2020", "sunrise-on-the-reaping-2025"],
   "C": ["the-lord-of-the-rings", "how-to-win-friends-and-influence-people-1936", "man-s-search-for-meaning-1946", "endurance-1959", "night-1956", "think-and-grow-rich-1937", "dune-1965", "the-hobbit-1937", "dracula-2026", "pride-and-prejudice-1813", "jane-eyre-1847", "wuthering-heights-1847", "frankenstein-1818", "moby-dick-1851", "great-expectations-1861", "les-miserables-1862", "the-count-of-monte-cristo-1844", "little-women-1868", "crime-and-punishment-1866", "anna-karenina-1877", "the-picture-of-dorian-gray-1890", "the-great-gatsby-1925", "to-kill-a-mockingbird-1960", "1984-1949", "animal-farm-1945", "brave-new-world-1932", "of-mice-and-men-1937", "east-of-eden-1952", "fahrenheit-451-1953", "the-catcher-in-the-rye-1951", "lord-of-the-flies-1954", "catch-22-1961", "slaughterhouse-five-1969", "one-hundred-years-of-solitude-1967", "rebecca-1938", "the-diary-of-a-young-girl-1947", "meditations-180", "in-cold-blood-1966", "silent-spring-1962"],
-  "N": ["the-calamity-club-2026", "the-poison-daughter-2026", "the-lion-and-the-deathless-dark-2026", "whistler-2026", "dolly-all-the-time-2026", "a-trade-of-blood-2026", "tempting-venom-2026", "john-of-john-2026", "land-2026", "grim-tidings-2026", "daughters-of-the-sun-and-moon-2026", "the-secrets-we-hide-2026", "moonfall", "the-stonewater-kingdom", "dearly-beloathed", "dungeon-crawler-carl-2", "threshing-day-2026", "in-the-shadow-of-eight-2026", "hollow-bones-2026", "the-washwoman-at-the-rivers-end-2026", "dead-beat-2026", "the-pirate-queen-2026", "into-the-fading-twilight-2026", "sunlight-finds-you-2026", "trust-fall-2026", "under-the-iron-sky-2026", "the-wretched-divine-2026", "bad-words-2026"]
+  "N": ["the-poison-daughter-2026", "the-lion-and-the-deathless-dark-2026", "whistler-2026", "dolly-all-the-time-2026", "a-trade-of-blood-2026", "tempting-venom-2026", "land-2026", "grim-tidings-2026", "daughters-of-the-sun-and-moon-2026", "the-secrets-we-hide-2026", "moonfall", "the-stonewater-kingdom", "dearly-beloathed", "dungeon-crawler-carl-2", "threshing-day-2026", "in-the-shadow-of-eight-2026", "hollow-bones-2026", "the-washwoman-at-the-rivers-end-2026", "dead-beat-2026", "the-pirate-queen-2026", "into-the-fading-twilight-2026", "sunlight-finds-you-2026", "trust-fall-2026", "under-the-iron-sky-2026", "the-wretched-divine-2026", "bad-words-2026", "the-last-king-of-faerie-2026", "dangerous-impulses-2026", "defy-the-dusk-2026", "victorious-2026"]
  }
 }

@@ -33,3 +33,11 @@ Pre-launch review, 25 Oct 2026. One iteration at a time, review after each.
 - [x] **Awards:** 2026 Emmys added (Widow's Bay, The Bear, Stranger Things, The Boys). Oscars, Game Awards, D.I.C.E., Goodreads Choice and Crunchyroll had nothing new for listed titles.
 - [x] **Cleanup:** 220 unlisted works and 8 unused series dropped, 67 unused covers deleted. Tools now date ratings by local day, not UTC. *Dracula* fixed to 1897.
 - [ ] Not in the data at all: *The Pitt* (25 Emmy nominations, Drama Series winner). Candidate for Modern TV next time.
+
+## Iteration 5 — November refresh (11 Nov)
+
+- [x] **APIs re-read** (IMDb, Steam, AniList). MyAnimeList's API was down, so Current anime were read in Chrome.
+- [x] **Current moved to 11 May – 11 November.** In: Zelda: Ocarina of Time remake (#1 games), Phantom Blade Zero, Final Fantasy Resonance; Godzilla Minus Zero, Wild Horse Nine, Forgotten Island, Scene, Ramayana, Dear You; Dexter: Resurrection; Victorious, The Last King of Faerie, Dangerous Impulses, Defy the Dusk. Out by date: The Calamity Club, John of John, The Sheep Detectives, Remarkably Bright Creatures, Billie Eilish, Maul – Shadow Lord. Anime Current unchanged.
+- [x] **Tools:** `browser.mjs --list N` re-reads one list; Rotten Tomatoes reader updated for its new page (rounded counts only).
+- [ ] Not re-read this time (under 3 weeks old): Modern and Classics on the Chrome sites. Due at the next full refresh.
+- [ ] No new awards yet: Goodreads Choice and The Game Awards land in December.

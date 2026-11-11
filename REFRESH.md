@@ -20,7 +20,7 @@ Run with Node 18 or newer from the repo root. None need installing.
 | `node tools/refresh.mjs` | Re-reads IMDb (official daily data files), Steam (store review summary), AniList (public API) and MyAnimeList (Jikan API) for every work with that site's id. Lists any jump that looks like a wrong id. `--dry` to preview. |
 | `node tools/find-ids.mjs [imdb\|steam\|al]` | Finds missing ids on those sites, keeping a match only when its rating agrees with the one on file. Leftovers go to `.cache/find-ids.txt`. |
 | `node tools/link-ids.mjs` | Fills in Rotten Tomatoes, Metacritic and Backloggd page ids from Wikidata, starting from IMDb and Steam ids. Skips game pages for re-releases (Director's Cut, remasters, `--1` slugs). `--dry` to preview. |
-| `node tools/browser.mjs <tab> <site>` | Writes a script that reads every due title of one site from a Chrome tab on that site (see below). `--merge out.json` turns its results into a patch. `--stale DAYS` (default 21). |
+| `node tools/browser.mjs <tab> <site>` | Writes a script that reads every due title of one site from a Chrome tab on that site (see below). `--merge out.json` turns its results into a patch. `--stale DAYS` (default 21). `--list N --stale 1` re-reads just one list, e.g. Current between full refreshes. |
 | `node tools/todo.mjs <tab> <site>` | Worklist for titles `browser.mjs` can't read (no page id): due titles with a search link and a patch template in `.cache/`. `--list N` for one list. |
 | `node tools/apply.mjs patch.json` | Merges ratings, page ids, new works, series and list changes from a patch file (format at the top of the script). |
 | `node tools/check.mjs` | Checks the data, then shows per-site coverage and age, thin titles, a stale Current window and unused covers. |
@@ -36,7 +36,7 @@ Sites without an API (Goodreads, Amazon, Audible, Letterboxd, Rotten Tomatoes, B
 4. `node tools/browser.mjs <tab> <site> --merge .cache/browser-<tab>-<site>.out.json`, look over the titles it couldn't read and any big jumps, then `node tools/apply.mjs` on the patch.
 
 How each site is found:
-- **Rotten Tomatoes, Metacritic, Backloggd, MyAnimeList**: by page id (`link-ids.mjs` finds most; the rest by hand with `todo.mjs`).
+- **Rotten Tomatoes, Metacritic, Backloggd, MyAnimeList**: by page id (`link-ids.mjs` finds most; the rest by hand with `todo.mjs`). Since November 2026 Rotten Tomatoes shows only a rounded-down count ("25,000+ Ratings"), so `--merge` keeps a larger count already on file.
 - **Metacritic and Backloggd games without an id**: the script guesses the page address from the title (`&` as "and" or dropped, an apostrophe dropped or turned into `-`, a closing number as a Roman numeral, `--1` for a reused name). It keeps a page only when its release year is within one year of ours, and then saves the page id. Pre-1995 games are mostly missing from Metacritic, and its pages for some classics are later remakes, so those keep the rating already on file.
 - **Letterboxd**: by page id, or `letterboxd.com/imdb/<tt id>/`, which redirects to the film.
 - **Goodreads**: by book id, otherwise a title search (adding the author fills the results with study guides). It keeps the most-rated result with the same title by the same author and saves its id.
@@ -45,6 +45,7 @@ How each site is found:
 Notes on counts:
 - **Steam** is the store's "All Reviews" summary across languages (whole-number percent). Before October 2026 the counts came from a different Steam endpoint and were higher, so the first refresh lowers them. Scores barely move, because the counts are far above the 50,000 threshold.
 - **AniList**'s count is how many people have the show on their list (`popularity`), and its rating is `averageScore`.
+- **MyAnimeList**: if the Jikan API is down (`refresh.mjs mal` hangs or times out), stop it and read MyAnimeList in Chrome with `browser.mjs anime mal`.
 - **IMDb** rates a whole anime show, so every season of a show shares one IMDb id and number.
 
 ## Prompt for a refresh session
